@@ -5,7 +5,7 @@ excerpt: "Stå helt tæt - skulder ved skulder - i en cirkel. Nu skal I hoppe p�
 language: da
 header:
   overlay_image: /assets/images/activity/hoppengang-0.jpg
-  teaser: /assets/images/activity/hoppengang-0.jpg
+  teaser: /assets/images/activity/hoppengang-0-320.jpg
 categories: 
   - Icebreaker
   - Samarbejdsøvelse
@@ -23,7 +23,7 @@ source: ""
 solution: "Hvordan var det at forsøge at indstille sig på hinanden?"
 gallery:
   - url: /assets/images/activity/hoppengang-0.jpg
-    image_path: /assets/images/activity/hoppengang-0.jpg
+    image_path: /assets/images/activity/hoppengang-0-320.jpg
     alt: "Hop på en gang"
     title: "Hop på en gang"
 last_modified_at: 2014-10-23T10:37:08Z

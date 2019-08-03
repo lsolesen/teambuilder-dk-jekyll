@@ -5,7 +5,7 @@ excerpt: "Man står på en bom eller lignende på en lang række. Personen helt 
 language: da
 header:
   overlay_image: /assets/images/activity/balanceogbevgelse-0.jpg
-  teaser: /assets/images/activity/balanceogbevgelse-0.jpg
+  teaser: /assets/images/activity/balanceogbevgelse-0-320.jpg
 categories: 
   - Samarbejdsøvelse
 tags: 
@@ -21,7 +21,7 @@ source: ""
 solution: ""
 gallery:
   - url: /assets/images/activity/balanceogbevgelse-0.jpg
-    image_path: /assets/images/activity/balanceogbevgelse-0.jpg
+    image_path: /assets/images/activity/balanceogbevgelse-0-320.jpg
     alt: "Balance og bevægelse"
     title: "Balance og bevægelse"
 last_modified_at: 2013-04-27T17:21:26Z

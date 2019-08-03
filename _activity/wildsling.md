@@ -5,7 +5,7 @@ excerpt: "I skal vha. den udleverede wild sling skyde til måls med skumgummibol
 language: da
 header:
   overlay_image: /assets/images/activity/wildsling-0.jpg
-  teaser: /assets/images/activity/wildsling-0.jpg
+  teaser: /assets/images/activity/wildsling-0-320.jpg
 categories: 
   - Opgave
   - Samarbejdsøvelse
@@ -22,7 +22,7 @@ source: ""
 solution: ""
 gallery:
   - url: /assets/images/activity/wildsling-0.jpg
-    image_path: /assets/images/activity/wildsling-0.jpg
+    image_path: /assets/images/activity/wildsling-0-320.jpg
     alt: "Wild sling"
     title: "Wild sling"
 last_modified_at: 2015-12-10T09:35:45Z

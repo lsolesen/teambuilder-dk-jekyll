@@ -5,7 +5,7 @@ excerpt: "Hvor mange træer er der i indhegningen? Husk tallet og fortæl det ti
 language: da
 header:
   overlay_image: /assets/images/activity/tltrerne-0.jpg
-  teaser: /assets/images/activity/tltrerne-0.jpg
+  teaser: /assets/images/activity/tltrerne-0-320.jpg
 categories: 
   - Opgave
   - Samarbejdsøvelse
@@ -23,7 +23,7 @@ source: ""
 solution: ""
 gallery:
   - url: /assets/images/activity/tltrerne-0.jpg
-    image_path: /assets/images/activity/tltrerne-0.jpg
+    image_path: /assets/images/activity/tltrerne-0-320.jpg
     alt: "Tæl træerne"
     title: "Tæl træerne"
 last_modified_at: 2013-01-09T20:34:14Z

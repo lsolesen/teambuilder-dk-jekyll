@@ -4,8 +4,8 @@ redirect_from: /content/stable-syvtommersøm
 excerpt: "I skal få 14 søm til at balancere på 1 søm, som er sat fast på et bræt. Opgaven er løst, når alle sømmene balancerer på det ene søm, uden at I rører ved sømmene eller at sømmene rører brættet."
 language: da
 header:
-  overlay_image: /assets/images/activity/stablesyvtommersm-0.JPG
-  teaser: /assets/images/activity/stablesyvtommersm-0.JPG
+  overlay_image: /assets/images/activity/stablesyvtommersm-0.jpg
+  teaser: /assets/images/activity/stablesyvtommersm-0-320.jpg
 categories: 
   - Icebreaker
   - Konkurrence
@@ -26,8 +26,8 @@ materials: "Syvtommersøm, et bræt til at slå det stående syvtommersøm ned i
 source: ""
 solution: "Analysere hvordan gruppen kom frem til løsningen."
 gallery:
-  - url: /assets/images/activity/stablesyvtommersm-0.JPG
-    image_path: /assets/images/activity/stablesyvtommersm-0.JPG
+  - url: /assets/images/activity/stablesyvtommersm-0.jpg
+    image_path: /assets/images/activity/stablesyvtommersm-0-320.jpg
     alt: "Stable syvtommersøm"
     title: "Stable syvtommersøm"
 gallery_solution:

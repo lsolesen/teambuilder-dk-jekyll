@@ -5,7 +5,7 @@ excerpt: ""
 language: da
 header:
   overlay_image: /assets/images/activity/edderkoppespind-0.jpg
-  teaser: /assets/images/activity/edderkoppespind-0.jpg
+  teaser: /assets/images/activity/edderkoppespind-0-320.jpg
 categories: 
   - Opgave
   - Samarbejdsøvelse
@@ -23,7 +23,7 @@ source: ""
 solution: ""
 gallery:
   - url: /assets/images/activity/edderkoppespind-0.jpg
-    image_path: /assets/images/activity/edderkoppespind-0.jpg
+    image_path: /assets/images/activity/edderkoppespind-0-320.jpg
     alt: "Edderkoppespind"
     title: "Edderkoppespind"
 last_modified_at: 2015-12-10T09:40:47Z

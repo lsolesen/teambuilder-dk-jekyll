@@ -5,7 +5,7 @@ excerpt: "I skal i fællesskab bygge figuren på billederne, der hænger rundt o
 language: da
 header:
   overlay_image: /assets/images/activity/bygenfiguraflego-0.jpg
-  teaser: /assets/images/activity/bygenfiguraflego-0.jpg
+  teaser: /assets/images/activity/bygenfiguraflego-0-320.jpg
 categories: 
   - Opgave
   - Samarbejdsøvelse
@@ -22,7 +22,7 @@ source: ""
 solution: "Var der nogen måder, I kunne have forbedret jeres samarbejde på?"
 gallery:
   - url: /assets/images/activity/bygenfiguraflego-0.jpg
-    image_path: /assets/images/activity/bygenfiguraflego-0.jpg
+    image_path: /assets/images/activity/bygenfiguraflego-0-320.jpg
     alt: "Byg en figur af lego"
     title: "Byg en figur af lego"
 last_modified_at: 2014-07-19T13:45:22Z

@@ -5,7 +5,7 @@ excerpt: ""
 language: da
 header:
   overlay_image: /assets/images/activity/tillidsvelse-0.jpg
-  teaser: /assets/images/activity/tillidsvelse-0.jpg
+  teaser: /assets/images/activity/tillidsvelse-0-320.jpg
 categories: 
   - Samarbejdsøvelse
 tags: 
@@ -21,7 +21,7 @@ source: ""
 solution: ""
 gallery:
   - url: /assets/images/activity/tillidsvelse-0.jpg
-    image_path: /assets/images/activity/tillidsvelse-0.jpg
+    image_path: /assets/images/activity/tillidsvelse-0-320.jpg
     alt: "Tillidsøvelse"
     title: "Tillidsøvelse"
 last_modified_at: 2015-12-10T09:37:20Z

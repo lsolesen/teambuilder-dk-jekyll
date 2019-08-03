@@ -5,7 +5,7 @@ excerpt: "Stil jer parvis over for hinanden. Den ene knytter sin hånd så hård
 language: da
 header:
   overlay_image: /assets/images/activity/bndenknyttedehnd-0.jpg
-  teaser: /assets/images/activity/bndenknyttedehnd-0.jpg
+  teaser: /assets/images/activity/bndenknyttedehnd-0-320.jpg
 categories: 
   - Icebreaker
 tags: 
@@ -22,7 +22,7 @@ source: ""
 solution: ""
 gallery:
   - url: /assets/images/activity/bndenknyttedehnd-0.jpg
-    image_path: /assets/images/activity/bndenknyttedehnd-0.jpg
+    image_path: /assets/images/activity/bndenknyttedehnd-0-320.jpg
     alt: "Åbn den knyttede hånd"
     title: "Åbn den knyttede hånd"
 last_modified_at: 2015-12-10T09:36:21Z

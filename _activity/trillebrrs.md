@@ -5,7 +5,7 @@ excerpt: ""
 language: da
 header:
   overlay_image: /assets/images/activity/trillebrrs-0.jpg
-  teaser: /assets/images/activity/trillebrrs-0.jpg
+  teaser: /assets/images/activity/trillebrrs-0-320.jpg
 categories: 
   - Konkurrence
   - Samarbejdsøvelse
@@ -23,7 +23,7 @@ source: ""
 solution: ""
 gallery:
   - url: /assets/images/activity/trillebrrs-0.jpg
-    image_path: /assets/images/activity/trillebrrs-0.jpg
+    image_path: /assets/images/activity/trillebrrs-0-320.jpg
     alt: "Trillebørræs"
     title: "Trillebørræs"
 last_modified_at: 2015-12-10T09:37:53Z

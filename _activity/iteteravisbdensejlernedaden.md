@@ -5,7 +5,7 @@ excerpt: "I skal bygge en båd ud af de udleverede aviser. I skal få den til at
 language: da
 header:
   overlay_image: /assets/images/activity/iteteravisbdensejlernedaden-0.jpg
-  teaser: /assets/images/activity/iteteravisbdensejlernedaden-0.jpg
+  teaser: /assets/images/activity/iteteravisbdensejlernedaden-0-320.jpg
 categories: 
   - Konkurrence
 tags: 
@@ -21,7 +21,7 @@ source: ""
 solution: ""
 gallery:
   - url: /assets/images/activity/iteteravisbdensejlernedaden-0.jpg
-    image_path: /assets/images/activity/iteteravisbdensejlernedaden-0.jpg
+    image_path: /assets/images/activity/iteteravisbdensejlernedaden-0-320.jpg
     alt: "Avisbåden sejler ned ad åen"
     title: "Avisbåden sejler ned ad åen"
 gallery_solution:

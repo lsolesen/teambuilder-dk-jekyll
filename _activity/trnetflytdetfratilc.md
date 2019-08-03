@@ -8,8 +8,8 @@ I må gerne lægge det mindste lag oven på den største. Dette må de med alle 
 Opgaven er løst, når tåret er flyttet til position C."
 language: da
 header:
-  overlay_image: /assets/images/activity/trnetflytdetfratilc-0.JPG
-  teaser: /assets/images/activity/trnetflytdetfratilc-0.JPG
+  overlay_image: /assets/images/activity/trnetflytdetfratilc-0.jpg
+  teaser: /assets/images/activity/trnetflytdetfratilc-0-320.jpg
 categories: 
   - Opgave
   - Samarbejdsøvelse
@@ -29,12 +29,12 @@ materials: "3 kegler pr. hold der skal indikere de tre stationer. Som tårn kan 
 source: ""
 solution: "Snakke om hvordan holdet fik planlagt. Blev de så stressede at nogle bare tog over, så resten kiggede på?"
 gallery:
-  - url: /assets/images/activity/trnetflytdetfratilc-0.JPG
-    image_path: /assets/images/activity/trnetflytdetfratilc-0.JPG
+  - url: /assets/images/activity/trnetflytdetfratilc-0.jpg
+    image_path: /assets/images/activity/trnetflytdetfratilc-0-320.jpg
     alt: "Hanois tårn: Flyt det fra A til C"
     title: "Hanois tårn: Flyt det fra A til C"
-  - url: /assets/images/activity/trnetflytdetfratilc-1.JPG
-    image_path: /assets/images/activity/trnetflytdetfratilc-1.JPG
+  - url: /assets/images/activity/trnetflytdetfratilc-1.jpg
+    image_path: /assets/images/activity/trnetflytdetfratilc-1-320.jpg
     alt: "Hanois tårn: Flyt det fra A til C"
     title: "Hanois tårn: Flyt det fra A til C"
 last_modified_at: 2015-12-10T09:28:18Z
