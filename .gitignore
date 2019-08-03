@@ -8,3 +8,6 @@ bower_components
 .DS_Store
 Gemfile.lock
 _scripts/vendor/
+_scripts/*.png
+_scripts/composer.lock
+_scripts/composer.phar
