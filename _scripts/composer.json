@@ -1,0 +1,11 @@
+{
+  "name": "teambuilder/live",
+  "repositories": [
+    { "type": "vcs", "url": "https://github.com/lsolesen/teambuilder-pdf-library/" }
+  ],
+  "require": {
+    "teambuilder/teambuilder-pdf-library": "*",
+    "mnapoli/front-yaml": "dev-master"
+  },
+  "minimum-stability": "dev"
+}
