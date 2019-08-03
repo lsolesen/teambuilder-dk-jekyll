@@ -4,8 +4,8 @@ redirect_from: /content/kæmpepuslespil
 excerpt: ""
 language: da
 header:
-  overlay_image: /assets/images/activity/kmpepuslespil-0.JPG
-  teaser: /assets/images/activity/kmpepuslespil-0.JPG
+  overlay_image: /assets/images/activity/kmpepuslespil-0.jpg
+  teaser: /assets/images/activity/kmpepuslespil-0-320.jpg
 categories: 
 tags: 
 aim: "Man skal samle puslespillet så hurtigt som muligt."
@@ -18,8 +18,8 @@ materials: "Stort puslespil, fx 1 x 1 meter"
 source: ""
 solution: "Hvordan greb I det an? Hvordan var rollefordelingen? Evaluer de andre? "
 gallery:
-  - url: /assets/images/activity/kmpepuslespil-0.JPG
-    image_path: /assets/images/activity/kmpepuslespil-0.JPG
+  - url: /assets/images/activity/kmpepuslespil-0.jpg
+    image_path: /assets/images/activity/kmpepuslespil-0-320.jpg
     alt: "Kæmpepuslespil"
     title: "Kæmpepuslespil"
 last_modified_at: 2010-08-15T16:24:54Z

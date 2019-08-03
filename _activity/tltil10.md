@@ -5,7 +5,7 @@ excerpt: "Stå sammen i en cirkel. Fra nu af må I ikke sige noget til hinanden.
 language: da
 header:
   overlay_image: /assets/images/activity/tltil10-0.jpg
-  teaser: /assets/images/activity/tltil10-0.jpg
+  teaser: /assets/images/activity/tltil10-0-320.jpg
 categories: 
   - Icebreaker
   - Samarbejdsøvelse
@@ -22,7 +22,7 @@ source: ""
 solution: "Hvilke løsninger kunne I have valgt for at løse opgaven?"
 gallery:
   - url: /assets/images/activity/tltil10-0.jpg
-    image_path: /assets/images/activity/tltil10-0.jpg
+    image_path: /assets/images/activity/tltil10-0-320.jpg
     alt: "Tæl til 21"
     title: "Tæl til 21"
 last_modified_at: 2014-10-23T10:31:56Z

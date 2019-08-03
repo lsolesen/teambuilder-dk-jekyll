@@ -4,8 +4,8 @@ redirect_from: /content/find-vej-gennem-hullerne
 excerpt: "I skal alle holde ved denne forhindringsbane med huller. Derefter skal I få bolden fra start til mål, uden den falder af eller igennem hullerne. Hvis det alligevel sker, starter I forfra. Opgaven er løst når i har fået bolden hele vejen igennnem og lagt tingene på plads igen."
 language: da
 header:
-  overlay_image: /assets/images/activity/findvejgennemhullerne-0.JPG
-  teaser: /assets/images/activity/findvejgennemhullerne-0.JPG
+  overlay_image: /assets/images/activity/findvejgennemhullerne-0.jpg
+  teaser: /assets/images/activity/findvejgennemhullerne-0-320.jpg
 categories: 
   - Opgave
   - Samarbejdsøvelse
@@ -21,8 +21,8 @@ materials: "En plade med en masse huller. En bold der kan rulle på banen."
 source: ""
 solution: ""
 gallery:
-  - url: /assets/images/activity/findvejgennemhullerne-0.JPG
-    image_path: /assets/images/activity/findvejgennemhullerne-0.JPG
+  - url: /assets/images/activity/findvejgennemhullerne-0.jpg
+    image_path: /assets/images/activity/findvejgennemhullerne-0-320.jpg
     alt: "Find vej gennem hullerne"
     title: "Find vej gennem hullerne"
 last_modified_at: 2013-01-09T20:35:47Z

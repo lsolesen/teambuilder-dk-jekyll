@@ -5,7 +5,7 @@ excerpt: "Jeres opgave er at lave en romersk bro med de udleverede materialer. I
 language: da
 header:
   overlay_image: /assets/images/activity/romerbro-0.jpg
-  teaser: /assets/images/activity/romerbro-0.jpg
+  teaser: /assets/images/activity/romerbro-0-320.jpg
 categories: 
   - Icebreaker
   - Opgave
@@ -23,7 +23,7 @@ source: ""
 solution: ""
 gallery:
   - url: /assets/images/activity/romerbro-0.jpg
-    image_path: /assets/images/activity/romerbro-0.jpg
+    image_path: /assets/images/activity/romerbro-0-320.jpg
     alt: "Romerbro"
     title: "Romerbro"
 gallery_solution:

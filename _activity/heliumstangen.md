@@ -5,7 +5,7 @@ excerpt: "Stil jer skiftevis på hver side af heliumstangen. I skal nu alle hold
 language: da
 header:
   overlay_image: /assets/images/activity/heliumstangen-0.jpg
-  teaser: /assets/images/activity/heliumstangen-0.jpg
+  teaser: /assets/images/activity/heliumstangen-0-320.jpg
 categories: 
   - Icebreaker
   - Samarbejdsøvelse
@@ -22,7 +22,7 @@ source: ""
 solution: "Ofte vil folk begynde at beskylde hinanden for at de gør det forkert, selvom heliumstangens opdrift skyldes det samlede tryk fra alles fingre."
 gallery:
   - url: /assets/images/activity/heliumstangen-0.jpg
-    image_path: /assets/images/activity/heliumstangen-0.jpg
+    image_path: /assets/images/activity/heliumstangen-0-320.jpg
     alt: "Heliumstangen"
     title: "Heliumstangen"
 gallery_solution:

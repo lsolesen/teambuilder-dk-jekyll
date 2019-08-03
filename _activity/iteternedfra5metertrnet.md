@@ -5,7 +5,7 @@ excerpt: "Brug tovet til at komme ned fra 5 meter platformen uden at ramme vande
 language: da
 header:
   overlay_image: /assets/images/activity/iteternedfra5metertrnet-0.jpg
-  teaser: /assets/images/activity/iteternedfra5metertrnet-0.jpg
+  teaser: /assets/images/activity/iteternedfra5metertrnet-0-320.jpg
 categories: 
   - Opgave
   - Samarbejdsøvelse
@@ -22,7 +22,7 @@ source: ""
 solution: "Hjælperne på kanten kan hold tovet ind mod kanten, så det bliver strammere og det ikke er så langt."
 gallery:
   - url: /assets/images/activity/iteternedfra5metertrnet-0.jpg
-    image_path: /assets/images/activity/iteternedfra5metertrnet-0.jpg
+    image_path: /assets/images/activity/iteternedfra5metertrnet-0-320.jpg
     alt: "Ned fra 5 meter tårnet"
     title: "Ned fra 5 meter tårnet"
 gallery_solution:

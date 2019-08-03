@@ -5,7 +5,7 @@ excerpt: "I skal tage et syvtommersøm og en hammer. Opgaven er at slå syvtomme
 language: da
 header:
   overlay_image: /assets/images/activity/thorshammer-0.jpg
-  teaser: /assets/images/activity/thorshammer-0.jpg
+  teaser: /assets/images/activity/thorshammer-0-320.jpg
 categories: 
   - Opgave
   - Samarbejdsøvelse
@@ -22,7 +22,7 @@ source: ""
 solution: ""
 gallery:
   - url: /assets/images/activity/thorshammer-0.jpg
-    image_path: /assets/images/activity/thorshammer-0.jpg
+    image_path: /assets/images/activity/thorshammer-0-320.jpg
     alt: "Thors hammer"
     title: "Thors hammer"
 last_modified_at: 2014-07-19T12:32:55Z

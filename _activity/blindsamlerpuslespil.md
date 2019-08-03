@@ -4,8 +4,8 @@ redirect_from: /content/blind-samler-puslespil
 excerpt: "I skal vælge en fra gruppen, som kan se. Resten skal have bind for øjnene. Kun de blinde må røre ved puslespillet. Nu skal I så have det samlet. Personen som ser må kun hjælpe verbalt. Opgaven er løst når puslespillet er samlet, og I har lagt alt som det lå, da i kom til posten."
 language: da
 header:
-  overlay_image: /assets/images/activity/blindsamlerpuslespil-0.JPG
-  teaser: /assets/images/activity/blindsamlerpuslespil-0.JPG
+  overlay_image: /assets/images/activity/blindsamlerpuslespil-0.jpg
+  teaser: /assets/images/activity/blindsamlerpuslespil-0-320.jpg
 categories: 
   - Opgave
   - Samarbejdsøvelse
@@ -22,8 +22,8 @@ materials: "Stort puslespil, bind til øjnene"
 source: ""
 solution: ""
 gallery:
-  - url: /assets/images/activity/blindsamlerpuslespil-0.JPG
-    image_path: /assets/images/activity/blindsamlerpuslespil-0.JPG
+  - url: /assets/images/activity/blindsamlerpuslespil-0.jpg
+    image_path: /assets/images/activity/blindsamlerpuslespil-0-320.jpg
     alt: "At samle puslespil med bind for øjnene"
     title: "At samle puslespil med bind for øjnene"
 last_modified_at: 2014-07-19T12:30:25Z

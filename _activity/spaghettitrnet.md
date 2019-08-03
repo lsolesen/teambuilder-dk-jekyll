@@ -5,7 +5,7 @@ excerpt: "Byg den højeste fritstående bygning målt fra bordets kant. Hele sku
 language: da
 header:
   overlay_image: /assets/images/activity/spaghettitrnet-0.jpg
-  teaser: /assets/images/activity/spaghettitrnet-0.jpg
+  teaser: /assets/images/activity/spaghettitrnet-0-320.jpg
 categories: 
   - Konkurrence
   - Samarbejdsøvelse
@@ -31,7 +31,7 @@ solution: "Børn klarer sig sædvanligvis bedre end voksne på denne udfordring.
 Skumfidusen er en metafor for projektets skjulte forudsætninger. Udgangspunktet er at skufidusen er så let, at den sagtens lige kan smides på toppen til sidst. Men når man skal til det, så er den faktisk slet ikke så let alligevel. Lektien er altså at man skal teste tidligt og ofte alle de forudsætninger, der er i et projekt."
 gallery:
   - url: /assets/images/activity/spaghettitrnet-0.jpg
-    image_path: /assets/images/activity/spaghettitrnet-0.jpg
+    image_path: /assets/images/activity/spaghettitrnet-0-320.jpg
     alt: "Spaghettitårnet"
     title: "Spaghettitårnet"
 last_modified_at: 2014-10-27T14:46:44Z

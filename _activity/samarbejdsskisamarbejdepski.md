@@ -4,8 +4,8 @@ redirect_from: /content/samarbejdsski-samarbejde-på-ski
 excerpt: "I skal gå fra startmarkeringen hen til vendepunktet og tilbage igen. I skal alle være på skiene, også selvom alle ikke nødvendigvis kan få fodlænker eller har noget at holde i."
 language: da
 header:
-  overlay_image: /assets/images/activity/samarbejdsskisamarbejdepski-0.JPG
-  teaser: /assets/images/activity/samarbejdsskisamarbejdepski-0.JPG
+  overlay_image: /assets/images/activity/samarbejdsskisamarbejdepski-0.jpg
+  teaser: /assets/images/activity/samarbejdsskisamarbejdepski-0-320.jpg
 categories: 
   - Opgave
   - Samarbejdsøvelse
@@ -21,8 +21,8 @@ materials: "Et par ski"
 source: ""
 solution: ""
 gallery:
-  - url: /assets/images/activity/samarbejdsskisamarbejdepski-0.JPG
-    image_path: /assets/images/activity/samarbejdsskisamarbejdepski-0.JPG
+  - url: /assets/images/activity/samarbejdsskisamarbejdepski-0.jpg
+    image_path: /assets/images/activity/samarbejdsskisamarbejdepski-0-320.jpg
     alt: "Samarbejdsski: Samarbejde på ski"
     title: "Samarbejdsski: Samarbejde på ski"
 last_modified_at: 2013-01-09T20:35:08Z

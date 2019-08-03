@@ -5,7 +5,7 @@ excerpt: "Vælg en der skal op at stå på kasserne. Alle må hjælpe med at ræ
 language: da
 header:
   overlay_image: /assets/images/activity/iteteroppkasserne-0.jpg
-  teaser: /assets/images/activity/iteteroppkasserne-0.jpg
+  teaser: /assets/images/activity/iteteroppkasserne-0-320.jpg
 categories: 
   - Opgave
   - Samarbejdsøvelse
@@ -23,7 +23,7 @@ source: ""
 solution: ""
 gallery:
   - url: /assets/images/activity/iteteroppkasserne-0.jpg
-    image_path: /assets/images/activity/iteteroppkasserne-0.jpg
+    image_path: /assets/images/activity/iteteroppkasserne-0-320.jpg
     alt: "Op på kasserne"
     title: "Op på kasserne"
 last_modified_at: 2013-01-09T20:28:15Z

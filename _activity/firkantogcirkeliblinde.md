@@ -11,7 +11,7 @@ På banen kan ligge to trøjer. Hvis man rammer en af disse trøjer, skal man ta
 language: da
 header:
   overlay_image: /assets/images/activity/firkantogcirkeliblinde-0.jpg
-  teaser: /assets/images/activity/firkantogcirkeliblinde-0.jpg
+  teaser: /assets/images/activity/firkantogcirkeliblinde-0-320.jpg
 categories: 
   - Opgave
   - Samarbejdsøvelse
@@ -38,7 +38,7 @@ source: ""
 solution: "Den letteste måde at lave selve kvadratet er formentlig at lægge rebet dobbelt to gange, så man finder de fire hjørner i rebet."
 gallery:
   - url: /assets/images/activity/firkantogcirkeliblinde-0.jpg
-    image_path: /assets/images/activity/firkantogcirkeliblinde-0.jpg
+    image_path: /assets/images/activity/firkantogcirkeliblinde-0-320.jpg
     alt: "Firkant og cirkel i blinde"
     title: "Firkant og cirkel i blinde"
 last_modified_at: 2014-06-10T10:15:26Z

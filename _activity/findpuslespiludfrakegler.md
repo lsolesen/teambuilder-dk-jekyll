@@ -5,7 +5,7 @@ excerpt: "Dette spil er en samarbejdsøvelse, hvor det handler om at kunne kommu
 language: da
 header:
   overlay_image: /assets/images/activity/findpuslespiludfrakegler-0.jpg
-  teaser: /assets/images/activity/findpuslespiludfrakegler-0.jpg
+  teaser: /assets/images/activity/findpuslespiludfrakegler-0-320.jpg
 categories: 
   - Leg
   - Opgave
@@ -27,7 +27,7 @@ source: ""
 solution: ""
 gallery:
   - url: /assets/images/activity/findpuslespiludfrakegler-0.jpg
-    image_path: /assets/images/activity/findpuslespiludfrakegler-0.jpg
+    image_path: /assets/images/activity/findpuslespiludfrakegler-0-320.jpg
     alt: "Find puslespil ud fra kegler"
     title: "Find puslespil ud fra kegler"
 last_modified_at: 2014-10-22T19:35:36Z
