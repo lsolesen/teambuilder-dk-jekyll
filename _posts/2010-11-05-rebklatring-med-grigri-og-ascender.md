@@ -14,6 +14,8 @@ Man kan bruge rebklatring, hvis man har behov for at klatre hvor der ikke er så
 
 I videoen nedenunder vises det, hvordan man rebklatrer med grigri og ascender.
 
+{% include video id="dmujcIggd-w" provider="youtube" %}
+
 I videoen kan man se følgende:
 
 - **Hvordan man binder rebet fast i bunden af træet med en HMS-knude i en karabin**. Husk at der på karabinen skal stå H. HMS-knuden aflåses med "hundeører", som sikres med en karabin. Årsagen til, at man bruger en HMS-knude er for at kunne sænke vedkommende der rebklatrer ned igen, hvis han kører fast. Derfor skal man sørge for, at der er så meget tov til overs, at det kan lade sig gøre.
