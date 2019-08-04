@@ -24,6 +24,6 @@ Dansk Træklatreforening har lavet et rigtig godt [kompendium om rekreativ træk
 
 ### Ser videoklip
 
-Træklatreskolen har lavet en rigtig god side, hvor du kan [se små videoklip af alle de procedurer](http://www.traeklatreskolen.dk/Videovejledning), du skal overholde for at bestå eksamen.
+Træklatreskolen har lavet en rigtig god side, hvor du kan [se små videoklip af alle de procedurer](https://traeklatreskolen.dk/videovejledning-traeklatring), du skal overholde for at bestå eksamen.
 
 Hvis du kender andre gode kilder til at lære mere om træklatring, så skriv endelig i kommentarerne.
