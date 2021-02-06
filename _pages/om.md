@@ -7,17 +7,17 @@ author_profile: true
 author: lsolesen
 ---
 
-Ambitionen med denne side er at
+Teambuilding og Øvelser er blevet til med arbejdet 
 
-- samle teambuildingsøvelser og lege, så de er lette at finde og udskrive til brug i undervisningen-
+Ambitionen med _Teambuilding og øvelser_ er følgende: 
+
+- samle teambuildingsøvelser og lege, så de er lette at finde og udskrive til brug i undervisningen
 - udbrede viden og tilrettelæggelse af teambuildingsaktiviteter
-- udbrede viden om træklatring
 
 ## Ophavsmand
 
 Lars Olesen, lærer på Vejle Idrætshøjskole, har fået ideen til siden. Lars er redaktør på sitet.
 
-Bidragydere
+## Bidragydere
 
 - Vejle Idrætshøjskoles Instruktør- og teambuilderlinje.
-- 2tmevents som ejes af Thomas Gejl.
