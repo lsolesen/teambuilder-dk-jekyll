@@ -3,7 +3,6 @@ title: "Rafter"
 redirect_from: /content/rafter
 excerpt: ""
 language: da
-
 categories: 
 tags: 
 aim: ""
@@ -96,9 +95,7 @@ Debriefing:
 
 Kommentar:
 
-Kilde: [http://www.groen-skole.dk/mskole/samarbejd.htm](http://www.groen-skole.dk/mskole/samarbejd.htm "http://www.groen-skole.dk/mskole/samarbejd.htm")
-
- Multimedie:
+Multimedie:
 
 Billeder:
 
