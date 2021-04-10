@@ -10,6 +10,10 @@
 
 {% include head/favicon.html %}
 
+{% if page.sitemap == false or page.robots %}
+  <meta name="robots" content="{{ page.robots | default: "noindex" }}">
+{% endif %}
+
 <link rel="manifest" type="application/manifest+json" href="{{ "/manifest.json" | relative_url }}">
 
 <script>
