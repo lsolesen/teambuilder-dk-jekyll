@@ -1,7 +1,9 @@
 ---
 title: "Uddannelse til træklatreinstruktør"
-permalink: /uddannelse-til-træklatreinstruktør/
-redirect_from: /content/uddannelse-til-træklatreinstruktør
+permalink: /uddannelse-til-traeklatreinstruktoer/ 
+redirect_from:
+  - /uddannelse-til-træklatreinstruktør/
+  - /content/uddannelse-til-træklatreinstruktør
 language: da
 categories:
   - Træklatring

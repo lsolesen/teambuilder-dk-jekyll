@@ -1,8 +1,9 @@
 ---
 title: "Træklatring - kan du disse knob?"
-permalink: /træklatring-kan-du-disse-knob/
+permalink: /traeklatring-kan-du-disse-knob/
 redirect_from:
   - /content/træklatring-kan-du-disse-knob
+  - /træklatring-kan-du-disse-knob/
 language: da
 categories:
   - Træklatring
