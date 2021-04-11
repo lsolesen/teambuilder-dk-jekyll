@@ -1,6 +1,9 @@
 ---
 title: "Projektplanlægning"
-redirect_from: /node/190
+permalink: /projektplanlaegning/
+redirect_from:
+  - /node/190
+  - /190/
 language: da
 categories:
   - Projektledelse

@@ -12,3 +12,5 @@ _scripts/vendor
 .jekyll-cache
 vendor
 .bundle
+composer.phar
+_scripts/composer.phar

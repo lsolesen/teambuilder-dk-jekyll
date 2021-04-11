@@ -279,6 +279,8 @@ defaults:
       path: ""
       type: activity
     values:
+      header:
+        teaser: http://localhost:8080/android-chrome-512x512.png
       layout: activity
       author_profile: true
       read_time: false
