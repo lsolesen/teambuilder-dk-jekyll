@@ -1,5 +1,5 @@
 ---
-title: "Målsætning (dine egne mål)e"
+title: "Målsætning (dine egne mål)"
 excerpt: "Hvordan laver du en målsætning?"
 language: da
 categories:
@@ -28,3 +28,5 @@ Hvordan laver du en målsætning? Skriv til {{ site.email }}, hvis du gerne vil 
 
 - Styrker og afklaring → [kortlink.dk/fmq9](http://kortlink.dk/fmq9)
 - Målsætning → [kortlink.dk/fmq8](http://kortlink.dk/fmq8)
+
+Jeg har skrevet mere om [SMART-målsætning med eksempler på motionsplan.dk](https://www.motionsplan.dk/smart/).
