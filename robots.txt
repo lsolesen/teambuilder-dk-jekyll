@@ -1,2 +1,3 @@
 User-agent: *
 Disallow: /assets/pdf/
+Sitemap: https://www.teambuilder.dk/sitemap.xml
