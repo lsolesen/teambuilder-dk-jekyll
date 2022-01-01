@@ -1,6 +1,6 @@
 ---
-title: "Målsætning (dine egne mål)"
-excerpt: "Hvordan laver du en målsætning?"
+title: "Projektplanner"
+excerpt: "Hvordan kan man angribe et projekt?"
 language: da
 categories:
   - Projektledelse
@@ -15,7 +15,6 @@ feature_row:
     url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/teamwork_michael-a-west_haeftet_9788771580051"
     btn_label: "Læs mere"
     btn_class: "btn--success"
-    rel: sponsored nofollow noopener
   - image_path: https://imgcdn.saxo.com/_9788777064487/0x500
     alt: "Team - udvikling og læring"
     title: "Team - udvikling og læring"
@@ -23,12 +22,35 @@ feature_row:
     url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/team-udvikling-og-laering_morten-bertelsen-red-reinhard-stelter-red_haeftet_9788777064487"
     btn_label: "Læs mere"
     btn_class: "btn--success"
-    rel: sponsored nofollow noopener
 ---
 
-Hvordan laver du en målsætning? Skriv til {{ site.email }}, hvis du gerne vil læse artiklen. Materialet er skrevet, men ikke lagt op endnu.
+Project Planner - Vejledning
+Formål:
+Project planneren er en grafisk præsentation af projektet, som skaber et visuelt overblik. Det vil
+ofte være illustrationer, som symboliserer diverse ting i projektet.
+ Det kan laves uden projektkendskab i øvrigt.
+ Det kan også anvendes til kobling af alle projektanalyser.
+ Kan anvendes til at ”sælge” projektet/idéen
+Brug gerne billedsprog og symboler (hjernen husker billeder bedre og tydeligere end ord).
+”Skabelonen” kan være et udgangspunkt, men opbyg helst din egen model helt intuitivt!
+ Man kan starte og slutte med, hvad man vil, hvor man vil i planneren.
+ Lav den gerne stor (fysisk – f.eks. flip over), eller på A3- papir, så den kan lamineres og
+hænges op på væggen.
+ Kommuniker gerne med andre, spørg til ideer, om hjælp, søg sparring og konstruktiv
+kritik.
+Project Planneren laver man oftest lidt senere i sit projekt – planlægningsfasen, hvor man har
+nogenlunde overblik/styr på diverse analyser og kan bruge den til at pitche sin ide/projekt.
+I Project Planneren indgår følgende elementer ofte:
+- Overskrift/titel på projektet
+- Nuværende status (baggrund for projektet)
+- Vejen mellem nuværende tilstand og ønsket tilstand (milepæle og delmål)
+- Ønsket tilstand (formål/vigtige mål for projektet)
+Følgende elementer kan også indgå:
+- Udfordringer (uddrag fra SWOT/TOWS)
+- Opmærksomhedspunkter (uddrag fra SWOT/TOWS)
+- Styrker og ressourcer (uddrag fra SWOT/TOWS) 
 
-- Styrker og afklaring → [kortlink.dk/fmq9](http://kortlink.dk/fmq9){: rel="nofollow noopener" }
-- Målsætning → [kortlink.dk/fmq8](http://kortlink.dk/fmq8){: rel="nofollow noopener" }
+## Eksempel på en Project Planner
 
-Jeg har skrevet mere om [SMART-målsætning med eksempler på motionsplan.dk](https://www.motionsplan.dk/smart/).
+
+{% include figure image_path="/assets/images/blog/projektplanner.png" %}

@@ -15,6 +15,7 @@ feature_row:
     url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/teamwork_michael-a-west_haeftet_9788771580051"
     btn_label: "Læs mere"
     btn_class: "btn--success"
+    rel: sponsored nofollow noopener
   - image_path: https://imgcdn.saxo.com/_9788777064487/0x500
     alt: "Team - udvikling og læring"
     title: "Team - udvikling og læring"
@@ -22,7 +23,46 @@ feature_row:
     url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/team-udvikling-og-laering_morten-bertelsen-red-reinhard-stelter-red_haeftet_9788777064487"
     btn_label: "Læs mere"
     btn_class: "btn--success"
+    rel: sponsored nofollow noopener
 ---
+
+{% comment %}
+evaluering
+1,600
+kr14,46
+2
+48
+evalueringsmodeller
+390
+kr16,91
+2
+47
+evalueringsskema
+320
+kr0,78
+4
+36
+evaluering skabelon
+170
+kr19,47
+6
+46
+evaluering af undervisning
+110
+kr0
+7
+43
+evalueringsmetoder
+90
+kr0
+1
+38
+evalueringsspørgsmål
+70
+kr0
+8
+49
+{% endcomment %}
 
 Når et projekt eller en aktivitet er færdig, så er det en god ide at gøre sig tanker om, hvordan aktiviteten er forløbet - og om målet er blevet opnået.
 
@@ -34,7 +74,7 @@ Evaluering er ikke en let disciplin. Den kan gribes an på mange forskellige må
 
 Det er meget typisk at bruge et evalueringsskema. Spørgsmålene og oplægget inden folk udfylder skemaet er væsentligt ift. hvilket udbytte du får ud af svarene.
 
-[Skabelon](http://kortlink.dk/gkza){: .btn .btn--large .btn--info }
+[Skabelon](http://kortlink.dk/gkza){: .btn .btn--large .btn--info rel="nofollow noopener" }
 
 ## Fælles
 
@@ -61,7 +101,7 @@ Kan bruges som en lidt sjov starter til evaluering. Alle får udleveret et antal
 
 Skriveøvelse hvor man skriver alt det ned, man kan huske. Hver sætning starter med jeg husker i forhold til kurset. Formålet er at man konstant skriver. Det bliver næsten en poetisk tilgang. Man kan evt. afslutte i plenum med at nogen læser deres ‘jeg husker’ op.
 
-[Skabelon](http://kortlink.dk/gcm6){: .btn .btn--large .btn--info }
+[Skabelon](http://kortlink.dk/gcm6){: .btn .btn--large .btn--info rel="nofollow noopener" }
 
 ### Delphi (skabelon)
 
@@ -69,4 +109,4 @@ Delphi-metoden er et evalueringsværktøj, der både indeholder en skriftlig og 
 
 Den mundtlige del består af en struktureret samtale, hvor læreren sørger for, at alle kursister kommer til orde. I gennemgangen kan man fx bede kursisterne nævne de punkter, hvor de havde fuldt hus (at alle var enige). På et tidspunkt kan man også gennemgå de punkter, hvor der ikke er nogen, der er enige eller meget få, der er enige.
 
-[Skabelon](http://kortlink.dk/gcm7){: .btn .btn--large .btn--info }
+[Skabelon](http://kortlink.dk/gcm7){: .btn .btn--large .btn--info rel="nofollow noopener" }

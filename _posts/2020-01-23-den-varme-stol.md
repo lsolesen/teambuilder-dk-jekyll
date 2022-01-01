@@ -15,6 +15,7 @@ feature_row:
     url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/teamwork_michael-a-west_haeftet_9788771580051"
     btn_label: "Læs mere"
     btn_class: "btn--success"
+    rel: sponsored nofollow noopener
   - image_path: https://imgcdn.saxo.com/_9788777064487/0x500
     alt: "Team - udvikling og læring"
     title: "Team - udvikling og læring"
@@ -22,6 +23,7 @@ feature_row:
     url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/team-udvikling-og-laering_morten-bertelsen-red-reinhard-stelter-red_haeftet_9788777064487"
     btn_label: "Læs mere"
     btn_class: "btn--success"
+    rel: sponsored nofollow noopener
 ---
 
 I en teambuildergruppe er det vigtig med både anerkendelse og konstruktiv kritik. Allerede i starten af teambuilder forløbet fik vi den såkaldte “varme stol,” som skulle bruges til at iscenesætte hver teambuilders styrker og svagheder. Vi startede først med en positiv runde, da vi endnu ikke havde været igennem så intense arbejdsprocesser sammen og ikke kendte hinanden så godt. Hver teambuilder fik en runde i den “varme stol” hvor de fik nævnt en styrke fra hver af deres “med-teambuilder.” 

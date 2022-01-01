@@ -1,15 +1,12 @@
 ---
-title: "Hvornår er teambuilding effektivt?"
-permalink: /hvornaar-er-teambuilding-effektivt/
-redirect_from:
-  - /content/hvornår-er-teambuilding-effektivt
-  - /hvornår-er-teambuilding-effektivt/
+title: "Milepælsplan"
+excerpt: "Hvordan kan man angribe et projekt?"
 language: da
 categories:
-  - Teambuilding
+  - Projektledelse
 tags:
-  - teambuilding
-last_modified_at: 2011-04-04T12:20:54Z
+  - projektplanlægning
+last_modified_at: 2020-01-23T20:50:27Z
 feature_row:
   - image_path: https://imgcdn.saxo.com/_9788771580051/0x500
     alt: "Teamwork - metoder til effektivt samarbejde af Michael A. West"
@@ -18,7 +15,6 @@ feature_row:
     url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/teamwork_michael-a-west_haeftet_9788771580051"
     btn_label: "Læs mere"
     btn_class: "btn--success"
-    rel: sponsored nofollow noopener
   - image_path: https://imgcdn.saxo.com/_9788777064487/0x500
     alt: "Team - udvikling og læring"
     title: "Team - udvikling og læring"
@@ -26,18 +22,25 @@ feature_row:
     url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/team-udvikling-og-laering_morten-bertelsen-red-reinhard-stelter-red_haeftet_9788777064487"
     btn_label: "Læs mere"
     btn_class: "btn--success"
-    rel: sponsored nofollow noopener
 ---
 
-Virksomheder laver teambuilding i det håb, at de bliver mere effektive. Men så let er det ikke. Forskning viser
-
-- at teambuildingsøvelser har ofte en god effekt på teammedlemmernes indstilling til og opfattelse af hinanden
-- at teambuildingsøvelser har ofte kun lille indvirkning på teamets resultater
-
-Man skal altså skelne mellem teambuildingøvelser, der fokuserer på sociale forhold og øvelser, der fokuserer på opgaverelaterede præstationer. Selvom folk bliver sat i problemløsningssituationer med deres kollegaer, ser det ikke ud til, at de bliver bedre til at løse de daglige opgaver, når kurset er slut. Hvis man skal forbedre effektiviteten i det daglige arbejde, skal man arbejde målrettet og struktureret med arbejdsprocesser mv. Men man kan altså forbedre trivslen, så folk er gladere for deres arbejde.
-
-Teambuilding er altså ikke et vidundermiddel.
-
-Her er et slideshow der indeholder noget grundlæggende teori om teambuilding:
-
-{% include feature_row type="left" %}
+Milepælsplan
+Hvad er en milepæl
+En milepæl kan defineres som er et vigtigt delmål, der markerer en større begivenhed i et projekt.
+Eks. udlandsrejse - at man har bestilt overnatningssted, Gastronomi – at man har fuldt booket på
+pop-up restaurant. Ved at udarbejde milepæle for projektet, deles projektet op i mindre og mere
+håndterbare bidder. Formålet er bl.a. at sikre, at de mellem- og slutresultater, som skal nås i
+forløbet, er formuleret entydigt og kan kommunikeres til andre.
+Milepælsplan
+En milepælsplan udarbejdes for at give et samlet overblik over projektets milepæle. I
+milepælsplanen skal milepælene komme i kronologisk rækkefølge og det skal være tydeligt
+hvilket indsatsområde i projektet milepælen tilhører.
+Milepælene er en del af High-Level-Planen, så hvis der er lavet en High-Level-Plan har i lavet
+milepælene, og kan nøjes ved at uddybe dem i milepælsplanen.
+Milepælsplanen skal for hver milepæl indeholde:
+- Beskrivelse af det der ønskes opnået
+- Tid (hvornår skal det være opnået?)
+- Ansvar
+- Indsatsområde
+Milepælsplanen kan laves som en tabel, hvor milepælene kommer i kronologisk rækkefølge eller
+den kan laves visuel, hvor de stadig kommer i kronologisk rækkefølge.

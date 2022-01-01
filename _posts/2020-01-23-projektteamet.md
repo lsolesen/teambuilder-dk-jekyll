@@ -14,6 +14,7 @@ feature_row:
     url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/teamwork_michael-a-west_haeftet_9788771580051"
     btn_label: "Læs mere"
     btn_class: "btn--success"
+    rel: sponsored nofollow noopener
   - image_path: https://imgcdn.saxo.com/_9788777064487/0x500
     alt: "Team - udvikling og læring"
     title: "Team - udvikling og læring"
@@ -21,6 +22,7 @@ feature_row:
     url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/team-udvikling-og-laering_morten-bertelsen-red-reinhard-stelter-red_haeftet_9788777064487"
     btn_label: "Læs mere"
     btn_class: "btn--success"
+    rel: sponsored nofollow noopener
 ---
 
 ## Hvad er et projektteam?
@@ -82,3 +84,9 @@ Spørgsmålet er om det er hensigtsmæssigt og taktisk klogt at lave testen, hvi
 Når spørgeskemaet udleveres til teamets medlemmer er det vigtigt, at de ikke taler sammen om svarene. Pointene for opgaverefleksivitet og socialrefleksivitet lægges sammen hver for sig. Indsaml gruppens skemaer, og samtlige pointtal for henholdsvis opgave- og socialrefleksivitet lægges sammen og der divideres med antallet af medlemmer. Bemærk at pointene for spørgsmål 5 og 8 vedrørende opgaverefleksiviteten og spørgsmål 2, 3, 6 og 8 vedrørende social refleksivitet tælles ’omvendt’, dvs. 7=1, 6=2, 5=3…etc. og endelig 1=7.
 
 {% include feature_row type="left" %}
+
+
+
+{% include figure image_path="/assets/images/blog/projektteamet.png" %}
+
+https://www.brejningefterskole.dk/media/pqwplhcc/3-2-teamsamarbejde-og-udvikling.pdf
