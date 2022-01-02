@@ -190,5 +190,5 @@ Alle proaktivister får et teoretisk kendskab til projektlederrollens mange funk
 
 ## Litteratur
 
-- Niels Andersson, Torben Bundgaard, Tom Jensen: PROJEKTER – fra ide til handling, Danmarks Idræts-Forbund ISBN: 87- 90316- 01- 0
+- Niels Andersson, Torben Bundgaard, Tom Jensen: [PROJEKTER – fra ide til handling](https://www.dif.dk/radgivning-og-stotte/udgivelser/forening-og-ledelse/projekter-fra-ide-til-handling), Danmarks Idræts-Forbund ISBN: 87- 90316- 01- 0
 - Bjarne Kausholt: Projektlederbogen, Ingeniøren\bøger  ISBN: 87-571-2463-9
