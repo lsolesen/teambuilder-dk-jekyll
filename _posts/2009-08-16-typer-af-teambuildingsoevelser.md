@@ -5,8 +5,8 @@ redirect_from:
   - /content/typer-af-teambuildingsøvelser
   - /typer-af-teambuildingsøvelser/
 language: da
-categories:
-  - Beskrivelser
+category:
+  - Teambuilding
 tags:
   - Øvelser
   - Teambuildingsøvelser

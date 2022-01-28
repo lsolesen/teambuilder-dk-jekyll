@@ -1,8 +1,11 @@
 ---
 title: "Teameffektivitet - hvad er det?"
-redirect_from: /content/teameffektivitet-hvad-er-det
+permalink: /teameffektivitet/
+redirect_from:
+  - /content/teameffektivitet-hvad-er-det
+  - /teameffektivitet-hvad-er-det/
 language: da
-categories:
+category:
   - Teambuilding
 tags:
   - teori

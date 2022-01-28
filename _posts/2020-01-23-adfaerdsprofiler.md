@@ -2,7 +2,7 @@
 title: "Adfærdsprofiler"
 excerpt: "Adfærdsprofiler"
 language: da
-categories:
+category:
   - Projektledelse
 tags:
   - projektplanlægning

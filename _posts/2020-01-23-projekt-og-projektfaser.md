@@ -1,7 +1,8 @@
 ---
-title: "Projektledelse og -tænkning"
+title: "Projekt og projektfaser"
+permalink: /projekt-og-projektfaser/
 language: da
-categories:
+category:
   - Projektledelse
 tags:
   - projektplanlægning

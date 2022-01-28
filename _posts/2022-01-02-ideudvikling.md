@@ -1,7 +1,7 @@
 ---
 title: "Ideudvikling og idegenerering"
 language: da
-categories:
+category:
   - Projektledelse
 tags:
   - projektplanlægning

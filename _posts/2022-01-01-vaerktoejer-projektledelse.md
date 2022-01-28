@@ -1,7 +1,7 @@
 ---
 title: "Værktøjer til projektledelse"
 language: da
-categories:
+category:
   - Projektledelse
 tags:
   - projektplanlægning
@@ -49,7 +49,7 @@ Du vil få svar på
 {% assign date_from = '2022-01-01' | date: '%s' %}
 {% assign date_to = '2022-01-31' | date: '%s' %}
 
-{% assign site_posts = site.posts | where: "categories", "Projektledelse" | where_exp: "post", "post.url != page.url" | sort: "last_modified_at" | reverse %}
+{% assign site_posts = site.posts | where: "category", "Projektledelse" | where_exp: "post", "post.url != page.url" | sort: "last_modified_at" | reverse %}
 
 <div class="feature__wrapper">
 

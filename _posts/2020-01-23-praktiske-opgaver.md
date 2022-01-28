@@ -2,7 +2,7 @@
 title: "Praktiske teambuildingsopgaver og øvelser"
 excerpt: "Hvordan går vi til praktiske opgaver?"
 language: da
-categories:
+category:
   - Projektledelse
 tags:
   - projektplanlægning

@@ -2,7 +2,7 @@
 title: "Websites vi lader os inspirere af"
 redirect_from: /content/websites-vi-lader-os-inspirere-af
 language: da
-categories:
+category:
   - Webclips
 tags:
   - webclips

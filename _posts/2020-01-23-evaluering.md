@@ -2,7 +2,7 @@
 title: "Evaluering"
 excerpt: "Evaluering - hvordan kan man evaluere?"
 language: da
-categories:
+category:
   - Projektledelse
 tags:
   - projektplanlægning

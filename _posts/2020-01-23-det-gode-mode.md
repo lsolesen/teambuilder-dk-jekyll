@@ -2,7 +2,7 @@
 title: "Det gode møde"
 excerpt: "Hvordan holder man det gode møde, som ikke spilder folks tid?"
 language: da
-categories:
+category:
   - Projektledelse
 tags:
   - projektplanlægning

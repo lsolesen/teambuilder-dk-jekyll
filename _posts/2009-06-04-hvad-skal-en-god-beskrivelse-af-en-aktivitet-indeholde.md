@@ -2,11 +2,11 @@
 title: "Hvad skal en god beskrivelse af en aktivitet indeholde?"
 redirect_from: /content/hvad-skal-en-god-beskrivelse-af-en-aktivitet-indeholde
 language: da
-categories:
-  - Beskrivelser
+category:
+  - Teambuilding
 tags:
-  - Øvelser
-  - Teambuildingsøvelser
+  - øvelser
+  - teambuildingsøvelser
 last_modified_at: 2011-03-30T01:49:48Z
 feature_row:
   - image_path: https://imgcdn.saxo.com/_9788771580051/0x500

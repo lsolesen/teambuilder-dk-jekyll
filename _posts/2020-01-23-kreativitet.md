@@ -2,7 +2,7 @@
 title: "Kreativitet og ideudvikling"
 excerpt: "Hvordan er man kreativ?"
 language: da
-categories:
+category:
   - Projektledelse
 tags:
   - projektplanlægning

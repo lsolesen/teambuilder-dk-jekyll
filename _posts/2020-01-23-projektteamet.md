@@ -1,7 +1,7 @@
 ---
 title: "Projektteamet"
 language: da
-categories:
+category:
   - Projektledelse
 tags:
   - projektplanlægning

@@ -2,7 +2,7 @@
 title: "5x5 projektmodellen og analyser"
 excerpt: "Hvordan kan man angribe et projekt?"
 language: da
-categories:
+category:
   - Projektledelse
 tags:
   - projektplanlægning

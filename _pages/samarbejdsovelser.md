@@ -9,6 +9,8 @@ classes: wide
 
 {{ page.excerpt }}
 
+Vi har samlet alle vores mere generelle information om at samarbejde og bygge hold på vores side om [teambuilding](/teambuilding/).
+
 {% assign site_posts = site.activity | where: "tags", "Samarbejdsøvelse" | sort: "date" %}
 
 <div class="feature__wrapper">

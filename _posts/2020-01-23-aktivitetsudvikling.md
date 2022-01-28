@@ -2,10 +2,10 @@
 title: "Aktivitetsudvikling"
 excerpt: "Aktivitetsudvikling"
 language: da
-categories:
-  - Projektledelse
+category:
+  - Undervisning
 tags:
-  - projektplanlægning
+  - ideer
 last_modified_at: 2020-01-23T20:50:27Z
 feature_row:
   - image_path: https://imgcdn.saxo.com/_9788771580051/0x500

@@ -5,7 +5,7 @@ redirect_from:
   - /node/190
   - /190/
 language: da
-categories:
+category:
   - Projektledelse
 tags:
   - projektplanlægning

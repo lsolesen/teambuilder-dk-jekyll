@@ -1,11 +1,14 @@
 ---
-title: "Den varme stol"
+title: "Den varme stol: Arbejd med anerkendelse"
+permalink: /anerkendelse-i-den-varme-stol/
+redirect_from:
+  - /den-varme-stol/
 excerpt: "Hvad er den varme stol?"
 language: da
-categories:
-  - Projektledelse
+category:
+  - Undervisning
 tags:
-  - projektplanlægning
+  - ideeer
 last_modified_at: 2020-01-23T20:50:27Z
 feature_row:
   - image_path: https://imgcdn.saxo.com/_9788771580051/0x500
@@ -42,7 +45,7 @@ Som sagt bliver ens styrker og svaghederne observeret af andre, og man vil få n
 >
 > Forløbet med den “varme stol” er et godt redskab i arbejdet som teambuilder. Det er her man både får rosog konstruktivt kritik, hvilket er brugbart i sin videreudvikling som person og som teambuilder.
 
-> ## Opskrift på den varmestol
+> ## Opskrift på den varme stol
 >
 > - En stol med puder
 > - En rundkreds med teambuilder

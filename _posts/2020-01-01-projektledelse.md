@@ -1,8 +1,8 @@
 ---
-title: "Slutevaluering"
-excerpt: "Hvordan kan man angribe et projekt?"
+title: "Projektledelse og projektværktøjer"
+permalink: /projektledelse/
 language: da
-categories:
+category:
   - Projektledelse
 tags:
   - projektplanlægning
@@ -15,6 +15,7 @@ feature_row:
     url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/teamwork_michael-a-west_haeftet_9788771580051"
     btn_label: "Læs mere"
     btn_class: "btn--success"
+    rel: sponsored nofollow noopener
   - image_path: https://imgcdn.saxo.com/_9788777064487/0x500
     alt: "Team - udvikling og læring"
     title: "Team - udvikling og læring"
@@ -22,24 +23,65 @@ feature_row:
     url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/team-udvikling-og-laering_morten-bertelsen-red-reinhard-stelter-red_haeftet_9788777064487"
     btn_label: "Læs mere"
     btn_class: "btn--success"
+    rel: sponsored nofollow noopener
 ---
 
-Når alle aktiviteter i projektet er afsluttet og der er lavet evaluering internt og eksternt er
-det tid til slutevalueringen. Her er fokus på projektets mål i form af succeskriterierne. Det
-skal vurderes i, hvor høj grad projektet har opfyldt målene. Det kan måles på
-succeskriterierne. Endvidere skal der samles op på projektets økonomi, hvordan passer
-regnskabet med budgettet? Er det overskud, skal det vurderes, hvad der skal ske med det.
-Ofte vil overskud skulle betales tilbage til bidragsyderne. Er der underskud, så skal der
-findes ud af, hvordan underskuddet kan dækkes.
-Evaluering af produkt- og effektmål
-Produktmålene og deres succeskriterier kan evalueres umiddelbart efter projektets
-gennemførelse, hvorimod effektmålene i nogle tilfælde først kan evalueres længere tid
-efter projektet. Det er her vigtigt at have en plan for den del af evaluering for også at få
-dokumenteret effekten af projektet.
-Feedback til styregruppe og opdragsgiver
-Når slutevaluering er færdig, er det væsentligt at projektlederes informere projektets
-styregruppe og opdragsgiver om resultatet af projektet.
-Afslutning af projektet
-Når slutevaluering er færdig, skal projektet afsluttes og lukkes. Vurder hvilke af projektets
-interessenter der kan have brug for kommunikation om at projektet er afsluttet. Luk konti
-mm. Der har med projektet at gøre. 
+
+
+{% comment %}
+projektledelse
+2,900
+kr38,11
+46
+38
+projektledelse uddannelse
+1,000
+kr43,85
+66
+40
+projektledelse kursus
+1,000
+kr66,72
+45
+37
+projektledelsesværktøjer
+260
+kr44,12
+14
+39
+projektledelse teori og praksis
+170
+kr7,29
+100
+49
+projektledelse bog
+90
+kr5,06
+100
+37
+projektledelse prince2
+90
+kr94,78
+46
+35
+{% endcomment %}
+
+Projektledelse handler om at kunne opstarte, planlægge, gennemføre og evaluere projekter. Som projektleder har du brug for en række forskellige redskaber for at kunne navigere dig igennem de forskellige projektfaser i et projekt.
+
+Et projekt er en tidsafgrænset veldefineret engangs-opgave med et veldefineret mål. Alle projekter gennemgår en række forskellige faser. Vi har skrevet et uddybende indlæg om [projekter og projektfaser](/projekt-og-projektfaser/).
+
+## Indlæg om projektledelse
+
+Her kan du se alle vores indlæg om projektledelse.
+
+<div class="feature__wrapper">
+
+{% assign site_posts = site.posts | where: "category", "Projektledelse" | where_exp: "post", "post.url != page.url" | sort: "date" %}
+
+{% if site_posts.size > 0 %}
+  {% for post in site_posts %}
+    {% include archive-single.html %}
+  {% endfor %}
+{% endif %}
+
+</div>

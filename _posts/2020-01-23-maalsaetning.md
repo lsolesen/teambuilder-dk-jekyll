@@ -2,8 +2,8 @@
 title: "Målsætning (dine egne mål)"
 excerpt: "Hvordan laver du en målsætning?"
 language: da
-categories:
-  - Projektledelse
+category:
+  - Undervisning
 tags:
   - projektplanlægning
 last_modified_at: 2020-01-23T20:50:27Z

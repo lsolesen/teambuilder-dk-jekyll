@@ -5,7 +5,7 @@ redirect_from:
   - /content/hvornår-er-teambuilding-effektivt
   - /hvornår-er-teambuilding-effektivt/
 language: da
-categories:
+category:
   - Teambuilding
 tags:
   - teambuilding
