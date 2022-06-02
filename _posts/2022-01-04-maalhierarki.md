@@ -28,15 +28,7 @@ feature_row:
 
 {% comment %}
 målhierarki
-480
-kr44,05
-2
-40
 målhierarki eksempel
-110
-kr0
-2
-49
 målhierarki skabelon
 110
 kr20,91

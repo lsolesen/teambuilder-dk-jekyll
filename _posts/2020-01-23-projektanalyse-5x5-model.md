@@ -1,5 +1,6 @@
 ---
-title: "5x5 projektmodellen og analyser"
+title: "Brug 5x5 projektmodellen til projektanalyse"
+permalink: /projektanalyse/
 excerpt: "Hvordan kan man angribe et projekt?"
 language: da
 category:
@@ -26,13 +27,60 @@ feature_row:
     rel: sponsored nofollow noopener
 ---
 
-Vi er et blandet team af mennesker med mange kompetencer, og forskellige personprofiler. Vi bruger projektledelse i vores arbejde for at imødekomme vores kunders krav bedst muligt. For at holde styr på en stor gruppe af teambuildere er det vigtigt at alle har en klar ide om hvornår, og hvad de skal bidrage med til arrangementet. For at sikre det bedst mulige produkt, samt bedst mulige service gennemgår vi nogle delprocesser.
+Når du skal lave en projektanalyse, så kan 5x5-modellen være et rigtig godt redskab til at struktuere din analyse.
+
+I projekter er dit team ofte sammensat af mennesker med mange kompetencer og forskellige personprofiler. Vi bruger projektledelse i vores arbejde for at imødekomme målene i projektet bedst muligt.
+
+For at holde styr på en projektgruppe er det vigtigt, at alle har en klar ide om hvornår, og hvad de skal bidrage med til at projektet kan blive til noget.
+
+For at sikre det bedst mulige projekt, så kan planlægningen gennemgå en række forskellige deltrin..
  
-Ledelsen sker gennem en mindre styregruppe. For at opnå optimal arbejdskraft bliver en underinddeling et krav. Det er altid vigtigt at finde en leder, som formår dele opgaverne ud på den mest kompetente mulige måde. 
+Hvis du laver en grundig projektanalyse, så er det lettere at finde ud af, hvordan opgaverne i projektet skal fordeles på den mest kompetente måde. Her er 5x5-projektmodellen et godt væktøj.
+
+## 5x5-projektmodellen
+
+Når du skal analysere projekter, så er 5x5-modellen et godt sted at starte. Modellen giver dig en rigtig overskuelig måde at organisere din analyse på.
+
+5x5-modellen kan skitseres på følgende måde.
 
 ![5x5 projektmodellen](/assets/images/5x5-model.png)
- 
+
+5x5 modellen er et styringsværktøj og analyseværktøj, som projektlederen kan udnytte. Du kan betragte den som en huskeseddel med punkter, som en projektleder bør tjekke løbende igennem projektet.
+
+> ”Selv om der findes mange forskellige typer af projekter med hver sine karakteristiske
+> egenskaber, er det muligt at identificere fem elementer, som et hvert projekt vil være opbygget af,
+> og som er nødvendige for, at en opgave kan løses som et projekt.”
+
+--- <cite>Projektstyring - med enkelte midler, Mikkelsen og Riis s. 17</cite>
+
+Modellen består af 5 elementer:
+
+1. Projektopgaven
+2. Interessenterne
+3. Omgivelserne
+4. Ressourcerne
+5. Projektledelse,
+
+{% include figure image_path="/assets/images/blog/5x5-modellen.png" %}
+
+{% include figure image_path="/assets/images/blog/5x5-modellen-2.png" %}
+
+For hvert af de 5 elementer er der 5 punkter som er væsentlige at tjekke af løbende gennem
+projektet. 
+
+## Projektopgaven
+
+Projektopgaven fastsætter meningen med projektet og hvad der ønskes opnået. Det skal være
+tydeligt hvilken forandring projektet skal skabe.
+Arbejde med målsætning for projektet er central. Det gøres med værktøjerne målhierarki og
+målskema husk at bruge SMART modellen til målene. Endvidere er det vigtig at lave
+succeskriterier, så I tager stilling til, hvornår projektet er en succes. Det gøres i målskemaet.
+
+
 ## Interessenter
+
+Dan jer et overblik overprojektets interessenter. Det kan gøres ved at lave interessentanalyse og
+interessentmatrix.
  
 |             | Primære interessenter | Sekundære interessenter |
 |-------------|-----------------------|-------------------------|
@@ -74,48 +122,6 @@ Dette er en analyse af de faktorer som kan påvirke projektet.
 
 Alt i alt er formålet med projektledelse at, styre og koordinere mennesker og ressourcer igennem et projekts forløb, ved hjælp af god ledelse kan vi opnå et veldefinerede mål, kvalitet og tilfredshed hos interessenterne indenfor den givne tid og de økonomiske rammer der er stillet op. 
 
-> ## Projektledelse
->
-> Det er altid vigtigt at finde en leder, som formår at dele opgaverne ud på den mest kompetente mulige måde.
-
-{% include feature_row type="left" %}
-
-***
-
-https://www.brejningefterskole.dk/media/eqwjbceg/1-2-2-5x5-modellen.pdf
-
-5x5 modellen - Vejledning
-
-## Formål
-
-5x5 modellen er et styringsværktøj til projektleder og opdragsgiver. Man kan betragte den som
-en huskeseddel med punkter man som projektleder skal tjekke løbende igennem projektet.
-
-> ”Selv om der findes mange forskellige typer af projekter med hver sine karakteristiske
-> egenskaber, er det muligt at identificere fem elementer, som et hvert projekt vil være opbygget af,
-> og som er nødvendige for, at en opgave kan løses som et projekt.”
-
---- <cite>Projektstyring - med enkelte midler, Mikkelsen og Riis s. 17</cite>
-
-De 5 elementer: Projektopgaven, interessenterne, omgivelserne, ressourcerne og projektledelse,
-er udgangspunktet for 5x5 modellen. 
-
-For hvert af de 5 elementer er der 5 punkter som er væsentlige at tjekke af løbende gennem
-projektet. 
-
-## Projektopgaven
-
-Projektopgaven fastsætter meningen med projektet og hvad der ønskes opnået. Det skal være
-tydeligt hvilken forandring projektet skal skabe.
-Arbejde med målsætning for projektet er central. Det gøres med værktøjerne målhierarki og
-målskema husk at bruge SMART modellen til målene. Endvidere er det vigtig at lave
-succeskriterier, så I tager stilling til, hvornår projektet er en succes. Det gøres i målskemaet.
-
-## Interessenter
-
-Dan jer et overblik overprojektets interessenter. Det kan gøres ved at lave interessentanalyse og
-interessentmatrix.
-
 ## Omgivelser
 
 Omgivelserne er det som ligger rundt om projektet. Det er de sammenhænge, hvor projektet skal
@@ -141,9 +147,18 @@ De forskellige ressourcer som projektet gør brug af.
 
 ## Projektledelse
 
+
 Projektledelse, handler om at planlægge, organisere, lede og styre projektet. Her skal I have fokus
 på:
 
 - Organisering af projektgruppen
 - Teamsamarbejde
 - Konflikthåndtering
+
+Det er altid vigtigt at finde en leder, som formår at dele opgaverne ud på den mest kompetente mulige måde. Vi har skrevet uddybende om [projektledelse](/projektledelse/).
+
+## Konklusion
+
+5x5-modellen er en rigtig god huskeliste, når du skal lave en projektanalyse. Centralt er naturligvis projektopgaven, men for at lave en ordentlig projektledelse, så er en god analyse af projektet rigtig vigtig.
+
+{% include feature_row type="left" %}

@@ -28,7 +28,9 @@ feature_row:
 
 Det er ikke svært at være kreativ:
 
-> deltagere med forskellige kompetencer bryder med rutinen og udtrykker sig ved hjælp af kropslige og materielle ressourcer i en konstruktionsproces, mens de får positiv opmærksomhed (Due 2011).
+> deltagere med forskellige kompetencer bryder med rutinen og udtrykker sig ved hjælp af kropslige og materielle ressourcer i en konstruktionsproces, mens de får positiv opmærksomhed
+
+--- <cite>Due 2011</cite>
 
 Recepten for at skabe en kreativ proces er altså at sørge for at følgende elementer er til stede:
 

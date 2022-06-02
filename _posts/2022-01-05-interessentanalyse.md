@@ -1,5 +1,6 @@
 ---
 title: "Interessentanalyse"
+seo_title: "Interessentanalyse: Skabelon og eksempel"
 excerpt: "Hvordan kan man angribe et projekt?"
 language: da
 category:
@@ -24,161 +25,169 @@ feature_row:
     btn_label: "Læs mere"
     btn_class: "btn--success"
     rel: sponsored nofollow noopener
+faq: 
+  - question: Hvad er formålet med en interessentanalyse?
+    answer: Formålet med en interessentanalyse er at give projektlederen og projektteamet et overblik over de personer, der har en interesse i projektet, og at gøre det muligt at træffe foranstaltninger til en passende håndtering af disse interessenter.
+  - question: Hvordan kan jeg foretage en interessentanalyse?
+    answer: Der er mange forskellige måder at foretage en interessentanalyse på. En måde er at bruge skabelonen i denne artikel. En anden måde er at interviewe interessenterne eller gennemføre fokusgrupper med dem.
+  - question: Hvad er fordelene ved en interessentanalyse?
+    answer: Fordelene ved en interessentanalyse er, at den giver projektlederen et overblik over alle de personer, der har en interesse i projektet, og sætter ham eller hende i stand til at træffe passende foranstaltninger til at håndtere disse interessenter.
+  - question: Hvem bør indgå i en interessentanalyse?
+    answer: Alle personer, der har en interesse i projektet, bør indgå i interessentanalysen. Dette omfatter interessenter fra både inden for og uden for organisationen.
+  - question: Hvor ofte bør der foretages en interessentanalyse?
+    answer: En interessentanalyse bør gennemføres med jævne mellemrum i løbet af projektet for at sikre, at alle interessenter tages i betragtning, og at deres krav opfyldes på enrettidig måde.
+  - question: Hvordan bør projektledere håndtere interessenter?
+    answer: Projektledere bør behandle interessenter på en respektfuld, åben og ærlig måde. De bør tage hensyn til alle interessenters synspunkter og træffe beslutninger, der er i projektets bedste interesse.
+  - question: Hvad er en interessentliste?
+    answer: En interessentliste er en liste over alle personer, der har en interesse i projektet. Den omfatter deres navn, kontaktoplysninger og rolle i projektet.
+  - question: Hvad er forskellen mellem en interessent og en sponsor?
+    answer: En interessent er enhver person, der har en interesse i projektet. En sponsor er en person eller organisation, der yder finansiel eller anden støtte til projektet. Sponsorer er normalt interessenter, men det er ikke alle interessenter, der er sponsorer 
 ---
 
 {% comment %}
 interessantanalyse
-2,400
-kr0
-1
-32
 interessentanalyse
-2,400
-kr0
-1
-28
 interessentanalyse skabelon
-390
-kr0
-1
-29
 interessentanalyse eksempel
-210
-kr0
-2
-27
 interessentanalyse model
-50
-kr0
-1
-32
 interessentanalyse opgave
-30
-kr0
-1
-28
 interessentanalyse metode
-20
-kr0
-1
 {% endcomment %}
 
-Interessentanalyse og Matrix – Vejledning
-Formål
-Interessentanalysens formål er at give projektlederen og projektgruppen et overblik over
-personer, der har interesse i projektet, samt at gøre det muligt at igangsætte tiltag til en
-hensigtsmæssig håndtering af disse interessenter.
-Interessentanalysen gennemføres for at:
-• Sikre, at projektets formål, leverancer, succeskriterier samt fremgangsmåde er attraktive for
-de væsentligste interessenter
-• Identificere ressourcepersoner
-• Identificere og håndtere eventuelle modstandere og konflikter
-• Planlægge den rette beslutningsproces
-• Planlægge en hensigtsmæssig kommunikation og involvering af interessenterne
-Brug
-Interessentanalysen udføres af projektgruppen. Den skal udføres adskillige gange i løbet af
-projektet. Bl.a. udføres den som en del af planlægningsworkshoppen i starten af projektet. Men
-det er vigtigt, at projektgruppen jævnligt justerer interessentanalysen, da interessenter skifter
-position og nye dukker op, som projektet skrider frem.
-Fremgangsmåde
+Ved du, hvem der er berørt af dit projekt? Der er sandsynligvis mange mennesker, der har en interesse i det, du laver - lige fra de mennesker, der vil blive direkte berørt af resultatet, til dem, der bare gerne vil sikre, at alt går glat.
+
+En interessentanalyse er en proces, hvor du identificerer og vurderer disse personer, så du kan håndtere dem effektivt. I dette blogindlæg giver vi dig en skabelon og et eksempel på, hvordan du kan foretage en interessentanalyse til dit næste projekt.
+
+## Hvad er en interessentanalyse?
+
+En interessentanalyse er en proces, der hjælper dig med at forstå de personer, der har en interesse i dit projekt, og hvordan du kan håndtere dem effektivt.
+
+Processen omfatter identifikation af interessenter, kategorisering af dem efter deres interesse og indflydelse og derefter udvikling af strategier til håndtering af hver enkelt gruppe.
+
+Interessentanalysens formål er at give projektlederen og projektgruppen et overblik over personer, der har interesse i projektet, samt at gøre det muligt at igangsætte tiltag til en hensigtsmæssig håndtering af disse interessenter.
+
+## Hvorfor er en interessentanalyse værd at lave?
+
+Interessentanalysen bruges til at:
+
+- Sikre, at projektets formål, leverancer, succeskriterier og fremgangsmåde er attraktive for de væsentligste interessenter
+- Identificere ressourcepersoner, der kan hjælpe med projektets gennemførelse
+- Identificere og håndtere eventuelle modstandere og konflikter effektivt og proaktivt
+- Planlægge den rette beslutningsproces og rækkefølge for inddragelse af de interesserede i projektet
+- Planlægge en hensigtsmæssig kommunikation og involvering af alle interessenterne på det rette tidspunkt.
+
+## Hvordan bruges en analyse af interessenterne i projektet?
+
+Projektteamet foretager en interessentanalyse. Det bør gøres adskillige gange i løbet af projektet. Den udføres f.eks. som en del af planlægningsmødet i starten af projektet. Interessenterne kan dog ændre deres holdninger, og nye kan dukke op, efterhånden som projektet udvikler sig.
+
+## Hvordan laver man en interessentanalyse?
+
 Interessentanalysen gennemføres i følgende trin:
-Trin 1: Identificering af interessenter
-Brainstorm, hvor projektgruppen kommer med idéer til, hvem der bliver berørt i projektforløbet,
-og hvem der bliver berørt af resultatet. Brainstormingen gennemføres med fordel ved hjælp af
-papkort. Hver projektdeltager noterer interessenter ned på kort, der så sættes op på væggen.
-Fordelen ved at anvende papkort er, at det senere er muligt at sortere interessenterne i
-forskellige grupper på væggen. Det er vigtigt at vælge en idégenereringsmetode, der udnytter
-gruppedynamikken i projektgruppen.
-Trin 2: Sortering af interessenter
-Interessenterne sorteres i kategorier. Dette kan dels være ud fra, hvem man synes er vigtigst i
-forhold til projektet. Der kan også anvendes en sortering, hvor man ser på:
-• Indflydelse, dvs. hvem kan træffe beslutninger om projektet.
-• Medvirken, dvs. hvis aktive medvirken er væsentlig for, at projektet bliver
-gennemført.
+
+### Trin 1: Identificering af interessenter
+
+Brainstorming, hvor projektgruppen genererer idéer om, hvem der vil blive påvirket af projektet, og hvem der vil blive påvirket af resultatet. Papirkort er ideelle til brainstorming, da de giver mulighed for mere kreativitet. Hvert medlem af projektteamet registrerer interessenter på papirkort, som derefter hænges op på væggen.
+
+Papirkort eller papkort har flere fordele. En af dem er at sortere interessenter i forskellige kategorier på væggen. Det er afgørende at vælge en idégenereringsstrategi, der udnytter gruppedynamikken i projektgruppen.
+
+### Trin 2: Sortering af interessenter
+
+Interessenterne sorteres i kategorier. Dette kan delvist bestemmes af, hvem du mener, der er mest afgørende for projektets succes. Klassificering af interessenter kan også bruges til at undersøge:
+
+- Indflydelse, fx hvem der kan træffe beslutninger om projektet.
+- Medvirken, fx hvem er nødvendige at have som aktive medspillere for at få projektet gennemført?
+
 Se eksemplet herunder for at få illustreret disse to metoder.
-Trin 3: Oplevede fordele og ulemper for interessenterne
-Efter sorteringen udvælges de væsentligste interessenter, da det ikke er muligt at fokusere på
-samtlige interessenter i projekter. For de væsentligste interessenter diskuteres, hvilke fordele og
-ulemper de enkelte interessentgrupper kan opleve ved projektet. Det er vigtigt ikke at beskrive,
-hvad de burde opleve – set fra projektgruppens synspunkt, men hvad de reelt har af
-bekymringer og forventninger, hvad de blev spurgt. (Det er i øvrigt udbytterigt at spørge
-interessenterne selv, f.eks. via interview eller fokusgrupper).
-Trin 4: Strategi for håndtering af interessenten
-Som sidste trin i interessentanalysen vurderes det samlede billede, og der planlægges, hvad der
-skal gøres i forhold til interessenten, hvornår. Det er afgørende at disse tiltag bliver meget
-konkrete. Det er ikke nok at skrive: Husk at kommunikere til interessent A, husk at involvere
-interessent B, osv. Projektgruppen bør arbejde stringent med denne indsats og definere
-milepæle, ansvarspersoner og opfølgnings-/evalueringsrutiner for håndteringen af
-interessenterne.
-Desuden vurderes, hvad det samlede interessentbillede betyder for hele projektet og for
-projektledelsen? Giver det anledning til at justere formål, leverancer, succeskriterier og
-fremgangsmåde i projektet? Hvordan skal beslutningsprocessen indrettes? Hvad med
-organisering af projektet og kommunikationsstrategien? Hvilke ressourcepersoner skal vi
-trække på? Er der specielle tiltag, vi skal igangsætte, for at hindre de mulige interessekonflikter?
-Den endelige beskrivelse af interessentanalysen kan foretages ved hjælp af skema, hvor
-interessenterne er listet.
-Faldgruber og begrænsninger
-Interessentanalysen er kun effektfuld, hvis den omfatter de væsentligste interessenter. Derfor
-er det vigtigt, at interessent-analysen foretages i projektgruppen af personer, der har et
-indgående kendskab til organisationen.
-Interessentanalysen og interessenternes interesser og indflydelse på projektet kan ændre sig
-med tiden. Det er derfor vigtigt, at interessentanalysen justeres løbende gennem projektforløbet. Oftest vil en interessentanalyse, der er lavet i starten af projektet, ikke være gældende
-senere hen i projektet.
-Det siger sig selv (alt efter hvor ærlig og detaljeret en sådan beskrivelse er), at det ikke er
-hensigtsmæssigt, at interessent-analysen er beskrevet i et referat, som rundsendes til store dele
-af organisationen.
-Interessentmatrix
-En metode er interessentmatrixen. Her bruges to kriterier til at sortere interessenterne efter:
-hvor stor indflydelse har interessenten, og hvor nødvendig er interessenten for projektets
-gennemførsel, se figuren herunder
 
-Man får derefter fire hovedkategorier af interessenter, som kan benævnes gidsler,
-ressourcepersoner, eksterne interessenter samt grå eminencer. Kort om de fire kategorier:
-Gidsler
-Interessenter, som har lille eller ingen mulighed for at træffe beslutninger om projektet, men
-hvis medvirken er nødvendig for gennemførsel af projektet. Det er f.eks. medarbejderne i en
-organisation, hvor der er indført nyt IT-system. Eller patienterne på et hospital, hvor der er
-formuleret en kost- eller rygepolitik.
-Til trods for at denne kategori benævnes gidsler, anbefales det ikke at behandle dem som
-sådanne. I stedet for bør de informeres og involveres (ofte via repræsentanter) i så vid
-udstrækning som muligt. Det kan ske via massekommunikation, linjekommunikation,
-undervisning og workshops.
-Ressourcepersoner
-Interessenter, som har stor indflydelse på projektet og hvis aktive medvirken også er nødvendig
-for gennemførsel af projektet. Det er eksempelvis de personer, der skal arbejde på projektet
-enten i projektgruppen eller som faglig ekspertise, der tilkaldes ad hoc. Det kan også være
-personer fra interesseorganisationer eller lignende. Disse interessenter skal involveres i
-projektet, f.eks. ved at være del af projektgruppen eller en referencegruppe. Her kan også
-benyttes interview, workshops og møder.
-Grå eminence
-Interessenter, som har stor mulighed for at påvirke væsentlige beslutninger i projektet, men
-som ikke behøver at levere en større arbejdsindsats i projektet. Grå eminencer øver deres
-indflydelse åbent – eller skjult. Har man overset disse interessenter, venter der ofte en
-ubehagelig overraskelse. Det kan f.eks. være personer med stor uformel magt i organisationen,
-som man ikke har taget i ed. Eller personer i ledelsen, departementet eller i en magtfuld
-interesseorganisation.
-Strategien er at høre dem – både ved opstart af projektet og undervejs. De skal tages i ed, f.eks.
-som en del af en styregruppe, referencegruppe eller ved mere uformelle høringer. Det er også
-hensigtsmæssigt at interviewe dem, afholde møder med dem og rapportere status på projektet
-til dem undervejs.
-Eksterne interessenter
-Denne gruppe har hverken mulighed for at påvirke centrale beslutninger i projektet, og deres
-aktive medvirken er heller ikke nødvendig. Det er dermed ikke disse interessenter, der skal
-bruges mest krudt på. Ofte kan man nøjes med at orientere dem via massekommunikation. Men
-det er dog nødvendigt at overvåge, hvordan de forholder sig til projektet, som det skrider frem.
-F.eks. kan pressen i starten af et projekt være ekstern interessent, men dukker der en mediesag
-op om projektet, får de stor indflydelse, da de indirekte påvirker de øvrige interessentgrupper.
-Eksempel på sortering af interessenter under en workshop
-Når interessenterne er identificeret og placeret på væggen på papkort, skal interessenterne
-sorteres i kategorier. Dette kan ske på flere måder.
-Gruppen kan diskutere sig frem til, hvem de finder vigtigst i forhold til projektet. Dette kan
-gøres ved at inddele væggen i tre kolonner: En 1., 2. og 3. prioritet. Det anbefales, at gruppen
-starter med at placere kortene ukommenteret og kun bruger tid på at diskutere de interessenter,
-hvis placering man er uenige om.
+### Trin 3: Oplevede fordele og ulemper for interessenterne
 
-https://www.brejningefterskole.dk/media/itpkp3jb/1-5-1-interessentanalyse-vejledning.pdf
+Efter opdelingen udvælges de vigtigste interessenter, da det ikke er muligt at tage hensyn til alle interessenter i et projekt. Projektets fordele og ulemper for hver interessentgruppe vurderes for de primære interessenter.
+
+Det er vigtigt at beskrive, hvad interessenterne reelt har af bekymringer og forventninger, hvis de blev spurgt. I denne proces er det også udbytterigt at spørge interessenterne selv, fx gennem interviews eller fokusgrupper.
+
+### Trin 4: Strategi for håndtering af interessenten
+
+Det sidste trin i interessentanalysen består i at vurdere det samlede billede. Nu udarbejdes en tidsplan for at imødekomme hver enkelt interessents bekymringer og forventninger. Det er afgørende at disse tiltag bliver meget konkrete.
+
+Tidsplanen skal være grundig og indeholde alt, hvad der skal gøre i forhold til interessenten.
+
+Det er ikke nok at skrive: Husk at kommunikere til interessent A og husk at involvere interessent B.
+
+Projektgruppen bør grundigt og detaljeret i denne fase. De skal fastlægge milepæle, ansvarspersoner og opfølgningsrutiner for håndteringen af interessenterne.
+
+Interessentanalysen er også vigtig at overveje med hensyn til projektets succes. Hvad fortæller disse oplysninger os om det overordnede billede af interessenterne? Er der nogen ændringer i projektets mål, leverancer, succeskriterier eller tilgang som følge af denne viden? Hvordan skal vi gå til at træffe beslutninger? Hvad med projektets struktur og roller?
+
+Interessentanalysen er en vigtig del af projektledelsen. Den bør anvendes under hele projektet for at sikre, at der tages hensyn til alle interessenter, og at deres krav opfyldes rettidigt.
+
+Den endelige beskrivelse af interessentanalysen kan foretages ved hjælp af skema, hvor interessenterne er listet.
+
+## Faldgruber og begræninger ved analyse af interessenter
+
+Effektiviteten af en interessentanalyse afhænger helt og holdent af, at de vigtigste interessenter er med. Derfor er det afgørende, at interessentanalysen udføres af en projektgruppe med et indgående kendskab til organisationen.
+
+Analysen af interessenterne har mange variabler. I løbet af projektet kan interessenternes interesser og indflydelse på projektet variere. Derfor er det afgørende, at interessentanalysen opdateres løbende i løbet af projektet. Det er usandsynligt, at en interessentvurdering, der foretages tidligt i et projekt, stadig er nøjagtig, når projektet afsluttes.
+
+## Interessentmatrix
+
+En metode er interessentmatrixen. Her bruges to kriterier til at sortere interessenterne efter: hvor stor indflydelse har interessenten, og hvor nødvendig er interessenten for projektets gennemførsel.
+
+{% include figure image_path="/assets/images/blog/interessentmatrix.png" %}
+
+Man får derefter fire hovedkategorier af interessenter, som kan kaldes:
+
+- gidsler
+- ressourcepersoner
+- eksterne interessenter
+- grå eminencer
+
+Her går vi lidt i dybden med de fire kategorier.
+
+### Gidsler
+
+Interessenter, der har ringe eller ingen kontrol over projektets resultat, men hvis deltagelse er nødvendig for at sikre dets succes. Et eksempel på en interessent med begrænset magt til at træffe beslutninger om et it-system er medarbejderne i en virksomhed, der har implementeret det. Patienterne på et hospital, hvor der er indført en mad- eller rygepolitik, er et andet eksempel.
+
+Selv om denne kategori kaldes gidsler, bør det ikke behandles sådan. De bør snarere informeres og inddrages (ofte gennem repræsentanter) så meget som muligt. Dette kan opnås gennem massekommunikation, linjekommunikation, uddannelse og workshops.
+
+### Ressourcepersoner
+
+Interessenter, der har en betydelig indflydelse på projektet, og hvis aktive engagement er nødvendigt for at gennemføre det. Det kan f.eks. være personer, der skal arbejde på projektet som en del af projektgruppen eller som teknisk ekspertise, der f.eks. skal bruges i nødstilfælde. Det kan også være repræsentanter for interessegrupper eller lignende organisationer. Disse interessenter bør inddrages i projektet på et tidligt tidspunkt.
+
+### Grå eminence
+
+Interessenter, som har et betydeligt potentiale til at påvirke kritiske projektbeslutninger, men som ikke behøver at yde et væsentligt bidrag. Grå eminencer udøver åbent eller skjult deres magt. Der venter en ubehagelig overraskelse, hvis disse interessenter bliver forsømt.
+
+Det kan f.eks. være personer, der har en stor uformel magt i virksomheden, som ikke er blevet taget i ed. Det kan også være personer, der arbejder i administrationen, i en afdeling eller en vigtig interessegruppe på virksomhedsniveau.
+
+Under gennemførelsen af et projekt er det afgørende at kommunikere med dem - både i begyndelsen og undervejs. De bør f.eks. inddrages som en del af en styregruppe, en referencegruppe eller i mere uformelle møder. Det er også acceptabelt at tale med dem om deres erfaringer i dybden.
+
+### Eksterne interessenter
+
+Interessenterne i denne gruppe har ingen indflydelse på projektets kritiske beslutninger, og deres aktive deltagelse er ikke nødvendig. Disse personer er ikke dem, der skal fokuseres mest på, da de har ringe mulighed for at påvirke afgørende beslutninger. Det er normalt tilstrækkeligt at informere dem via massekommunikation. Du skal dog holde øje med, hvordan de interagerer med projektet, da det kan det være nødvendigt at inddrage dem på et tidspunkt.
+
+Et eksempel på en ekstern interessent er en person, som ikke er ansat i virksomheden, men som kan have en interesse i projektet. Det kan f.eks. være kunder, leverandører eller lokale beboere.
+
+Pressen kan f.eks. være en ekstern interessent i et projekt i begyndelsen, men hvis der opstår en mediehistorie om projektet, vil de have en betydelig indflydelse, fordi de indirekte påvirker andre interessentgrupper.
+
+### Interessenter skal behandles forskelligt
+
+Som du kan se, er der forskellige måder at håndtere interessenter på, afhængigt af deres indflydelsesniveau og betydning. Interessentmatrixen er et nyttigt værktøj til dette formål. Den kan hjælpe dig med at fokusere din opmærksomhed på de vigtigste interessenter og med at træffe de relevante foranstaltninger.
+
+## Eksempel på sortering af interessenter under en workshop
+
+Når interessenterne er blevet identificeret og lagt ud på papirkort, skal de inddeles i grupper. Dette kan gøres på forskellige måder.
+
+Diskuter, hvem de mener, er den eller de vigtigste personer i projektet. For at gøre dette skal væggen deles op i tre kolonner: en første, anden og tredje prioritet. Gruppen bør begynde med at lægge kortene ned uden at kommentere dem, og derefter bruge tid på kun at diskutere de interessenter, som de er uenige i placeringen af dem.
+
+## Skabelon til interessentanalyse
 
 {% include figure image_path="/assets/images/blog/interessentanalyse.png" %}
 
+## Eksempel på en interessentanalyse
 
-{% include figure image_path="/assets/images/blog/interessentmatrix.png" %}
+## Konklusion
+
+Interessentanalyse er et vigtigt værktøj for projektledere til at forstå, hvem deres interessenter er, og hvad deres behov og bekymringer er. Ved at tage hensyn til alle interessenters synspunkter kan projektledere sikre, at projektet gennemføres med succes og opfylder alle involverede parters forventninger.
+
+## Ofte stillede spørgsmål
+
+{% include faq.html %}

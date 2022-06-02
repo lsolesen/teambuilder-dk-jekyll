@@ -54,5 +54,4 @@ Følgende elementer kan også indgå:
 
 ## Eksempel på en Project Planner
 
-
 {% include figure image_path="/assets/images/blog/projektplanner.png" %}

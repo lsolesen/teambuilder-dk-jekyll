@@ -28,35 +28,11 @@ feature_row:
 
 {% comment %}
 konflikthåndtering
-1,900
-kr27,21
-42
-35
 konflikthåndtering kursus
-320
-kr39,68
-56
-32
 konflikthåndtering på arbejdspladsen
-260
-kr16,92
-14
-36
 konflikthåndtering teori
-260
-kr11,26
-19
-35
 konflikthåndteringskursus
-170
-kr32,80
-28
-19
 konflikthåndtering børn
-140
-kr12,35
-18
-30
 konflikthåndtering pædagogik
 {% endcomment %}
 

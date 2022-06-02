@@ -1,5 +1,6 @@
 ---
-title: "Ideudvikling og idegenerering"
+title: "Metoder til ideudvikling og idegenerering"
+title: "Ideudvikling og idegenerering: 7 metoder til at være kreativ"
 language: da
 category:
   - Projektledelse
@@ -33,43 +34,14 @@ feature_row:
     rel: sponsored nofollow noopener    
 ---
 
-{% comment %}
-ideudvikling
-320
-kr0
-1
-46
-ideudvikling metoder
-40
-kr0
-1
-42
-ideudvikling ved kreativ innovation
-10
-kr0
-1
-5
-ideudvikling øvelser
-10
-kr0
-14
-23
-ideudvikling kursus
-10
-kr0
-28
-27
-ideudvikling model
-10
-kr0
-2
-19
-ideudvikling synonym
-0
-kr0
-1
-17
-{% endcomment %}
+Kreativitet, ideudvikling og idegenerering er centrale elementer i gode projekter. Vi har samlet nogle af de bedste metoder til ideudvikling, så du kan komme i gang med at være kreativ i dit projekt.
+
+## Ideudvikling model
+
+
+
+## Ideudvikling metoder og øvelser
+
 
 ## Rollebrainstorm
 
@@ -336,6 +308,6 @@ spørgsmål fra starten.
 {% include figure image_path="/assets/images/blog/ideku.png" %}
 
 
-## Find bøger
+## FBøger om ideudvikling
 
 {% include feature_row type="left" %}

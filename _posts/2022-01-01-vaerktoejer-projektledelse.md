@@ -1,5 +1,5 @@
 ---
-title: "Værktøjer til projektledelse"
+title: "Projektværktøjer: Værktøjer til projektledelse"
 language: da
 category:
   - Projektledelse
@@ -25,26 +25,30 @@ feature_row:
     rel: sponsored nofollow noopener
 ---
 
-Opstart, planlægning, gennemførsel og evaluering. Projektlederuddannelsen giver dig både redskaber til at lave projekter i samarbejde med andre og redskaber til at navigere mere sikkert gennem dine egne projekter i livet.
+Her har vi samlet en række værtøjer til projektledelse, som kan gør din opstart, planlægning, gennemførelse og evaluering af projekterne lettere.
 
-## Stærke værktøjer
+For at gennemføre projekter, så kan du med fordel benytte en række forskellige redskaber til projektanalyse og projektstyring. Det gør det lettere at navigere sikkeret gennem projekterne. 
 
-Det er ikke bare værktøjer, der gør dig i stand til at skabe projekter for andre. Det er også værktøjer, der gør det nemmere at arbejde sammen med andre og angribe skoleopgaver på en helt ny måde. Du får et større overblik og kan overskue mere. Du lærer at møde forskelligheder i projektgrupper, og bliver god til at få andre til at sparke bolden i den rigtige retning – imod målet.
+Vi har skrevet mere uddybende om [projektledelse](/projektledelse/), men på denne side kan du se en masse forskellige projektværktøjer.
 
-Vi arbejder både teoretisk og praktisk, så du både får hovedet og hænderne i reelle projekter.
+## Værktøjer til projektledelse og projektstyring
 
-Du vil få svar på
+Disse værktøjer gør dig bedre i stand til at skabe projekter for andre. Men projektværktøjerne gør det også lettere at arbejde sammen med andre om projekter.
+
+Projektværktøjerne giver dig et større overblik, så du også kan overskue mere. De giver dig også en større forståelse for hinanden i projektgruppen og projekteamet, så I kan imødegå forskellighederne i gruppen og de mange forskellige opgaver, som skal løses i et projekt. 
+
+Projektværktøjerne hjælper med at give svar på disse væsentlige spørgsmål:
 
 - Hvad er projektledelse?
 - Hvordan styrer jeg store projekter fra start til slut?
 - Hvordan vælger jeg den rigtige projektstyringsmodel?
-- Hvad skal jeg have i min værktøjskasse for at lykkes med mine projekter?
+- Hvilke værktøjer kan hjælpe mig med at lykkes med mine projekter?
 - Hvilke muligheder har jeg, og hvad skal jeg være opmærksom på i de forskellige faser af et projekt?
-- Hvordan sikrer jeg, at det faktisk sker, og at jeg når alt det, jeg vil?
+- Hvordan kan jeg lykkes med et projek?
 - Hvordan sammensætter jeg en god projektgruppe, og hvordan udvikler jeg den, så vi bliver endnu bedre?
-- Hvordan motiverer jeg og får andre med på den gode ide?
+- Hvordan motiverer jeg og får andre med på de gode ideer?
 
-## Værktøjer
+## Projektværktøjer
 
 {% assign date_from = '2022-01-01' | date: '%s' %}
 {% assign date_to = '2022-01-31' | date: '%s' %}
