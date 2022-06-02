@@ -1,17 +1,19 @@
 ---
 title: "Spaghettitårnet"
+permalink: /aktivitet/spaghettitrnet/
 redirect_from: /content/spaghettitårnet
 excerpt: "Byg den højeste fritstående bygning målt fra bordets kant. Hele skumfidusen skal være øverst på konstruktionen. I må kun bruge de materialer, der er i posen (posen må ikke benyttes) til at lave konstruktionen. I må gerne klippe i tapen, spaghettien og snoren. I har nøjagtigt 18 minutter til at lave konstruktionen."
 language: da
 header:
   overlay_image: /assets/images/activity/spaghettitrnet-0.jpg
   teaser: /assets/images/activity/spaghettitrnet-0-320.jpg
-categories: 
+categories:
   - Konkurrence
   - Samarbejdsøvelse
-tags: 
+tags:
   - Konkurrence
   - Samarbejdsøvelse
+  - featured
 aim: "At se hvordan kreativitet virker - og at prototyping undervejs er rigtig vigtige."
 instruction: "Byg den højeste fritstående bygning målt fra bordets kant. Hele skumfidusen skal være øverst på konstruktionen. I må kun bruge de materialer, der er i posen (posen må ikke benyttes) til at lave konstruktionen. I må gerne klippe i tapen, spaghettien og snoren. I har nøjagtigt 18 minutter til at lave konstruktionen."
 preparation: "Købe materialerne og opstille et bord pr. gruppe."

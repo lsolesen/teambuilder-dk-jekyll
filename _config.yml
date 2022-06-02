@@ -252,10 +252,6 @@ collections:
   activity:
     output: true
     permalink: /aktivitet/:path/
-  redirects:
-    output: true
-    permalink: /go/:path/
-
 
 # Defaults
 defaults:
@@ -268,13 +264,15 @@ defaults:
       path: ""
       type: posts
     values:
+      header:
+        teaser: https://images.unsplash.com/photo-1572177812156-58036aae439c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=400&q=5
       layout: single
       author_profile: true
       read_time: true
       comments: true
       share: true
       related: true
-      toc: false
+      toc: true
       author: lsolesen      
 # _activity
   - scope:
@@ -282,7 +280,7 @@ defaults:
       type: activity
     values:
       header:
-        teaser: http://localhost:8080/android-chrome-512x512.png
+        teaser: /android-chrome-512x512.png
       layout: activity
       author_profile: true
       read_time: false
@@ -291,14 +289,3 @@ defaults:
       related: true
       tag_archive_path: /aktivitetstags/
       category_archive_path: /aktivitetskategorier/
-# _redirects
-  - scope:
-      path: ""
-      type: redirects
-    values:
-      layout: redirect
-      author_profile: false
-      read_time: false
-      comments: false
-      share: false
-      related: false

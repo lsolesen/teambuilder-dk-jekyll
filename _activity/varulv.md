@@ -10,9 +10,10 @@ header:
   actions:
     - label: Spil Varulv online
       url: https://netgames.io/games/onu-werewolf/
-categories: 
+categories:
 tags:
   - rollespil
+  - featured
 age: "Fra 10 år"
 players: "8-18 deltagere"
 aim: ""
@@ -84,7 +85,7 @@ Heksen må gerne bruge eliksirerne til sin egen fordel, herunder at genoplive si
 _Bemærk:_ Når I har spillet flere spillerunder, og måske finder at heksen er for magtfuld, kan gruppen vælge at begrænse hendes evner til kun eliksir eller gift. (Heksen bør tillades selv at vælge hvad hun vil buge).
 
 **Den unge pige**: Den unge pige kan udspionere varulvene om natten ved at kigge igennem halvt lukkede øjne.
- 
+
 Hvis en af varulvene opdager hende vil hun formodentlig blive ædt, i stedet for det udtænkte offer.
 
 Den unge pige kan kun spionere om natten, når varulvene er aktive.
@@ -322,7 +323,7 @@ Jeg er stødt på flere forskellige regelsæt til Varulv-spillet. Den oprindelig
 
 ## Særregler med amulet
 
-På [pegasusshop.de](https://pegasusshop.de/media/pdf/d8/9a/93/4250231704208_gb.pdf) fandt jeg et regelsæt til Ultimate Werewolf, hvor der også var en amulet med i spillet. Amuletten kan beskytte en spiller, der stod til at skulle dø enten ved lynching eller ved at blive spist af en varulv - eller andre måder at dø på. 
+På [pegasusshop.de](https://pegasusshop.de/media/pdf/d8/9a/93/4250231704208_gb.pdf) fandt jeg et regelsæt til Ultimate Werewolf, hvor der også var en amulet med i spillet. Amuletten kan beskytte en spiller, der stod til at skulle dø enten ved lynching eller ved at blive spist af en varulv - eller andre måder at dø på.
 
 Når man bruger amuletten, så skal der være et kort flere end der er spillere. Det kort der ligger tilbage i bunken bliver givet til vedkommende, der holder amuletten på den første nat.
 

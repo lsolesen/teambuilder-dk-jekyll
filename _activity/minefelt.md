@@ -1,11 +1,12 @@
 ---
 title: "Minefelt"
+permalink: "/aktivitet/minefelt/"
 redirect_from: /content/minefelt
 excerpt: ""
 language: da
-
-categories: 
-tags: 
+categories:
+tags:
+  - featured
 aim: "Formålet med opgaven er at få gruppen til at kommunikere og sammen finde ud af hvor minerne ligger placeret. Dette kan gøres ved f.eks at lave en 'plan' over felterne eller kalde rækkerne a,b,c,d,e og 1,2,3,4,5."
 instruction: ""
 preparation: "Have en eller flere ruter skrevet ned."

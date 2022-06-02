@@ -1,7 +1,8 @@
 ---
-title: "Projektledelse og -tænkning"
+title: "Projekt og projektfaser"
+permalink: /projekt-og-projektfaser/
 language: da
-categories:
+category:
   - Projektledelse
 tags:
   - projektplanlægning
@@ -14,6 +15,7 @@ feature_row:
     url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/teamwork_michael-a-west_haeftet_9788771580051"
     btn_label: "Læs mere"
     btn_class: "btn--success"
+    rel: sponsored nofollow noopener
   - image_path: https://imgcdn.saxo.com/_9788777064487/0x500
     alt: "Team - udvikling og læring"
     title: "Team - udvikling og læring"
@@ -21,7 +23,49 @@ feature_row:
     url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/team-udvikling-og-laering_morten-bertelsen-red-reinhard-stelter-red_haeftet_9788777064487"
     btn_label: "Læs mere"
     btn_class: "btn--success"
+    rel: sponsored nofollow noopener
 ---
+
+
+
+{% comment %}
+projektledelse
+2,900
+kr38,11
+46
+38
+projektledelse uddannelse
+1,000
+kr43,85
+66
+40
+projektledelse kursus
+1,000
+kr66,72
+45
+37
+projektledelsesværktøjer
+260
+kr44,12
+14
+39
+projektledelse teori og praksis
+170
+kr7,29
+100
+49
+projektledelse bog
+90
+kr5,06
+100
+37
+projektledelse prince2
+90
+kr94,78
+46
+35
+{% endcomment %}
+
 
 Et projekt er en tidsafgrænset veldefineret engangs-opgave med et veldefineret mål. Når opgaven er løst, er der ikke mere noget projekt.
 
@@ -65,16 +109,16 @@ Der er naturligvis stor forskel på karakteren af diverse projekter og dermed de
 
 | Fase        | Redskaber |
 |-|-|
-| Afklaring   | SWOT-analyse → kortlink.dk/fmpt |
-| Planlægning | SMTTE → kortlink.dk/fmq4 |
-|             | Interessent-analyse → kortlink.dk/fmpw |
-|             | Kommunikationsanalyse → kortlink.dk/fmps |
-|             | Budget → kortlink.dk/fmpx |
-|             | Projektplan → kortlink.dk/fmpu |
-|             | Omgivelsesanalyse → kortlink.dk/fmpz |
+| Afklaring   | SWOT-analyse → [kortlink.dk/fmpt](http://kortlink.dk/fmpt){: rel="nofollow noopener" } |
+| Planlægning | SMTTE → [kortlink.dk/fmq4](http://kortlink.dk/fmq4){: rel="nofollow noopener" } |
+|             | Interessent-analyse → [kortlink.dk/fmpw](https://kortlink.dk/fmpw){: rel="nofollow noopener" } |
+|             | Kommunikationsanalyse → [kortlink.dk/fmps](https://kortlink.dk/fmps){: rel="nofollow noopener" } |
+|             | Budget → [kortlink.dk/fmpx](https://kortlink.dk/fmpx){: rel="nofollow noopener" } |
+|             | Projektplan → [kortlink.dk/fmpu](https://kortlink.dk/fmpu){: rel="nofollow noopener" } |
+|             | Omgivelsesanalyse → [kortlink.dk/fmpz](https://kortlink.dk/fmpz){: rel="nofollow noopener" } |
 |             | Planlægning af aktiviteter |
-|             | Him og Hippe → kortlink.dk/gcmq |
-|             | Aktivitetshjulet → kortlink.dk/gemw |
+|             | Him og Hippe → [kortlink.dk/gcmq](https://kortlink.dk/gcmq){: rel="nofollow noopener" } |
+|             | Aktivitetshjulet → [kortlink.dk/gemw](https://kortlink.dk/gemw){: rel="nofollow noopener" } |
 | Gennemføre  | |
 | Evaluering  | |
 
@@ -136,7 +180,7 @@ Projektgruppen ophører.
 
 {% include figure image_path="http://www.smitter.dk/images/modelforside.png" caption="SMTTE-modellen - via [www.smitter.dk](http://www.smitter.dk/)" %}
 
-Se mere om projektplanlægning på [kortlink.dk/ffmd](http://kortlink.dk/ffmd) og om projektledelse på [kortlink.dk/ffme](http://kortlink.dk/ffme).
+Se mere om projektplanlægning på [kortlink.dk/ffmd](http://kortlink.dk/ffmd){: rel="nofollow noopener" } og om projektledelse på [kortlink.dk/ffme](http://kortlink.dk/ffme){: rel="nofollow noopener" }.
 {: .notice .notice--success }
 
 ## Projektleder og projektgruppemedlem
@@ -147,5 +191,5 @@ Alle proaktivister får et teoretisk kendskab til projektlederrollens mange funk
 
 ## Litteratur
 
-- Niels Andersson, Torben Bundgaard, Tom Jensen: PROJEKTER – fra ide til handling, Danmarks Idræts-Forbund ISBN: 87- 90316- 01- 0
+- Niels Andersson, Torben Bundgaard, Tom Jensen: [PROJEKTER – fra ide til handling](https://www.dif.dk/radgivning-og-stotte/udgivelser/forening-og-ledelse/projekter-fra-ide-til-handling), Danmarks Idræts-Forbund ISBN: 87- 90316- 01- 0
 - Bjarne Kausholt: Projektlederbogen, Ingeniøren\bøger  ISBN: 87-571-2463-9

@@ -1,10 +1,12 @@
 ---
 title: "Projektteamet"
+permalink: /projektteamet/
 language: da
-categories:
+category:
   - Projektledelse
 tags:
   - projektplanlægning
+  - featured
 last_modified_at: 2020-01-23T20:50:27Z
 feature_row:
   - image_path: https://imgcdn.saxo.com/_9788771580051/0x500
@@ -14,6 +16,7 @@ feature_row:
     url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/teamwork_michael-a-west_haeftet_9788771580051"
     btn_label: "Læs mere"
     btn_class: "btn--success"
+    rel: sponsored nofollow noopener
   - image_path: https://imgcdn.saxo.com/_9788777064487/0x500
     alt: "Team - udvikling og læring"
     title: "Team - udvikling og læring"
@@ -21,6 +24,7 @@ feature_row:
     url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/team-udvikling-og-laering_morten-bertelsen-red-reinhard-stelter-red_haeftet_9788777064487"
     btn_label: "Læs mere"
     btn_class: "btn--success"
+    rel: sponsored nofollow noopener
 ---
 
 ## Hvad er et projektteam?
@@ -30,17 +34,17 @@ Prøv for en stund at betragte familien som et projektteam. Familien er knyttet 
 
 Et projektteam er en gruppe mennesker, der udfører en række sammenhængende aktiviteter på en organiseret måde med klart definerede start- og slutpunkter. Teamet kan både have en hierarkisk og en flad struktur. Sidstnævnte bygger på det princip, at teamets medlemmer ideelt set er lige stillet, og at de hver især har en række ansvarsområder, som de virker inden for. Den hierarkiske er kendetegnet ved, at der er en projektleder, som er hovedansvarlig for det arbejde som teammedlemmerne udfører. Inden et projekt iværksættes bør man gøre sig klare overvejelser over hvilken struktur, der vælges, og sørge for at den er synlig for enhver, der er involveret i processen.
 
-Det er nærliggende at stille spørgsmålet, hvordan man skaber et velfungerende team, der trives og løser opgaver med stor effektivitet? 
+Det er nærliggende at stille spørgsmålet, hvordan man skaber et velfungerende team, der trives og løser opgaver med stor effektivitet?
 
-Et effektivt og velfungerende team kan betragtes revolutionært. Det tænker i nye baner og udfordrer eksisterende dogmer og traditioner. Dette afhænger dog af den type opgave som stilles og hvilken organisation, der opereres indenfor. Ikke alle organisationer undergår samme hastige ændring og fordrer dermed heller ikke en tilsvarende forandringsparathed.  
- 
+Et effektivt og velfungerende team kan betragtes revolutionært. Det tænker i nye baner og udfordrer eksisterende dogmer og traditioner. Dette afhænger dog af den type opgave som stilles og hvilken organisation, der opereres indenfor. Ikke alle organisationer undergår samme hastige ændring og fordrer dermed heller ikke en tilsvarende forandringsparathed.
+
 Det er vigtigt, at teamet har en klar vision om, hvad det ønsker at opnå. For at skabe klarhed om begrebet kan det betragtes som en central del af et træ.
 
 ”Visionen” repræsenterer træets fod, idet den udgør rødderne og udgøres af teammedlemmernes værdier, færdigheder og overbevisninger.
- 
-Målsætningen eller stammen er det synlige udsagn om teamets formål. Teamets mål er så de største grene på træet, som producerer delmål (kvistene). 
 
-Endelig kan de aktivitetsplaner, som udarbejdes ved opnåelsen af delmålene, ses som de blade eller løv, der giver træet dets farve.” (West, s. 35) 
+Målsætningen eller stammen er det synlige udsagn om teamets formål. Teamets mål er så de største grene på træet, som producerer delmål (kvistene).
+
+Endelig kan de aktivitetsplaner, som udarbejdes ved opnåelsen af delmålene, ses som de blade eller løv, der giver træet dets farve.” (West, s. 35)
 
 Visionen, målsætningen, mål, delmål og aktivitetsplan er så tæt knyttede størrelser, at det kan være vanskeligt at skelne dem fra hinanden. Følgende eksempel nuancerer dog den forskel, der er begreberne imellem:
 
@@ -53,12 +57,12 @@ Et projektteam ønsker at se nærmere på det forhold, at alt for mange børn er
 - **Aktivitetsplan:** Børnene møder ind hver dag efter skole, hvor en idrætslærer vil lave forskellige, inspirerende og sjove aktiviteter. Efter hver uge vejes børnene, der føres samtaler med dem om hvorvidt de kan mærke en fremgang i såvel psykisk som fysisk trivsel. Der føres nøje statistik med hvert enkelt barn. En rapport udfærdiges og afleveres til Sundhedsforvaltningen i pågældende kommune.
 
 Ved at have en fælles vision mindskes risikoen for, at der arbejdes på tværs af teammedlemmernes interesser. Unødig forvirring og frustration kommes i forkøbet, og der skabes fra starten en vi-følelse og konsensus, der øger mulighederne for effektivitet og kreativitet.
- 
+
 Visionen bør formuleres i klare, sammenhængende vendinger. Ideelt set skal den til enhver tid kunne hives frem og være synlig for enhver i gruppen. Visionen er en fælles idé om et ønsket resultat, som er teamets motivation i arbejdet. (West, s. 39)
 
-I mange organisationer opleves en stigende foranderlighed. Dette er også gældende inden for idrætsverdenen. Teamet må derfor bestræbe sig på at være forandringsparat og villig til at tilpasse sig ændringer. Det er dog vigtigt, at teamet ikke handler hasarderet og ugennemtænkt, men at det derimod afsætter tid til at reflektere over de nye tiltag, som kan vise sig at være nødvendige i forhold til teamets vision, mål, handlingsplan etc.. Det er frugtbart for organisationen, at teamet finder frem til kreative arbejdsmåder og strategier, som udfordrer eksisterende dogmer og udgør alternativer til status quo. På den måde bidrages til den organisatoriske og samfundsmæssige udvikling. 
+I mange organisationer opleves en stigende foranderlighed. Dette er også gældende inden for idrætsverdenen. Teamet må derfor bestræbe sig på at være forandringsparat og villig til at tilpasse sig ændringer. Det er dog vigtigt, at teamet ikke handler hasarderet og ugennemtænkt, men at det derimod afsætter tid til at reflektere over de nye tiltag, som kan vise sig at være nødvendige i forhold til teamets vision, mål, handlingsplan etc.. Det er frugtbart for organisationen, at teamet finder frem til kreative arbejdsmåder og strategier, som udfordrer eksisterende dogmer og udgør alternativer til status quo. På den måde bidrages til den organisatoriske og samfundsmæssige udvikling.
 
-Det må være enhver proaktivists opgave at tolerere og opmuntre til tvivl og flertydighed, selvom det umiddelbart kan afstedkomme konflikt, uoverensstemmelser eller splid. ”På denne måde kan de, der arbejder i teamet, opleve den begejstring og gensidige anerkendelse, der frembringes via et virkeligt gennembrud som et resultat af menneskers arbejde” (West, s.9-10). Endvidere er det i krævende, omskiftelige og usikre omgivelser meget vigtigt, at teammedlemmerne støtter hinanden, så der kan skabes et miljø med tryghed, tillid og ansvar. (West, s. 10) 
+Det må være enhver proaktivists opgave at tolerere og opmuntre til tvivl og flertydighed, selvom det umiddelbart kan afstedkomme konflikt, uoverensstemmelser eller splid. ”På denne måde kan de, der arbejder i teamet, opleve den begejstring og gensidige anerkendelse, der frembringes via et virkeligt gennembrud som et resultat af menneskers arbejde” (West, s.9-10). Endvidere er det i krævende, omskiftelige og usikre omgivelser meget vigtigt, at teammedlemmerne støtter hinanden, så der kan skabes et miljø med tryghed, tillid og ansvar. (West, s. 10)
 
 At stå sammen, være solidarisk er en fyldig egenskab som blandt andre nævnes af K. E. Løgstrup. Han indkredser begrebet på følgende vis:
 
@@ -71,14 +75,20 @@ I forbindelse med teamsamarbejde opererer West med to fundamentale dimensioner:
 1. Selve opgaven, der skal udføres. Tanker og overvejelser om opgavens indhold og hvordan den løses bedst muligt - dvs. teamets opgaverefleksivitet.
 2. De sociale faktorer, som påvirker den måde, hvorpå teammedlemmerne opfatter deres team som en social enhed. Der rettes fokus på klimaet i teamet, herunder hensyntagen til følelsesmæssige, sociale og andre menneskelige behov – dvs. teamets sociale refleksivitet.
 
-For at anskueliggøre de to dimensioner i relation til teamsamarbejdet inddrager West en figur, hvor bl.a. opgaveeffektivitet, teammedlemmers psykiske trivsel og teamets levedygtighed fremgår. 
+For at anskueliggøre de to dimensioner i relation til teamsamarbejdet inddrager West en figur, hvor bl.a. opgaveeffektivitet, teammedlemmers psykiske trivsel og teamets levedygtighed fremgår.
 
 De fire typer teams (A, B, C og D) er alle ekstreme eksempler, men figuren illustrerer klart, at en høj social- opgaverefleksiviteten er en forudsætning for at et team kan fungere optimalt og lave gode resultater (Type A). Samtidig siger figuren også, at der trods lav social refleksivitet sagtens kan leveres gode resultater, men at sådanne teams typisk har kort levetid. Groft sagt behøver man jo ikke være gode venner for at lave et godt produkt (Type D). Modsat kan et team med alt for gode relationer og hyggeligt samvær medlemmerne imellem virke hæmmende for den opgave som skal udføres (Type B).
- 
-West har lavet et spørgeskema, hvorved det er muligt at måle graden af opgave- og socialrefleksivitet – eller mere konkret hvor effektivt et team fungerer! At inddrage sådan en test i et team skal naturligvis overvejes grundigt. Hvorfor skal teamet gøres opmærksom på, at de har en manglende social- eller opgaverefleksivitet? Og i så fald, hvad skal de gøre for at komme den til livs? Testen kan kaste lys over forhold, som er årsag til, at projektgruppen ikke fungerer optimalt. 
+
+West har lavet et spørgeskema, hvorved det er muligt at måle graden af opgave- og socialrefleksivitet – eller mere konkret hvor effektivt et team fungerer! At inddrage sådan en test i et team skal naturligvis overvejes grundigt. Hvorfor skal teamet gøres opmærksom på, at de har en manglende social- eller opgaverefleksivitet? Og i så fald, hvad skal de gøre for at komme den til livs? Testen kan kaste lys over forhold, som er årsag til, at projektgruppen ikke fungerer optimalt.
 
 Spørgsmålet er om det er hensigtsmæssigt og taktisk klogt at lave testen, hvis teamet er i en fase hvor nye problemstillinger er meget lidt ønskværdige. Omvendt kan den også bekræfte, hvis testen viser at social- og opgaverefleksiviteten er høj, at teammedlemmerne er tilfredse med det sociale klima og måden hvorpå opgaverne løses. Dette kan måske afkaste et mere positivt syn på hverandre i teamet. Det er altså ikke nok at måle, man skal også vide, hvad man vil gøre med tallene efterfølgende.
 
 Når spørgeskemaet udleveres til teamets medlemmer er det vigtigt, at de ikke taler sammen om svarene. Pointene for opgaverefleksivitet og socialrefleksivitet lægges sammen hver for sig. Indsaml gruppens skemaer, og samtlige pointtal for henholdsvis opgave- og socialrefleksivitet lægges sammen og der divideres med antallet af medlemmer. Bemærk at pointene for spørgsmål 5 og 8 vedrørende opgaverefleksiviteten og spørgsmål 2, 3, 6 og 8 vedrørende social refleksivitet tælles ’omvendt’, dvs. 7=1, 6=2, 5=3…etc. og endelig 1=7.
 
 {% include feature_row type="left" %}
+
+
+
+{% include figure image_path="/assets/images/blog/projektteamet.png" %}
+
+https://www.brejningefterskole.dk/media/pqwplhcc/3-2-teamsamarbejde-og-udvikling.pdf

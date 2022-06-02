@@ -2,8 +2,8 @@
 title: "Målsætning (dine egne mål)"
 excerpt: "Hvordan laver du en målsætning?"
 language: da
-categories:
-  - Projektledelse
+category:
+  - Undervisning
 tags:
   - projektplanlægning
 last_modified_at: 2020-01-23T20:50:27Z
@@ -28,7 +28,7 @@ feature_row:
 
 Hvordan laver du en målsætning? Skriv til {{ site.email }}, hvis du gerne vil læse artiklen. Materialet er skrevet, men ikke lagt op endnu.
 
-- Styrker og afklaring → [kortlink.dk/fmq9](http://kortlink.dk/fmq9)
-- Målsætning → [kortlink.dk/fmq8](http://kortlink.dk/fmq8)
+- Styrker og afklaring → [kortlink.dk/fmq9](http://kortlink.dk/fmq9){: rel="nofollow noopener" }
+- Målsætning → [kortlink.dk/fmq8](http://kortlink.dk/fmq8){: rel="nofollow noopener" }
 
 Jeg har skrevet mere om [SMART-målsætning med eksempler på motionsplan.dk](https://www.motionsplan.dk/smart/).

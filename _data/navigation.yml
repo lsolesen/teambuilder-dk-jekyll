@@ -1,11 +1,13 @@
 # main links
 main:
-  - title: "Aktiviteter"
-    url: /aktiviteter/
+  - title: "Projektledelse"
+    url: /projektledelse/
   - title: "Samarbejdsøvelser"
     url: /samarbejdsovelser/
   - title: "Perfekte minut"
     url: /perfekte-minut/
+  - title: "Aktiviteter"
+    url: /aktiviteter/
   - title: "Blog"
     url: /blog/
   - title: "Inspiration"
