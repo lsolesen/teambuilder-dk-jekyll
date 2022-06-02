@@ -1,11 +1,13 @@
 ---
 title: "Praktiske teambuildingsopgaver og øvelser"
-excerpt: "Hvordan går vi til praktiske opgaver?"
+excerpt: "Skal du bruge inspiration til teambuildingsopgaver og øvelser til teambuilding? Her har du en række ideer til øvelser og gruppeopgaver."
+permalink: "/praktiske-opgaver/"
 language: da
 category:
   - Projektledelse
 tags:
   - projektplanlægning
+  - featured
 last_modified_at: 2020-01-23T20:50:27Z
 feature_row:
   - image_path: https://imgcdn.saxo.com/_9788771580051/0x500
@@ -26,7 +28,22 @@ feature_row:
     rel: sponsored nofollow noopener
 ---
 
-Når man skal lære at samarbejde i en gruppe, er det en god idé at lave nogle forskellige praktiske øvelser. Især i starten af et forløb, er praktiske øvelser gode, hvis man i gruppen skal bringes tættere sammen, lære at kommunikere og få inspiration. 
+Skal du bruge inspiration til teambuildingsopgaver og øvelser til teambuilding? Her har du en række ideer til øvelser og gruppeopgaver.
+
+Når man skal lære at samarbejde i en gruppe, er det en god idé at lave nogle forskellige praktiske øvelser. Især i starten af et forløb, er praktiske øvelser gode, hvis man i gruppen skal bringes tættere sammen, lære at kommunikere og få inspiration.
+
+{% comment %}
+teambuilding opgaver	1	650	45,6
+teambuilding lege	0	666	54,1
+gruppeopgaver teambuilding	0	366	15,1
+ideer teambuilding øvelser	0	250	50,4
+teambuilding øvelser	0	164	74,7
+ideer til teambuilding øvelser	0	155	51
+teambuilding øvelse	0	135	51,9
+teambuilding konkurrencer	0	107	75,3
+team øvelser	0	59	21,1
+teambuildings øvelser
+{% endcomment %}
 
 ## Eksempler på opgaver
 
@@ -34,16 +51,16 @@ Når øvelserne er blevet lavet, har gruppen ofte været delt i to og konkurrere
 
 ## Hvorfor er konkurrencer gode?
 
-Konkurrencer er gode, hvis man i en gruppe vil lære hinanden at kende. Man kan gennem konkurrencer lære, hvordan de andre i gruppen reagerer i pressede situationer, holder personen sig til planen, kommer med nye idéer, hvis den gamle ikke virker, eller er personen så opsat på at vinde, at han/hun glemmer alt, hvad gruppen har planlagt og prøver 1000 idéer for at nå først i mål og dermed ødelægger det hele for de andre. 
+Konkurrencer er gode, hvis man i en gruppe vil lære hinanden at kende. Man kan gennem konkurrencer lære, hvordan de andre i gruppen reagerer i pressede situationer, holder personen sig til planen, kommer med nye idéer, hvis den gamle ikke virker, eller er personen så opsat på at vinde, at han/hun glemmer alt, hvad gruppen har planlagt og prøver 1000 idéer for at nå først i mål og dermed ødelægger det hele for de andre.
 
 ## Hvad kan øvelserne bruges til?
 
-Øvelser kan vise i hvor høj grad, man formår at samarbejde og kommunikere i mere eller mindre pressede situationer, samt om man husker at stoppe op og tænke sig om. Man lærer endvidere, hvem der er god til at tage styringen, hvem der arbejder hårdt, og hvem der bare ser til. Dermed lærer man vha. disse praktiske øvelser, hvilke personlighedstyper, de andre i gruppen, er. 
+Øvelser kan vise i hvor høj grad, man formår at samarbejde og kommunikere i mere eller mindre pressede situationer, samt om man husker at stoppe op og tænke sig om. Man lærer endvidere, hvem der er god til at tage styringen, hvem der arbejder hårdt, og hvem der bare ser til. Dermed lærer man vha. disse praktiske øvelser, hvilke personlighedstyper, de andre i gruppen, er.
 
-Man kan også bruge øvelserne til at finde inspiration til egne projekter. En god øvelse kan i en teambuildergruppe blive til en endnu bedre øvelse, da vi her udvikler på de gode idéer.  
+Man kan også bruge øvelserne til at finde inspiration til egne projekter. En god øvelse kan i en teambuildergruppe blive til en endnu bedre øvelse, da vi her udvikler på de gode idéer.
 
 > ## Få teambuildingsøvelser
-> 
+>
 > På teambuilder.vih.dk kan man finde mange spændende øvelser og aktiviteter, som kan bruges i diverse teambuilding sammenhænge. På sitet kan man finde inspiration til alt fra små icebreakers og lege til avancerede samarbejdøvelser.
 
 {% include feature_row type="left" %}

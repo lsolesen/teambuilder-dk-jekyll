@@ -1,12 +1,13 @@
 ---
 title: "Brug 5x5 projektmodellen til projektanalyse"
 permalink: /projektanalyse/
-excerpt: "Hvordan kan man angribe et projekt?"
+excerpt: "Skal du lave en projektanalyse? Her gennemgår vi 5x5 modellen og interessentmodellen. Begge er essentielle projektmodeller til at forstå projekter."
 language: da
 category:
   - Projektledelse
 tags:
   - projektplanlægning
+  - featured
 last_modified_at: 2020-01-23T20:50:27Z
 feature_row:
   - image_path: https://imgcdn.saxo.com/_9788771580051/0x500
@@ -27,6 +28,8 @@ feature_row:
     rel: sponsored nofollow noopener
 ---
 
+Skal du lave en projektanalyse? Her gennemgår vi 5x5 modellen og interessentmodellen. Begge er essentielle projektmodeller til at forstå projekter.
+
 Når du skal lave en projektanalyse, så kan 5x5-modellen være et rigtig godt redskab til at struktuere din analyse.
 
 I projekter er dit team ofte sammensat af mennesker med mange kompetencer og forskellige personprofiler. Vi bruger projektledelse i vores arbejde for at imødekomme målene i projektet bedst muligt.
@@ -34,8 +37,20 @@ I projekter er dit team ofte sammensat af mennesker med mange kompetencer og for
 For at holde styr på en projektgruppe er det vigtigt, at alle har en klar ide om hvornår, og hvad de skal bidrage med til at projektet kan blive til noget.
 
 For at sikre det bedst mulige projekt, så kan planlægningen gennemgå en række forskellige deltrin..
- 
+
 Hvis du laver en grundig projektanalyse, så er det lettere at finde ud af, hvordan opgaverne i projektet skal fordeles på den mest kompetente måde. Her er 5x5-projektmodellen et godt væktøj.
+
+{% comment %}
+5x5 modellen	8	180	2,7
+5x5 model	2	36	1,4
+team analyse	0	46	89,3
+teambuilding model	0	29	1
+projektmodellen	0	23	44,3
+interessent modellen	0	3	1
+interessentanalyse model	0	2	95
+projekt analyse	0	1	30
+team-analyse
+{% endcomment %}
 
 ## 5x5-projektmodellen
 
@@ -66,7 +81,7 @@ Modellen består af 5 elementer:
 {% include figure image_path="/assets/images/blog/5x5-modellen-2.png" %}
 
 For hvert af de 5 elementer er der 5 punkter som er væsentlige at tjekke af løbende gennem
-projektet. 
+projektet.
 
 ## Projektopgaven
 
@@ -81,7 +96,7 @@ succeskriterier, så I tager stilling til, hvornår projektet er en succes. Det 
 
 Dan jer et overblik overprojektets interessenter. Det kan gøres ved at lave interessentanalyse og
 interessentmatrix.
- 
+
 |             | Primære interessenter | Sekundære interessenter |
 |-------------|-----------------------|-------------------------|
 | Medspillere |                       |                         |
@@ -107,7 +122,7 @@ Dette er en analyse af de faktorer som kan påvirke projektet.
 - **Kultur** - de kulturelle forhold kan have stor indflydelse på projektet da der er stor fokus på sundhed, og projektet skal gerne leve op til kundernes forventninger.
 - **Marked** - markedet er i konstant forandring og det er derfor vigtigt at have stor kendskab til den målgruppe der arbejdes med.
 - **Teknologi** - teknologiske forhold kan have indflydelse på projektets endelige produkt. Det er vigtigt at det endelige produkt lever op til de teknologiske forhold, da et forældet projekt ikke er udfordrende nok
-- **Omgivende systemer** -  massemedier og reklame på andre måde kan være med til at hæve et projekt. Det er derfor vigtigt at have kendskab til alle omgivende systemer. 
+- **Omgivende systemer** -  massemedier og reklame på andre måde kan være med til at hæve et projekt. Det er derfor vigtigt at have kendskab til alle omgivende systemer.
 
 |                    | Fordele          | Ulemper                 |
 |--------------------|------------------|-------------------------|
@@ -120,7 +135,7 @@ Dette er en analyse af de faktorer som kan påvirke projektet.
 | Omgivende systemer |                  |                         |
 |--------------------|------------------|-------------------------|
 
-Alt i alt er formålet med projektledelse at, styre og koordinere mennesker og ressourcer igennem et projekts forløb, ved hjælp af god ledelse kan vi opnå et veldefinerede mål, kvalitet og tilfredshed hos interessenterne indenfor den givne tid og de økonomiske rammer der er stillet op. 
+Alt i alt er formålet med projektledelse at, styre og koordinere mennesker og ressourcer igennem et projekts forløb, ved hjælp af god ledelse kan vi opnå et veldefinerede mål, kvalitet og tilfredshed hos interessenterne indenfor den givne tid og de økonomiske rammer der er stillet op.
 
 ## Omgivelser
 
@@ -130,7 +145,7 @@ analysen og eventuelt efterfølgende TOWS for at få et overblik over projektets
 at det der kan overvejes i omgivelserne kan være:
 
 - Er der et marked for projektet?
-- Det fysiske miljø, lokaler, pladsforhold, vejret. 
+- Det fysiske miljø, lokaler, pladsforhold, vejret.
 - Er det andre projekter eller aktiviteter som skaber muligheder for dette
 projekt eller måske begrænsninger?
 - Er det regler eller normer vi skal være opmærksomme på?

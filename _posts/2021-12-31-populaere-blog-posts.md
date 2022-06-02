@@ -26,7 +26,7 @@ popular_posts_2021:
 
 Vi har kigget lidt på statistikken over hvilke artikler der har været de mest læste i 2021. Her er de mest læste artikler og samarbejdsøvelser. Nogle af artiklerne er lidt overraskende.
 
-Der er kommet lidt liv i Teambuilder.dk igen. Vi er get i gang med at skrive nye blog posts og har opdateret gamle blog posts. 
+Der er kommet lidt liv i Teambuilder.dk igen. Vi er get i gang med at skrive nye blog posts og har opdateret gamle blog posts.
 
 Her samler vi op på de mest populære blog posts i løbet af 2021. Der er nogle ældre blog posts på {{ page.popular_posts_2021.size }} listen, men der er også nogle nye der har sneget sig ind på listen over populære blog posts.
 

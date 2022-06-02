@@ -1,6 +1,7 @@
 ---
 title: "Adfærdsprofiler"
 excerpt: "Adfærdsprofiler"
+excerpt: "Adfærdsprofiler bruges til at hjælpe folk med at finde ud af, hvordan de er. Adfærdsprofiler skal ikke bruges til at fortælle folk, hvordan de er."
 language: da
 category:
   - Projektledelse
@@ -65,7 +66,7 @@ BLÅ
 - Community
 - Control
 
-Disse fire driver kan direkte knyttes til adfærdstendenserne. 
+Disse fire driver kan direkte knyttes til adfærdstendenserne.
 
 ## Adfærdsprofiler giver indsigt, men ikke løsninger
 
@@ -73,7 +74,7 @@ Adfærdsprofiler hjælper dig med at finde ud af, hvordan du handler i forskelli
 
 ### Din egen adfærdsprofil
 
-- Hvad skal du være opmærksom på ift. din egen adfærdsprofil? 
+- Hvad skal du være opmærksom på ift. din egen adfærdsprofil?
 - Hvis der er noget, du ikke er enig i eller i tvivl om, så spørg nogle af de andre, hvordan de ser dig?
 
 {% include feature_row type="left" %}

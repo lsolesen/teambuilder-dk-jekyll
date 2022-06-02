@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /perfekte-minut/
-excerpt: Udfordringer som kan bruges til det perfekte minut. Lige til at klippe ud.
+excerpt: Udfordringer som kan bruges til det perfekte minut. Lige til at printe ud.
 taxonomy: Det perfekte minut
 title: "Det perfekte minut"
 author_profile: true

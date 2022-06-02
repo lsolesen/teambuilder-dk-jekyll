@@ -1,7 +1,7 @@
 ---
 title: "Interessentanalyse"
 seo_title: "Interessentanalyse: Skabelon og eksempel"
-excerpt: "Hvordan kan man angribe et projekt?"
+excerpt: "Ved du, hvem der er berørt af dit projekt? Så skal du i gang med at lave en interessentanalyse. Her ser du hvordan!"
 language: da
 category:
   - Projektledelse
@@ -25,7 +25,7 @@ feature_row:
     btn_label: "Læs mere"
     btn_class: "btn--success"
     rel: sponsored nofollow noopener
-faq: 
+faq:
   - question: Hvad er formålet med en interessentanalyse?
     answer: Formålet med en interessentanalyse er at give projektlederen og projektteamet et overblik over de personer, der har en interesse i projektet, og at gøre det muligt at træffe foranstaltninger til en passende håndtering af disse interessenter.
   - question: Hvordan kan jeg foretage en interessentanalyse?
@@ -41,7 +41,7 @@ faq:
   - question: Hvad er en interessentliste?
     answer: En interessentliste er en liste over alle personer, der har en interesse i projektet. Den omfatter deres navn, kontaktoplysninger og rolle i projektet.
   - question: Hvad er forskellen mellem en interessent og en sponsor?
-    answer: En interessent er enhver person, der har en interesse i projektet. En sponsor er en person eller organisation, der yder finansiel eller anden støtte til projektet. Sponsorer er normalt interessenter, men det er ikke alle interessenter, der er sponsorer 
+    answer: En interessent er enhver person, der har en interesse i projektet. En sponsor er en person eller organisation, der yder finansiel eller anden støtte til projektet. Sponsorer er normalt interessenter, men det er ikke alle interessenter, der er sponsorer
 ---
 
 {% comment %}

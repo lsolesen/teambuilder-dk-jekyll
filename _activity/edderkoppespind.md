@@ -1,17 +1,19 @@
 ---
 title: "Edderkoppespind"
+permalink: /aktivitet/edderkoppespind/
 redirect_from: /content/edderkoppespind
 excerpt: ""
 language: da
 header:
   overlay_image: /assets/images/activity/edderkoppespind-0.jpg
   teaser: /assets/images/activity/edderkoppespind-0-320.jpg
-categories: 
+categories:
   - Opgave
   - Samarbejdsøvelse
-tags: 
+tags:
   - Opgave
   - Samarbejdsøvelse
+  - featured
 aim: ""
 instruction: ""
 preparation: ""
