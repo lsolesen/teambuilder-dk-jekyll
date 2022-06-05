@@ -29,41 +29,12 @@ feature_row:
 
 
 {% comment %}
-projektledelse
-2,900
-kr38,11
-46
-38
-projektledelse uddannelse
-1,000
-kr43,85
-66
-40
-projektledelse kursus
-1,000
-kr66,72
-45
-37
-projektledelsesværktøjer
-260
-kr44,12
-14
-39
-projektledelse teori og praksis
-170
-kr7,29
-100
-49
-projektledelse bog
-90
-kr5,06
-100
-37
-projektledelse prince2
-90
-kr94,78
-46
-35
+projektledelse 2,900
+projektledelse uddannelse 1,000
+projektledelse kursus 1,000
+projektledelsesværktøjer 260
+projektledelse teori og praksis 170
+projektledelse bog 90
 {% endcomment %}
 
 

@@ -29,7 +29,9 @@ feature_row:
     rel: sponsored nofollow noopener
 ---
 
-Virksomheder laver teambuilding i det håb, at de bliver mere effektive. Men så let er det ikke. Forskning viser
+Virksomheder laver teambuilding i det håb, at de bliver mere effektive. Men så let er det ikke.
+
+Forskning viser
 
 - at teambuildingsøvelser har ofte en god effekt på teammedlemmernes indstilling til og opfattelse af hinanden
 - at teambuildingsøvelser har ofte kun lille indvirkning på teamets resultater
@@ -39,5 +41,10 @@ Man skal altså skelne mellem teambuildingøvelser, der fokuserer på sociale fo
 Teambuilding er altså ikke et vidundermiddel.
 
 Her er et slideshow der indeholder noget grundlæggende teori om teambuilding:
+
+
+{% comment %}
+https://f5.dk/er-teambuilding-spild-af-tid-og-penge/
+{% endcomment %}
 
 {% include feature_row type="left" %}

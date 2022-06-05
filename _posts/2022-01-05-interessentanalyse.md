@@ -1,6 +1,7 @@
 ---
-title: "Interessentanalyse"
+title: "Interessentanalyse: Skabelon og eksempel"
 seo_title: "Interessentanalyse: Skabelon og eksempel"
+permalink: /interessentanalyse/
 excerpt: "Ved du, hvem der er berørt af dit projekt? Så skal du i gang med at lave en interessentanalyse. Her ser du hvordan!"
 language: da
 category:
@@ -56,7 +57,9 @@ interessentanalyse metode
 
 Ved du, hvem der er berørt af dit projekt? Der er sandsynligvis mange mennesker, der har en interesse i det, du laver - lige fra de mennesker, der vil blive direkte berørt af resultatet, til dem, der bare gerne vil sikre, at alt går glat.
 
-En interessentanalyse er en proces, hvor du identificerer og vurderer disse personer, så du kan håndtere dem effektivt. I dette blogindlæg giver vi dig en skabelon og et eksempel på, hvordan du kan foretage en interessentanalyse til dit næste projekt.
+Interessentanalysen er en del af [5x5-modellen](/projektanalyse/) til projektanalyse.
+
+En interessentanalyse er en proces, hvor du identificerer og vurderer de berørte personer, så du kan håndtere dem effektivt. I dette blogindlæg giver vi dig en skabelon og et eksempel på, hvordan du kan foretage en interessentanalyse til dit næste projekt.
 
 ## Hvad er en interessentanalyse?
 
@@ -182,7 +185,11 @@ Diskuter, hvem de mener, er den eller de vigtigste personer i projektet. For at 
 
 {% include figure image_path="/assets/images/blog/interessentanalyse.png" %}
 
+{% comment %}
+
 ## Eksempel på en interessentanalyse
+
+{% endcomment %}
 
 ## Konklusion
 

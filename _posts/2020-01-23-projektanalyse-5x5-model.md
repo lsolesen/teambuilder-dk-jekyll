@@ -74,7 +74,7 @@ Modellen består af 5 elementer:
 2. Interessenterne
 3. Omgivelserne
 4. Ressourcerne
-5. Projektledelse,
+5. Projektledelse
 
 {% include figure image_path="/assets/images/blog/5x5-modellen.png" %}
 
@@ -87,10 +87,10 @@ projektet.
 
 Projektopgaven fastsætter meningen med projektet og hvad der ønskes opnået. Det skal være
 tydeligt hvilken forandring projektet skal skabe.
+
 Arbejde med målsætning for projektet er central. Det gøres med værktøjerne målhierarki og
 målskema husk at bruge SMART modellen til målene. Endvidere er det vigtig at lave
 succeskriterier, så I tager stilling til, hvornår projektet er en succes. Det gøres i målskemaet.
-
 
 ## Interessenter
 
@@ -104,9 +104,9 @@ interessentmatrix.
 | Modstandere |                       |                         |
 |-------------|-----------------------|-------------------------|
 
-## Interessentanalyse
+### Interessentanalyse
 
-En interessentanalyse er som man lidt kan tænkte sig til en analyse af interessenterne.  Her bliver det overskueligt at forstår håndteringen af interessenterne.
+En interessentanalyse er som man lidt kan tænkte sig til en analyse af interessenterne. Her bliver det overskueligt at forstår håndteringen af interessenterne.
 
 Formålet med analysen er at hjælpe projektledere med at håndtere interessenterne.
 
@@ -114,6 +114,8 @@ Formålet med analysen er at hjælpe projektledere med at håndtere interessente
 |-------------|---------------|-----------|----------------------|------------|----------------|
 |             |               |           |                      |            |                |
 |-------------|---------------|-----------|----------------------|------------|----------------|
+
+Læs: [Guide til interessentanalyse med skabelon og eksempel](/interessentanalyse/)
 
 ## Omgivelsesanalyse
 
@@ -140,14 +142,14 @@ Alt i alt er formålet med projektledelse at, styre og koordinere mennesker og r
 ## Omgivelser
 
 Omgivelserne er det som ligger rundt om projektet. Det er de sammenhænge, hvor projektet skal
-indgå uden at have indflydelse. Vi kan også kalde det vilkårene for projektet. I kan lave SWOT
-analysen og eventuelt efterfølgende TOWS for at få et overblik over projektets omgivelser. Noget
+indgå uden at have indflydelse. Vi kan også kalde det vilkårene for projektet. En [SWOT-analyse](/swot-analyse/) og en [TOWS-analyse](/tows-analyse/) kan hjælpe med at give et overblik over projektets omgivelser.
+
+Noget
 at det der kan overvejes i omgivelserne kan være:
 
 - Er der et marked for projektet?
 - Det fysiske miljø, lokaler, pladsforhold, vejret.
-- Er det andre projekter eller aktiviteter som skaber muligheder for dette
-projekt eller måske begrænsninger?
+- Er det andre projekter eller aktiviteter som skaber muligheder for dette projekt eller måske begrænsninger?
 - Er det regler eller normer vi skal være opmærksomme på?
 
 ## Ressourcer
@@ -161,7 +163,6 @@ De forskellige ressourcer som projektet gør brug af.
 - Penge (Budget)
 
 ## Projektledelse
-
 
 Projektledelse, handler om at planlægge, organisere, lede og styre projektet. Her skal I have fokus
 på:

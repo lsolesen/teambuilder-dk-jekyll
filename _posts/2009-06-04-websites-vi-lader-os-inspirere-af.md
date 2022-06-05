@@ -1,6 +1,9 @@
 ---
-title: "Websites vi lader os inspirere af"
-redirect_from: /content/websites-vi-lader-os-inspirere-af
+title: "5 inspirerende blogs om teambuilding"
+permalink: /blogs-om-teambuilding/
+redirect_from:
+  - /content/websites-vi-lader-os-inspirere-af
+  - /websites-vi-lader-os-inspirere-af/
 language: da
 category:
   - Webclips
@@ -33,3 +36,14 @@ Vi bruger naturligvis også nettet, når vi leder efter nye måder at gøre ting
 Hvis du har andre sites på nettet, hvor du finder inspiration, del det med os andre i kommentarerne.
 
 {% include feature_row type="left" %}
+
+
+https://goteam.dk/blog/gratis-teambuilding-ovelser
+
+https://teambuilding.com/blog
+
+https://coastzone.dk/oplevelser/blog
+
+https://a-w-a.dk/awa-bloggen/
+
+https://www.teambonding.com/blog/

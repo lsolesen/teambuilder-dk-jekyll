@@ -1,7 +1,7 @@
 lsolesen:
   name: "Lars Olesen"
-  bio: "Lars Olesen er viceforstander på Vejle Idrætshøjskole og har i mange år har haft teambuilderlinjen."
-  avatar: "/assets/images/authors/larsolesen.png"
+  bio: "Lars Olesen er viceforstander på Vejle Idrætshøjskole og har været højskolelærer i mange år. Han var bl.a. med til at starte teambuilderlinjen."
+  avatar: "/assets/images/authors/larsolesen.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
