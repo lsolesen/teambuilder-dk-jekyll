@@ -9,7 +9,7 @@ category:
 tags:
   - projektplanlægning
   - featured
-last_modified_at: 2022-05-23T20:50:27Z
+last_modified_at: 2020-05-23T20:50:27Z
 feature_row:
   - image_path: https://imgcdn.saxo.com/_9788771580051/0x500
     alt: "Teamwork - metoder til effektivt samarbejde af Michael A. West"

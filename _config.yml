@@ -15,12 +15,12 @@ future: true
 
 # Site Settings
 locale                   : "da"
-title                    : "Teambuilding"
+title                    : "Teambuilder"
 title_separator          : "-"
-subtitle                 : "Teambuildingøvelser fra Vejle Idrætshøjskole."
+subtitle                 : "Teambuilding & Projektledelse"
 logo                     : "/android-chrome-192x192.png"
 name                     : "Teambuilding"
-description              : "Teambuildingøvelser fra Vejle Idrætshøjskole."
+description              : "Alt om teambuilding og projektledelse. Skrevet af elever og lærere på Vejle Idrætshøjskole."
 url                      : "https://www.teambuilder.dk" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lsolesen/teambuilder-dk-jekyll" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -273,7 +273,7 @@ defaults:
       share: true
       related: true
       toc: true
-      author: lsolesen      
+      author: lsolesen
 # _activity
   - scope:
       path: ""
