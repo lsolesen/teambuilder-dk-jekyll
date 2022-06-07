@@ -1,12 +1,13 @@
 ---
-title: "Projekt og projektfaser"
+title: "Projekt og projektfaser: Guide til projektstyring"
+excerpt: "Skal du i gang med projektstyring? Her er en guide til at komme sikkert gennem et projekt og de forskellige projektfaser."
 permalink: /projekt-og-projektfaser/
 language: da
 category:
   - Projektledelse
 tags:
   - projektplanlægning
-last_modified_at: 2020-01-23T20:50:27Z
+last_modified_at: 2022-05-23T20:50:27Z
 feature_row:
   - image_path: https://imgcdn.saxo.com/_9788771580051/0x500
     alt: "Teamwork - metoder til effektivt samarbejde af Michael A. West"
@@ -26,10 +27,19 @@ feature_row:
     rel: sponsored nofollow noopener
 ---
 
+Et projekt er et midlertidigt projekt med et specifikt mål eller en specifik målsætning, der gennemføres i løbet af en bestemt periode og inden for visse omkostninger og andre begrænsninger.
 
+Et projekt adskiller sig fra rutinearbejde, som er gentagende og ikke har nogen specifik start- eller slutdato. For ikke at miste overblikket over et projekt, så kan man sørge for at [lægge en projektplan](/projektplanlaegning/) og holde styr på [projektledelsen](/projektledelse/).
 
+I dette indlæg får du svar på:
 
+- Hvad skal du tænke på i forbindelse med et projekt?
+- Hvilke faser er der i et projekt?
+- Hvordan sikrer du dig et succesfuldt projekt?
 
+Lad os dykke direkte ned i det.
+
+## Hvad er et projekt?
 
 Et projekt er en tidsafgrænset veldefineret engangs-opgave med et veldefineret mål. Når opgaven er løst, er der ikke mere noget projekt.
 
@@ -42,15 +52,17 @@ Et projekt vil kunne beskrives som
 - Projektets interessenter er de mennesker, organisationer, enheder m.m., som har interesse i projektet og dets resultater.
 - Projektets ressourcer er de mennesker og deres tid, penge, udstyr, materialer m.m., som skal bruges i projektet
 
-## Projektkultur
+## Projekttænkning og projektkultur
 
 Projekttænkning har i høj grad noget at gøre med forandringsparathed, lyst og mod til at arbejde med en ny og tidsbestemt opgave.  Arbejde på tværs i en organisation, indgå partnerskaber med andre og ikke mindst arbejde med meget målrettede og målbare opgaver, der tit vil være meget tydelige overfor omverdenen.
 
-Projekter skal normalt finde sine egne veje og løsninger, og stiller dermed sine specielle krav til såvel opgavestilleren, projektlederen samt projektgruppemedlemmernes adfærd og kvalifikationer. Der er stor forskel på en projektkultur og en driftskultur. De skal jo fungere i vidt forskellige kontekster, men naturligvis i respekt for hinandens funktioner og arbejdsformer.
+Projekter skal normalt finde sine egne veje og løsninger, og stiller dermed sine specielle krav til såvel opgavestilleren, projektlederen samt projektgruppemedlemmernes adfærd og kvalifikationer.
+
+Der er stor forskel på en projektkultur og en driftskultur. De skal jo fungere i vidt forskellige kontekster, men naturligvis i respekt for hinandens funktioner og arbejdsformer.
 
 ## Et projekts grundpiller
 
-Et projekt bygger på fire grundelementer, der afhængig af projektideen vil spille sammen på forskellig vis. Indholdet i hvert af grundelementerne skal naturligvis tilpasses det enkelte projekt. 
+Et projekt bygger på fire grundelementer, der afhængig af projektideen vil spille sammen på forskellig vis. Indholdet i hvert af grundelementerne skal naturligvis tilpasses det enkelte projekt.
 
 De fire grundelementer kan kort beskrives som
 
@@ -61,13 +73,15 @@ De fire grundelementer kan kort beskrives som
 | 3 | Fremgangsmåden | Hvordan vil projektgruppen løse opgaven? Hvilken projektmodel eller projektmetode skal anvendes? | |
 | 4 | Ressourcekravene | De faglige kvaliteter, arbejdskraft, materialer, udstyr, økonomi m.m., der skal indgå i projektet for at det kan gennemføres. | Budget |
 
-Det er vigtig for et projekt, at der etableres en projektarbejdsform, hvor projektkulturen hos såvel projektgruppens medlemmer som i basisorganisationen er kendetegne ved holdninger og adfærd, der kan matche ovenstående beskrivelse af, hvordan en proaktivist tænker projekt. Der skal endvidere etableres en projektorganisation, der bl.a. skal sikre ansvar og kompetencer i relation til hele projektforløbet. Endelig skal der være en projektstyring, der bl.a. skal sikre projektets helhed, kvalitet og fremdrift i relation til de givne rammer.
+Det er vigtig for et projekt, at der etableres en projektarbejdsform, hvor projektkulturen hos såvel projektgruppens medlemmer som i basisorganisationen er kendetegnet ved holdninger og adfærd, der kan matche kravene i et projekt.
+
+Der skal endvidere etableres en projektorganisation, der bl.a. skal sikre ansvar og kompetencer i relation til hele projektforløbet. Endelig skal der være en projektstyring, der bl.a. skal sikre projektets helhed, kvalitet og fremdrift i relation til de givne rammer.
 
 ## Faser i et projekt
 
 Uanset hvilken projekttype man går i gang med er der en række faser, man skal forholde sig til. Vi har ladet os inspirere af en model fra IDEO.
 
-Der er naturligvis stor forskel på karakteren af diverse projekter og dermed den opgave, der skal løses. Men uanset projekttypen skal proaktivisten i et hver projekt forholde sig til følgende faser.
+Der er naturligvis stor forskel på karakteren af diverse projekter og dermed den opgave, der skal løses. Men uanset projekttypen skal projektdeltagere i et hver projekt forholde sig til følgende faser.
 
 {% include figure image_path="https://image.slidesharecdn.com/designthinkingcreunabriefing-160914134058/95/kom-hurtigt-i-gang-med-design-thinking-32-638.jpg?cb=1473861817" caption="Figur: HCD projekt model fra IDEO - [via](https://www.slideshare.net/creuna/kom-hurtigt-i-gang-med-design-thinking)" %}
 
@@ -86,7 +100,7 @@ Der er naturligvis stor forskel på karakteren af diverse projekter og dermed de
 | Gennemføre  | |
 | Evaluering  | |
 
-## Afklaringsfasen
+### 1. Afklaringsfasen
 
 Hvem er  opgavestilleren? Hvad går opgaven ud på? Opgaven skal nærmere defineres, og der skal dannes et klart billede af projektets mål, ramme, indhold og omfang. Der gennemføres interessentanalyse, forventninger og krav beskrives, ressourcebehov skønnes og det samme gør hvad der kan hæmmer og/eller fremme projektet. Det vurderes på hvilken måde projektet skal organiseres.
 
@@ -98,9 +112,9 @@ Nøgleord i denne fase er:
 - Projektets mål
 - Projektets opsplitning i hovedområder
 - Projektets ressourcebehov
-- Projektets organisering 
+- Projektets organisering
 
-## Planlægningsfasen
+### 2. Planlægningsfasen
 
 Projektet planlægges. Hvilke løsninger kan der være, og hvordan kan den valgte løsning gennemføres?
 
@@ -110,13 +124,13 @@ Planen skal eventuelt til godkendelse hos opgavestilleren.
 
 Nøgleord i denne fase er:
 
-- Projektplan 
+- Projektplan
 - Hovedopgaver nedbrydes i delopgaver
 - Projektets tidsplan
 - Udarbejdelse af handlingsplaner
 - Beskrivelse af ansvarsfordelingen
 
-## Gennemførelsesfasen
+### 3. Gennemførelsesfasen
 
 Projektgruppen igangsætter og gennemfører selve projektet. Opgaven udføres i relation til den udarbejdede projektplan.
 
@@ -127,33 +141,67 @@ Projektlederen har særlige funktioner mht. at bl.a. motivere og få projektgrup
 Nøgleord i denne fase er:
 
 - Kick-off og projektmøder
-- Projektledelse
+- [Projektledelse](/projektledelse/)
 - Projektstyring og administration
-- Opfølgning 
+- Opfølgning
 - Håndteringer af ændringer
 - Motivation og samarbejde
 - Kommunikation og formidling
 
-## Evalueringsfasen
+### 4. Evalueringsfasen
 
 Projektet er afsluttet. Opgaven er løst. I denne fase vurderes forløbet og de opnåede resultater. Opgavestilleren får i givet fald overdraget projektgruppens vurdering af projektet, men det kan også være opgavestilleren selv, der høster erfaringerne og måske overdrager dem til en driftfunktion.
 
-I gennemførelsesfasen afslutte proaktivisterne med udarbejdelse af en evaluering og en dokumentation over et konkret projektforløb.
+I gennemførelsesfasen afslutter projekdeltagere med udarbejdelse af en evaluering og en dokumentation over et konkret projektforløb.
 
 Projektgruppen ophører.
 
 {% include figure image_path="http://www.smitter.dk/images/modelforside.png" caption="SMTTE-modellen - via [www.smitter.dk](http://www.smitter.dk/)" %}
 
-Se mere om projektplanlægning på [kortlink.dk/ffmd](http://kortlink.dk/ffmd){: rel="nofollow noopener" } og om projektledelse på [kortlink.dk/ffme](http://kortlink.dk/ffme){: rel="nofollow noopener" }.
-{: .notice .notice--success }
+## Hvad skal der til i et succesfuldt projekt?
 
-## Projektleder og projektgruppemedlem
+Der er flere ting, der skal gå op i en højere enhed for at lave et succesfuldt projekt. Her er nogle genveje til nogle af dem.
 
-Proaktivistuddannelsen give mulighed for at arbejde med sig selv som projektleder og som projektgruppemedlem. 
+### 1. Projektanalyse
 
-Alle proaktivister får et teoretisk kendskab til projektlederrollens mange funktioner og oplever hvordan en projektleder kan fungere i et konkret forløb. Nogle proaktivister vil direkte blive trænet i rollen som projektleder, og have det fulde ansvar for et konkret eksternt projekt.
+Det første, du skal gøre, er at foretage en [projektanalyse](/projektanalyse/). Det vil give dig et overblik over de opgaver, der skal løses, og de ressourcer, der er til rådighed til at løse dem. Projektanalysen vil også hjælpe dig med at identificere eventuelle risici, der kan opstå i løbet af projektet.
+
+En god projektanalyse bør besvare følgende spørgsmål:
+
+- Hvad er projektets mål?
+- Hvem er de interessenter, der er involveret i projektet?
+- Hvilke ressourcer er nødvendige for projektet?
+- Hvilke risici er der forbundet med projektet?
+- Hvad er tidsplanen for projektet?
+- Hvad er projektets leverancer?
+
+Projektanalyse er en et meget vigtigt skridt i projektstyringsprocessen. Uden en god forståelse af målene, interessenterne, ressourcerne, risiciene og tidslinjerne i forbindelse med et projekt vil det være meget vanskeligt at styre projektet med succes.
+
+Læs: [Projektanalyse: Sådan analyserer du projekter](/projektanalyse/)
+
+### 2. Projekplan og projektplanlægning
+
+Når projektanalysen er færdig, skal du udarbejde en detaljeret projektplan, der beskriver alle de opgaver, der skal udføres for at nå projektets mål. Projektplanen skal også indeholde en tidslinje for hver opgave og angive, hvilke ressourcer der er nødvendige for hver opgave.
+
+Projektplanen er et levende dokument, der skal være opdateres regelmæssigt, efterhånden som projektet skrider frem.
+
+Projektplanen er et værktøj, der kan bruges til at følge projektets fremdrift og til at identificere eventuelle problemer, der kan opstå.
+
+Læs: [Projektplanlægning: Læg en plan for projektet](/projektplanlaegning/)
+
+### 3. Projektleder og projektledelse
+
+For at lave et succesfult projekt, så er det nødvendigt med et teoretisk kendskab til projektlederrollens mange funktioner og oplever hvordan en projektleder kan fungere i et konkret forløb.
+
+Der bør altid være nogle i et projekt, som tager det overordnede ansvar for [projektledelse](/projektledelse/). Det kan sagtens være et projektlederteam, men det er godt at tage det fulde ansvar for det konkrete projekt uanset om det er internt eller eksternt.
+
+Læs: [Projektledelse og projektlederen](/projektledelse/)
+
+## Konklusion
+
+Projektledelse er en kompleks proces, der kræver viden og erfaring for at kunne gennemføres effektivt. Men hvis du har en god forståelse af projektledelsesprocessens forskellige faser og projektlederens funktioner, er du godt på vej til at lede vellykkede projekter.
 
 ## Litteratur
 
 - Niels Andersson, Torben Bundgaard, Tom Jensen: [PROJEKTER – fra ide til handling](https://www.dif.dk/radgivning-og-stotte/udgivelser/forening-og-ledelse/projekter-fra-ide-til-handling), Danmarks Idræts-Forbund ISBN: 87- 90316- 01- 0
-- Bjarne Kausholt: Projektlederbogen, Ingeniøren\bøger  ISBN: 87-571-2463-9
+- Bjarne Kausholt: [Projektlederbogen](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/projektlederbogen_bjarne-kousholt_haeftet_9788750058281){: rel="sponsored nofollow noopener" }, Ingeniøren\bøger  ISBN: 87-571-2463-9

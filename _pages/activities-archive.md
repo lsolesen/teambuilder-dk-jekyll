@@ -8,5 +8,4 @@ collection: activity
 entries_layout: grid
 classes: wide
 author_profile: true
-sitemap: false
 ---
