@@ -24,3 +24,7 @@ Lars driver også [motionsplan.dk](https://www.motionsplan.dk), [Fodboldens Lege
 ## Bidragydere
 
 - Vejle Idrætshøjskoles Instruktør- og teambuilderlinje.
+
+## Logo
+
+Logoet er fra <a href="https://www.flaticon.com/free-icon/teamwork_306250" title="teamwork icons" rel="nofollow noopener">Teamwork icons created by Vectors Market - Flaticon</a>

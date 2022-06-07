@@ -24,35 +24,11 @@ Hvis du er på udkig efter praktiske øvelser, så har vi lavet en samlet oversi
 </div>
 
 {% comment %}
-teambuilding
-3,600
-kr38,77
-49
-29
-teambuilding aktiviteter
-1,000
-kr31,66
-64
-21
-teambuilding øvelser
-1,000
-kr17,37
-55
-29
-teambuilding københavn
-720
-kr39,81
-60
-23
-teambuilding jylland
-260
-kr28,51
-13
-24
-teambuilding vejle
-170
-kr23,85
-35
-20
+teambuilding 3,600
+teambuilding aktiviteter 1,000
+teambuilding øvelser 1,000
+teambuilding københavn 720
+teambuilding jylland 260
+teambuilding vejle 170
 
 {% endcomment %}

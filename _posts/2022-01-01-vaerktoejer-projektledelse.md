@@ -1,11 +1,13 @@
 ---
 title: "Projektværktøjer: Værktøjer til projektledelse"
 language: da
+header:
+  teaser: https://images.unsplash.com/photo-1611224885990-ab7363d1f2a9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&h=300&w=400&q=10
 category:
   - Projektledelse
 tags:
   - projektplanlægning
-last_modified_at: 2020-01-23T20:50:27Z
+last_modified_at: 2022-05-23T20:50:27Z
 feature_row:
   - image_path: https://imgcdn.saxo.com/_9788771580051/0x500
     alt: "Teamwork - metoder til effektivt samarbejde af Michael A. West"
@@ -27,7 +29,7 @@ feature_row:
 
 Her har vi samlet en række værtøjer til projektledelse, som kan gør din opstart, planlægning, gennemførelse og evaluering af projekterne lettere.
 
-For at gennemføre projekter, så kan du med fordel benytte en række forskellige redskaber til projektanalyse og projektstyring. Det gør det lettere at navigere sikkeret gennem projekterne. 
+For at gennemføre projekter, så kan du med fordel benytte en række forskellige redskaber til projektanalyse og projektstyring. Det gør det lettere at navigere sikkeret gennem projekterne.
 
 Vi har skrevet mere uddybende om [projektledelse](/projektledelse/), men på denne side kan du se en masse forskellige projektværktøjer.
 
@@ -35,7 +37,7 @@ Vi har skrevet mere uddybende om [projektledelse](/projektledelse/), men på den
 
 Disse værktøjer gør dig bedre i stand til at skabe projekter for andre. Men projektværktøjerne gør det også lettere at arbejde sammen med andre om projekter.
 
-Projektværktøjerne giver dig et større overblik, så du også kan overskue mere. De giver dig også en større forståelse for hinanden i projektgruppen og projekteamet, så I kan imødegå forskellighederne i gruppen og de mange forskellige opgaver, som skal løses i et projekt. 
+Projektværktøjerne giver dig et større overblik, så du også kan overskue mere. De giver dig også en større forståelse for hinanden i projektgruppen og projekteamet, så I kan imødegå forskellighederne i gruppen og de mange forskellige opgaver, som skal løses i et projekt.
 
 Projektværktøjerne hjælper med at give svar på disse væsentlige spørgsmål:
 

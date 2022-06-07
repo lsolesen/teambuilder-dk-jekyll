@@ -27,7 +27,9 @@ feature_row:
     rel: sponsored nofollow noopener
 ---
 
-Det kan være et vanskeligt håndværk at skrive en vejledning til, hvordan man gennemfører en aktivitet; i hvert fald hvis andre skal bruge den. Jeg har gjort mig nogle tanker i løbet af undervisningen på Vejle Idrætshøjskole i leg og spil. Desuden er jeg blevet inspireret af de SFO-aktivitetskort Team Borgerrettet Forebyggelse i Vejle Kommune har lavet.
+Det kan være et vanskeligt håndværk at skrive en vejledning til, hvordan man gennemfører en aktivitet; i hvert fald hvis andre skal bruge den.
+
+Jeg har gjort mig nogle tanker i løbet af undervisningen på Vejle Idrætshøjskole i leg og spil. Desuden er jeg blevet inspireret af de SFO-aktivitetskort Team Borgerrettet Forebyggelse i Vejle Kommune har lavet.
 
 Hvordan bør man finde og bruge øvelserne?
 -----------------------------------------
