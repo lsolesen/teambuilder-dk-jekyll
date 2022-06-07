@@ -28,14 +28,7 @@ feature_row:
 
 
 
-{% comment %}
-projektledelse 2,900
-projektledelse uddannelse 1,000
-projektledelse kursus 1,000
-projektledelsesværktøjer 260
-projektledelse teori og praksis 170
-projektledelse bog 90
-{% endcomment %}
+
 
 
 Et projekt er en tidsafgrænset veldefineret engangs-opgave med et veldefineret mål. Når opgaven er løst, er der ikke mere noget projekt.
