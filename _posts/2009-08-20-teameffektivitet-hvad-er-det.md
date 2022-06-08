@@ -46,6 +46,8 @@ For at opnå teameffektivitet er det vigtigt, at medlemmerne er i stand til at a
 
 Det er også vigtigt, at teammedlemmerne er i stand til at arbejde sammen på en sammenhængende måde, hvilket betyder, at de er i stand til at støtte og samarbejde med hinanden.
 
+{% include video provider="youtube" id="FMmngf9bgso" %}
+
 ## Hvad er teameffektivitet?
 
 Teameffektivitet er et mål for, hvor godt et team klarer sig i forhold til dets potentiale. Et team, der yder en god indsats, er et team, der har lært at bruge sine individuelle styrker til at opnå kollektiv succes. Omvendt kan et lavt præsterende team have et stort individuelt talent, men kan ikke få det hele til at hænge sammen.

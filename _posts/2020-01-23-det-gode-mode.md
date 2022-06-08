@@ -28,6 +28,8 @@ feature_row:
 
 Hvordan holder man et godt møde. Skriv til {{ site.email }}, hvis du gerne vil læse artiklen. Materialet er skrevet, men ikke lagt op endnu.
 
+{% include video provider="youtube" id="qwBP2FQv5Pk" %}
+
 ## Mødetrekanten
 
 ## Referencer

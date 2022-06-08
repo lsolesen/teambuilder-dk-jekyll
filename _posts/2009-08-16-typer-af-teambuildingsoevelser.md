@@ -34,6 +34,8 @@ Der findes mange forskellige typer af [teambuilding-øvelser](/samarbejdsovelser
 
 Teambuilding-øvelser kan være en sjov og effektiv måde at forbedre teamdynamikken på, men det er vigtigt at vælge den rigtige aktivitet for dit team. Hvis du ikke er sikker på, hvor du skal starte, får du her et par idéer til at komme i gang.
 
+{% include video provider="youtube" id="lcv4n9qK6ZQ" %}
+
 ## 1. Problemløsningsaktiviteter og beslutningskrævende øvelser
 
 Disse øvelser udfordrer holdene til at arbejde sammen om at løse et problem eller gennemføre en opgave. De kan bruges til at lære nye færdigheder eller hjælpe holdene med at øve sig i at arbejde sammen under pres. Almindelige problemløsningsaktiviteter omfatter flugtrum, skattejagter og puslespil.
@@ -84,6 +86,8 @@ Tillidsøvelser er designet til at hjælpe teammedlemmerne med at føle sig mere
 |Tillidsøvelser | En tillidsøvelse skal udfordre medlemmerne af teamet på en sådan måde, at de får større tillid til hinanden. Sommetider kan dette være vanskeligt i grupper, hvor graden af tillid varierer. | Målet er at skabe tillid mellem teammedlemmerne. |
 
 ## Konklusion
+
+{% include video provider="youtube" id="yEHvKMJ3i0A" %}
 
 Teambuilding-øvelser er designet til at hjælpe teams til at arbejde mere effektivt sammen. De kan bruges til at forbedre kommunikationen, opbygge relationer og udnytte kreativiteten. Almindelige øvelser omfatter tillidsfald, rollespilsscenarier, planlægnings- og tilpasningsøvelser og kommunikationsøvelser. Hvis du ønsker, at dit team skal arbejde bedre sammen, kan du prøve at bruge nogle af disse øvelser.
 

@@ -46,6 +46,8 @@ Teambuilding kan ske gennem aktiviteter, øvelser, spil og andre metoder, der hj
 
 Der findes mange forskellige tilgange til teambuilding, men det endelige mål er altid at skabe et team, der er sammenhængende, effektivt og virkningsfuldt.
 
+{% include video provider="youtube" id="qtpY9zwuzFM" %}
+
 ## Hvad er teambuilding?
 
 Teambuilding er en proces, der forbedrer teamets præstationer ved at styrke teamets samhørighed og samarbejde. Det er en mangesidet proces, der kan ske gennem uddannelse, udvikling og vurdering.

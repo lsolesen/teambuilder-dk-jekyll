@@ -36,6 +36,8 @@ Adfærd = Personlighed x Situation
 
 Der findes mange forskellige måder at lave adfærdsprofiler på. En lang række adfærdsprofiler ender med at dele folk op i fire forskellige adfærdstendenser.
 
+{% include video provider="youtube" id="jkhGlsgRUQ0" %}
+
 ## Forskellige adfærdsprofiler
 
 - PAEI

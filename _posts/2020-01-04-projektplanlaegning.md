@@ -30,6 +30,8 @@ projektplan skabelon gratis 50
 projekt plan b
 {% endcomment %}
 
+{% include video provider="youtube" id="8PQBtll2mCA" %}
+
 ## Hvad er en projektplan?
 
 En projektplan er et dokument, der beskriver målene, målsætningerne og tidslinjen for et projekt. Den tjener som en køreplan for projektlederen og teamet og hjælper med at holde alle på rette spor 

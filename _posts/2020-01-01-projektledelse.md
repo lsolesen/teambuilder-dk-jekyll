@@ -23,6 +23,8 @@ projektledelse teori og praksis 170
 projektledelse bog 90
 {% endcomment %}
 
+{% include video provider="youtube" id="GiZJ17sZ0Js" %}
+
 ## Hvad er projektledelse?
 
 Projektledelse er processen med at planlægge, organisere og styre ressourcerne med henblik på at opnå en vellykket gennemførelse af specifikke projektmål og målsætninger. Det er et vigtigt fagområde for alle, der ønsker at blive en succesfuld leder.

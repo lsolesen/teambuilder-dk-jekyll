@@ -10,9 +10,15 @@ tags:
 last_modified_at: 2022-05-23T20:50:27Z
 ---
 
-Risikoanalyse er en proces, hvor man vurderer risikoen for, at en begivenhed indtræffer, og de potentielle konsekvenser af denne begivenhed. Det indebærer, at man identificerer mulige risici, analyserer dem for at bestemme deres sandsynlighed og konsekvenser og derefter tager skridt til at mindske disse risici.
+Risikoanalyse er en proces, hvor man vurderer risikoen for, at en begivenhed indtræffer, og de potentielle konsekvenser af denne begivenhed.
 
-Risikoanalyse er et vigtigt værktøj for både virksomheder, organisationer og enkeltpersoner. Ved at forstå de risici, der er forbundet med en bestemt aktivitet, kan virksomhederne tage skridt til at minimere disse risici og beskytte sig mod potentielle tab. Enkeltpersoner kan anvende risikoanalyser til at træffe informerede beslutninger om deres aktiviteter og planlægge for uforudsete situationer.
+Det indebærer, at man identificerer mulige risici, analyserer dem for at bestemme deres sandsynlighed og konsekvenser og derefter tager skridt til at mindske disse risici.
+
+Risikoanalyse er et vigtigt værktøj for både virksomheder, organisationer og enkeltpersoner. Ved at forstå de risici, der er forbundet med en bestemt aktivitet, kan virksomhederne tage skridt til at minimere disse risici og beskytte sig mod potentielle tab.
+
+Enkeltpersoner kan anvende risikoanalyser til at træffe informerede beslutninger om deres aktiviteter og planlægge for uforudsete situationer.
+
+{% include video provider="youtube" id="5FdNZj8KpIQ" %}
 
 ## Hvad er en risikoanalyse?
 

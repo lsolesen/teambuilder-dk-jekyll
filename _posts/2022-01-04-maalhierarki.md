@@ -45,6 +45,8 @@ målhierarki markedsføring
 
 {% endcomment %}
 
+{% include video provider="youtube" id="KIXJVZ3srWc" %}
+
 ## Hvad er et målhierarki?
 
 Et målhierarki er en måde at kategorisere mål på ud fra deres vigtighed. Der er forskellige niveauer af mål, og hvert niveau har sit eget sæt af karakteristika. Jo højere niveauet er, jo vigtigere er målet

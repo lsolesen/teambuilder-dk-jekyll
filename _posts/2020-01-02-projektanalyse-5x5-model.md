@@ -50,6 +50,8 @@ projekt analyse 0 1 30
 team-analyse
 {% endcomment %}
 
+{% include video provider="youtube" id="A8ms1RWYoYc" %}
+
 ## Hvad er 5x5-modellen?
 
 Når du skal analysere projekter, så er 5x5-modellen et godt sted at starte. Modellen giver dig en rigtig overskuelig måde at organisere din analyse på.
@@ -177,6 +179,8 @@ Her kan du se alle de forskellige redskaber, som du kan bruge til din projektana
 ## Hvor starter du på projektanalyse?
 
 Som med alle analyser er det vigtigt at have et overblik over projektet, før du kan gå i gang.
+
+{% include video provider="youtube" id="4tr-2WglF2w" %}
 
 Det er altid godt at starte med at få **beskrevet projektopgaven** grundigt, før du går videre.
 

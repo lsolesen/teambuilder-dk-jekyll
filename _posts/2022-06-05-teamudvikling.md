@@ -47,6 +47,8 @@ Et team kan beskrives som en gruppe af enkeltpersoner, der er gået sammen om at
 
 Målet kan være noget så simpelt som at fuldføre et projekt eller en opgave, eller det kan være mere komplekst, som f.eksudvikling af et nyt produkt eller en ny tjenesteydelse.
 
+{% include video provider="youtube" id="b8-Xh5iutjk" %}
+
 ## Hvad er teamudvikling?
 
 Teamudvikling er processen med at skabe og vedligeholde et team, der er effektivt og virkningsfuldt. Dette omfatter opgaver som fx team opbygning, teamledelse og teamtræning. Det er vigtigt at huske, at teamudvikling er en løbende proces, da teams ændrer sig og udvikler sig over tid.

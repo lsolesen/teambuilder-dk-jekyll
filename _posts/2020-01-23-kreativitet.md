@@ -144,6 +144,14 @@ Metoden er udviklet af _Alt for kreativ_. Du skal bruge et stort bræt med 9 x 9
 
 [Regler](http://www.alt4kreativ.dk/UserFiles/file/PDF/IDEKU-instruktion_2sidet-Version01.pdf){: .btn .btn--large .btn--info } [Minimanual](http://www.alt4kreativ.dk/UserFiles/file/PDF/Arbejdsbog_-_Ideku_proces.pdf){: .btn .btn--large .btn--success }
 
+### 6. Flowskrivning
+
+Gennem flowskrivning kan du åbne op for din innovation. Du kan bruge det til at få nye ideer eller komme over kreative blokeringer. Hvad enten det drejer sig om jobansøgninger, forretningsplaner eller personlig udvikling er det en metode som kan hjælpe dig til at finde nye veje.
+
+Og det kræver kun 10 minutter af din tid.
+
+{% include video provider="youtube" id="osuQygwr2cU" %}
+
 ## Udvælgelse og udvikling af ideer
 
 I kreative processer får man ofte skabt rigtig mange ideer. Da det meget handler om at sige ja, så kommer der også en masse ideer, som måske ikke er realistiske eller som kan implementeres hurtigt.

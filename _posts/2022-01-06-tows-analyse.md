@@ -45,6 +45,8 @@ tows analyse skabelon word 0
 tows analyse carlsberg 0
 {% endcomment %}
 
+{% include video provider="youtube" id="hSITVvFKdC0" %}
+
 ## Hvad er TOWS-analyse, og hvad er dens fordele?
 
 TOWS står for Threats (trusler), Opportunities (muligheder), Weaknesses (svagheder) og Strengths (styrker).

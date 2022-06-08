@@ -62,6 +62,8 @@ Interessentanalysen er en del af [5x5-modellen](/projektanalyse/) til projektana
 
 En interessentanalyse er en proces, hvor du identificerer og vurderer de berørte personer, så du kan håndtere dem effektivt. I dette blogindlæg giver vi dig en skabelon og et eksempel på, hvordan du kan foretage en interessentanalyse til dit næste projekt.
 
+{% include video provider="youtube" id="8PDwTuuvhBw" %}
+
 ## Hvad er en interessentanalyse?
 
 En interessentanalyse er en proces, der hjælper dig med at forstå de personer, der har en interesse i dit projekt, og hvordan du kan håndtere dem effektivt.

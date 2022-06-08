@@ -39,6 +39,8 @@ I dette indlæg får du svar på:
 
 Lad os dykke direkte ned i det.
 
+{% include video provider="youtube" id="Wl6SDRsc6vk" %}
+
 ## Hvad er et projekt?
 
 Et projekt er en tidsafgrænset veldefineret engangs-opgave med et veldefineret mål. Når opgaven er løst, er der ikke mere noget projekt.
@@ -51,6 +53,8 @@ Et projekt vil kunne beskrives som
 - Formålet med projektet er at opnå bestemte resultater indenfor givne rammer, herunder givne ressourcer.
 - Projektets interessenter er de mennesker, organisationer, enheder m.m., som har interesse i projektet og dets resultater.
 - Projektets ressourcer er de mennesker og deres tid, penge, udstyr, materialer m.m., som skal bruges i projektet
+
+{% include video provider="youtube" id="5w7nb3sOM88" %}
 
 ## Projekttænkning og projektkultur
 
