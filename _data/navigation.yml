@@ -2,15 +2,17 @@
 main:
   - title: "Projektledelse"
     url: /projektledelse/
+  - title: "Teambuilding"
+    url: /teambuilding/
   - title: "Samarbejdsøvelser"
     url: /samarbejdsovelser/
-  - title: "Perfekte minut"
-    url: /perfekte-minut/
   - title: "Aktiviteter"
     url: /aktiviteter/
+  - title: "Perfekte minut"
+    url: /perfekte-minut/
   - title: "Blog"
     url: /blog/
-  - title: "Inspiration"
-    url: /inspiration/
+#  - title: "Inspiration"
+#    url: /inspiration/
   - title: "Om"
     url: /om/

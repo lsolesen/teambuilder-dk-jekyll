@@ -77,6 +77,7 @@ Der findes mange forskellige typer teambuilding-aktiviteter, som kan bruges til 
 Læs: [Teambuildingsaktiviteter og øvelser til teambuilding](/samarbejdsovelser/)
 
 ## Sådan vælger du den rigtige teambuilding-aktivitet
+
 Når du vælger en teambuildingaktivitet, er det vigtigt at overveje aktivitetens mål og gruppedynamikken. Nogle af de ting, du skal huske på, er bl.a:
 
 - hvilken type aktivitet vil bedst fremme de ønskede teamworkfærdigheder?

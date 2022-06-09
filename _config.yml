@@ -11,7 +11,7 @@ minimal_mistakes_skin:   "default" # "air", "aqua", "contrast", "dark", "dirt", 
 ads: true
 
 # Jekyll specific
-future: true
+future: false
 
 # Site Settings
 locale                   : "da"
@@ -25,7 +25,7 @@ url                      : "https://www.teambuilder.dk" # the base hostname & pr
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lsolesen/teambuilder-dk-jekyll" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-# breadcrumbs            : false # true, false (default)
+breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : # "disqus" # "staticman_v2" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
@@ -89,7 +89,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:lsolesen@gmail.com"
+      url: "mailto:info@teambuilder.dk"
 #    - label: "Facebook"
 #      icon: "fab fa-fw fa-facebook-square"
 #      url: "http://www.facebook.com/lsolesen"
@@ -274,6 +274,7 @@ defaults:
       related: true
       toc: true
       author: lsolesen
+      breadcrumbs: true
 # _activity
   - scope:
       path: ""
@@ -289,3 +290,4 @@ defaults:
       related: true
       tag_archive_path: /aktivitetstags/
       category_archive_path: /aktivitetskategorier/
+      breadcrumbs: true

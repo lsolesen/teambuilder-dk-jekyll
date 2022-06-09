@@ -1,15 +1,22 @@
 ---
 layout: single
 permalink: /teambuilding/
-excerpt: Her har vi beskrevet alt om teambuilding.
+excerpt: "Skal du i gang med teambuilding? Vi har lavet en komplet guide til, hvordan du kan gribe teambuilding an (BONUS: gratis ideer til teambuilding)."
 title: "Teambuilding"
+seo_title: "Teambuilding - 50+ sjove ideer til lærerige aktiviteter"
 author_profile: true
 classes: wide
 ---
 
 {{ page.excerpt }}
 
+## Samarbejdsøvelser og teambuildingsøvelser
+
+Hvis du skal lave et arrangement, hvor du gerne vil få dit team til at lære hinanden at kende, så kan du med fordel kigge efter nogle samarbejdsøvelser og teambuildingsøvelser.
+
 Hvis du er på udkig efter praktiske øvelser, så har vi lavet en samlet oversigt over [teambuildingsøvelser og samarbejdsøvelser](/samarbejdsovelser/).
+
+## Artikler om teambuilding
 
 {% assign site_posts = site.posts | where: "category", "Teambuilding" | sort: "date" %}
 
@@ -30,5 +37,4 @@ teambuilding øvelser 1,000
 teambuilding københavn 720
 teambuilding jylland 260
 teambuilding vejle 170
-
 {% endcomment %}

@@ -45,9 +45,6 @@ layout: default
         {% if page.video %}
           {% include video provider=page.video.provider id=page.video.id %}
         {% endif %}
-        <div class="page__meta">
-          {% include page__taxonomy.html %}
-        </div>
 
         {{ content }}
 
@@ -65,7 +62,7 @@ layout: default
         <h3>Forberedelse ({{ page.preparation_time}})</h3>
         {{ page.preparation | markdownify }}
         {% endif %}
-        
+
         <h3>Instruktion og regler</h3>
         {{ page.instruction | markdownify }}
 
@@ -78,7 +75,7 @@ layout: default
           <h3>Hvor</h3>
           {{ page.where | markdownify }}
         {% endif %}
-        
+
         {% if page.materials != "" %}
           <h3>Materialer</h3>
           {{ page.materials | markdownify }}
