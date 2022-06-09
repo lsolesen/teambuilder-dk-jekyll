@@ -6,10 +6,10 @@ language: da
 header:
   overlay_image: /assets/images/activity/tltil10-0.jpg
   teaser: /assets/images/activity/tltil10-0-320.jpg
-categories: 
-  - Icebreaker
-  - Samarbejdsøvelse
-tags: 
+categories:
+  - Icebreakers
+  - Samarbejdsøvelser
+tags:
   - kommunikation
 aim: "At se hvordan man kan indstille sig på hinanden i gruppen og klare sig uden verbal kommunikation."
 instruction: "Stå sammen i en cirkel. Fra nu af må I ikke sige noget til hinanden. Opgaven er at tælle til 21. Den samme må ikke sige to tal i træk. Hvis flere kommer til at sige samme tal, tale i munden på hinanden eller en kommer til at sige to tal i træk, skal I starte forfra. I må heller ikke bruge kropssprog - og ingen må styre."

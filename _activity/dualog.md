@@ -6,9 +6,9 @@ language: da
 header:
   overlay_image: /assets/images/activity/dualog-0.jpg
   teaser: /assets/images/activity/dualog-0-320.jpg
-categories: 
-  - Icebreaker
-tags: 
+categories:
+  - Icebreakers
+tags:
   - Icebreaker
 aim: ""
 instruction: ""

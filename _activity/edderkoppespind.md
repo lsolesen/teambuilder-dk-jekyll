@@ -9,7 +9,7 @@ header:
   teaser: /assets/images/activity/edderkoppespind-0-320.jpg
 categories:
   - Opgave
-  - Samarbejdsøvelse
+  - Samarbejdsøvelser
 tags:
   - Opgave
   - Samarbejdsøvelse

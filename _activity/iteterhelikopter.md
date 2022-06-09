@@ -6,11 +6,11 @@ language: da
 header:
   overlay_image: /assets/images/activity/iteterhelikopter-0.jpg
   teaser: /assets/images/activity/iteterhelikopter-0-320.jpg
-categories: 
+categories:
   - Konkurrence
   - Opgave
-  - Samarbejdsøvelse
-tags: 
+  - Samarbejdsøvelser
+tags:
   - samarbejde
   - prolog
 aim: ""
@@ -29,4 +29,3 @@ gallery:
     title: "Helikopter"
 last_modified_at: 2013-01-09T20:31:45Z
 ---
-

@@ -6,10 +6,10 @@ language: da
 header:
   overlay_image: /assets/images/activity/samarbejdsskisamarbejdepski-0.jpg
   teaser: /assets/images/activity/samarbejdsskisamarbejdepski-0-320.jpg
-categories: 
+categories:
   - Opgave
-  - Samarbejdsøvelse
-tags: 
+  - Samarbejdsøvelser
+tags:
   - samarbejde
 aim: ""
 instruction: "I skal gå fra startmarkeringen hen til vendepunktet og tilbage igen. I skal alle være på skiene, også selvom alle ikke nødvendigvis kan få fodlænker eller har noget at holde i."

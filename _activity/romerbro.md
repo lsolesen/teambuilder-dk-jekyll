@@ -6,11 +6,10 @@ language: da
 header:
   overlay_image: /assets/images/activity/romerbro-0.jpg
   teaser: /assets/images/activity/romerbro-0-320.jpg
-categories: 
-  - Icebreaker
+categories:
   - Opgave
-  - Samarbejdsøvelse
-tags: 
+  - Samarbejdsøvelser
+tags:
   - samarbejde
 aim: "At samle en romersk bro uden andre hjælpemidler end de udleverede brædder."
 instruction: "Jeres opgave er at lave en romersk bro med de udleverede materialer. I må ikke bruge andre materialer. I er velkomne til at kigge på prototypen, og broen skal bygges efter de samme principper. Den behøver ikke være nøjagtig magen til."

@@ -6,11 +6,11 @@ language: da
 header:
   overlay_image: /assets/images/activity/boldibadmintonrr-0.jpg
   teaser: /assets/images/activity/boldibadmintonrr-0-320.jpg
-categories: 
+categories:
   - Konkurrence
   - Opgave
-  - Samarbejdsøvelse
-tags: 
+  - Samarbejdsøvelser
+tags:
   - Konkurrence
   - Opgave
   - Samarbejdsøvelse

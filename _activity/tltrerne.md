@@ -6,10 +6,10 @@ language: da
 header:
   overlay_image: /assets/images/activity/tltrerne-0.jpg
   teaser: /assets/images/activity/tltrerne-0-320.jpg
-categories: 
+categories:
   - Opgave
-  - Samarbejdsøvelse
-tags: 
+  - Samarbejdsøvelser
+tags:
   - Opgave
   - Samarbejdsøvelse
 aim: ""

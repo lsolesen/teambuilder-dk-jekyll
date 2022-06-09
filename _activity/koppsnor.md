@@ -4,9 +4,9 @@ redirect_from: /content/kop-på-snor
 excerpt: ""
 language: da
 
-categories: 
-  - Samarbejdsøvelse
-tags: 
+categories:
+  - Samarbejdsøvelser
+tags:
   - Samarbejdsøvelse
 aim: ""
 instruction: ""

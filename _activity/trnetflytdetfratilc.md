@@ -10,10 +10,10 @@ language: da
 header:
   overlay_image: /assets/images/activity/trnetflytdetfratilc-0.jpg
   teaser: /assets/images/activity/trnetflytdetfratilc-0-320.jpg
-categories: 
+categories:
   - Opgave
-  - Samarbejdsøvelse
-tags: 
+  - Samarbejdsøvelser
+tags:
   - opgave
 aim: "At lære folk at kommunikere og samarbejde, ved hjælp af logik og planlægning."
 instruction: "I står over for et tårn og tre positioner. Tårnet starter ved position A, men skal flyttes til position C. I må flytte et lag af tårnet ad gangen. I må på intet tidspunkt lægge et større lag oven på et mindre lag. Det lag der bliver flyttet skal placeres oven på evt. andre lag på den position I flytter laget til.

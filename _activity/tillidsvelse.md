@@ -6,9 +6,9 @@ language: da
 header:
   overlay_image: /assets/images/activity/tillidsvelse-0.jpg
   teaser: /assets/images/activity/tillidsvelse-0-320.jpg
-categories: 
-  - Samarbejdsøvelse
-tags: 
+categories:
+  - Samarbejdsøvelser
+tags:
   - Samarbejdsøvelse
 aim: ""
 instruction: ""

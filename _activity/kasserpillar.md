@@ -6,11 +6,11 @@ language: da
 header:
   overlay_image: /assets/images/activity/kasserpillar-0.jpg
   teaser: /assets/images/activity/kasserpillar-0-320.jpg
-categories: 
+categories:
   - Konkurrence
   - Opgave
-  - Samarbejdsøvelse
-tags: 
+  - Samarbejdsøvelser
+tags:
   - samarbejde
 aim: ""
 instruction: "I skal ved hjælp af kasserne komme fra start til mål uden at røre jorden. I har et antal kasser alt efter hvor mange I er. I skal mindst have to kasser. Ellers har I en kasse færre end I har deltagere. Dvs. hvis I er 4 i gruppen, kan I bruge 3 kasser. Opgaven er løst, når i er kommet fra start til mål, og I har lagt kasserne på plads igen."

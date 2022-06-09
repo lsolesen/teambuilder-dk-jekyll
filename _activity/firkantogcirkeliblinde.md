@@ -12,13 +12,13 @@ language: da
 header:
   overlay_image: /assets/images/activity/firkantogcirkeliblinde-0.jpg
   teaser: /assets/images/activity/firkantogcirkeliblinde-0-320.jpg
-categories: 
+categories:
+  - Opgave
+  - Samarbejdsøvelser
+tags:
   - Opgave
   - Samarbejdsøvelse
-tags: 
-  - Opgave
-  - Samarbejdsøvelse
-aim: "Samarbejde. 
+aim: "Samarbejde.
 At mærke forskellen i mestringsstrategier og personligheder.
 At kommunikere"
 instruction: "I har fem minutter til at planlægge hvordan I vil løse opgaven.

@@ -6,10 +6,10 @@ language: da
 header:
   overlay_image: /assets/images/activity/stablelkasser-0.jpg
   teaser: /assets/images/activity/stablelkasser-0-320.jpg
-categories: 
+categories:
   - Opgave
-  - Samarbejdsøvelse
-tags: 
+  - Samarbejdsøvelser
+tags:
   - samarbejde
 aim: ""
 instruction: "I skal bygge et tårn af ølkasser. Der skal kun være en ølkasse i hvert lag. Pas på I ikke får dem i hovedet, hvis tårnet vælter undervejs. Opgaven er løst, når I har lavet et tårn med 16 kasser og lagt kasserne som de lå, da i kom."

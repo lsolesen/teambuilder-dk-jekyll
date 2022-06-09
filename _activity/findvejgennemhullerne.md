@@ -6,10 +6,10 @@ language: da
 header:
   overlay_image: /assets/images/activity/findvejgennemhullerne-0.jpg
   teaser: /assets/images/activity/findvejgennemhullerne-0-320.jpg
-categories: 
+categories:
   - Opgave
-  - Samarbejdsøvelse
-tags: 
+  - Samarbejdsøvelser
+tags:
   - samarbejde
 aim: ""
 instruction: "I skal alle holde ved denne forhindringsbane med huller. Derefter skal I få bolden fra start til mål, uden den falder af eller igennem hullerne. Hvis det alligevel sker, starter I forfra. Opgaven er løst når i har fået bolden hele vejen igennnem og lagt tingene på plads igen."

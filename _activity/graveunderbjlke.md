@@ -4,11 +4,11 @@ redirect_from: /content/grave-under-bjælke
 excerpt: ""
 language: da
 
-categories: 
+categories:
   - Konkurrence
   - Opgave
-  - Samarbejdsøvelse
-tags: 
+  - Samarbejdsøvelser
+tags:
   - Konkurrence
   - Opgave
   - Samarbejdsøvelse

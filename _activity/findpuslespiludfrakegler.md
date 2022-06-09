@@ -6,11 +6,11 @@ language: da
 header:
   overlay_image: /assets/images/activity/findpuslespiludfrakegler-0.jpg
   teaser: /assets/images/activity/findpuslespiludfrakegler-0-320.jpg
-categories: 
+categories:
   - Leg
   - Opgave
-  - Samarbejdsøvelse
-tags: 
+  - Samarbejdsøvelser
+tags:
   - Leg
   - Opgave
   - Samarbejdsøvelse
@@ -32,4 +32,3 @@ gallery:
     title: "Find puslespil ud fra kegler"
 last_modified_at: 2014-10-22T19:35:36Z
 ---
-

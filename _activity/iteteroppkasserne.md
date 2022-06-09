@@ -6,10 +6,10 @@ language: da
 header:
   overlay_image: /assets/images/activity/iteteroppkasserne-0.jpg
   teaser: /assets/images/activity/iteteroppkasserne-0-320.jpg
-categories: 
+categories:
   - Opgave
-  - Samarbejdsøvelse
-tags: 
+  - Samarbejdsøvelser
+tags:
   - udfordring
   - mod
 aim: ""
@@ -28,4 +28,3 @@ gallery:
     title: "Op på kasserne"
 last_modified_at: 2013-01-09T20:28:15Z
 ---
-

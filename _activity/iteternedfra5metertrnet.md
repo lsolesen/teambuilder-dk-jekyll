@@ -6,10 +6,10 @@ language: da
 header:
   overlay_image: /assets/images/activity/iteternedfra5metertrnet-0.jpg
   teaser: /assets/images/activity/iteternedfra5metertrnet-0-320.jpg
-categories: 
+categories:
   - Opgave
-  - Samarbejdsøvelse
-tags: 
+  - Samarbejdsøvelser
+tags:
   - udfordring
 aim: "At overvinde egne grænser."
 instruction: "Brug tovet til at komme ned fra 5 meter platformen uden at ramme vandet. I skal forsøge at klatre hen ad tovet. Tovet kan brænde, hvis I glider hen ad det."

@@ -9,7 +9,7 @@ header:
   teaser: /assets/images/activity/spaghettitrnet-0-320.jpg
 categories:
   - Konkurrence
-  - Samarbejdsøvelse
+  - Samarbejdsøvelser
 tags:
   - Konkurrence
   - Samarbejdsøvelse

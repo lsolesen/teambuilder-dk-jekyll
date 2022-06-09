@@ -6,10 +6,10 @@ language: da
 header:
   overlay_image: /assets/images/activity/heliumstangen-0.jpg
   teaser: /assets/images/activity/heliumstangen-0-320.jpg
-categories: 
-  - Icebreaker
-  - Samarbejdsøvelse
-tags: 
+categories:
+  - Icebreakers
+  - Samarbejdsøvelser
+tags:
   - teamwork
 aim: "At vise hvordan en gruppe reagerer, når tingene ikke går som planlagt - i dette tilfælde at heliumstangen svæver op i luften."
 instruction: "Stil jer skiftevis på hver side af heliumstangen. I skal nu alle holde jeres ene pegefinger vandret ud, så fingerspidsen rør heliumstangen. Alle skal hele tiden røre heliumstangen, ellers skal i starte forfra. Jeres mål er at få lagt heliumstangen på gulvet. Ofte vil der ske det, at stangen hurtigt ryger op i luften. Hvis det sker, kan du hurtigt gribe stangen og overdrive betydningen af at der er helium i den og sige: hov, den skal ned på gulvet. Vi forsøger lige igen."

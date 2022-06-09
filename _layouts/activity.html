@@ -52,36 +52,42 @@ layout: default
           {% include gallery id="gallery" %}
         {% endif %}
 
+        {% if page.aim and page.aim != "" %}
         <h3>Formål</h3>
         {{ page.aim | markdownify }}
+        {% endif %}
 
+        {% if page.time and page.time != "" %}
         <h3>Tidsforbrug</h3>
         {{ page.time | markdownify }}
+        {% endif %}
 
-        {% if page.preparation != "" %}
-        <h3>Forberedelse ({{ page.preparation_time}})</h3>
+        {% if page.preparation and page.preparation != "" %}
+        <h3>Forberedelse{% if page.preparation_time != "" %} ({{ page.preparation_time}}){% endif %}</h3>
         {{ page.preparation | markdownify }}
         {% endif %}
 
+        {% if page.instruction and page.instruction != "" %}
         <h3>Instruktion og regler</h3>
         {{ page.instruction | markdownify }}
+        {% endif %}
 
-        {% if page.group_size != "" %}
+        {% if page.group_size and page.group_size != "" %}
           <h3>Gruppestørrelse</h3>
           {{ page.group_size | markdownify }}
         {% endif %}
 
-        {% if page.where != "" %}
+        {% if page.where and page.where != "" %}
           <h3>Hvor</h3>
           {{ page.where | markdownify }}
         {% endif %}
 
-        {% if page.materials != "" %}
+        {% if page.materials and page.materials != "" %}
           <h3>Materialer</h3>
           {{ page.materials | markdownify }}
         {% endif %}
 
-        {% if page.solution != "" or page.gallery_solution.size > 0 %}
+        {% if page.solution and page.solution != "" or page.gallery_solution.size > 0 %}
         <h2>Løsning til {{ page.title }}</h2>
         <details>
           <summary>Se løsningen til {{ page.title }}</summary>

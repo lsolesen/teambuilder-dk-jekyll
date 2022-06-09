@@ -4,10 +4,10 @@ redirect_from: /aktiviteter/det-utætte-rør
 excerpt: "Hent vand i det utætte rør."
 language: da
 
-categories: 
+categories:
   - Opgave
-  - Samarbejdsøvelse
-tags: 
+  - Samarbejdsøvelser
+tags:
   - samarbejde
 aim: ""
 instruction: "Hent vand i det utætte rør."

@@ -6,10 +6,10 @@ language: da
 header:
   overlay_image: /assets/images/activity/trillebrrs-0.jpg
   teaser: /assets/images/activity/trillebrrs-0-320.jpg
-categories: 
+categories:
   - Konkurrence
-  - Samarbejdsøvelse
-tags: 
+  - Samarbejdsøvelser
+tags:
   - Konkurrence
   - Samarbejdsøvelse
 aim: ""

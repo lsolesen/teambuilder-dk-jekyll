@@ -6,10 +6,10 @@ language: da
 header:
   overlay_image: /assets/images/activity/thorshammer-0.jpg
   teaser: /assets/images/activity/thorshammer-0-320.jpg
-categories: 
+categories:
   - Opgave
-  - Samarbejdsøvelse
-tags: 
+  - Samarbejdsøvelser
+tags:
   - samarbejde
 aim: ""
 instruction: "I skal tage et syvtommersøm og en hammer. Opgaven er at slå syvtommersømmet i den markerede træstub. Den første mand tager sømmet og hammeren og løber hen til træstubben. Vedkommende har et slag til at slå sømmet ned i træstubben. Herefter løber vedkommende hen til den næste i rækken og overdrager hammeren. Den næste løber så hen og forsøger med et slag at slå syvtommersømmet længere i. I har løst posten, når sømmet er slået helt ned, og hammeren ligger hvor I fandt den."

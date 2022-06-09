@@ -9,7 +9,7 @@ header:
   teaser: /assets/images/activity/bygenfiguraflego-0-320.jpg
 categories:
   - Opgave
-  - Samarbejdsøvelse
+  - Samarbejdsøvelser
 tags:
   - teamwork
 aim: "At samarbejde og finde en god måde at huske på. At se hvordan gruppen får det organiseret."

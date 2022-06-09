@@ -50,9 +50,9 @@ Regler:
 - I må ikke taget bindet af øjnene før hele aktiviteten er slut"
 language: da
 
-categories: 
-  - Samarbejdsøvelse
-tags: 
+categories:
+  - Samarbejdsøvelser
+tags:
   - Samarbejdsøvelse
 aim: "Samarbejdsøvelse, som også er god til at skabe en debat om kommunikation og helhedstænkning. "
 instruction: "INSTRUKTION GRUPPE 1 - KAN ALTOpgave:

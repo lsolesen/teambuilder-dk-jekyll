@@ -6,12 +6,11 @@ language: da
 header:
   overlay_image: /assets/images/activity/stablesyvtommersm-0.jpg
   teaser: /assets/images/activity/stablesyvtommersm-0-320.jpg
-categories: 
-  - Icebreaker
+categories:
   - Konkurrence
   - Opgave
-  - Samarbejdsøvelse
-tags: 
+  - Samarbejdsøvelser
+tags:
   - Icebreaker
   - Konkurrence
   - Opgave

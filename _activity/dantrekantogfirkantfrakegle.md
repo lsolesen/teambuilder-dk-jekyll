@@ -4,9 +4,9 @@ redirect_from: /content/dan-trekant-og-firkant-fra-kegle
 excerpt: ""
 language: da
 
-categories: 
-  - Samarbejdsøvelse
-tags: 
+categories:
+  - Samarbejdsøvelser
+tags:
   - Samarbejdsøvelse
 aim: "Øvelsen lægger stor vægt på sansefrarøvelse i form af blindhed og stumhed. Dette stiller store krav til holdenes samarbejdsevner, da de skal samarbejde med sanser som de i normale sammenhænge ikke ville bruge."
 instruction: ""

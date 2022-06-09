@@ -6,10 +6,10 @@ language: da
 header:
   overlay_image: /assets/images/activity/hoppengang-0.jpg
   teaser: /assets/images/activity/hoppengang-0-320.jpg
-categories: 
-  - Icebreaker
-  - Samarbejdsøvelse
-tags: 
+categories:
+  - Icebreakers
+  - Samarbejdsøvelser
+tags:
   - kommunikation
   - nonverbal
 aim: "At vise hvordan man i en gruppe kan kommunikere uden at måtte sige noget - og derved få mulighed for at indstille sig på hinandens bevægelser."
@@ -28,4 +28,3 @@ gallery:
     title: "Hop på en gang"
 last_modified_at: 2014-10-23T10:37:08Z
 ---
-

@@ -6,9 +6,9 @@ language: da
 header:
   overlay_image: /assets/images/activity/bndenknyttedehnd-0.jpg
   teaser: /assets/images/activity/bndenknyttedehnd-0-320.jpg
-categories: 
-  - Icebreaker
-tags: 
+categories:
+  - Icebreakers
+tags:
   - teamwork
   - kommunikation
 aim: "At vise hvad tydelig og præcis kommunikation kan gøre ved en situation, der er gået i hårdknude."
