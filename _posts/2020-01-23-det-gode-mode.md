@@ -1,6 +1,7 @@
 ---
 title: "Mødeledelse: Ideer til det gode møde"
 excerpt: "Hvordan holder man et godt møde med god mødeledelse? Her kigger vi på ideer til det gode møde, der ikke spilder folks tid."
+permalink: /det-gode-moede/
 language: da
 category:
   - Møder

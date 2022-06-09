@@ -156,6 +156,14 @@ En risikoanalyse er et værktøj, der kan bruges til at identificere og vurdere 
 
 Læs: [Skabelon til risikoanalyse](/risikoanalyse/)
 
+### 6. Mødeledelse
+
+Hvordan holder man et godt møde? Her kigger vi på ideer til det gode møde. Mødeledelse betyder naturligvis rigtig meget, når man gerne vil holde vellykkede møder.
+
+Gode møder er afgørende for et produktivt arbejde. De giver folk mulighed for at mødes og udveksle idéer, træffe beslutninger og bringe projekter fremad. Men alt for ofte er møderne ineffektive og uproduktive. I denne artikel vil vi undersøge, hvordan du kan gøre dine møder mere effektive. Vi vil se på, hvordan man forbereder møder, hvordan man afvikler dem?
+
+Læs: [Mødeledelse og det gode møde](/det-gode-moede/)
+
 ## Hvordan kommer du i gang med projektledelse?
 
 Den bedste måde at komme i gang med projektledelse varierer afhængigt af det specifikke projekt, du arbejder på, og din egen individuelle ledelsesstil. Der er dog nogle få generelle råd, der kan hjælpe med at gøre overgangen til projektledelse lettere.
