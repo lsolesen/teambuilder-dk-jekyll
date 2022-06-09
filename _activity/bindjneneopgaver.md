@@ -3,8 +3,8 @@ title: "Bind for øjnene opgaver"
 redirect_from: /content/bind-øjnene-opgaver
 excerpt: ""
 language: da
-
-categories: 
+categories:
+  - Samarbejdsøvelser
 tags: 
 aim: ""
 instruction: ""

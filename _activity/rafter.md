@@ -19,7 +19,7 @@ last_modified_at: 2009-12-10T17:08:04Z
 ---
 **Samarbejdsøvelser med rafter**
 
-Når en gruppe får til opgave at skabe et produkt på tid, bliver mange ofte stresset, og folks sandejeg kommer frem. Nogler løber forvirret rundt i panik, andre tænker kreativt, men formår måske ikke at komme frem med idéerne, fordi den, som har påtaget sig lederrollen, er alt for dominerende og ikke lytter. Det er altid interessant for instruktørene at se, hvordan gruppemedlemmerne agerer. Nedenfor gives eksempler på raftebygning, som kræver sådanne samarbejdsevner.
+Når en gruppe får til opgave at skabe et produkt på tid, bliver mange ofte stresset, og folks sande jeg kommer frem. Nogler løber forvirret rundt i panik, andre tænker kreativt, men formår måske ikke at komme frem med idéerne, fordi den, som har påtaget sig lederrollen, er alt for dominerende og ikke lytter. Det er altid interessant for instruktørene at se, hvordan gruppemedlemmerne agerer. Nedenfor gives eksempler på raftebygning, som kræver sådanne samarbejdsevner.
 
 **== Tømmerflåde ==**
 

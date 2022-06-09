@@ -7,8 +7,8 @@ header:
   overlay_image: /assets/images/activity/boldibadmintonrr-0.jpg
   teaser: /assets/images/activity/boldibadmintonrr-0-320.jpg
 categories:
-  - Konkurrence
-  - Opgave
+  - Konkurrencer
+  - Opgaver
   - Samarbejdsøvelser
 tags:
   - Konkurrence

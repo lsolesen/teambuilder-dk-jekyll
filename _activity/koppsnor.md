@@ -3,7 +3,6 @@ title: "Kop i snor"
 redirect_from: /content/kop-på-snor
 excerpt: ""
 language: da
-
 categories:
   - Samarbejdsøvelser
 tags:

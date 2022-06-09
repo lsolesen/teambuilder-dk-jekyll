@@ -7,8 +7,8 @@ header:
   overlay_image: /assets/images/activity/kasserpillar-0.jpg
   teaser: /assets/images/activity/kasserpillar-0-320.jpg
 categories:
-  - Konkurrence
-  - Opgave
+  - Konkurrencer
+  - Opgaver
   - Samarbejdsøvelser
 tags:
   - samarbejde

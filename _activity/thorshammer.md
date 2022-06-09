@@ -7,7 +7,7 @@ header:
   overlay_image: /assets/images/activity/thorshammer-0.jpg
   teaser: /assets/images/activity/thorshammer-0-320.jpg
 categories:
-  - Opgave
+  - Opgaver
   - Samarbejdsøvelser
 tags:
   - samarbejde

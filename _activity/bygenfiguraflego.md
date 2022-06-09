@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/images/activity/bygenfiguraflego-0.jpg
   teaser: /assets/images/activity/bygenfiguraflego-0-320.jpg
 categories:
-  - Opgave
+  - Opgaver
   - Samarbejdsøvelser
 tags:
   - teamwork

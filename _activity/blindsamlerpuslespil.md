@@ -7,7 +7,7 @@ header:
   overlay_image: /assets/images/activity/blindsamlerpuslespil-0.jpg
   teaser: /assets/images/activity/blindsamlerpuslespil-0-320.jpg
 categories:
-  - Opgave
+  - Opgaver
   - Samarbejdsøvelser
 tags:
   - Opgave

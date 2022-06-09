@@ -7,8 +7,8 @@ header:
   overlay_image: /assets/images/activity/iteterhelikopter-0.jpg
   teaser: /assets/images/activity/iteterhelikopter-0-320.jpg
 categories:
-  - Konkurrence
-  - Opgave
+  - Konkurrencer
+  - Opgaver
   - Samarbejdsøvelser
 tags:
   - samarbejde

@@ -6,7 +6,8 @@ language: da
 header:
   overlay_image: /assets/images/activity/kmpepuslespil-0.jpg
   teaser: /assets/images/activity/kmpepuslespil-0-320.jpg
-categories: 
+categories:
+  - Samarbejdsøvelser
 tags: 
 aim: "Man skal samle puslespillet så hurtigt som muligt."
 instruction: ""

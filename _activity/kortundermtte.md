@@ -3,9 +3,9 @@ title: "Kort under måtte"
 redirect_from: /content/kort-under-måtte
 excerpt: "To hold, enten drengene mod pigerne eller afdeling mod afdeling, skal nu kæmpe mod hinanden om først at få samlet et halvt kortspil. Det ene hold skal finde de sorte og det andet hold de røde. Begge holdene skal stå ca. 3-5 meter væk fra måtterne/keglerne, og der er kun én af gangen der må løbe hen til måtterne/keglerne. Måden man samler kortene er at man først skal finde esset før man må finde toeren osv. og man kun tage et kort af gangen og kun kigge under en måtte/kegle af gangen."
 language: da
-
 categories: 
   - Kortspil
+  - Samarbejdsøvelser
 tags: 
   - Kortspil
 aim: "Øge samarbejdet i en gruppe."

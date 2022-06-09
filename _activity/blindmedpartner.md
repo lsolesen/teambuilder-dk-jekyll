@@ -3,8 +3,9 @@ title: "Blind med partner"
 redirect_from: /content/blind-med-partner
 excerpt: ""
 language: da
-
-categories: 
+categories:
+  - Tillidsøvelser
+  - Samarbejdsøvelser
 tags: 
 aim: "De _blinde_ må ikke gå ind i hinanden."
 instruction: ""

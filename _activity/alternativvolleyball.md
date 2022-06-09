@@ -3,9 +3,9 @@ title: "Alternativ volleyball"
 redirect_from: /content/alternativ-volleyball
 excerpt: ""
 language: da
-
 categories: 
-  - boldspil
+  - Boldspil
+  - Lege
 tags: 
   - boldspil
 aim: "Volley en meget samarbejdsbetonet sport, som stiller store krav til deltagernes evne til at kommunikere indbyrdes."

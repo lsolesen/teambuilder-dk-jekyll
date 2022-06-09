@@ -7,7 +7,8 @@ header:
   overlay_image: /assets/images/activity/iteteravisbdensejlernedaden-0.jpg
   teaser: /assets/images/activity/iteteravisbdensejlernedaden-0-320.jpg
 categories: 
-  - Konkurrence
+  - Konkurrencer
+  - Samarbejdsøvelser
 tags: 
   - samarbejde
 aim: ""
@@ -31,4 +32,3 @@ gallery_solution:
     title: "Avisbåden sejler ned ad åen"
 last_modified_at: 2013-01-09T20:26:26Z
 ---
-

@@ -3,7 +3,6 @@ title: "Tændstiksraket"
 redirect_from: /content/tændstiksraket
 excerpt: ""
 language: da
-
 categories: 
 tags: 
 aim: "Træffe en fælles beslutning og blive enige om løsningen ved hjælp af kommunikation og brug af hinandens ide'er og baggrundsviden."
@@ -25,4 +24,3 @@ solution: ""
 gallery:
 last_modified_at: 2009-12-10T17:07:53Z
 ---
-

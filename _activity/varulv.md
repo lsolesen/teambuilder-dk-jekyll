@@ -11,6 +11,7 @@ header:
     - label: Spil Varulv online
       url: https://netgames.io/games/onu-werewolf/
 categories:
+  - Leg
 tags:
   - rollespil
   - featured
@@ -104,7 +105,7 @@ Hvis begge kort er varulve, så skal tyven tage ét af dem op.
 
 Fra nu af, og indtil spillets slutning, spiller han karakteren som står på det nye kort.
 
-## Fordeling af Karakterkort i den lette spillevariation:
+## Fordeling af karakterkort i den lette spillevariation
 
 - 2 varulve - eller flere afhængig af det totale antal spillere.
 - Den synske.

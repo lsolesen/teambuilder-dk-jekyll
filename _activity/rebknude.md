@@ -5,8 +5,8 @@ excerpt: "Først skal I planlægge, hvordan I kan lave en knude midt på rebet. 
 
 Lav derefter en knude på rebet."
 language: da
-
-categories: 
+categories:
+  - Samarbejdsøvelser
 tags: 
 aim: "At skabe en god kommunikation og indbyrdes forståelse i gruppen."
 instruction: "Først skal I planlægge, hvordan I kan lave en knude midt på rebet. Alle skal have fat i rebet med begge hænder, mens I binder knuden. Så snart man har rørt rebet, må man ikke give slip igen, og man må ikke længere flytte hænderne.
@@ -22,4 +22,3 @@ solution: ""
 gallery:
 last_modified_at: 2013-09-10T09:53:56Z
 ---
-

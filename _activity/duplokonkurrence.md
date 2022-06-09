@@ -3,10 +3,9 @@ title: "Byg en figur af lego II"
 redirect_from: /content/duplo-konkurrence
 excerpt: ""
 language: da
-
 categories:
-  - Konkurrence
-  - Opgave
+  - Konkurrencer
+  - Opgaver
   - Samarbejdsøvelser
 tags:
   - Konkurrence

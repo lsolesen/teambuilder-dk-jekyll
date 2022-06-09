@@ -3,8 +3,10 @@ title: "Vandrehistorien"
 redirect_from: /content/vandrehistorien
 excerpt: ""
 language: da
-
-categories: 
+categories:
+  - Kommunikationsøvelser
+  - Icebreakers
+  - Samarbejdsøvelser
 tags: 
 aim: "Opgaven som holdene her bliver stillet over for, tvinger holdene til være omhyggelige i deres beskrivelser. Enkelte på holdene kan måske se sig nødsaget til at ændre i deres beskrivelser, for at gøre dem mere forståelige for modtageren. Dette giver de enkelte elever indblik i hvordan vi opfatter og forstår ting forskelligt."
 instruction: ""
@@ -12,8 +14,7 @@ preparation: ""
 preparation_time: ""
 time: ""
 where: ""
-materials: "Rekvisitter/Faciliteter: - Papir og skriveredskaber - 2 tegninger
-"
+materials: "- Papir og skriveredskaber - 2 tegninger"
 source: ""
 solution: ""
 gallery:

@@ -3,8 +3,9 @@ title: "Stafet hvor man skal samarbejde"
 redirect_from: /content/stafet-hvor-man-skal-samarbejde
 excerpt: ""
 language: da
-
-categories: 
+categories:
+  - Samarbejdsøvelser
+  - Stafetter
 tags: 
 aim: "Være hurtig til at finde en løsning i fællesskab. Forsøge at lytte til alle, god kommunikation. "
 instruction: ""
@@ -28,7 +29,7 @@ De skal herefter indbyrdes finde ud af hvordan de skal komme frem og tilbage.
 
 De deltagende deles i lige hold, med så vidt muligt lige mange på hver.
 
- Banelængden vil være dem samme for alle hold.
+Banelængden vil være dem samme for alle hold.
 
 Kan gruppen ikke finde en løsning på den første udfordring før et andet hold har gennemført den. Må de arbejde videre med den første, mens det andet hold får en ny udfordring, og derfor er foran.
 

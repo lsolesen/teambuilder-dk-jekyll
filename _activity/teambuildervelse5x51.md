@@ -3,8 +3,8 @@ title: "Teambuilderøvelse - 5x5-1"
 redirect_from: /content/teambuilderøvelse-5x5-1
 excerpt: ""
 language: da
-
 categories: 
+  - Samarbejdsøvelser
 tags: 
 aim: "At løse opgaven vha. kommunikation, og at se hvordan de enkelte agerer i gruppen - hvilke roller har de enkelte?"
 instruction: ""
@@ -35,16 +35,12 @@ Forslag til refleksion:
 
 Hvem tager styringen?
 
-Hvilken reaktion har personer med lederevner, hvis de står langt fra det sted hvor man
-
-rykker rundt?
+Hvilken reaktion har personer med lederevner, hvis de står langt fra det sted hvor man srykker rundt?
 
 Ved alle hvad der foregår?
 
-Er gruppen tilfreds med måden at løse opgaven på, eller vil de gøre noget anderledes en
+Er gruppen tilfreds med måden at løse opgaven på, eller vil de gøre noget anderledes en anden gang?
 
-anden gang?
-
-Variation for at gøre øvelsen sværre:
+Variation for at gøre øvelsen sværere:
 
 I stedet for stole kan trøjerne bruges som brikkerne i spillet og kegler eller måtter som spillets plader. Deltagerne skal, for at gøre det sværre, stå i god afstand til trøjerne og en af gangen skal deltagerne så løbe hen til trøjerne og flytte dem rundt for at løse opgaven ved at der i hver række kun ligger én farve. Der må kun flyttes én trøje af gangen og den samme deltager må ikke løbe to gange i træk - dvs. at deltagerne skal kommunikere for at løse opgaven.

@@ -3,7 +3,6 @@ title: "Dan trekant og firkant fra kegle"
 redirect_from: /content/dan-trekant-og-firkant-fra-kegle
 excerpt: ""
 language: da
-
 categories:
   - Samarbejdsøvelser
 tags:
@@ -14,7 +13,7 @@ preparation: ""
 preparation_time: ""
 time: ""
 where: ""
-materials: "Rekvisitter: - 2 x 20meter reb. - 12 x bind for øjene - 4 gange korte reb. - 2 kegler.
+materials: "- 2 x 20meter reb. - 12 x bind for øjene - 4 gange korte reb. - 2 kegler.
 "
 source: ""
 solution: ""

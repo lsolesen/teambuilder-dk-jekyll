@@ -3,8 +3,8 @@ title: "Det store A - gå en tur"
 redirect_from: /content/det-store-gå-en-tur
 excerpt: ""
 language: da
-
-categories: 
+categories:
+  - Samarbejdsøvelser
 tags: 
 aim: "En samarbejdsøvelse, hvor man skal lære at stole på hinanden. "
 instruction: ""

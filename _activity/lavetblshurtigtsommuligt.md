@@ -3,8 +3,9 @@ title: "Lav et bål så hurtigt som muligt"
 redirect_from: /content/lav-et-bål-så-hurtigt-som-muligt
 excerpt: ""
 language: da
-
-categories: 
+categories:
+  - Samarbejdsøvelser
+  - Konkurrencer
 tags: 
 aim: ""
 instruction: ""

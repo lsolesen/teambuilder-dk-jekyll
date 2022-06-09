@@ -3,8 +3,8 @@ title: "Handicap løb"
 redirect_from: /content/handicap-løb
 excerpt: ""
 language: da
-
-categories: 
+categories:
+  - Samarbejdsøvelser
 tags: 
 aim: ""
 instruction: ""

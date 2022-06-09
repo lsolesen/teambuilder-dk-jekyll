@@ -3,22 +3,19 @@ title: "Blind føres rundt"
 redirect_from: /content/blind-føres-rundt
 excerpt: ""
 language: da
-
 categories: 
-  - blind
+  - Tillidsøvelser
 tags: 
   - blind
-aim: "Tillidsøvelse"
+aim: ""
 instruction: ""
-preparation: "Have noget klar som kan bruges til at binde for øjnene
-"
+preparation: "Have noget klar som kan bruges til at binde for øjnene"
 preparation_time: ""
 time: "10 minutter"
 where: ""
 materials: "Bind for øjnene."
 source: ""
-solution: "Føreren skal leve op til ansvaret med at passe på sin makker
-"
+solution: "Føreren skal leve op til ansvaret med at passe på sin makker"
 gallery:
 last_modified_at: 2010-04-22T07:25:57Z
 ---

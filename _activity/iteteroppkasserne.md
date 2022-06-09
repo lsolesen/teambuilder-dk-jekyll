@@ -7,7 +7,7 @@ header:
   overlay_image: /assets/images/activity/iteteroppkasserne-0.jpg
   teaser: /assets/images/activity/iteteroppkasserne-0-320.jpg
 categories:
-  - Opgave
+  - Opgaver
   - Samarbejdsøvelser
 tags:
   - udfordring

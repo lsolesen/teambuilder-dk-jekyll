@@ -3,8 +3,10 @@ title: "Føre hinanden fangeleg"
 redirect_from: /content/føre-hinanden-fangeleg
 excerpt: ""
 language: da
-
-categories: 
+categories:
+  - Fangelege
+  - Tillidsøvelser
+  - Kommunikationsøvelser
 tags: 
 aim: ""
 instruction: ""

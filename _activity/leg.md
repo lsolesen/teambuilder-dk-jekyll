@@ -49,7 +49,6 @@ Regler:
 - I må ikke røre jorden udenfor øerne
 - I må ikke taget bindet af øjnene før hele aktiviteten er slut"
 language: da
-
 categories:
   - Samarbejdsøvelser
 tags:

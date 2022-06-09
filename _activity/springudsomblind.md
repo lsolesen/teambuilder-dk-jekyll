@@ -3,10 +3,8 @@ title: "Spring ud som blind"
 redirect_from: /content/spring-ud-som-blind
 excerpt: ""
 language: da
-
 categories: 
-  - blind
-  - tillidsøvelse
+  - Tillidsøvelser
 tags: 
   - blind
   - tillidsøvelse

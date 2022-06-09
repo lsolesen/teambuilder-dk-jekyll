@@ -3,8 +3,8 @@ title: "Hejsning af maste"
 redirect_from: /content/hejsning-af-maste
 excerpt: ""
 language: da
-
-categories: 
+categories:
+  - Samarbejdsøvelser
 tags: 
 aim: ""
 instruction: ""
@@ -18,7 +18,7 @@ solution: ""
 gallery:
 last_modified_at: 2009-12-10T17:08:36Z
 ---
-Beskrivelse: Som udgangspunkt dannes en kvadrat på ca. 5 x 5 m af nogle bjælker eller en anden form for afmærkning. Inde i dette kvadrat placeres en pæl, som har 3 reb omkring sig, således at begge ender af hvert reb er frie og kan nås ude fra kvadratet. Det gælder nu om for holdet at få hejst pælen op i lodret position uden at betræde kvadratet.
+Som udgangspunkt dannes en kvadrat på ca. 5 x 5 m af nogle bjælker eller en anden form for afmærkning. Inde i dette kvadrat placeres en pæl, som har 3 reb omkring sig, således at begge ender af hvert reb er frie og kan nås ude fra kvadratet. Det gælder nu om for holdet at få hejst pælen op i lodret position uden at betræde kvadratet.
 
 Materialer: En pæl på et par meter, tre snore og noget til at afmærke firkanten de skal stå udenfor.
 

@@ -3,7 +3,6 @@ title: "Huskeleg langs reb med bind for øjnene"
 redirect_from: /aktiviteter/huskeleg-langs-reb-med-bind-øjnene
 excerpt: "I skal gå langs tovet med øjnene lukkede. På vejen møder I forskellige ting, som I skal forsøge at huske, når I igen får bindet fra øjnene. I må ikke kommunikere sammen undervejs."
 language: da
-
 categories:
   - Samarbejdsøvelser
 tags:

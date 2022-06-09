@@ -3,11 +3,11 @@ title: "Frys"
 redirect_from: /content/frys
 excerpt: ""
 language: da
-
-categories: 
+categories:
+  - Improteater
+  - Icebreakers
 tags: 
-aim: "Disse øvelser har til hensigt at pille ved elevernes hæmninger. For at gennemføre øvelserne bliver eleverne nød til at bryde deres facade og slå sig løs.
-"
+aim: "Disse øvelser har til hensigt at pille ved elevernes hæmninger. For at gennemføre øvelserne bliver eleverne nød til at bryde deres facade og slå sig løs."
 instruction: ""
 preparation: ""
 preparation_time: ""

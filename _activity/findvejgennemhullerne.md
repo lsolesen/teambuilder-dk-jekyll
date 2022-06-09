@@ -7,7 +7,7 @@ header:
   overlay_image: /assets/images/activity/findvejgennemhullerne-0.jpg
   teaser: /assets/images/activity/findvejgennemhullerne-0-320.jpg
 categories:
-  - Opgave
+  - Opgaver
   - Samarbejdsøvelser
 tags:
   - samarbejde

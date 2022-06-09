@@ -5,6 +5,8 @@ redirect_from: /content/minefelt
 excerpt: ""
 language: da
 categories:
+  - Samarbejdsøvelser
+  - Kommunikationsøvelser
 tags:
   - featured
 aim: "Formålet med opgaven er at få gruppen til at kommunikere og sammen finde ud af hvor minerne ligger placeret. Dette kan gøres ved f.eks at lave en 'plan' over felterne eller kalde rækkerne a,b,c,d,e og 1,2,3,4,5."

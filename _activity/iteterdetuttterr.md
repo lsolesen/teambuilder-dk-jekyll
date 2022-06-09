@@ -2,10 +2,9 @@
 title: "Det utætte rør"
 redirect_from: /aktiviteter/det-utætte-rør
 excerpt: "Hent vand i det utætte rør."
-language: da
-
+language: das
 categories:
-  - Opgave
+  - Opgaver
   - Samarbejdsøvelser
 tags:
   - samarbejde

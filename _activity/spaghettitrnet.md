@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/images/activity/spaghettitrnet-0.jpg
   teaser: /assets/images/activity/spaghettitrnet-0-320.jpg
 categories:
-  - Konkurrence
+  - Konkurrencer
   - Samarbejdsøvelser
 tags:
   - Konkurrence

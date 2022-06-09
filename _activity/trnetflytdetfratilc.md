@@ -11,7 +11,7 @@ header:
   overlay_image: /assets/images/activity/trnetflytdetfratilc-0.jpg
   teaser: /assets/images/activity/trnetflytdetfratilc-0-320.jpg
 categories:
-  - Opgave
+  - Opgaver
   - Samarbejdsøvelser
 tags:
   - opgave

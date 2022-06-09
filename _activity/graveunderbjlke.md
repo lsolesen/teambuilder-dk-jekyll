@@ -3,10 +3,9 @@ title: "Grave under bjælke"
 redirect_from: /content/grave-under-bjælke
 excerpt: ""
 language: da
-
 categories:
-  - Konkurrence
-  - Opgave
+  - Konkurrencer
+  - Opgaver
   - Samarbejdsøvelser
 tags:
   - Konkurrence

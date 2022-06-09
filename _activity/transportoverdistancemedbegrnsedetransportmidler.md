@@ -3,8 +3,8 @@ title: "Transport over distance med begrænsede transportmidler"
 redirect_from: /content/transport-over-distance-med-begrænsede-transportmidler
 excerpt: ""
 language: da
-
-categories: 
+categories:
+  - Samarbejdsøvelser
 tags: 
 aim: "At samarbejde og kende hinandens styrker, således at gruppen får transporteret sig hurtigst muligt fra punkt A til punkt B."
 instruction: ""

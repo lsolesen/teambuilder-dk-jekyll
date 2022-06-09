@@ -3,8 +3,9 @@ title: "Hans og Grete"
 redirect_from: /content/hans-og-grete
 excerpt: ""
 language: da
-
-categories: 
+categories:
+  - Lege
+  - Fangelege
 tags: 
 aim: "Hans skal fange Grete"
 instruction: ""
@@ -18,4 +19,3 @@ solution: ""
 gallery:
 last_modified_at: 2010-02-19T11:53:02Z
 ---
-

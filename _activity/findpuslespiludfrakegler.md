@@ -7,8 +7,8 @@ header:
   overlay_image: /assets/images/activity/findpuslespiludfrakegler-0.jpg
   teaser: /assets/images/activity/findpuslespiludfrakegler-0-320.jpg
 categories:
-  - Leg
-  - Opgave
+  - Lege
+  - Opgaver
   - Samarbejdsøvelser
 tags:
   - Leg
