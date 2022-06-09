@@ -17,7 +17,7 @@ Hvis du leder efter inspiration til, hvordan du kan opbygge et stærkt og sammen
 
 Derudover giver de indsigt i fordelene ved teambuilding, herunder forbedret kommunikation og øget produktivitet. Uanset om du starter et nyt team eller arbejder på at styrke et eksisterende team, vil disse blogs give dig de værktøjer, du har brug for for at få succes.
 
-Vi bruger naturligvis også nettet, når vi leder efter nye måder at gøre tingene på. Vi har bl.a. benyttet nogle af de teambuildingsøvelser, vi har fundet på disse sites:
+Vi bruger naturligvis også nettet, når vi leder efter nye måder at gøre tingene på. Vi har bl.a. benyttet nogle af de [teambuildingsøvelser](/gratis-teambuilding-oevelser/), vi har fundet på disse sites:
 
 ## 1. Teachmeteamwork.com
 

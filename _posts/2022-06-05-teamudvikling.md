@@ -125,7 +125,7 @@ De 5 R'er kan være et god framework for at arbejde med fundamentet for udviklin
 
 Der er mange forskellige teamudviklingsaktiviteter, som du kan lave, men nogle af de mest almindelige er bl.a:
 
-- Teambuilding-øvelser: Disse er designet til at hjælpe teams til at arbejde bedre sammen og kan være både sjove og udfordrende.
+- [Teambuilding-øvelser](/gratis-teambuilding-oevelser/): Disse er designet til at hjælpe teams til at arbejde bedre sammen og kan være både sjove og udfordrende.
 - Uddannelse i teamledelse: Denne type uddannelse hjælper teamet med at at forstå deres roller og ansvar i organisationen.
 - Teamtræning: Formålet er at hjælpe teams med at forbedre deres præstationer ved at lære dem nye færdigheder og viden.
 

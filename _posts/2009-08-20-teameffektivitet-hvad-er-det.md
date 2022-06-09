@@ -70,7 +70,7 @@ Ideelt set skal teammedlemmerne også kunne stole på og støtte hinanden og fø
 
 Der er mange forskellige måder at forbedre teamets effektivitet på, men en af de mest effektive er gennem teamudvikling.
 
-Teamudvikling er en proces, der hjælper teams med at identificere og overvinde problemer og med at lære og vokse sammen. Det kan omfatte aktiviteter som f.eks. teambuilding-øvelser, uddannelse og workshops og problemløsningsmøder.
+Teamudvikling er en proces, der hjælper teams med at identificere og overvinde problemer og med at lære og vokse sammen. Det kan omfatte aktiviteter som fx teambuilding-øvelser, uddannelse og workshops og problemløsningsmøder.
 
 Gennem teamudvikling kan teams lære at kommunikere mere effektivt, stole på og støtte hinanden og arbejde mere sammenhængende sammen. Dette kan føre til bedre teampræstationer og et mere positivt arbejdsmiljø.
 
@@ -84,7 +84,7 @@ Nogle populære teambuilding-øvelser omfatter Marshmallow Challenge, hvor holde
 
 Begge disse øvelser kræver, at holdene arbejder sammen om at planlægge, kommunikere og samarbejde for at få succes. De er også gode til at fremme holdånd og kammeratskab.
 
-Læs: [Teambuildingsøvelser og teambuildingsaktiviteter](/samarbejdsovelser/)
+Læs: [Teambuildingsøvelser og teambuildingsaktiviteter](/gratis-teambuilding-oevelser/)
 
 ## Hvordan forbedrer jeg mit teams effektivitet?
 

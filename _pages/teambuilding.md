@@ -14,7 +14,7 @@ classes: wide
 
 Hvis du skal lave et arrangement, hvor du gerne vil få dit team til at lære hinanden at kende, så kan du med fordel kigge efter nogle samarbejdsøvelser og teambuildingsøvelser.
 
-Hvis du er på udkig efter praktiske øvelser, så har vi lavet en samlet oversigt over [teambuildingsøvelser og samarbejdsøvelser](/samarbejdsovelser/).
+Hvis du er på udkig efter praktiske øvelser, så har vi lavet en samlet oversigt over [teambuildingøvelser](/gratis-teambuilding-oevelser/) og [samarbejdsøvelser](/samarbejdsovelser/).
 
 ## Artikler om teambuilding
 
