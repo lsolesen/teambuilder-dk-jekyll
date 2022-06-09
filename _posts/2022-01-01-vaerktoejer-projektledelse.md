@@ -1,5 +1,6 @@
 ---
 title: "Projektværktøjer: Værktøjer til projektledelse"
+permalink: /vaerktoejer-projektledelse/
 language: da
 header:
   teaser: https://images.unsplash.com/photo-1611224885990-ab7363d1f2a9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&h=300&w=400&q=10
@@ -9,19 +10,11 @@ tags:
   - projektplanlægning
 last_modified_at: 2022-05-23T20:50:27Z
 feature_row:
-  - image_path: https://imgcdn.saxo.com/_9788771580051/0x500
-    alt: "Teamwork - metoder til effektivt samarbejde af Michael A. West"
-    title: "Teamwork - metoder til effektivt samarbejde af Michael A. West"
-    excerpt: "_Teamwork_ har fokus på effektivitet og kreativitet og er for alle, der på den ene eller anden måde bruger teamwork i deres dagligdag. Bogen er fyldt med praktiske eksempler og teori, der kan hjælpe et team med at opstille mål og opnå dem."
-    url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/teamwork_michael-a-west_haeftet_9788771580051"
-    btn_label: "Læs mere"
-    btn_class: "btn--success"
-    rel: sponsored nofollow noopener
-  - image_path: https://imgcdn.saxo.com/_9788777064487/0x500
-    alt: "Team - udvikling og læring"
-    title: "Team - udvikling og læring"
-    excerpt: "At arbejde i team er organisationers forsøg på at styrke udvikling af faglige og personlige potentialer og kompetencer. Bogens formål er at give svar på, hvordan udvikling og læring i team kan blive en succes, fx om sporten er en passende metafor til at fremme teamudvikling og læring og forståelse af samarbejde samt om team på arbejdspladsen kan skabe nye fortællinger om medarbejdernes måde at se på samarbejde og gensidig udvikling."
-    url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/team-udvikling-og-laering_morten-bertelsen-red-reinhard-stelter-red_haeftet_9788777064487"
+  - image_path: https://imgcdn.saxo.com/_9788750058205/0x500
+    alt: "Projektlederens værktøj"
+    title: "Projektlederens værktøj"
+    excerpt: "Dette er projektlederens og forandringslederens 'formelsamling' - en gennemgang af de metoder, der kan tages i brug, når projektet skal føres i mål. En håndbog, der kan lette og samtidig kvalificere både studerendes og praktiserende projektlederes arbejde."
+    url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/projektlederens-vaerktoej_bjarne-kousholt_ukendt_9788750058205"
     btn_label: "Læs mere"
     btn_class: "btn--success"
     rel: sponsored nofollow noopener
@@ -31,7 +24,7 @@ Her har vi samlet en række værtøjer til projektledelse, som kan gør din opst
 
 For at gennemføre projekter, så kan du med fordel benytte en række forskellige redskaber til projektanalyse og projektstyring. Det gør det lettere at navigere sikkeret gennem projekterne.
 
-Vi har skrevet mere uddybende om [projektledelse](/projektledelse/). På denne side har vi udvalgt de bedste projektværktøjer, som du kan benytte dig af til dit projekt. Hvis du specifikt er på udkig efter værktøjer til at styre projekter, så kan du kigge på vores side med [projektstyringsværktøjer](/projektstyringsvaerktoejer/). 
+Vi har skrevet mere uddybende om [projektledelse](/projektledelse/). På denne side har vi udvalgt de bedste projektværktøjer, som du kan benytte dig af til dit projekt. Hvis du specifikt er på udkig efter værktøjer til at styre projekter, så kan du kigge på vores side med [projektstyringsværktøjer](/projektstyringsvaerktoejer/).
 
 ## Hvorfor bruge værktøjer til projekter?
 
@@ -42,7 +35,9 @@ Projektværktøjerne giver dig et større overblik, så du også kan overskue me
 Projektværktøjerne hjælper med at give svar på disse væsentlige spørgsmål:
 
 - Hvordan styrer jeg store projekter fra start til slut?
+
 - Hvilke værktøjer kan hjælpe mig med at lykkes med mine projekter?
+
 - Hvilke muligheder har jeg, og hvad skal jeg være opmærksom på i de forskellige faser af et projekt?
 
 ## Hvilke projektværktøjer findes der?
@@ -101,7 +96,11 @@ De værktøjer, der er anført ovenfor, er nogle af de mest afgørende, når du 
 
 Hvis du har brug for hjælp til at vælge det rigtige værktøj til dit projekt, så kan du også tjekke artiklen om [projekter og projektfaser](/projekt-og-projektfaser/) eller indlægget om [projektledelse](/projektledelse/).
 
-## Indlæg om projektværktøjer
+## Bøger med projektværktøjer
+
+{% include feature_row type="left" %}
+
+## Liste over projektværktøjer
 
 {% assign date_from = '2022-01-01' | date: '%s' %}
 {% assign date_to = '2022-01-31' | date: '%s' %}

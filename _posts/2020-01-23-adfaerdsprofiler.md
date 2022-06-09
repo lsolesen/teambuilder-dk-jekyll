@@ -1,5 +1,6 @@
 ---
 title: "Adfærdsprofiler"
+permalink: /adfaerdsprofiler/
 excerpt: "Adfærdsprofiler bruges til at hjælpe folk med at finde ud af, hvordan de er. Adfærdsprofiler skal ikke bruges til at fortælle folk, hvordan de er."
 header:
   teaser: https://images.unsplash.com/photo-1612878010854-1250dfc5000a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&h=300&w=400&q=10

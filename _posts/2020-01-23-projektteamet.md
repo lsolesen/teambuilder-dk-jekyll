@@ -1,5 +1,5 @@
 ---
-title: "Projektteamet"
+title: "Hvordan sammensætter du et effektivt projektteam?"
 permalink: /projektteamet/
 language: da
 header:
@@ -29,12 +29,41 @@ feature_row:
     rel: sponsored nofollow noopener
 ---
 
+Et projektteam er en gruppe af mennesker, der arbejder sammen for at nå et fælles mål. Sammensætningen af et effektivt projektteam er vigtig for projektets succes. Her kigger vi på de faktorer, du skal overveje, når man sammensætter projektteamet.
+
+Den vigtigste faktor er holdmedlemmernes kvalifikationer. Hvert medlem bør have de færdigheder, der er nødvendige for at gennemføre projektet. Holdet skal også have en god blanding af kompetencer, så det kan dække alle projektets aspekter.
+
+En anden vigtig faktor er holdets evne til at arbejde sammen. Holdet skal være i stand til at kommunikere og samarbejde med hinanden. Teamets medlemmer skal også være i stand til at løse konflikter.
+
+Holdets størrelse er også en vigtig faktor . Et for stort team kan have svært ved at få arbejdet gjort. Et for lille team har måske ikke de nødvendige færdigheder til at gennemføre projektet.
+
+Den sidste faktor, der skal tages i betragtning, er holdets evne til at overholde tidsfristerne. Holdet skal være i stand til at arbejde sammen for at gennemføre [projektet](/projekt-og-projektfaser/) til tiden.
+
 ## Hvad er et projektteam?
 
-Prøv for en stund at betragte familien som et projektteam. Familien er knyttet sammen i kraft af tætte kærlighedsbånd. Den udgør en solid enhed. Det hele er dog ikke rosenrødt og dejligt. Der er en dagligdag som skal fungere. Der skal udføres nogle opgaver, som der skal være åbenhed omkring. Derudover skal der slibes nogle kanter af, der skal gives råderum og accept af hinandens kompetencer eller mangel på samme. Nogle gange holder man fast i det eksisterende. Andre gange er forholdene til debat og visse ting tages op til revurdering. Nye opgaver tildeles, andre uddelegeres og en ny struktur til løsning af hjemlige projekter opstår. En stærk familie er ofte en familie, der er bevidst om hinandens styrker og svagheder. Kan man leve med og tilpasse sig disse, er fundamentet for en produktiv enhed skabt – en lykkelig og velfungerende familie!
-{: .notice .notice--info }
+Et projektteam er en gruppe mennesker, der udfører en række sammenhængende aktiviteter på en organiseret måde med klart definerede start- og slutpunkter.
 
-Et projektteam er en gruppe mennesker, der udfører en række sammenhængende aktiviteter på en organiseret måde med klart definerede start- og slutpunkter. Teamet kan både have en hierarkisk og en flad struktur. Sidstnævnte bygger på det princip, at teamets medlemmer ideelt set er lige stillet, og at de hver især har en række ansvarsområder, som de virker inden for. Den hierarkiske er kendetegnet ved, at der er en projektleder, som er hovedansvarlig for det arbejde som teammedlemmerne udfører. Inden et projekt iværksættes bør man gøre sig klare overvejelser over hvilken struktur, der vælges, og sørge for at den er synlig for enhver, der er involveret i processen.
+Teamet kan både have en hierarkisk og en flad struktur.
+
+I den **flade struktur** er teamets medlemmer ideelt set er lige stillet, og at de hver især har en række ansvarsområder, som de virker inden for.
+
+Den **hierarkiske teamstruktur** er kendetegnet ved, at der er en projektleder, som er hovedansvarlig for det arbejde som teammedlemmerne udfører.
+
+Inden et projekt iværksættes bør man gøre sig klare overvejelser over hvilken struktur, der vælges, og sørge for at den er synlig for enhver, der er involveret i processen.
+
+## Familien som et eksempel på et team
+
+Prøv for en stund at betragte familien som et projektteam. Familien er knyttet sammen i kraft af tætte kærlighedsbånd. Den udgør en solid enhed.
+
+Det hele er dog ikke rosenrødt og dejligt altid.
+
+Der er en dagligdag som skal fungere. Der skal udføres nogle opgaver, som der skal være åbenhed omkring. Derudover skal der slibes nogle kanter af, der skal gives råderum og accept af hinandens kompetencer eller mangel på samme. Nogle gange holder man fast i det eksisterende.
+
+Andre gange er forholdene til debat og visse ting tages op til revurdering. Nye opgaver tildeles, andre uddelegeres og en ny struktur til løsning af hjemlige projekter opstår.
+
+En stærk familie er ofte en familie, der er bevidst om hinandens styrker og svagheder. Kan man leve med og tilpasse sig disse, er fundamentet for en produktiv enhed skabt – en lykkelig og velfungerende familie!
+
+## Hvordan sammensætter man et velfungerende team?
 
 Det er nærliggende at stille spørgsmålet, hvordan man skaber et velfungerende team, der trives og løser opgaver med stor effektivitet?
 
@@ -48,7 +77,13 @@ Målsætningen eller stammen er det synlige udsagn om teamets formål. Teamets m
 
 Endelig kan de aktivitetsplaner, som udarbejdes ved opnåelsen af delmålene, ses som de blade eller løv, der giver træet dets farve.” (West, s. 35)
 
-Visionen, målsætningen, mål, delmål og aktivitetsplan er så tæt knyttede størrelser, at det kan være vanskeligt at skelne dem fra hinanden. Følgende eksempel nuancerer dog den forskel, der er begreberne imellem:
+Visionen, målsætningen, mål, delmål og aktivitetsplan er så tæt knyttede størrelser, at det kan være vanskeligt at skelne dem fra hinanden.
+
+Det velfungerende team består typisk af mennnesker med lidt forskellige [adfærdsprofiler](/adfaerdsprofiler/).
+
+## Eksempel på et team til et projekt
+
+Følgende eksempel nuancerer dog den forskel, der er begreberne imellem:
 
 Et projektteam ønsker at se nærmere på det forhold, at alt for mange børn er for overvægtige.
 
@@ -60,17 +95,33 @@ Et projektteam ønsker at se nærmere på det forhold, at alt for mange børn er
 
 Ved at have en fælles vision mindskes risikoen for, at der arbejdes på tværs af teammedlemmernes interesser. Unødig forvirring og frustration kommes i forkøbet, og der skabes fra starten en vi-følelse og konsensus, der øger mulighederne for effektivitet og kreativitet.
 
-Visionen bør formuleres i klare, sammenhængende vendinger. Ideelt set skal den til enhver tid kunne hives frem og være synlig for enhver i gruppen. Visionen er en fælles idé om et ønsket resultat, som er teamets motivation i arbejdet. (West, s. 39)
+Visionen bør formuleres i klare, sammenhængende vendinger. Ideelt set skal den til enhver tid kunne hives frem og være synlig for enhver i gruppen. Visionen er en fælles idé om et ønsket resultat, som er teamets motivation i arbejdet (West, s. 39).
 
-I mange organisationer opleves en stigende foranderlighed. Dette er også gældende inden for idrætsverdenen. Teamet må derfor bestræbe sig på at være forandringsparat og villig til at tilpasse sig ændringer. Det er dog vigtigt, at teamet ikke handler hasarderet og ugennemtænkt, men at det derimod afsætter tid til at reflektere over de nye tiltag, som kan vise sig at være nødvendige i forhold til teamets vision, mål, handlingsplan etc.. Det er frugtbart for organisationen, at teamet finder frem til kreative arbejdsmåder og strategier, som udfordrer eksisterende dogmer og udgør alternativer til status quo. På den måde bidrages til den organisatoriske og samfundsmæssige udvikling.
+## Faser i opbygning af et team
 
-Det må være enhver proaktivists opgave at tolerere og opmuntre til tvivl og flertydighed, selvom det umiddelbart kan afstedkomme konflikt, uoverensstemmelser eller splid. ”På denne måde kan de, der arbejder i teamet, opleve den begejstring og gensidige anerkendelse, der frembringes via et virkeligt gennembrud som et resultat af menneskers arbejde” (West, s.9-10). Endvidere er det i krævende, omskiftelige og usikre omgivelser meget vigtigt, at teammedlemmerne støtter hinanden, så der kan skabes et miljø med tryghed, tillid og ansvar. (West, s. 10)
+{% include figure image_path="/assets/images/blog/projektteamet.png" %}
+
+## Det fleksible projektteam
+
+I mange organisationer opleves en stigende foranderlighed. Dette er også gældende inden for idrætsverdenen. Teamet må derfor bestræbe sig på at være forandringsparat og villig til at tilpasse sig ændringer. Det er dog vigtigt, at teamet ikke handler hasarderet og ugennemtænkt, men at det derimod afsætter tid til at reflektere over de nye tiltag, som kan vise sig at være nødvendige i forhold til teamets vision, mål, handlingsplan etc.
+
+Det er frugtbart for organisationen, at teamet finder frem til kreative arbejdsmåder og strategier, som udfordrer eksisterende dogmer og udgør alternativer til status quo. På den måde bidrages til den organisatoriske og samfundsmæssige udvikling.
+
+Det må være enhver teamdeltagers opgave at tolerere og opmuntre til tvivl og flertydighed, selvom det umiddelbart kan afstedkomme konflikt, uoverensstemmelser eller splid. ”På denne måde kan de, der arbejder i teamet, opleve den begejstring og gensidige anerkendelse, der frembringes via et virkeligt gennembrud som et resultat af menneskers arbejde” (West, s.9-10).
+
+Endvidere er det i krævende, omskiftelige og usikre omgivelser meget vigtigt, at teammedlemmerne støtter hinanden, så der kan skabes et miljø med tryghed, tillid og ansvar. (West, s. 10)
 
 At stå sammen, være solidarisk er en fyldig egenskab som blandt andre nævnes af K. E. Løgstrup. Han indkredser begrebet på følgende vis:
 
-> ”At være solidarisk betyder derfor at støtte andre, springe ind for dem på basis af det som man er fælles med dem om. Hvori dette fælles består, står åbent, det kan være alt muligt, det fastlægges ikke af ordets betydning, men giver sig af sammenhængen. Hvor vidt indsatsen rækker står også åbent, da det afhænger af hvori det fælles består. Betydningen er altså viid. Dog ikke mere viid end at den er etisk, for så vidt som det at være fælles om noget i sig selv forpligter til at stå sammen. Svigte solidariteten består i at lade den anden i stikken, forråde ham, som om man intet var fælles med ham om.” (Løgstrup, s. 8)
+> ”At være solidarisk betyder derfor at støtte andre, springe ind for dem på basis af det som man er fælles med dem om. Hvori dette fælles består, står åbent, det kan være alt muligt, det fastlægges ikke af ordets betydning, men giver sig af sammenhængen. Hvor vidt indsatsen rækker står også åbent, da det afhænger af hvori det fælles består. Betydningen er altså viid. Dog ikke mere viid end at den er etisk, for så vidt som det at være fælles om noget i sig selv forpligter til at stå sammen. Svigte solidariteten består i at lade den anden i stikken, forråde ham, som om man intet var fælles med ham om.”
 
-Hvis alle teammedlemmer er solidariske opstår illoyaliteten ikke. Teamet og dets vision, mål etc. må nødvendigvis være hævet over individet for at solidariteten, som Løgstrup udlægger den, kan komme til udtryk. Det handler med et mere populært ordvalg om commitment. Teammedlemmerne skal forpligte sig i forhold til hinanden og projektet med et ønske om at indfri de forventninger, som stilles. De skal besidde en vilje og evne til at føre projektet igennem til succes!
+--- <cite>Løgstrup, s. 8</cite>
+
+Hvis alle teammedlemmer er solidariske opstår illoyaliteten ikke. Teamet og dets vision, mål etc. må nødvendigvis være hævet over individet for at solidariteten, som Løgstrup udlægger den, kan komme til udtryk. Det handler med et mere populært ordvalg om _commitment_.
+
+Teammedlemmerne skal forpligte sig i forhold til hinanden og projektet med et ønske om at indfri de forventninger, som stilles. De skal besidde en vilje og evne til at føre projektet igennem til succes!
+
+## Det gode teamsamarbejde
 
 I forbindelse med teamsamarbejde opererer West med to fundamentale dimensioner:
 
@@ -79,18 +130,24 @@ I forbindelse med teamsamarbejde opererer West med to fundamentale dimensioner:
 
 For at anskueliggøre de to dimensioner i relation til teamsamarbejdet inddrager West en figur, hvor bl.a. opgaveeffektivitet, teammedlemmers psykiske trivsel og teamets levedygtighed fremgår.
 
-De fire typer teams (A, B, C og D) er alle ekstreme eksempler, men figuren illustrerer klart, at en høj social- opgaverefleksiviteten er en forudsætning for at et team kan fungere optimalt og lave gode resultater (Type A). Samtidig siger figuren også, at der trods lav social refleksivitet sagtens kan leveres gode resultater, men at sådanne teams typisk har kort levetid. Groft sagt behøver man jo ikke være gode venner for at lave et godt produkt (Type D). Modsat kan et team med alt for gode relationer og hyggeligt samvær medlemmerne imellem virke hæmmende for den opgave som skal udføres (Type B).
+## Fire typer teams
 
-West har lavet et spørgeskema, hvorved det er muligt at måle graden af opgave- og socialrefleksivitet – eller mere konkret hvor effektivt et team fungerer! At inddrage sådan en test i et team skal naturligvis overvejes grundigt. Hvorfor skal teamet gøres opmærksom på, at de har en manglende social- eller opgaverefleksivitet? Og i så fald, hvad skal de gøre for at komme den til livs? Testen kan kaste lys over forhold, som er årsag til, at projektgruppen ikke fungerer optimalt.
+De fire typer teams (A, B, C og D) er alle ekstreme eksempler, men figuren illustrerer klart, at en høj social- opgaverefleksiviteten er en forudsætning for at et team kan fungere optimalt og lave gode resultater (Type A).
 
-Spørgsmålet er om det er hensigtsmæssigt og taktisk klogt at lave testen, hvis teamet er i en fase hvor nye problemstillinger er meget lidt ønskværdige. Omvendt kan den også bekræfte, hvis testen viser at social- og opgaverefleksiviteten er høj, at teammedlemmerne er tilfredse med det sociale klima og måden hvorpå opgaverne løses. Dette kan måske afkaste et mere positivt syn på hverandre i teamet. Det er altså ikke nok at måle, man skal også vide, hvad man vil gøre med tallene efterfølgende.
+Samtidig siger figuren også, at der trods lav social refleksivitet sagtens kan leveres gode resultater, men at sådanne teams typisk har kort levetid. Groft sagt behøver man jo ikke være gode venner for at lave et godt produkt (Type D). Modsat kan et team med alt for gode relationer og hyggeligt samvær medlemmerne imellem virke hæmmende for den opgave som skal udføres (Type B).
 
-Når spørgeskemaet udleveres til teamets medlemmer er det vigtigt, at de ikke taler sammen om svarene. Pointene for opgaverefleksivitet og socialrefleksivitet lægges sammen hver for sig. Indsaml gruppens skemaer, og samtlige pointtal for henholdsvis opgave- og socialrefleksivitet lægges sammen og der divideres med antallet af medlemmer. Bemærk at pointene for spørgsmål 5 og 8 vedrørende opgaverefleksiviteten og spørgsmål 2, 3, 6 og 8 vedrørende social refleksivitet tælles ’omvendt’, dvs. 7=1, 6=2, 5=3…etc. og endelig 1=7.
+West har lavet et spørgeskema, hvorved det er muligt at måle graden af opgave- og socialrefleksivitet – eller mere konkret hvor effektivt et team fungerer! At inddrage sådan en test i et team skal naturligvis overvejes grundigt.
+
+Hvorfor skal teamet gøres opmærksom på, at de har en manglende social- eller opgaverefleksivitet? Og i så fald, hvad skal de gøre for at komme den til livs? Testen kan kaste lys over forhold, som er årsag til, at projektgruppen ikke fungerer optimalt.
+
+Spørgsmålet er om det er hensigtsmæssigt og taktisk klogt at lave testen, hvis teamet er i en fase hvor nye problemstillinger er meget lidt ønskværdige. Omvendt kan den også bekræfte, hvis testen viser at social- og opgaverefleksiviteten er høj, at teammedlemmerne er tilfredse med det sociale klima og måden hvorpå opgaverne løses.
+
+Dette kan måske afkaste et mere positivt syn på hverandre i teamet. Det er altså ikke nok at måle, man skal også vide, hvad man vil gøre med tallene efterfølgende.
+
+Når spørgeskemaet udleveres til teamets medlemmer er det vigtigt, at de ikke taler sammen om svarene. Pointene for opgaverefleksivitet og socialrefleksivitet lægges sammen hver for sig. Indsaml gruppens skemaer, og samtlige pointtal for henholdsvis opgave- og socialrefleksivitet lægges sammen og der divideres med antallet af medlemmer.
+
+Bemærk at pointene for spørgsmål 5 og 8 vedrørende opgaverefleksiviteten og spørgsmål 2, 3, 6 og 8 vedrørende social refleksivitet tælles ’omvendt’, dvs. 7=1, 6=2, 5=3…etc. og endelig 1=7.
+
+## Bøger om teams
 
 {% include feature_row type="left" %}
-
-
-
-{% include figure image_path="/assets/images/blog/projektteamet.png" %}
-
-https://www.brejningefterskole.dk/media/pqwplhcc/3-2-teamsamarbejde-og-udvikling.pdf

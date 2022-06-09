@@ -5,9 +5,9 @@ permalink: /teamudvikling/
 excerpt: For at kunne besvare spørgsmålet Hvad er teamudvikling? er det vigtigt at forstå de forskellige aspekter, der udgør et team. Det får du svar på her!
 language: da
 category:
-  - Projektledelse
+  - Teambuilding
 tags:
-  - projektplanlægning
+  - teambuilding
 header:
   teaser: https://images.unsplash.com/photo-1527525443983-6e60c75fff46?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&h=300&w=400&q=10
 last_modified_at: 2022-06-02T20:50:27Z

@@ -12,6 +12,15 @@ category:
 tags:
   - projektplanlægning
 last_modified_at: 2022-05-23T20:50:27Z
+feature_row:
+  - image_path: https://imgcdn.saxo.com/_9788750058328/0x500
+    alt: "Forside til Projektledelse i teori og praksis"
+    title: "Projektledelse i teori og praksis"
+    excerpt: "Som projektleder skal man altid være forberedt på forskellige problemstillinger og være klar over de mange løsningsmuligheder. Du er dog ikke alene om opgaven, da du med Projektledelse - teori og praksis af Bjarne Kousholt bliver godt klædt på til dit næste projekt."
+    url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/projektledelse_bjarne-kousholt_indbundet_9788750058328"
+    btn_label: "Se prisen"
+    btn_class: "btn--success"
+    rel: sponsored nofollow noopener
 ---
 
 Skal du i gang med at lægge en projektplan? Har kigger vi lidt på projektplanlægning, og hvordan du kan planlægge et projekt.
@@ -34,7 +43,7 @@ projekt plan b
 
 ## Hvad er en projektplan?
 
-En projektplan er et dokument, der beskriver målene, målsætningerne og tidslinjen for et projekt. Den tjener som en køreplan for projektlederen og teamet og hjælper med at holde alle på rette spor 
+En projektplan er et dokument, der beskriver målene, målsætningerne og tidslinjen for et projekt. Den tjener som en køreplan for projektlederen og teamet og hjælper med at holde alle på rette spor
 
 Projektplanen bør udarbejdes i begyndelsen af projektet og opdateres efter behov. Den bør deles med alle interessenter, så alle er på samme side.
 
@@ -80,7 +89,7 @@ Når du udarbejder en projektplan, skal du sørge for at medtage følgende:
 - Opdel projektet i mindre opgaver.
 - Udarbejd en tidslinje for projektet.
 - Tildel roller og ansvarsområder.
-- Fastsæt et budget for projektet 
+- Fastsæt et budget for projektet
 
 Ved at følge disse tips kan du øge dine chancer for succes og sikre, at dit projekt forløber gnidningsløst.
 
@@ -124,7 +133,7 @@ Hvem er de vigtigste interessenter? Hvem kan opleve at få fordele ved projektet
 
 Hvad er mulighederne for at gennemføre projektet der hvor det foregår. Både i forhold til de mennesker som indgår og de fysiske omgivelser/ressourcer, som er til rådighed. Er der nogen/noget der skal tilføres projektet for at det kan lykkes? (SWOT-analyse og TOWS-analyse).
 
- 
+
 
 6. Risici
 
@@ -152,7 +161,7 @@ De vigtigste interessenter finder I i Interessent- og SWOT-analyserne samt i org
 
 Kan udarbejdes sammen med tidsplanen i en tids-ansvars- og ressourceplan eller bare en ansvars- og ressourceplan. Hvem gør hvad hvornår, og hvilke materialer skal de have til rådighed? (bilag fælles tids-ansvars- og ressourceplan eller ansvar og ressourceplan alene).
 
- 
+
 
 11. Budget
 
@@ -163,3 +172,7 @@ Hvad er projektets budget? Hvor kommer pengene fra? Hvilke vigtige investeringer
 Hvordan evaluerer I projektet. Hvordan undersøger I, at succeskriterierne er opnået? (se under mål pkt 3). Hvordan undersøger I om projektets interessenter er tilfredse med resultaterne af projektet? (Kundetilfredshedsanalyse).
 
 {% endcomment %}
+
+## Bøger om projektplanlægning
+
+{% include feature_row type="left" %}

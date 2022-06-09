@@ -1,6 +1,6 @@
 ---
 title: "Projektledelse: Komplet guide til projektlederen"
-excerpt: "Skal du i gang med projektledelse? En projektleder har brug for at kunne holde mange bolde i luften. Her får du et komplet overblik."
+excerpt: "Skal du i gang med projektledelse? En projektleder har brug for at kunne holde mange bolde i luften. Her får du et komplet overblik om projektledelse i teori og praksis."
 permalink: /projektledelse/
 language: da
 category:
@@ -8,9 +8,18 @@ category:
 tags:
   - projektplanlægning
 last_modified_at: 2022-05-23T20:50:27Z
+feature_row:
+  - image_path: https://imgcdn.saxo.com/_9788750058328/0x500
+    alt: "Forside til Projektledelse i teori og praksis"
+    title: "Projektledelse i teori og praksis"
+    excerpt: "Som projektleder skal man altid være forberedt på forskellige problemstillinger og være klar over de mange løsningsmuligheder. Du er dog ikke alene om opgaven, da du med Projektledelse - teori og praksis af Bjarne Kousholt bliver godt klædt på til dit næste projekt."
+    url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/projektledelse_bjarne-kousholt_indbundet_9788750058328"
+    btn_label: "Se prisen"
+    btn_class: "btn--success"
+    rel: sponsored nofollow noopener
 ---
 
-Projektledelse handler om at kunne opstarte, planlægge, gennemføre og evaluere projekter. Som projektleder har du brug for en række forskellige redskaber for at kunne navigere dig igennem de forskellige projektfaser i et projekt.
+Projektledelse i teori og praksis handler om at kunne opstarte, planlægge, gennemføre og evaluere projekter. Som projektleder har du brug for en række forskellige redskaber for at kunne navigere dig igennem de forskellige projektfaser i et projekt.
 
 Et projekt er en tidsafgrænset veldefineret engangs-opgave med et veldefineret mål. Alle projekter gennemgår en række forskellige faser. Vi har skrevet et uddybende indlæg om [projekter og projektfaser](/projekt-og-projektfaser/).
 
@@ -25,13 +34,14 @@ projektledelse bog 90
 
 {% include video provider="youtube" id="GiZJ17sZ0Js" %}
 
-## Hvad er projektledelse?
+## Hvad er projektledelse i teori og praksis?
 
 Projektledelse er processen med at planlægge, organisere og styre ressourcerne med henblik på at opnå en vellykket gennemførelse af specifikke projektmål og målsætninger. Det er et vigtigt fagområde for alle, der ønsker at blive en succesfuld leder.
 
 Der er mange forskellige aspekter af projektledelse, lige fra målsætning til teambuilding og kommunikation. For at gennemføre et projekt med succes skal du være i stand til at forvalte alle disse aspekter effektivt.
 
 ## De forskellige faser i et projekt
+
 Alle projekter gennemgår en række forskellige faser. Her er nogle af de faser, som du skal jonglere.
 
 Læs: [Projekt og projektfaser](/projekt-og-projektfaser/)
@@ -106,11 +116,15 @@ Du skal have stærke organisatoriske og kommunikative evner, da du skal koordine
 
 ## Hvordan holder du overblikket?
 
-Der er flere måder at holde styr på dit projekt på. Du kan bruge projektstyringssoftware, f.eks. Microsoft Project eller Trello, til at oprette en projektplan og følge udviklingen.
+Der er flere måder at holde styr på dit projekt på. Du kan bruge projektstyringssoftware, fx Microsoft Project eller Trello, til at oprette en projektplan og følge udviklingen.
 
-Du kan også bruge et Gantt-diagram til visuelt at repræsentere tidslinjen for dit projekt. Dette kan være nyttigt til at kommunikere med interessenter og holde styr på opgaverne .
+Du kan også bruge et Gantt-diagram til visuelt at repræsentere tidslinjen for dit projekt. Dette kan være nyttigt til at kommunikere med interessenter og holde styr på opgaverne.
+
+Vi dykker går lidt mere i dybden med dine muligheder inden for [gratsi projektstyringsværktøjer](/projektstyringsvaerktoejer/).
 
 ## Projektlederens værktøjskasse
+
+Som projektleder er det godt at kunne trække på en række forskellige værktøjer. Vi har skrevet mere uddybende om [projektværktøjer og projektledelsesværktøjer](/vaerktoejer-projektledelse/).
 
 ### 1. 5x5-modellen
 
@@ -159,6 +173,10 @@ Ved at følge disse tips kan du gøre overgangen til projektledelse lettere og g
 Projektstyring er en kompleks proces, som kan være svær at komme i gang med. Men ved at følge de tips, vi har givet dig, kan du gøre overgangen lettere og gøre dig selv klar til at få succes.
 
 Husk altid at være fleksibel og forberedt på ændringer, da de er uundgåelige i ethvert projekt.
+
+## Gode bøger om projektledelse
+
+{% include feature_row type="left" %}
 
 ## Indlæg om projektledelse
 

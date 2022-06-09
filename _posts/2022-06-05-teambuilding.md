@@ -7,9 +7,9 @@ language: da
 header:
   teaser: https://images.unsplash.com/photo-1566140967404-b8b3932483f5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&h=300&w=400&q=10
 category:
-  - Projektledelse
+  - Teambuilding
 tags:
-  - projektplanlægning
+  - teambuilding
 last_modified_at: 2022-05-02T20:50:27Z
 feature_row:
   - image_path: https://imgcdn.saxo.com/_9788771580051/0x500
