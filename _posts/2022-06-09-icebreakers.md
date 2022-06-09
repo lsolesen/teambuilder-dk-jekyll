@@ -45,10 +45,10 @@ Der findes mange forskellige typer isbrydere, som du kan og den bedste til dit a
 [Læs mere]({{ post.url }}){: .btn .btn--large .btn--success }
 
   {%- endfor -%}
-{%- endif -%}
+{% endif %}
 
 ## Konklusion
 
 Isbrydere er en sjov måde at hjælpe folk med at lære hinanden at kende på. De kan bruges på møder, under træningssessioner eller endda ved sociale arrangementer.
 
-Ved at bruge icebreakers kan du hjælpe folk med at føle sig mere trygge og afslappede, hvilket vil gøre arrangementet sjovere for alle. Der er mange forskellige typer isbrydere, som du kan og de bedste en til dit arrangement afhænger af den type gruppe, du har, den tid, du har til rådighed, og dine overordnede mål.
+Ved at bruge icebreakers kan du hjælpe folk med at føle sig mere trygge og afslappede, hvilket vil gøre arrangementet sjovere for alle. Der er mange forskellige typer icebreakers, som du kan og de bedste en til dit arrangement afhænger af den type gruppe, du har, den tid, du har til rådighed, og dine overordnede mål.

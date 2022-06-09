@@ -137,7 +137,9 @@ Modellen består af tre niveauer:
 
 ## 6. SMTTE-modellen
 
-SMTTE-modellen er oprindelig udviklet af Hallvard Håstein. Modellen går ud på at sætte konkrete målbare mål for deltagernes udvikling, igangsætte tiltag for at nå målene og have forholdt sig til hvilken sammenhæng eller kontekst, man arbejder ind i. SMTTE består af fem indbyrdes forbundne elementer og står for Sammenhæng, Mål, Tiltag, Tegn og Evaluering.
+SMTTE-modellen er oprindelig udviklet af Hallvard Håstein. Modellen går ud på at sætte konkrete målbare mål for deltagernes udvikling, igangsætte tiltag for at nå målene og have forholdt sig til hvilken sammenhæng eller kontekst, man arbejder ind i.
+
+SMTTE består af fem indbyrdes forbundne elementer og står for Sammenhæng, Mål, Tiltag, Tegn og Evaluering.
 
 {% include figure image_path="" caption="" alt="SMTTE-modellens fem elementer" %}
 
@@ -145,12 +147,22 @@ SMTTE-modellen er oprindelig udviklet af Hallvard Håstein. Modellen går ud på
 
 Him og Hippe-modellen er en systemmodel, der kan bruges til at studere udviklingen af en aktivitet i et system. Modellen består af fire hoveddele:
 
-1. Den er opdelt i fire dele: Inputdelen, som er ansvarlig for at levere input til systemet.
-2. Output-delen, som er ansvarlig for generering af output fra systemet.
-3. Feedback-delen, som er ansvarlig for feedbacks mellem input- og outputdelene.
-4. Miljødelen, som er ansvarlig for systemets eksterne miljø.
+- **Mål**: Hvad skal gruppen have ud af at lave denne opgave?  
+- **Læringsforudsætninger**: Har de personer nogle redskaber i forvejen, som de kan bruge til denne opgave, Så altså en sværhedsgrad ud fra de kompetencer gruppen har. Hvis man ved det? ellers må man jo agere ud fra det.
+- **Indhold**: Hvad går opgaven ud på! Opgaveforklaring
+- **Læringsprocessen**: Den process i vil opnå med gruppen, som i har lavet opgaven til, Hvis i f.eks. vil opnå splid,samarbejde eller at positivitet betaler sig! 
+- **Rammefaktorer**: Alt hvad i kan bruge: Lokaler, omgivelser, materialer vind og vejr, Kort sagt alt hvad der kan have indflydelse på opgaven.   
+- **Vurdering**: Laves oftest efter, men kan også være en god ide at lave inden, når alle parameter er sat op. Så lige vurdere dem en ekstra gang. 
 
-Him- og Hippe-modellen kan bruges til at undersøge forskellige aspekter af en aktivitet, f.eks. dens struktur, funktion, og adfærd. Den kan også bruges til at undersøge en aktivitets indvirkning på systemet som helhed.
+Him og Hippe-modellen kan bruges til at undersøge forskellige aspekter af en aktivitet, fx dens struktur, funktion, og deltagernes adfærd.
+
+En af de gode ting ved Him og Hippes model er, at det bliver tydeligt, at alle faktorerne har indvirkning på hinanden. Ændrer vi en ting, så har det også effekt på de andre parametre.
+
+{% include figure image_path="https://videnscenterfordemens.dk/sites/default/files/styles/ri_mobile_1x_560px/public/paragraph/field_image/figur_13.jpg?h=3c1aa78a&itok=rJDQY24D" alt="him og hippes model" %}#
+
+## 8. Flow-modellen
+
+{% include figure image_path="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1596,h_1540/https://spencerauthor.com/wp-content/uploads/2017/10/flow-diagram.png" alt="flow modellen" %}
 
 ## Konklusion
 
