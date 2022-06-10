@@ -41,7 +41,7 @@ Så nu er det bare at gå i gang med at skrive dine egne versioner af Leet Speak
 
 ## Konklusion
 
-Leet Speak er en sjov måde at skabe koder, der ikke er så lette at gætte. Du kan bruge Simple Leet eller Advanced Leet, afhængigt af hvor kompliceret din kode skal være.
+Leet Speak er en sjov måde at [skabe koder](/koder/), der ikke er så lette at gætte. Du kan bruge Simple Leet eller Advanced Leet, afhængigt af hvor kompliceret din kode skal være.
 
 Der findes forskellige onlineværktøjer til at hjælpe dig med at skrive i leet speak, herunder en kodebryder, hvis du går i stå.
 
