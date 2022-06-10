@@ -1,7 +1,7 @@
 ---
-title: "Teambuildingøvelser: Sjove ideer & aktiviteter for alle"
-seo_title: "40 gratis teambuilding øvelser: Sjove ideer & aktiviteter"
-excerpt: "Skal du bruge inspiration til teambuildingøvelser? Har deler vi opskriften på et hav af forskellige teambuilding øvelser, som du kan bruge allerede i dag."
+title: "Icebreakers: Sjove ryste-sammen-aktiviteter"
+seo_title: "Icebreakers: Sjove ryste-sammen-aktiviteter"
+excerpt: "Icebreakers er en sjov måde at hjælpe folk med at lære hinanden at kende på. De kan bruges på møder, under træningssessioner eller endda ved sociale arrangementer."
 permalink: /icebreakers/
 header:
 language: da
