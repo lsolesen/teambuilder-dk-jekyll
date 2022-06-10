@@ -30,7 +30,25 @@
     "gulp-size": "^3.0.0",
     "gulp-util": "^3.0.7"
   },
+  "devDependencies": {
+    "browserify": "^16.5",
+    "mocha": "^9.1",
+    "puppeteer": "^8.0",
+    "queue": "^6.0",
+    "tinify": "^1.6",
+    "uglifyify": "^5.0",
+    "watchify": "^4.0",
+    "minipass": "2.7.0",
+    "sharp": "^0.23.0",
+    "uglify-js": "^3.13"
+  },
   "scripts": {
-    "start": "bundle exec jekyll server --port 8080 --incremental"
+    "test": "bundle exec mocha src/test/*.*",
+    "start": "bundle exec jekyll server --port 8080 --incremental",
+    "watch:js": "onchange \"assets/js/**/*.js\" -e \"assets/js/main.min.js\" -- npm run build:js",
+    "build:js": "npm run uglify",
+    "watch": "watchify src/js/app.bundle.js -o assets/js/bundle.js",
+    "build": "browserify src/js/app.bundle.js -g uglifyify -o assets/js/bundle.js",
+    "uglify": "bundle exec uglifyjs assets/js/vendor/jquery/jquery-3.6.0.js assets/js/plugins/jquery.fitvids.js assets/js/plugins/jquery.greedy-navigation.js assets/js/plugins/jquery.magnific-popup.js assets/js/plugins/jquery.ba-throttle-debounce.js assets/js/plugins/smooth-scroll.js assets/js/plugins/gumshoe.js assets/js/_main.js -c -m -o assets/js/main.min.js"
   }
 }
