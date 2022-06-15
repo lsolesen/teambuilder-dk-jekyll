@@ -14,6 +14,4 @@ tags:
 last_modified_at: 2022-05-23T20:50:27Z
 ---
 
-
-
 {% include figure image_path="/assets/images/koder/kodemaskinen-semafor.png" caption="[Kodemaskinen.dk](https://www.kodemaskinen.dk/) kan let oversætte semafor-kode." alt="semafor oversat i kodemaskinen" %}
