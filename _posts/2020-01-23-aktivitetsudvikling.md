@@ -6,6 +6,8 @@ category:
   - Undervisning
 tags:
   - ideer
+header:
+  teaser: /android-chrome-512x512.png
 last_modified_at: 2022-05-23T20:50:27Z
 feature_row:
   - image_path: https://imgcdn.saxo.com/_9788771580051/0x500
@@ -147,12 +149,12 @@ SMTTE består af fem indbyrdes forbundne elementer og står for Sammenhæng, Må
 
 Him og Hippe-modellen er en systemmodel, der kan bruges til at studere udviklingen af en aktivitet i et system. Modellen består af fire hoveddele:
 
-- **Mål**: Hvad skal gruppen have ud af at lave denne opgave?  
+- **Mål**: Hvad skal gruppen have ud af at lave denne opgave?
 - **Læringsforudsætninger**: Har de personer nogle redskaber i forvejen, som de kan bruge til denne opgave, Så altså en sværhedsgrad ud fra de kompetencer gruppen har. Hvis man ved det? ellers må man jo agere ud fra det.
 - **Indhold**: Hvad går opgaven ud på! Opgaveforklaring
-- **Læringsprocessen**: Den process i vil opnå med gruppen, som i har lavet opgaven til, Hvis i f.eks. vil opnå splid,samarbejde eller at positivitet betaler sig! 
-- **Rammefaktorer**: Alt hvad i kan bruge: Lokaler, omgivelser, materialer vind og vejr, Kort sagt alt hvad der kan have indflydelse på opgaven.   
-- **Vurdering**: Laves oftest efter, men kan også være en god ide at lave inden, når alle parameter er sat op. Så lige vurdere dem en ekstra gang. 
+- **Læringsprocessen**: Den process i vil opnå med gruppen, som i har lavet opgaven til, Hvis i f.eks. vil opnå splid,samarbejde eller at positivitet betaler sig!
+- **Rammefaktorer**: Alt hvad i kan bruge: Lokaler, omgivelser, materialer vind og vejr, Kort sagt alt hvad der kan have indflydelse på opgaven.
+- **Vurdering**: Laves oftest efter, men kan også være en god ide at lave inden, når alle parameter er sat op. Så lige vurdere dem en ekstra gang.
 
 Him og Hippe-modellen kan bruges til at undersøge forskellige aspekter af en aktivitet, fx dens struktur, funktion, og deltagernes adfærd.
 

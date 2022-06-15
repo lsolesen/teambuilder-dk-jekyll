@@ -2,6 +2,8 @@
 title: "SWOT-analyse: Skabelon og eksempel"
 excerpt: "Skal du i gang med en SWOT-analyse? Her kan du læse alt om SWOT-modellen og finde en skabelon og et eksempel på, hvordan man laver analysen."
 language: da
+header:
+  teaser: /android-chrome-512x512.png
 category:
   - Projektledelse
 tags:

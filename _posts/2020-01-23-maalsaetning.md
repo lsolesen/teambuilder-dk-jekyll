@@ -58,7 +58,7 @@ Nu hvor du ved, hvordan man sætter SMART-mål, er det på tide at begynde at s�
 
 ## Afklar dine styrker og udviklingspotentialer
 
-Selvrefleksion er et centralt element i målsætning. For at kunne opstille mål, der svarer til dine styrker og dit udviklingspotentiale, er det vigtigt at vide, hvad disse er. 
+Selvrefleksion er et centralt element i målsætning. For at kunne opstille mål, der svarer til dine styrker og dit udviklingspotentiale, er det vigtigt at vide, hvad disse er.
 
 Der er flere måder at gøre dette på, men nogle metoder er mere effektive end andre. En måde at få indsigt i dine styrker og dit udviklingspotentiale på er at spørge dem, der kender dig godt.
 
@@ -80,6 +80,6 @@ Når du har fået en bedre forståelse af dine styrker og dit udviklingspotentia
 
 Nu hvor du ved, hvordan man sætter SMART-mål, er det tid til at begynde at sætte dine egne! Husk blot at være specifikke, målbare, opnåelige, relevante og tidsbestemte, så er du godt på vej til at nå dine mål.
 
-Husk, at selvrefleksion er et vigtigt element i målfastsættelsen, og sørg for at spørge dem, der kender dig for deres bidrag. Endelig skal du sørge for at gennemgå dine mål regelmæssigt for at sikre, at de stadig er relevante og opnåelige. Held og lykke! 
+Husk, at selvrefleksion er et vigtigt element i målfastsættelsen, og sørg for at spørge dem, der kender dig for deres bidrag. Endelig skal du sørge for at gennemgå dine mål regelmæssigt for at sikre, at de stadig er relevante og opnåelige. Held og lykke!
 
 Jeg har skrevet mere om [SMART-målsætning med eksempler på motionsplan.dk](https://www.motionsplan.dk/smart/).

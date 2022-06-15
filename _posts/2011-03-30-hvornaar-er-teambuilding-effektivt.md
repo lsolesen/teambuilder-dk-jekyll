@@ -9,6 +9,8 @@ category:
   - Teambuilding
 tags:
   - teambuilding
+header:
+  teaser: /android-chrome-512x512.png
 last_modified_at: 2011-04-04T12:20:54Z
 feature_row:
   - image_path: https://imgcdn.saxo.com/_9788771580051/0x500

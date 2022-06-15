@@ -4,6 +4,8 @@ seo_title: "Interessentanalyse: Skabelon og eksempel"
 permalink: /interessentanalyse/
 excerpt: "Ved du, hvem der er berørt af dit projekt? Så skal du i gang med at lave en interessentanalyse. Her ser du hvordan!"
 language: da
+header:
+  teaser: /android-chrome-512x512.png
 category:
   - Projektledelse
 tags:
