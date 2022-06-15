@@ -102,7 +102,6 @@ En **interessentanalyse** er som man lidt kan tænkte sig til en analyse af inte
 Formålet med analysen er at hjælpe projektledere med at håndtere interessenterne.
 
 | Interessent | Forventninger | Betydning | Bidrag til projektet | Indragelse | For eller imod |
-
 |-------------|---------------|-----------|----------------------|------------|----------------|
 |             |               |           |                      |            |                |
 |-------------|---------------|-----------|----------------------|------------|----------------|
