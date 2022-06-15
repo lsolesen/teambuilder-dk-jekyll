@@ -122,7 +122,7 @@ Der er flere måder at holde styr på dit projekt på. Du kan bruge projektstyri
 
 Du kan også bruge et Gantt-diagram til visuelt at repræsentere tidslinjen for dit projekt. Dette kan være nyttigt til at kommunikere med interessenter og holde styr på opgaverne.
 
-Vi dykker går lidt mere i dybden med dine muligheder inden for [gratsi projektstyringsværktøjer](/projektstyringsvaerktoejer/).
+Vi dykker går lidt mere i dybden med dine muligheder inden for [gratis projektstyringsværktøjer](/projektstyringsvaerktoejer/).
 
 ## Projektlederens værktøjskasse
 
