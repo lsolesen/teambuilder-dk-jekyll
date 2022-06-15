@@ -8,6 +8,8 @@ category:
 tags:
   - projektplanlægning
   - featured
+header:
+  teaser: /android-chrome-512x512.png
 last_modified_at: 2022-05-23T20:50:27Z
 feature_row:
   - image_path: https://imgcdn.saxo.com/_9788750058328/0x500

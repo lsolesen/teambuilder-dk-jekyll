@@ -3,6 +3,8 @@ title: "Hvordan laver du en risikoanalyse (med skabelon og eksempel)"
 permalink: /risikoanalyse/
 excerpt: "Skal du i gang med en risikoanalyse? Her har du håndgribelige tips til, hvordan du griber den an med en tjekliste, skabelon og et eksempel."
 language: da
+header:
+  teaser: /android-chrome-512x512.png
 category:
   - Projektledelse
 tags:

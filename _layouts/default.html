@@ -36,6 +36,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
     <div class="initial-content">
       {{ content }}
+
+      <!-- Pinterest -->
+      {% assign size = page.permalink.size | minus: 1 %}
+      {% capture path %}{{ page.permalink | slice: 0, size | remove_first: "/" | replace: "/", "-" | append: ".jpg" | prepend: "/assets/images/pinterest/generated/" }}{% endcapture %}
+      {% assign file_exists = site.static_files | where: "path", path %}
+      {% if file_exists.size != 0 %}
+         {% include pinterest image_path=path hidden="true" %}
+      {% endif %}
     </div>
 
     {% if site.search == true %}

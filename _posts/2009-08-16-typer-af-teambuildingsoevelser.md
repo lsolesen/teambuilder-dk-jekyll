@@ -11,6 +11,8 @@ tags:
   - Øvelser
   - Teambuildingsøvelser
 last_modified_at: 2022-04-10T17:08:40Z
+header:
+  teaser: /android-chrome-512x512.png
 feature_row:
   - image_path: https://imgcdn.saxo.com/_9788771580051/0x500
     alt: "Teamwork - metoder til effektivt samarbejde af Michael A. West"

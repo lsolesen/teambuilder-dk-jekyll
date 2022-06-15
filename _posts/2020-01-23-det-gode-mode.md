@@ -7,6 +7,8 @@ category:
   - Møder
 tags:
   - Mødeledelse
+header:
+  teaser: /android-chrome-512x512.png
 last_modified_at: 2020-01-23T20:50:27Z
 feature_row:
   - image_path: https://imgcdn.saxo.com/_9788799227129/0x500

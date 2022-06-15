@@ -2,6 +2,8 @@
 title: "8 inspirerende blogs om teambuilding"
 excerpt: "Hvis du leder efter inspiration til, hvordan du kan opbygge et stærkt og sammenhængende team, så tjek disse blogs om teambuilding ud."
 permalink: /blogs-om-teambuilding/
+header:
+  teaser: /android-chrome-512x512.png
 redirect_from:
   - /content/websites-vi-lader-os-inspirere-af
   - /websites-vi-lader-os-inspirere-af/

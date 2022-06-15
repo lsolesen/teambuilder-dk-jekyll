@@ -4,6 +4,7 @@ seo_title: "Icebreakers: Sjove ryste-sammen-aktiviteter"
 excerpt: "Icebreakers er en sjov måde at hjælpe folk med at lære hinanden at kende på. De kan bruges på møder, under træningssessioner eller endda ved sociale arrangementer."
 permalink: /icebreakers/
 header:
+  teaser: /android-chrome-512x512.png
 language: da
 category:
   - Teambuilding
