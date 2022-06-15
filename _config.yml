@@ -68,7 +68,8 @@ social:
   type                   : "Organization" # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-
+    - https://www.facebook.com/teambuilderdk
+    - https://www.pinterest.dk/teambuilderdk
 
 # Site search
 search: true
@@ -81,6 +82,18 @@ analytics:
     tracking_id          : "UA-9167931-1"
 
 
+footer:
+  links:
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://www.facebook.com/teambuilderdk"
+    - label: "Pinterest"
+      icon: "fab fa-fw fa-pinterest-square"
+      url: "https://www.pinterest.dk/teambuilderdk"
+    - label: "Støt sitet"
+      icon: "fas fa-fw fa-mug-hot"
+      url: "https://www.buymeacoffee.com/lsolesen"
+
 # Site Author
 author:
   name: "Teambuilder"
@@ -90,21 +103,21 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:info@teambuilder.dk"
-#    - label: "Facebook"
-#      icon: "fab fa-fw fa-facebook-square"
-#      url: "http://www.facebook.com/lsolesen"
-    - label: "Støt sitet"
-      icon: "fas fa-fw fa-mug-hot"
-      url: "https://www.buymeacoffee.com/lsolesen"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://www.facebook.com/teambuilderdk"
 #    - label: "Youtube"
 #      icon: "fab fa-fw fa-youtube"
 #      url: "http://www.youtube.com/fodboldenslegestue"
 #    - label: "Twitter"
 #      icon: "fab fa-fw fa-twitter-square"
 #      url: "https://twitter.com/legestue"
-#    - label: "Pinterest"
-#      icon: "fab fa-fw fa-pinterest-square"
-#      url: "http://www.pinterest.com/legestue"
+    - label: "Pinterest"
+      icon: "fab fa-fw fa-pinterest-square"
+      url: "https://www.pinterest.dk/teambuilderdk"
+    - label: "Støt sitet"
+      icon: "fas fa-fw fa-mug-hot"
+      url: "https://www.buymeacoffee.com/lsolesen"
 #    - label: "GitHub"
 #      icon: "fab fa-fw fa-github"
 #      url: "https://github.com/lsolesen/"
