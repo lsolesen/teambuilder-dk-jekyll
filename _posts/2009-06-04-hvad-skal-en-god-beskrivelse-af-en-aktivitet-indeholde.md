@@ -1,5 +1,6 @@
 ---
 title: "Hvad skal en god beskrivelse af en aktivitet indeholde?"
+permalink: /hvad-skal-en-god-beskrivelse-af-en-aktivitet-indeholde/
 redirect_from: /content/hvad-skal-en-god-beskrivelse-af-en-aktivitet-indeholde
 language: da
 header:

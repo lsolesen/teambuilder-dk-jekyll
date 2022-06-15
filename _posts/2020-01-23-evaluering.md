@@ -1,6 +1,7 @@
 ---
 title: "Evaluering og evalueringsmodeller (med evalueringsskema)"
 excerpt: "Skal du i gang med at lave en evaluering? Her får du forslag til evalueringsmodeller og du kan se eksempler på evalueringsskemaer."
+permalink: /evaluering/
 language: da
 category:
   - Projektledelse

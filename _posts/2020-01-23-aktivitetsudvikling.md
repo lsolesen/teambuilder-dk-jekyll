@@ -2,6 +2,7 @@
 title: "Aktivitetsudvikling: Modeller til at udvikle aktiviteter"
 excerpt: "Skal du i gang med aktivitetsudvikling? Her får du flere værktøjer og modeller til at udvikle aktiviteter og øvelser."
 language: da
+permalink: /aktivitetsudvikling/
 category:
   - Undervisning
 tags:
