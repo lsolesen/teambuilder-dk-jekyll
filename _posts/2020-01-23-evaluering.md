@@ -88,7 +88,7 @@ Jeg kan godt lide at tilføje en sektion om 'egen indsats' og måske 'forventnin
 
 [Skabelon til evalueringsskema](http://kortlink.dk/gkza){: .btn .btn--large .btn--info rel="nofollow noopener" }
 
-## 2. Fælles evaluering i plenum
+### 2. Fælles evaluering i plenum
 
 Når man spørger ud i plenum, skal man have tænkt grundigt over, hvordan man stiller spørgsmålene, og hvordan man følger op på diskussionerne. Du skal særligt være opmærksom på, at den første kommentar fra kursisterne kan styre en del af den efterfølgende evaluering.
 
