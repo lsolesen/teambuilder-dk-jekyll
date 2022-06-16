@@ -1,6 +1,6 @@
 let teambuilder = {};
 // https://www.nayuki.io/page/automatic-caesar-cipher-breaker-javascript
-teambuilder.Spejd = function(str, kodeord = 'SPEJD') {
+teambuilder.Passcode = function(str, kodeord = 'SPEJD') {
 
 	function ErBogstav(Tegn){
 		if(Tegn == "å"){

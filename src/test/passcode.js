@@ -1,12 +1,12 @@
-const teambuilder = require('../js/spejd.js');
+const teambuilder = require('../js/passcode.js');
 let assert = require('assert');
 
-describe('Spejd', function() {
+describe('Passcode', function() {
   describe('decrypt', function() {
     it('should return the correct number', function() {
 
       let str = 'virker ikke';
-      let c = teambuilder.Spejd(str);
+      let c = teambuilder.Passcode(str);
       assert.equal(c.decrypt(), 'virker ikke');
     });
   });
@@ -14,7 +14,7 @@ describe('Spejd', function() {
     it('should return the correct number', function() {
 
       let str = 'Jeg er spejdkoden';
-      let c = teambuilder.Spejd(str);
+      let c = teambuilder.Passcode(str);
       assert.equal(c.encrypt(), 'Qoy od mnoqrøerop');
     });
   });
