@@ -1,13 +1,14 @@
-<form id="kodemaskine" class="calculator">
+{% assign open_form = include.open | default: "ak" %}
 
+<form id="kodemaskine" class="calculator">
     <fieldset>
         <label>Kodesprog
         <select name="language" id="language">
-            <option value="morse">Morse</option>
-            <option value="ak">A-K & K-A (Cæsarkoden)</option>
-            <option value="backwards">Baglæns</option>
-            <option value="passcode">Kodeordskode (SPEJD-koden)</option>
-            <option value="alfa">Talkode (ALFA-koden)</option>
+            <option value="morse"{% if open_form == 'morse' %} selected="selected"{% endif%}>Morse</option>
+            <option value="ak"{% if open_form == 'ak' %} selected="selected"{% endif%}>A-K & K-A (Cæsarkoden)</option>
+            <option value="backwards"{% if open_form == 'backwards' %} selected="selected"{% endif%}>Baglæns</option>
+            <option value="passcode"{% if open_form == 'passcode' %} selected="selected"{% endif%}>Kodeordskode (SPEJD-koden)</option>
+            <option value="alfa"{% if open_form == 'alfa' %} selected="selected"{% endif%}>Talkode (ALFA-koden)</option>
             {% comment %}
             <option value="binary">Binær kode</option>
             <option value="frimurer">Frimurerkoden (Juniorkoden)</option>
@@ -20,7 +21,7 @@
         </label>
 
 
-        <fieldset id="morse">
+        <fieldset id="morse" style="display: none;">
             <div class="form-group inline">
                 <label for="translate_text_to_morse" class="radio">
                     <input type="radio" name="morse_translating_way" id="translate_text_to_morse" value="text_to_morse" checked>
