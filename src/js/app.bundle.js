@@ -10,6 +10,9 @@ const passcode = require('./passcode');
 
 $(function() {
 
+    let language = $("#language").val();
+    $("#" + language).show();
+
     $("#language").change(function() {
         console.log('Selectbox');
         $("#code").text('');
