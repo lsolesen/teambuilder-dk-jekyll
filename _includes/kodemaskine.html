@@ -5,10 +5,10 @@
         <select name="language" id="language">
             <option value="morse">Morse</option>
             <option value="ak">A-K & K-A (Cæsarkoden)</option>
-            {% comment %}
             <option value="backwards">Baglæns</option>
             <option value="passcode">Kodeordskode (SPEJD-koden)</option>
-            <option value="number">Talkode (ALFA-koden)</option>
+            <option value="alfa">Talkode (ALFA-koden)</option>
+            {% comment %}
             <option value="binary">Binær kode</option>
             <option value="frimurer">Frimurerkoden (Juniorkoden)</option>
             <option value="runes">Runer</option>
@@ -20,38 +20,60 @@
         </label>
 
 
-        <div class="form-group" id="morse">
-            <label for="translate_text_to_morse" class="radio inline">
-                <input type="radio" name="morse_translating_way" id="translate_text_to_morse" value="text_to_morse" checked>
-                Tekst til Morse</label>
-            {% comment %}
-            <input type="radio" name="morse_translating_way" id="translate_morse_to_text" value="morse_to_text">
-            <label for="translate_morse_to_text">Morse til Tekst</label>
+        <fieldset id="morse">
+            <div class="form-group inline">
+                <label for="translate_text_to_morse" class="radio">
+                    <input type="radio" name="morse_translating_way" id="translate_text_to_morse" value="text_to_morse" checked>
+                    Tekst til Morse
+                </label>
+                {% comment %}
+                <label for="translate_special_char" class="checkbox">
+                    <input type="checkbox" name="translate_special_char" id="translate_special_char" value="true">
+                    Oversæt specialtegn?
+                </label>
+                <input type="radio" name="morse_translating_way" id="translate_morse_to_text" value="morse_to_text">
+                <label for="translate_morse_to_text">Morse til Tekst</label>
+                {% endcomment %}
+            </div>
+        </fieldset>
 
-            <input type="checkbox" name="translate_special_char" id="translate_special_char" value="yes" />
-            <label for="translate_special_char">Oversæt specialtegn?</label>
-            {% endcomment %}
-        </div>
+        <fieldset id="backwards" style="display: none;">
+            <div class="form-group inline">
+                <label for="remove_spaces" class="checkbox">
+                    <input type="checkbox" name="remove_spaces" id="remove_spaces" value="true">
+                    Fjern mellemrum?
+                </label>
+                <label for="random_spaces" class="checkbox">
+                    <input type="checkbox" name="random_spaces" id="random_spaces" value="true">
+                    Indsæt tilfældige mellemrum?
+                </label>
+            </div>
+        </fieldset>
+
+        <fieldset id="alfa" style="display: none;">
+            <div class="form-row inline">
+                <label for="number_raise" class="radio">
+                    <input type="radio" name="number_raise_fall" id="number_raise" value="number_raise" checked>
+                    Stigende (A = 1)
+                </label>
+                <label for="number_fall" class="radio">
+                    <input type="radio" name="number_raise_fall" id="number_fall" value="number_fall">
+                    Faldende (&Aring; = 1)
+                </label>
+                <label for="no_w_number_selected" class="checkbox">
+                    <input type="checkbox" name="no_w_number_selected" id="no_w_number_selected" value="false">
+                    Uden W?
+                </label>
+                {% comment %}
+                <label for="number_to_text" class="checkbox">
+                    <input type="checkbox" name="number_to_text" id="number_to_text" value="true">
+                    Tal til tekst?
+                </label>
+                {% endcomment %}
+            </div>
+        </fieldset>
 
         {% comment %}
-
-        <div id="backwards" style="display: none;">
-            <input type="checkbox" name="remove_spaces" id="remove_spaces" value="yes"  />
-            <label for="remove_spaces">Fjern mellemrum?</label>
-            <input type="checkbox" name="random_spaces" id="random_spaces" value="yes"  />
-            <label for="random_spaces">Indsæt tilfældige mellemrum?</label>
-        </div>
-
-        <div id="number" style="display: none;">
-            <input type="radio" name="number_raise_fall" id="number_raise" value="numer_raise" checked>
-            <label for="number_raise" style="padding-right:40px;"><span></span>Stigende (A = 1)</label>
-            <input type="radio" name="number_raise_fall" id="number_fall" value="number_fall" >
-            <label for="number_fall" style="padding-right:40px;"><span></span>Faldende (&Aring; = 1)</label>
-            <input type="checkbox" name="no_w_number_selected" id="no_w_number_selected" value="yes"  />
-            <label for="no_w_number_selected" style="padding-right:40px;"><span></span>Uden W?</label>
-            <input type="checkbox" name="number_to_text" id="number_to_text" value="yes"  />
-            <label for="number_to_text"><span></span>Tal til tekst?</label>
-        </div>
 
         <div id="binary" style="display: none;">
             <input type="radio" name="binary_translating_way" id="translate_text_to_binary" value="text_to_binary" onchange="binary_options_change(this.value)" checked>
@@ -83,8 +105,8 @@
 
         {% endcomment %}
 
-        <div id="ak" class="form-group" style="display: none;">
-            <label for="translate_text_to_ak" class="radio inline">
+        <fieldset id="ak" class="form-group inline" style="display: none;">
+            <label for="translate_text_to_ak" class="radio">
                 <input type="radio" name="ak_translating_way" id="translate_text_to_ak" value="text_to_ak" checked>
                 A-K
             </label>
@@ -94,14 +116,13 @@
             <input type="checkbox" name="no_w_ak_selected" id="no_w_ak_selected" value="yes"  />
             <label for="no_w_ak_selected">Uden W?</label>
             {% endcomment %}
-            <br>
-        </div>
+        </fieldset>
+
+        <fieldset id="passcode" style="display: none;">
+            <input type="text" id="passcode" name="passcode" placeholder="Indsæt kodeord" value="SPEJD">
+        </fieldset>
 
         {% comment %}
-
-        <div id="passcode" style="display: none;">
-            <input type="text" id="smallTextbox" style="width:150px;" name="passcode" placeholder="Indsæt kodeord" >
-        </div>
 
         <div id="frimurer" style="display: none;">
             <input type="radio" name="frimurer_translation_option" id="frimurer_danish" value="danish" checked>

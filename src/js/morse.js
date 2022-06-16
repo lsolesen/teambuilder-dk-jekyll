@@ -1,6 +1,6 @@
 let teambuilder = {};
 // https://www.nayuki.io/page/automatic-caesar-cipher-breaker-javascript
-teambuilder.Morse = function(str) {
+teambuilder.Morse = function(str, special_chars = 'false') {
 
 	var til_morse = {
 		a: ".-",
@@ -210,26 +210,6 @@ teambuilder.Morse = function(str) {
 					out += fra_morse[letter[j]];
 				}
 			out += " ";
-			}
-		}
-		if (kodetype == "til_ak") {
-			for (i = 0; i < inp.length; i++) {
-				b = til_ak[inp.charAt(i)];
-				if (b != undefined) {
-					out += b;
-				} else {
-					out += inp.charAt(i);
-				}
-			}
-		}
-		if (kodetype == "fra_ak") {
-			for (i = 0; i < inp.length; i++) {
-				b = fra_ak[inp.charAt(i)];
-				if (b != undefined) {
-					out += b;
-				} else {
-					out += inp.charAt(i);
-				}
 			}
 		}
 		return out.trim();

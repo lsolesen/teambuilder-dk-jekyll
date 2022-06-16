@@ -1,6 +1,11 @@
 let teambuilder = {};
 // https://www.nayuki.io/page/automatic-caesar-cipher-breaker-javascript
-teambuilder.Alfa = function(str, w = true, reverse = false) {
+teambuilder.Alfa = function(str, w = 'true', reverse = 'number_raise') {
+	if (reverse == 'number_fall') {
+		reverse = 'true';
+	} else {
+		reverse = 'false';
+	}
 
 	function vend(strInputTeksten) {
 		//end vend( string ) -> string
@@ -21,20 +26,20 @@ teambuilder.Alfa = function(str, w = true, reverse = false) {
 	};
 
 	function ToAlfa(strInputTeksten){
-		if (w == true){
+		if (w == 'true'){
 			var bogstaver = 'abcdefghijklmnopqrstuvwxyzæøå';
 		} else{
 			var bogstaver = 'abcdefghijklmnopqrstuvxyzæøå';
 		};
 
-		if (reverse == true){
+		if (reverse == 'true'){
 			bogstaver = vend(bogstaver);
 		};
 
 		var Tekst = strInputTeksten;
 		Tekst = Tekst.toLowerCase();
 		var TranstedTekst="";
-		var nr
+		var nr;
 
 		for (count=0;count<Tekst.length;count++){
 			Tegn=Tekst.charAt(count);
