@@ -9,11 +9,11 @@
             <option value="backwards"{% if open_form == 'backwards' %} selected="selected"{% endif%}>Baglæns</option>
             <option value="passcode"{% if open_form == 'passcode' %} selected="selected"{% endif%}>Kodeordskode (SPEJD-koden)</option>
             <option value="alfa"{% if open_form == 'alfa' %} selected="selected"{% endif%}>Talkode (ALFA-koden)</option>
+            <option value="semafore"{% if open_form == 'semafor' %} selected="selected"{% endif%}>Semafor</option>
+            <option value="frimurer">Frimurerkoden (Juniorkoden)</option>
             {% comment %}
             <option value="binary">Binær kode</option>
-            <option value="frimurer">Frimurerkoden (Juniorkoden)</option>
             <option value="runes">Runer</option>
-            <option value="semafor">Semafor</option>
             <option value="blindwriting">Blindeskrift (Braille-alfabetet)</option>
             <option value="leetspeak">Leet Speak</option>
             {% endcomment %}
@@ -125,14 +125,24 @@
 
         {% comment %}
 
-        <div id="frimurer" style="display: none;">
-            <input type="radio" name="frimurer_translation_option" id="frimurer_danish" value="danish" checked>
-            <label for="frimurer_danish" style="padding-right:40px;"><span></span>Dansk udgave</label>
-            <input type="radio" name="frimurer_translation_option" id="frimurer_english" value="english"  style="margin-left:25px;">
-            <label for="frimurer_english"><span></span>Engelsk udgave</label>
-            <input type="checkbox" name="frimurer_with_q" id="frimurer_with_q" value="yes"  />
-            <label for="frimurer_with_q"><span></span>Med Q? (Kun Dansk)</label>
-        </div>
+        <fieldset id="frimurer" class="form-group inline" style="display: none;">
+            <label for="frimurer_danish" class="radio">
+                <input type="radio" name="frimurer_translation_option" id="frimurer_danish" value="danish" checked>
+                Dansk udgave
+            </label>
+            <label for="frimurer_english" class="radio">
+                <input type="radio" name="frimurer_translation_option" id="frimurer_english" value="english">
+                Engelsk udgave
+            </label>
+            <label for="frimurer_with_q" class="radio">
+                <input type="checkbox" name="frimurer_with_q" id="frimurer_with_q" value="yes">
+                Med Q? (Kun Dansk)
+            </label>
+        </fieldset>
+
+        {% endcomment %}
+
+        {% comment %}
 
         <div id="runes" style="display: none;">
             <input type="radio" name="runes_translation_option" id="runes_elder" value="elder" checked>
@@ -140,10 +150,6 @@
             <input type="radio" name="runes_translation_option" id="runes_middleage" value="middleage"  style="margin-left:25px;">
             <label for="runes_middleage"><span></span>Middelalderruner</label>
         </div>
-
-        <div id='semafor' style="display:none;"></div>
-        <div id='blindwriting' style="display:none;"></div>
-        <div id='leetspeak' style="display:none;"></div>
 
         {% endcomment %}
 
