@@ -1,0 +1,193 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+body.layout--single, body.layout--routes {
+  .feature__item--left, .feature__item--right {
+      h2.archive__item-title {
+          margin-top: 0.5em !important;
+          margin-bottom: 0em !important;
+          font-size: 0.9em !important;
+      }
+      .archive__item-excerpt p:first {
+          margin-top: 0em !important;
+      }
+  }
+}
+
+[rel~=sponsored]:after {
+  content: "*";
+}
+
+figure {
+  &.fourth {
+    > a,
+    > img {
+      @include breakpoint($small) {
+        width: calc(25% - 0.5em);
+      }
+    }
+
+    figcaption {
+      width: 100%;
+    }
+  }
+  &.fifth {
+    > a,
+    > img {
+      @include breakpoint($small) {
+        width: calc(20% - 0.5em);
+      }
+    }
+
+    figcaption {
+      width: 100%;
+    }
+  }
+  &.sixth {
+    > a,
+    > img {
+      @include breakpoint($small) {
+        width: calc(15% - 0.5em);
+      }
+    }
+
+    figcaption {
+      width: 100%;
+    }
+  }
+}
+
+/* Grid view */
+
+body.layout--single .page__content .grid__item, body.layout--routes .page__content .grid__item {
+
+  @include breakpoint($medium) {
+    margin-left: 0;
+    margin-right: 0;
+    width: span(4 of 12);
+
+    &:nth-child(4n + 1) {
+      clear: none;
+    }
+
+    &:nth-child(3n + 1) {
+      clear: both;
+      margin-right: gutter(1 of 12);
+    }
+
+    &:nth-child(3n + 2) {
+      clear: none;
+      margin-right: gutter(1 of 12);
+    }
+
+    &:nth-child(3n + 3) {
+      clear: none;
+    }
+  }
+}
+
+form.calculator {
+  fieldset, legend {
+      margin: 0;
+      padding: 0;
+  }
+  fieldset {
+      padding: 1em !important;
+      background-color: #D8E4F8;
+
+      fieldset {
+          clear: both !important;
+          padding: 0 !important;
+          legend {
+              float: none !important;
+              font-weight: normal;
+          }
+      }
+
+      &.results {
+          color: white !important;
+          background-color: #34557A !important;
+
+          legend, label {
+              color: white !important;
+          }
+          .help-block, .help-inline {
+              color: #eee;
+          }
+      }
+
+      legend {
+        font-weight: bold;
+          float: left;
+          margin-bottom: .5em;
+          width: 100%;
+      }
+  }
+  input[type="submit"] {
+      @extend .btn;
+      @extend .btn--large;
+      @extend .btn--success;
+  }
+  .notes {
+      margin-top: 0.4em;
+      font-size: 0.9em;
+      color: #bbb;
+  }
+}
+
+.youtube-container {
+  display: block;
+  margin: 20px auto;
+  width: 100%;
+  max-width: 600px;
+}
+.youtube-player {
+  display: block;
+  width: 100%;
+  /* assuming that the video has a 16:9 ratio */
+
+  padding-bottom: 56.25%;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+  height: 100%;
+  cursor: hand;
+  cursor: pointer;
+  display: block;
+}
+img.youtube-thumb {
+  bottom: 0;
+  display: block;
+  left: 0;
+  margin: auto;
+  max-width: 100%;
+  width: 100%;
+  position: absolute;
+  right: 0;
+  top: 0;
+  height: auto
+}
+.play-button {
+  display: block;
+  height: 72px;
+  width: 72px;
+  left: 50%;
+  top: 50%;
+  margin-left: -36px;
+  margin-top: -36px;
+  position: absolute;
+  background: url("https://i.imgur.com/TxzC70f.png") no-repeat;
+}
+#youtube-iframe {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
