@@ -8,7 +8,7 @@
 theme: minimal-mistakes-jekyll
 minimal_mistakes_skin:   "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 
-ads: false
+ads: true
 
 # Jekyll specific
 future: false
@@ -265,6 +265,9 @@ collections:
   activity:
     output: true
     permalink: /aktivitet/:path/
+  giveaway:
+    output: true
+    permalink: /freebie/:path/
 
 # Defaults
 defaults:
@@ -304,3 +307,17 @@ defaults:
       tag_archive_path: /aktivitetstags/
       category_archive_path: /aktivitetskategorier/
       breadcrumbs: true
+# _giveaway
+  - scope:
+      path: ""
+      type: giveaway
+    values:
+      layout: single
+      author_profile: true
+      read_time: false
+      comments: false
+      share: false
+      related: false
+      disallow: true ## Used for noindex nofollow
+      search: false
+      sitemap: false

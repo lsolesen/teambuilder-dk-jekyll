@@ -1,0 +1,4 @@
+{% assign reward = include.reward | default: "https://www.buymeacoffee.com/lsolesen" %}
+{% assign text = include.text | default: "Køb mig en kaffe" %}
+
+<a href="{{ reward }}" class="btn btn--large btn--bmc" rel="nofollow noopener"><img src="https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/BMC-btn-logo.svg" loading="lazy" alt="{{ text }}"> {{ text }}</a>
