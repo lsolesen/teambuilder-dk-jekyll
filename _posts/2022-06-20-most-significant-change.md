@@ -22,6 +22,8 @@ Som monitoreringstilgang eller form er MSC kendetegnet ved, at der ikke bruges k
 
 Som metode er MSC baseret på dialog og historiefortælling. Formålet er at facilitere forbedringer af et projekt eller en kapacitetsudviklingsproces ved at dreje arbejdet i en eksplicit værdibaseret retning (subjektiv, kvalitativ) i stedet for en log-frame-baseret retning, hvor vægten lægges på det objektive og kvantitative. Fortællingen er altså central og søger at indkredse svar på centrale spørgsmål om forandring: hvem gjorde hvad, hvornår og hvorfor – inkl. hvorfor det hændte opleves som betydningsfuldt?
 
+{% include lead-magnet-button.html title="Download rapporten" class="msc-rapport" %}
+
 ## Hvad er Most Significant Change-metoden?
 
 Most Significant Change-metoden er en kvalitativ tilgang til at evaluere effekten af udviklingsprojekter. Metoden er er udviklet af [Rick Davies og Jess Dart](https://www.researchgate.net/publication/275409002_The_%27Most_Significant_Change%27_MSC_Technique_A_Guide_to_Its_Use).

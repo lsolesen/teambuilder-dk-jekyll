@@ -18,6 +18,8 @@ Er du interesseret i at blive klogere på din egen praksis? Kollegial supervisio
 
 Her beskriver jeg kort, hvad kollegial supervision kan bruges med udgangspunkt i vores erfaringer fra Vejle Idrætshøjskole.
 
+{% include lead-magnet-button.html title="Download rapporten" class="kollegial-supervision-rapport" %}
+
 ## Hvorfor arbejde med kollegial supervision?
 
 Den kollegiale supervision forudsætter at der er tale om ligestillede kollegaer, som samvirker om at skabe fælles og større bevidsthed om den praksis, man hver især udøver (Andersen og Peterson 1995, side 11).
@@ -298,6 +300,8 @@ Alle kan bede om time-out undervejs i samtalen!
 ## Konklusion
 
 Alle lærerne har været enige om, at det har været givtigt at være igennem et forløb med kollegial intervision.
+
+{% include lead-magnet-button.html title="Download rapporten" class="kollegial-supervision-rapport" %}
 
 ### Udbytte i hovedtræk
 
