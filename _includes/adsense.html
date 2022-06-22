@@ -1,4 +1,4 @@
-{% if site.ads and page.url != '/ads/off/' %}
+{% if jekyll.environment == 'production' and site.ads == 'adsense' and page.url != '/ads/off/' %}
 <script>
 function getCookie(cname) {
   var name = cname + "=";
