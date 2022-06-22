@@ -1,8 +1,8 @@
 ---
 title: "Kollegial Supervision - bliv bedre sammen"
 seo_title: "Kollegial Supervision - bliv bedre sammen"
-excerpt: "Skal du lave en hemmelig opgave med koder? Koder er en sjov måde at sende hemmelige beskeder på eller lave forskellige opgaver med."
-permalink: /most-significant-change-metoden/
+excerpt: "Er du interesseret i at blive klogere på din egen praksis? Kollegial supervision eller intervision er en måde for ligestillede kollegaer at bearbejde deres egen undervisning på."
+permalink: /kollegial-supervision/
 header:
   teaser: https://images.unsplash.com/photo-1637073848100-a70e5094afff?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y29sbGVndWV8ZW58MHx8MHx8&auto=format&fit=crop&h=300&w=400&q=10
 language: da
@@ -20,11 +20,11 @@ Her beskriver jeg kort, hvad kollegial supervision kan bruges med udgangspunkt i
 
 ## Hvorfor arbejde med kollegial supervision?
 
-Den kollegiale supervision forudsætter at der er tale om ligestillede kollegaer, som samvirker om at skabe fælles og større bevidsthed om den praksis, man hver især udøver (Andersen og Peterson 1995, side 11). 
+Den kollegiale supervision forudsætter at der er tale om ligestillede kollegaer, som samvirker om at skabe fælles og større bevidsthed om den praksis, man hver især udøver (Andersen og Peterson 1995, side 11).
 
 Et bedre ord kunne være kollegial intervision, som betyder et fælles klarsyn og som mere tydeligt klargør, at det er to ligestillede parter. En definition kunne altså være:
 
-> “Kollegial intervision er en pædagogisk metode, hvor ligestillede kollegaer gensidigt observerer og taler sammen om hinandens arbejde på en systematisk og aftalebestemt måde.” 
+> “Kollegial intervision er en pædagogisk metode, hvor ligestillede kollegaer gensidigt observerer og taler sammen om hinandens arbejde på en systematisk og aftalebestemt måde.”
 
 --- <cite>frit efter Andersen og Peterson 1995, side 11</cite>
 
@@ -34,7 +34,7 @@ Formålet med kollegial intervision er altså at skabe en metode, hvor den enkel
 
 Den kollegiale supervision skal altså skærpe den enkeltes lærers meta-refleksion, så vedkommende kan få et endnu skarpere værdisæt, som er udgangspunktet for ens handlinger og erfaringer.
 
-{% include image_path="/assets/images/blog/" caption="Figur: En enkel læringscirkel" alt="Læringscirkel til Kollegial Supervision" %}
+{% include figure image_path="/assets/images/blog/supervision/laeringscirkel.png" caption="Figur: En enkel læringscirkel" alt="Læringscirkel til Kollegial Supervision" %}
 
 Centralt i den kollegiale intervision er altså fremgangsmåde, observation, samtale, refleksion og aftaler. Det følgende giver nogle praktiske anvisninger på, hvordan kollegial intervision kan gribes an i en højskolekontekst?
 
@@ -68,7 +68,7 @@ Kvadrantmodellen fordrer ikke, at man skal tale om noget på en bestemt måde. D
 - **Hvorfor jeg gør...** Den måde man som menneske agerer på har sit udgangspunkt i nogle indre værdier, som bl.a. er formet af de sociale sammenhænge, man færdes i. Højskolen som ramme er i høj grad med til at forme dette, men man er naturligvis også selv med til at forme højskolen.
 - **Det jeg gør...** Baseret på sine værdier handler man. Man kan observere adfærden, som i nogen grad kan være med at afsløre nogle af den enkeltes indre tanker, men adfærden er ikke tankerne.
 
-{% include image_path="/assets/images/blog/" caption="Figur: Wilbers kvadrantmodel frit efter Tønnesvang og Ovesen (2012)" alt="Wilbers Kvadrantmodel" %}
+{% include figure image_path="/assets/images/blog/supervision/wilbers-kvadrantmodel.png" caption="Figur: Wilbers kvadrantmodel frit efter Tønnesvang og Ovesen (2012)" alt="Wilbers Kvadrantmodel" %}
 
 Kvadrantmodellen kan være med til at afdække, hvilket perspektiv vi kigger på tingene på - og den er med til at gøre intervisor opmærksom på, at noget kan vi observere på, mens andet er et fortolkningsperspektiv - en oplevelse hos den enkelte eller en uudtalt kultur.
 
@@ -110,7 +110,7 @@ Man bliver ikke bare en bedre underviser. Det kræver hårdt arbejde - og at man
 
 Edgar Schein og Kurt Lewin taler om, at man skal unfreeze for at være motiveret for forandring. Kun når man er tøet op, kan man lave en forandring, som man slutter med at refreeze igen.
 
-{% include image_path="/assets/images/blog/" caption="Edgar Schein og Kurt Lewin om Unfreezing og Refreezing" alt="Unfreezing og Refreezing" %}
+{% include figure image_path="/assets/images/blog/supervision/schein-unfreeze-refreeze.png" caption="Edgar Schein og Kurt Lewin om Unfreezing og Refreezing" alt="Unfreezing og Refreezing" %}
 
 Unfreezing behøver ikke være på hele sin undervisningspraksis, men det kan være begrænsede nedslagspunkter. Men derfor kan der sagtens være perioder i ens (højskole)liv, hvor det ikke lige passer ind, at der skal ske store forandringer, og man skal rokke ved sin undervisningspraksis. Overvej derfor godt om det er et godt tidspunkt nu at investere ekstra tid og energi i at deltage i projektet.
 
@@ -122,7 +122,7 @@ På Vejle Idrætshøjskole valgte vi at starte vores projekt med at være to sam
 
 Vi havde en fokusperson og en observatør - og udgangspunktet for de to roller var nogenlunde som i figuren nedenunder.
 
-{% include image_path="/assets/images/blog/" caption="Figur: Første forsøg med kollegial supervision på Vejle Idrætshøjskole" alt="Parvis kollegial supervision" %}
+{% include figure image_path="/assets/images/blog/supervision/parvis-kollegial-supervision.png" caption="Figur: Første forsøg med kollegial supervision på Vejle Idrætshøjskole" alt="Parvis kollegial supervision" %}
 
 ### Tre sammen: Et andet forslag til kollegial supervision
 
@@ -130,7 +130,7 @@ Andersen og Peterson (1995) plæderer for, at tre roller sammen kan skabe det be
 
 #### Fokusperson
 
-- Underviser og bliver observeret og er i fokus i dialogen. 
+- Underviser og bliver observeret og er i fokus i dialogen.
 - Formulerer arbejdspunkter. Fokuspersonen har lavet en konkret formulering af hvilke arbejdspunkter vedkommende ønsker at undersøge i intervisionen.
 - Fokuspersonen starter samtalen med at fortælle om, hvordan vedkommende oplevede den observede undervisning ift. det valgte udgangspunkt.
 
@@ -150,17 +150,17 @@ Andersen og Peterson (1995) plæderer for, at tre roller sammen kan skabe det be
 - Giver tilbagemelding på, hvad der var væsentligt for fokuspersonen. Fx nøgleord undervejs, eller hvad vedkommende synes at være mest optaget af? Fx “Jeg hørte, at du var optaget af…”
 - Giver feedback til intervieweren. Hvor så samtalen ud til at fungere godt? Hvornår var der refleksion og nye perspektiver? Peg gerne på konkrete spørgsmål.
 
-{% include image_path="/assets/images/blog/" caption="Figur: Struktur på samtalen for kollegial intervision (Andersen og Peterson 1995)" alt="Struktur på kollegial supervision og intervision" %}
+{% include figure image_path="/assets/images/blog/supervision/struktur-kollegial-intervision.png" caption="Figur: Struktur på samtalen for kollegial intervision (Andersen og Peterson 1995)" alt="Struktur på kollegial supervision og intervision" %}
 
 Ud fra de tre roller kunne samtalen tænkes at forløbe nogenlunde som skitseret i figuren nedenunder:
 
-{% include image_path="/assets/images/blog/" caption="Figur: Den kollegiale intervisionssamtales forløb" alt="Kollegial intervisionssamtale" %}
+{% include figure image_path="/assets/images/blog/supervision/kollegial-intervision-samtale-forloeb.png" caption="Figur: Den kollegiale intervisionssamtales forløb" alt="Kollegial intervisionssamtale" %}
 
 Den ret præcise struktur kan være god for at sikre sig, at intervisionen ikke bliver evaluerende og vurderende. Vær derfor særligt opmærksom på Wilbers kvadrantmodel og den gode struktur i samtalen.
 
-Hvis det er praktisk muligt kan mediatoren være en god ide af tre grunde: 
+Hvis det er praktisk muligt kan mediatoren være en god ide af tre grunde:
 
-- Mediatoren sikrer ligeværdighed i samtalen 
+- Mediatoren sikrer ligeværdighed i samtalen
 - Mediatoren kan måske se nogle mønstre hos fokuspersonen, som de ikke selv opdager i samtalen
 - Mediatoren sikrer læring hos intervieweren også ift. at blive bedre til aktiv lytning.
 
@@ -170,7 +170,7 @@ Kollegial intervision kan være et redskab i en pædagogisk udviklingsproces. L�
 
 For at læreren kan sætte dagsorden kræver det et fornuftigt forarbejde, hvor læreren gør sig overvejelser om nutiden og fremtiden.
 
-{% include image_path="/assets/images/blog/" caption="Figur: Baseret på Andersen og Peterson (1995, side 6)" alt="kollegial intervision" %}
+{% include figure image_path="/assets/images/blog/supervision/nutid-og-fremtid-supervision.png" caption="Figur: Baseret på Andersen og Peterson (1995, side 6)" alt="kollegial intervision" %}
 
 ## Aktiv lytning skaber forståelse
 
@@ -178,7 +178,7 @@ Hvis man på forhånd har besluttet sig for, hvad der er god undervisning, så k
 
 Vores opfattelse af en situation er betinget af vores perspektiv. Intervieweren skal invitere fokuspersonen rundt i perspektiverne i rummet.
 
-Gå over “broen” til den andens verden. Man er i hver sin verden. Man skal gå på besøg hos den anden uden at tage alt mulig med sig. Man medbringer gaven at man vil lytte. 
+Gå over “broen” til den andens verden. Man er i hver sin verden. Man skal gå på besøg hos den anden uden at tage alt mulig med sig. Man medbringer gaven at man vil lytte.
 Spørgsmålene skal invitere til at åbne ideer.
 
 Man skal inviteres ind i et rum, hvor man prøver at se på, hvad man gør, og hvad man kunne gøre anderledes.
@@ -199,11 +199,11 @@ Det kan (måske skal) føles kunstigt i den tid, man som interviewer sidder og s
 
 ## Metode: Lytning og lytteniveauer
 
-I intervisionssamtalen skal man forsøge at lytte uden forforståelse. Det kræver en masse øvelse at lægge sine erfaringer, viden, gode råd, egne oplevelser fra sig. Den reflekterende samtale går ud på, at få den observerede til at reflektere over egen praksis. Det betyder, at supervisors vigtigste opgave er at skabe refleksion. 
+I intervisionssamtalen skal man forsøge at lytte uden forforståelse. Det kræver en masse øvelse at lægge sine erfaringer, viden, gode råd, egne oplevelser fra sig. Den reflekterende samtale går ud på, at få den observerede til at reflektere over egen praksis. Det betyder, at supervisors vigtigste opgave er at skabe refleksion.
 
 Præmissen er at vi kun kan være med til at skabe refleksion, hvis vi nysgerrigt går på opdagelse i undervisningspraksis og lytte empatisk og fokuseret til det, der bliver sagt. I figuren nedenunder er det altså at lytte på mindst niveau 2 - og spørgsmålene skal stimulere den andens dialog med sig selv og omverden.
 
-{% include figure image_path="/assets/images/blog/" alt="teori U og Carl Rogers lytteniveauer" caption="Figur: Teori U sammensat med Carl Rogers’ lytteniveauer" %}
+{% include figure image_path="/assets/images/blog/supervision/carl-rogers-teori-u-lytteniveauer.png" alt="teori U og Carl Rogers lytteniveauer" caption="Figur: Teori U sammensat med Carl Rogers’ lytteniveauer" %}
 
 I praksis er det vanskeligt hele tiden at lytte empatisk og fokuseret. Så snart man som supervisor fornemmer, at man søger efter noget bestemt eller begynder at vurdere svarene undervejs, skal man finde tilbage virkelig at lytte efter, hvad der er på spil hos den superviserede. Det kan være, at det kræver en kort pause.
 
@@ -213,11 +213,11 @@ Det kan være vanskeligt at fralægge sig sine egne meninger og erfaringer, når
 
 Med udgangspunkt i Karl Tomm kan man tale om en spørgecirkel, som kan være en støtte, når man er interviewer. Spørgscirklen ser sådan her ud:
 
-{% include figure image_path="/assets/images/blog/" alt="Karl Tomm spørgecirkel" caption="Figur: Frit efter Karl Tomm" %}
+{% include figure image_path="/assets/images/blog/supervision/karl-tomm-spoergecirkel.png" alt="Karl Tomm spørgecirkel" caption="Figur: Frit efter Karl Tomm" %}
 
 Spørgsmål kan altså være lineære eller cirkulære. De kan orientere sig mod fortiden eller mod fremtiden. Man kan med fordel benytte sig af spørgsmål fra alle delene af spørgecirklen.
 
-{% include figure image_path="/assets/images/blog/" alt="eksempler på spørgsmål fra Karl Tomms spørgecirkel" caption="Figur: Eksempler på typer spørgsmål i de forskellige felter i spørgecirklen" %}
+{% include figure image_path="/assets/images/blog/supervision/karl-tomm-spoergecirkel-eksempler.png" alt="eksempler på spørgsmål fra Karl Tomms spørgecirkel" caption="Figur: Eksempler på typer spørgsmål i de forskellige felter i spørgecirklen" %}
 
 <div markdown="1" class="notice">
 **Øvelse. Giv eksempler på spørgsmål i de forskellige felter?**
@@ -250,7 +250,7 @@ _Interviewer_: Hvordan havde du det med det?
 
 _Fokusperson_: Jeg synes det var irriterende. Men jeg gjorde ikke rigtig noget ved det.
 
-_Interviewer_: Hvis du skulle se undervisningen fra deres perspektiv, hvad ville du så tænke? 
+_Interviewer_: Hvis du skulle se undervisningen fra deres perspektiv, hvad ville du så tænke?
 
 _Fokusperson_: Ja, de så ud til, at det var lidt kedeligt.
 
@@ -262,11 +262,11 @@ _Interviewer_: Hvad tror du, der vil ske, hvis du gjorde det?
 
 ## Køreplan for intervisionsprocessen
 
-- Fokuspersonen bestemmer et fokuspunkt, som observatøren skal observeres på. 
+- Fokuspersonen bestemmer et fokuspunkt, som observatøren skal observeres på.
 - Observatøren overværer undervisningen og tager meget konkrete noter i ft. det valgte fokuspunkt.
-- Noterne bruges efterfølgende i intervisionssamtalen til at stille spørgsmål i ft. det valgte fokuspunkt. 
+- Noterne bruges efterfølgende i intervisionssamtalen til at stille spørgsmål i ft. det valgte fokuspunkt.
 
-## Supervisionssamtalens struktur 
+## Supervisionssamtalens struktur
 
 ### Opfølgning fra sidste møde (5 minutter)
 
@@ -274,24 +274,24 @@ Tilbagemelding fra sidste mødes fokusperson. Fx hvis vedkommende har ændret no
 
 ### Supervisionssamtale (35 minutter)
 
-- Fokuspersonen (underviseren) starter med egne iagttagelser om fokuspunktet 
-- Observatør/Interviewer bidrager med sine observationer og spørgsmål baseret på observationer 
+- Fokuspersonen (underviseren) starter med egne iagttagelser om fokuspunktet
+- Observatør/Interviewer bidrager med sine observationer og spørgsmål baseret på observationer
 
-**Fokuspersonen** (10 min ud af de 35 min) stiller nu spørgsmål til interviewer. Der kan stilles spørgsmål om alt, hvad fokuspersonen er nysgerrig på ift. egen undervisning/vejledning, fx om hvad observatøren så i en specifik situation, hvad observatøren oplevede/observerede osv. 
-Feedback fra mediator (10 minutter) 
+**Fokuspersonen** (10 min ud af de 35 min) stiller nu spørgsmål til interviewer. Der kan stilles spørgsmål om alt, hvad fokuspersonen er nysgerrig på ift. egen undervisning/vejledning, fx om hvad observatøren så i en specifik situation, hvad observatøren oplevede/observerede osv.
+Feedback fra mediator (10 minutter)
 
-**Mediator** har noteret observationer under samtalen, der bruges som udgangspunkt for feedback. 
+**Mediator** har noteret observationer under samtalen, der bruges som udgangspunkt for feedback.
 
 - giver en kort tilbagemelding på, hvad mediator hørte var væsentligt for fokuspersonen. Det kan fx være i form af nøgleord. Nøgleord er ord, som vedkommende har været optaget af og måske sagt flere gange undervejs i samtalen. Sig fx: ”Jeg hørte, at du var optaget af….”. Brug fokuspersonens egne ord i din tilbagemelding - i det omfang det er muligt.
-- giver feedback til intervieweren. Mediatoren fortæller hvor han/hun synes samtalen så ud til at fungere godt = der hvor, der så ud til at blive skabt nye perspektiver og/eller bevægelse hos fokuspersonen. Peger på konkrete spørgsmål som intervieweren stillede, som så ud til at føre til nye tanker/ideer/perspektiver. 
+- giver feedback til intervieweren. Mediatoren fortæller hvor han/hun synes samtalen så ud til at fungere godt = der hvor, der så ud til at blive skabt nye perspektiver og/eller bevægelse hos fokuspersonen. Peger på konkrete spørgsmål som intervieweren stillede, som så ud til at føre til nye tanker/ideer/perspektiver.
 
 ### Samlet dialog om tema
 
-Samlet dialog om det valgte tema, herunder gode råd og ideer (10 minutter) 
+Samlet dialog om det valgte tema, herunder gode råd og ideer (10 minutter)
 
 ### Næste aftale
 
-Næste aftale 
+Næste aftale
 
 Alle kan bede om time-out undervejs i samtalen!
 
