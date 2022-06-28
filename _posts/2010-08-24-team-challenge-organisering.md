@@ -2,6 +2,7 @@
 title: "Team Challenge - organisering"
 redirect_from: /content/team-challenge-organisering
 language: da
+category:
   - Teambuilding
 tags:
   - organisering
