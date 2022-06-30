@@ -4,7 +4,7 @@ seo_title: "10 ideer til evaluering af undervisning"
 excerpt: "Søger du inspiration til at lave evaluering af din undervisning? Her finder du forslag til både skriftlige og mundtlige evalueringsformer til undervisningen."
 permalink: /evaluering-af-undervisning/
 header:
-  teaser: https://images.unsplash.com/photo-1637073848100-a70e5094afff?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y29sbGVndWV8ZW58MHx8MHx8&auto=format&fit=crop&h=300&w=400&q=10
+  teaser: https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&&h=300&w=400&q=10
 language: da
 category:
   - Evaluering
@@ -14,7 +14,7 @@ tags:
 last_modified_at: 2022-06-20T20:50:27Z
 ---
 
-Lærerne forsøger konstant at finde nye og innovative måder at evaluere deres undervisning på for at forbedre elevernes læring og undervisningen i det hele taget. 
+Lærerne forsøger konstant at finde nye og innovative måder at evaluere deres undervisning på for at forbedre elevernes læring og undervisningen i det hele taget.
 
 Her evaluerer vi ikke selve læringen hos eleverne, men vi evaluerer, hvordan mødet i undervisningen mellem eleverne og lærerne fungerer.
 
@@ -72,7 +72,7 @@ Inden du begynder at evaluere din undervisningspraksis, så skal du først still
 
 ### 1. Hvad skal evalueres?
 
-Hvad er fokus for evaluering? Når du skal vælge **evalueringsfokus**, så kan du vælge mellem forskellige fokus. I dette indlæg handler det om evaluering af undervisning. 
+Hvad er fokus for evaluering? Når du skal vælge **evalueringsfokus**, så kan du vælge mellem forskellige fokus. I dette indlæg handler det om evaluering af undervisning.
 
 Det kan fx være undervisningsmiljø, klasserumskultur, materialer og lærerens måder at facilitere læringsrummet og mødet om undervisningen på.
 
@@ -108,7 +108,7 @@ Her kigger vi på en række mundtlige evalueringsformer, som du kan vælge at br
 
 ### 1. Plenumevaluering
 
-Evaluering i plenum er en hurtig måde at indsamle feedback fra dine elever. Der er nok mange, der brugt plenumevaluering med eleverne til at få synspunkter i forhold til undervisningen. 
+Evaluering i plenum er en hurtig måde at indsamle feedback fra dine elever. Der er nok mange, der brugt plenumevaluering med eleverne til at få synspunkter i forhold til undervisningen.
 
 Metoden kan være nyttig, fordi den er let at sætte op. Det besværlige kan være at få sat evalueringen rigtigt op og stille de rigtige spørgsmål. Jeg synes typisk ikke denne form fungerer så godt, hvis rammerne er helt frie.
 
@@ -204,7 +204,7 @@ Fremgangsmåden kunne være sådan her:
 8. Hvis uenig i et udsagn – gør ingenting.
 9. Send papiret videre. Papiret sendes hele vejen rundt, indtil hver har sit eget papir igen.
 10. Enhver tæller op, hvor mange streger, der er ud for hvert punkt på det papir, de sidder med.
-11. En ordstyrer samler op, fx som en plenumdiskussion 
+11. En ordstyrer samler op, fx som en plenumdiskussion
 12. Ordstyreren spørger: Er der nogen der har x antal streger?
 13. Resultaterne gøres op i en ”+”-kolonne og en ”-”-kolonne
 14. Samtale om resultatet og overvejelser over...
@@ -244,7 +244,7 @@ Det interessante ved SWOT-analysen er, at du kan arbejde videre med tingene ved 
 
 ### 5. 3-2-1-evaluering
 
-3-2-1 evalueringen ligner 3-punktsevalueringen, men har lidt andre spørgsmål. Evalueringen kan enten være anonym eller deltagerne kan skrive navn på. Alle elever får et stykke papir med punkter. 
+3-2-1 evalueringen ligner 3-punktsevalueringen, men har lidt andre spørgsmål. Evalueringen kan enten være anonym eller deltagerne kan skrive navn på. Alle elever får et stykke papir med punkter.
 
 - Nævn **3** ting, du har lært
 - Nævn **2** ting, du synes er svært
@@ -276,7 +276,7 @@ Kuvertevaluering
 
 Klassens deles i 8 grupper (à ca. 3-4 elever), der får 8 stykker farvet A4-papir. Hver gruppe har sin egen farve papir.
 
- 
+
 
 Hver gruppe får dernæst en A4-kuvert med et fagligt spørgsmål klistret udenpå (F.eks. forklar denne graf). Der er forskellige spørgsmål til hver gruppe. Grupperne svarer på det faglige spørgsmål ved at skrive det på ét af deres farvede papir og lægger deres svar i en kuvert. Man må ikke kigge i kuverten. Når læreren giver tegn (evt. ringer med en klokke), roterer kuverterne og gruppen svarer på det nye spørgsmål. Når alle kuverterne er kommet hele vejen rundt, ligger der i hver kuvert 8 forskellige svar.
 
@@ -286,13 +286,13 @@ Hver gruppe får en kuvert og skal i gruppen sammen læse alle svarene igennem o
 
 Måske opdager man, at den gule gruppe er overrepræsenteret blandt gode svar, hvorfor gruppesammensætning skal gennemtænkes. Det er eleverne, der evaluerer deres egne svar. Lærere kan kontrollere ved at indsamle alle svarene fra grupperne og evaluerer dermed eleverne faglige viden (og sin egen undervisning og elevernes forberedelse).
 
- 
+
 
 Variant: Grupperne kan skrive deres eget svar ved at kombinere/lade sig inspirere af de andre svar.
 
 Kan også afvikles med større grupper og dermed færre spørgsmål.
 
- 
+
 
 Denne evalueringsforms styrke er, at det snarere end arbejdsform med et evaluerende aspekt end en egentlig evalueringsform.
 
