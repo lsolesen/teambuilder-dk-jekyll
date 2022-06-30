@@ -140,7 +140,7 @@ Husk, at dine evalueringsspørgsmål skal være specifikke, målbare, opnåelige
 
 Nu har du samlet en masse viden sammen, som du kan bruge til at forbedre og tilpasse din undervisning eller projekter.
 
-Nu kan du fx gå i gang med at bruge nogle af de [kreative metoder](/kreativitet/) og [ideudvikling](/ideudvikling/) for at fidne nogle gode ideer. Du kan evt. inddrage dine deltagere i denne proces også.
+Nu kan du fx gå i gang med at bruge nogle af de [kreative metoder](/kreativitet/) og [ideudvikling](/ideudvikling/) for at finde nogle gode ideer. Du kan evt. inddrage dine deltagere i denne proces også.
 
 ## Konklusion
 
