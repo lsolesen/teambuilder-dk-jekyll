@@ -12,6 +12,14 @@ tags:
   - evaluering
   - featured
 last_modified_at: 2022-06-20T20:50:27Z
+feature_diagoogle:
+  - image_path: https://dialoogle.com/wp-content/uploads/2021/01/Dobbeltsaettet_M11_P12-1-768x768.jpg
+    url: https://dialoogle.com/da/vare/alle-pocketsaet/
+    title: Dialoogle Pocketsæt
+    excerpt: Spar 21% og få hele Dialoogles samling af Pocketsæt. 420 billedkort i alt, der kan kickstarte samtalerne. Kun fantasien sætter grænser.
+    btn_label: Tjek prisen
+    btn_class: btn--danger
+    rel: nofollow noopener
 ---
 
 Lærerne forsøger konstant at finde nye og innovative måder at evaluere deres undervisning på for at forbedre elevernes læring og undervisningen i det hele taget.
@@ -158,6 +166,33 @@ Evalueringsformen egner sig kun til lukkede spørgsmål. Du kan fx bruge metoden
 
 - **Forståelsesspørgsmål**. Har I forstået den næste opgave? Har I forstået stoffet? Læreren kan vælge at samle dem, der ikke har forstået tingene, og så kan de få yderligere forklaring eller information, mens de øvrige kan gå videre med opgaven.
 - **Holdningsspørgsmål**. Hvad synes I om denne øvelse? Hvordan har pausen været? Igen kan læreren vælge at samle dem, der har den ene eller anden holdning.
+
+### 5. Dialogkort med billeder
+
+Dialogkort med billeder kan bruges til at understøtte en evalueringsøvelse. Billederne kan være med til at illustrere deltagernes synspunkter og oplevelser. Derved kan samtalerne blive levende.
+
+[Dialoogle](https://dialoogle.com/da/evaluering-af-undervisning-paa-efterskole-og-hoejskole/) foreslår følgende evalueringsøvelse:
+
+**Del eleverne op i mindre grupper** (fx fire pr. gruppe). Hver gruppe får udleveret omkring 30 forskelligartede billeder (eller svarende til et halvt Dialoogle Pocketsæt). Billederne spredes ud på bordet mellem eleverne., som de skal sprede ud på et bord imellem sig.
+
+Nu skal hver elev tage et billede, der fx illustrerer følgende oplevelser eller erkendelser:
+
+- En værdifuld oplevelse
+- En ny erkendelse
+- En nyttig erfaring, som er udsprunget af en fiasko
+- En positiv overraskelse
+
+Deltagerne i grupperne skal nu **fortælle hinanden om de valgte billeder**. 
+
+Først fortæller alle fire om deres værdifulde oplevelse. Dernæst fortæller alle om deres nye erkendelse osv. I alle faser er der tid til at spørge, kommentere og diskutere.
+
+Som facilitator holder du dig i baggrunden og lytter til fortællingerne. Det er samtalen, der er vigtig, så lad samtalerne køre, så længe der er behov for det.
+
+Når hver gruppe har hørt og diskuteret 16 fortællinger, **samles alle elever i plenum** til en snak om, hvad de har fået ud af fortællingerne. På din eller deltagernes opfordring kan særligt markante historier fortælles igen, hvis fortællerne har lyst til det.
+
+Du kan selv printe nogle billeder. Der findes en del forskellige sites, hvor du kan finde gratis billeder, fx [Unsplash](https://www.unsplash.com){: rel="nofollow noopener" }, eller du kan købe de professionelle sæt fra fx [Diagoogle](https://dialoogle.com/da/shop/){: rel="nofollow noopener" }.
+
+{% include feature_row id="feature_dialoogle" type="left" %}
 
 ## Skriftlige evalueringsformer
 
