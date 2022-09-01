@@ -151,7 +151,7 @@ jobs:
     - name: Lighthouse
       uses: foo-software/lighthouse-check-action@master
       with:
-        urls: 'https://www.motionsplan.dk/,https://www.motionsplan.dk/bmi-beregner-boern-unge-teenagere/,https://www.motionsplan.dk/skridt-pr-km-10000/,https://www.motionsplan.dk/idealvaegt/'
+        urls: 'https://www.teambuilder.dk/'
   lighthouse_staging_azure:
     name: Lighthouse report
     needs: build_and_deploy_azure
@@ -184,7 +184,6 @@ jobs:
         with:
           urls: |
             ${{ steps.static_web_app_preview_url.outputs.PREVIEW_URL }}
-            ${{ steps.static_web_app_preview_url.outputs.PREVIEW_URL }}/idealvaegt/
           configPath: ./.github/workflows/lighthousesrc.json
           uploadArtifacts: true
           temporaryPublicStorage: true
