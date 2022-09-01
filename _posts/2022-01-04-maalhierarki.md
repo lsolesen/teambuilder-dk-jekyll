@@ -1,6 +1,8 @@
 ---
 title: "Målhierarki: Sådan laver du det (faldgruber og begrænsninger)"
 permalink: /maalhierarki-maalsaetning/
+redirect_from:
+  - /maalhierarki/
 language: da
 header:
   teaser: https://images.unsplash.com/photo-1544819667-9bfc1de23d4e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&h=300&w=400&q=10

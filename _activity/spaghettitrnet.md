@@ -42,4 +42,4 @@ Grupper konkurrerer om at bygge et tårn af spaghetti. Det højeste vinder tårn
 
 En klassisk teambuildingsøvelse som fortæller om vigtigheden af at lave prototyper undervejs.
 
-Se [marshmellow challenge](http://marshmallowchallenge.com/Welcome.html) websitet.
+Se [marshmellow challenge](https://www.marshmallowchallenge.com/) websitet.

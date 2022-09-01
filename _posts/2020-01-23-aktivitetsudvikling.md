@@ -57,7 +57,7 @@ Her [evaluerer](/evaluering/) vi aktiviteten og vi afslutter tingene. Der kan v�
 
 ## Hvordan kommer jeg i gang med aktivitetsudvikling?
 
-Hvis du gerne vil i gang med aktivitesudvikling, så har Trivsel og Bevægelse i Skolen lavet et rigtig godt forløb, som du kan tage udgangspunkt i. Forløbet hedder [aktivitetsludo](http://xn--trivselogbevgelse-2rb.dk/wp-content/uploads/2015/06/Idr%C3%A6tsludo.pdf).
+Hvis du gerne vil i gang med aktivitesudvikling, så har Trivsel og Bevægelse i Skolen lavet et rigtig godt forløb, som du kan tage udgangspunkt i. Forløbet hedder [aktivitetsludo](https://xn--trivselogbevgelse-2rb.dk/wp-content/uploads/2015/06/Idr%C3%A6tsludo.pdf).
 
 Men ellers så dyk ned i alle de forskellige metoder, som du kan bruge i forbindelse med aktivitetsudvikling.
 
@@ -106,7 +106,7 @@ Se mere på [sitet](https://sites.google.com/view/tof-fitness/aktivitetsudviklin
 
 ## 4. Aktivitetsgeneratoren
 
-Inspireret af [DBUs Øvelsesgenerator](http://www.borneakademi.dk/nif/_docs/T-licens_manual.pdf) kunne man på samme måde arbejde med en aktivitetsgenerator. Her gennemgår man forskellige faser for at lave en masse forskellige variationer af en aktivitet.
+Inspireret af [DBUs Øvelsesgenerator](https://www.borneakademi.dk/nif/_docs/T-licens_manual.pdf) kunne man på samme måde arbejde med en aktivitetsgenerator. Her gennemgår man forskellige faser for at lave en masse forskellige variationer af en aktivitet.
 
 Det gode ved denne model er, at du allerede på forhånd får nogle forskellige variationer af øvelser, som kan opfylde målsætningen for aktiviteten eller øvelsen.
 

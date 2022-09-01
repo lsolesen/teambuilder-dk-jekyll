@@ -65,7 +65,7 @@ Projektets mål og målsætninger vil tjene som en vejledning for resten af proj
 
 Når du ved, hvad dit projekt skal opnå, skal du dele det op i mindre opgaver. Det vil hjælpe dig med at se det store billede og forstå, hvordan alle brikkerne passer sammen.
 
-Det er vigtigt at opdele projektet i opgaver, der kan gennemføres. For at gøre dette kan du bruge en projektstyringsværktøj som Trello eller Asana.
+Det er vigtigt at opdele projektet i opgaver, der kan gennemføres. For at gøre dette kan du bruge en [projektstyringsværktøj som Trello eller Asana](/projektstyringsvaerktoejer/).
 
 ### 3. Opret en tidslinje
 

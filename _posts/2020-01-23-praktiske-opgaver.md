@@ -55,6 +55,6 @@ Man kan også bruge øvelserne til at finde inspiration til egne projekter. En g
 
 > ## Få teambuildingsøvelser
 >
-> På www.teambuilder.dk kan man finde mange spændende [øvelser og aktiviteter til teambuilding](/gratis-teambuilding-oevelser/). På sitet kan man finde inspiration til alt fra små [icebreakers](/icebreakers/) og lege til avancerede [samarbejdøvelser](/samarbejdsoevelser/).
+> På www.teambuilder.dk kan man finde mange spændende [øvelser og aktiviteter til teambuilding](/gratis-teambuilding-oevelser/). På sitet kan man finde inspiration til alt fra små [icebreakers](/icebreakers/) og lege til avancerede [samarbejdøvelser](/samarbejdsovelser/).
 
 {% include feature_row type="left" %}

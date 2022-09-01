@@ -48,7 +48,7 @@ Der der findes mange værktøjer til projekter, men vi har samlet de mest essent
 
 Det første, du skal gøre, når du starter et projekt, er at spørge dig selv: Hvad er målene og kravene for dette projekt?
 
-Dette vil give dig et godt grundlag for projektet og sikre, at alle involverede forstår formålet med projektet. Vi kan godt lide at arbejde med [målhierarkier](/maalhierarki/).
+Dette vil give dig et godt grundlag for projektet og sikre, at alle involverede forstår formålet med projektet. Vi kan godt lide at arbejde med [målhierarkier](/maalhierarki-maalsaetning/).
 
 Det kan være nyttigt at bruge et værktøj som mindmapping eller brainstorming, når man skal danne projektets mål. Det vil give dig et godt overblik over, hvad projektet handler om, og sikre, at alle interessenter er på samme side.
 
