@@ -100,16 +100,13 @@ jobs:
         with:
           directory: "./_site"
           # The directory to scan
-          arguments:
+          arguments: |
             --only-4xx
             --assume-extension
             --ignore-status-codes "400,403,409,429"
             --allow-hash-href
             --ignore-empty-alt
             --cache '{ "timeframe": { "external": "7d" } }'
-          # The arguments to pass to HTMLProofer
-      - name: ☁️ Cleaning up
-        run: bundle exec jekyll clean
   build_and_deploy_azure:
     if: github.event_name == 'push' || (github.event_name == 'pull_request' && github.event.action != 'closed')
     needs: build
