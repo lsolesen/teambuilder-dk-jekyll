@@ -101,11 +101,9 @@ jobs:
           directory: "./_site"
           # The directory to scan
           arguments: |
-            --only-4xx
-            --assume-extension
+            --only-4xx true
             --ignore-status-codes "400,403,409,429"
-            --allow-hash-href
-            --ignore-empty-alt
+            --allow-hash-href true
             --cache '{ "timeframe": { "external": "7d" } }'
   build_and_deploy_azure:
     if: github.event_name == 'push' || (github.event_name == 'pull_request' && github.event.action != 'closed')
@@ -118,14 +116,6 @@ jobs:
         with:
           path: "_site/"
           key: ${{ runner.os }}-${{ github.sha }}
-      - name: Remove exercise images
-        uses: JesseTG/rm@v1.0.3
-        with:
-          path: ./_site/assets/images/exercises/
-      - name: Remove exercise Pdfs
-        uses: JesseTG/rm@v1.0.3
-        with:
-          path: ./_site/assets/pdf/
       - name: Build And Deploy
         id: builddeploy
         uses: Azure/static-web-apps-deploy@v1

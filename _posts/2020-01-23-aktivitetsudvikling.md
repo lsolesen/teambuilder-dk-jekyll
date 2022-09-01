@@ -86,7 +86,7 @@ Spilhjulet kan bruges på mindst to måder:
 
 Lav dit **eget aktivitetshjul**, der passer til den type aktiviteter, du skal planlægge. Så får du dit eget aktivitetshjul, du kan bruge i forbindelse med planlægning af dine projekter.
 
-Find en skabelon, hvor du kan skrive dit aktivitetshjul ind i her: [kortlink.dk/gemw](http://kortlink.dk/gemw){: rel="nofollow noopener" }
+Find en skabelon, hvor du kan skrive dit aktivitetshjul ind i her: [kortlink.dk/gemw](https://kortlink.dk/gemw){: rel="nofollow noopener" }
 
 ## 3. Mads Hovgaards aktivitetshjul
 

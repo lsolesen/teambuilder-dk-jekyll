@@ -2,7 +2,6 @@
 title: "Kreativitet: Kreative øvelser til ideskabelse"
 excerpt: "Vil du gerne have mere kreativitet? Her har du nogle øvelser til ubesværet at skabe nye ideer."
 language: da
-permalink: /kreativitet/
 header:
   teaser: https://images.unsplash.com/photo-1546105001-f52ce72c638b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&h=300&w=400&q=10
 category:
@@ -32,6 +31,13 @@ feature_row:
 Vi ønsker alle at være mere kreative. Vi misunder dem, der tilsyneladende ubesværet finder på nye og spændende idéer. Men hvad nu hvis vi fortalte dig, at det at være mere kreativ er noget, som alle kan være, når vi udvikler ideer, hvis de ved hvordan?
 
 I denne artikel får du viden om, hvordan du kan arbejde i kreative processer, når vi skal arbejde med ideudvikling og generere ideer.
+
+{% comment %}
+Jeg møder større og større skepsis overfor brainstorms, når jeg taler med mine kunder. Og med rette. 
+Alt for mange har oplevet brainstormsessioner, hvor en facilitator eller mødeleder forventer spontan idégenerering ud i det uendelige uden at have sat rammer, kontekst, form og forventinger klart. Og helt uden at give mulighed for forberedelse. Modsat hvad mange tror, er der faktisk brug for en virkelig tydelig struktur, stram styring og masser af rammer, når man gerne vil have mødedeltagere til at "tænke ud af boksen". 
+Artiklen her angirber problematikken fra en kulturel - og måske lidt for stereotyp - vinkel. Men den kommer rundt om de vigtigste overvejelser og kan være god inspiration for enhver, der gerne vil skabe bedre brainstorms på deres team.
+https://hbr.org/2016/05/leading-a-brainstorming-session-with-a-cross-cultural-team?fbclid=IwAR2qVV-HCW2Y5XbPshqNceUbGWUdw1EcVsWkulrfBRBKsJIVaH_opZXaAUQ
+{% endcomment %}
 
 ## Hvad er kreativitet?
 
@@ -91,7 +97,7 @@ Det er svært at definere den perfekte “måde”, hvorpå man kan få nye idee
 
 Brainstorm fungerer rigtig godt på post-its. Brainstorm bruges til at skabe mange ideer til et emne. I en brainstorm er alle ideer gode og alle forslag skrives ned.
 
-Der vælges en facilitator. Brainstormen starter med at alle får at vide hvad emnet er - og hvor lang tid man har til at skabe ideer.
+Der vælges en facilitator. Brhttps://web.archive.org/at alle får at vide hvad emnet er - og hvor lang tid man har til at skabe ideer.
 
 Deltagerne skriver hver især deres ideer ned på en post-it. En ide pr. post-it.
 
@@ -123,7 +129,7 @@ Det gælder så om at få de tomme felter omkring emnerne udfyldt med ideer pass
 
 ![](/assets/images/postit.jpg)
 
-## 4. Brainstorm Matrix
+## 4. Brainstorm Mathttps://web.archive.org/
 
 ![_Brainstorm Matrix_]](/assets/images/brainstorm-matrix.jpg)
 
@@ -143,7 +149,7 @@ Du kan se Finn Kollerup [forklare mere](https://lederindsigt.dk/en/videos/innova
 
 Metoden er udviklet af _Alt for kreativ_. Du skal bruge et stort bræt med 9 x 9 felter og en masse Post-its.
 
-[Regler](http://www.alt4kreativ.dk/UserFiles/file/PDF/IDEKU-instruktion_2sidet-Version01.pdf){: .btn .btn--large .btn--info } [Minimanual](http://www.alt4kreativ.dk/UserFiles/file/PDF/Arbejdsbog_-_Ideku_proces.pdf){: .btn .btn--large .btn--success }
+[Regler](https://www.alt4kreativ.dk/UserFiles/file/PDF/IDEKU-instruktion_2sidet-Version01.pdf){: .btn .btn--large .btn--info } [Minimanual](https://www.alt4kreativ.dk/UserFiles/file/PDF/Arbejdsbog_-_Ideku_proces.pdf){: .btn .btn--large .btn--success }
 
 ### 6. Flowskrivning
 

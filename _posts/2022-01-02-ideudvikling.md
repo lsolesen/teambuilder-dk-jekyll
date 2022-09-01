@@ -233,7 +233,7 @@ Ideerne i nederste højre hjørne (let realiserbart, men lav værdi for brugeren
 Ved ideerne i øverste venstre hjørne (svært realiserbart, men høj værdi for brugeren) kan der ”plantes et frø”.
 Ideer, der sidder i det øverste højre hjørne (let realiserbart med høj værdi for brugeren) vil være de ideer, der er bedst at arbejde videre med.
 
-Læs mere om [Prioriteringsmatrix](http://web.archive.org/web/20150219033435/http://innovationsguiden.dk/brugere/ide-og-konceptudvikling/prioteringsmatrix) og udskriv en [prioriteringsmatrix](http://web.archive.org/web/20151010130255/http://www.innovationsguiden.dk/assets/59/19_a__Prioriteringsmatrix.pdf).
+Læs mere om [Prioriteringsmatrix](https://web.archive.org/web/20150219033435/http://innovationsguiden.dk/brugere/ide-og-konceptudvikling/prioteringsmatrix) og udskriv en [prioriteringsmatrix](https://web.archive.org/web/20151010130255/http://www.innovationsguiden.dk/assets/59/19_a__Prioriteringsmatrix.pdf).
 
 ## Ideudvikling og modning af ideerne
 
@@ -257,7 +257,7 @@ Herefter skriver du følgende overskrifter på en flip-over: ”Plusser”, ”P
 
 Når du har gennemført processen, så står du med en stærkere idé, som ofte kan se ret anderledes ud, end da du startede med at modne den.
 
-Læs mere i [Innovationsguidens Modning af ideerne](http://web.archive.org/web/20151009205459/http://www.innovationsguiden.dk/brugere/ide-og-konceptudvikling/idemodning), hvor du også kan læse mere om [udviklingsspørgsmål](http://web.archive.org/web/20151011055410/http://www.innovationsguiden.dk/brugere/analyse/udviklingsspoergsmaal).
+Læs mere i [Innovationsguidens Modning af ideerne](https://web.archive.org/web/20151009205459/http://www.innovationsguiden.dk/brugere/ide-og-konceptudvikling/idemodning), hvor du også kan læse mere om [udviklingsspørgsmål](https://web.archive.org/web/20151011055410/http://www.innovationsguiden.dk/brugere/analyse/udviklingsspoergsmaal).
 
 ### 2. Cirkelmetoden
 
