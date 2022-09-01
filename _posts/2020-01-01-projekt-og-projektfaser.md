@@ -154,7 +154,7 @@ I gennemførelsesfasen afslutter projekdeltagere med udarbejdelse af en evalueri
 
 Projektgruppen ophører.
 
-{% include figure image_path="https://www.smitter.dk/images/modelforside.png" caption="SMTTE-modellen - via [www.smitter.dk](http://www.smitter.dk/)" %}
+{% include figure image_path="https://www.smitter.dk/images/modelforside.png" caption="SMTTE-modellen - via [www.smitter.dk](https://www.smitter.dk/)" %}
 
 ## Hvad skal der til i et succesfuldt projekt?
 
