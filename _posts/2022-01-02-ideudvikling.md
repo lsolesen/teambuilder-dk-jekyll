@@ -226,11 +226,15 @@ Metoden udføres i grupper.
 Der laves en matrix med de valgte parametre på hver akse samt grader af sværhed og lethed
 I gruppen skal hver idé diskuteres i forhold til parametrene og placeres på matrixen. Når alle ideer er placeret, kan prioriteringen begynde. + EKSEMPLER
 Nu har I identificeret ideernes potentialer i forhold til jeres kriterier og I kan dermed træffe en kvalificeret udvælgelse af jeres ideer.
+
 Prioriteringen kan foregå således:
 
 Ideer placeret i nederste venstre hjørne (svært realiserbart med mindst værdi for brugeren) kan umiddelbart tages fra.
+
 Ideerne i nederste højre hjørne (let realiserbart, men lav værdi for brugeren) skal enten forkastes eller modificeres.
+
 Ved ideerne i øverste venstre hjørne (svært realiserbart, men høj værdi for brugeren) kan der ”plantes et frø”.
+
 Ideer, der sidder i det øverste højre hjørne (let realiserbart med høj værdi for brugeren) vil være de ideer, der er bedst at arbejde videre med.
 
 Læs mere om [Prioriteringsmatrix](https://web.archive.org/web/20150219033435/http://innovationsguiden.dk/brugere/ide-og-konceptudvikling/prioteringsmatrix) og udskriv en [prioriteringsmatrix](https://web.archive.org/web/20151010130255/http://www.innovationsguiden.dk/assets/59/19_a__Prioriteringsmatrix.pdf).
