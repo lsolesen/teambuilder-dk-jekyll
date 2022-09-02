@@ -53,7 +53,7 @@ Nu skal aktiviteten gennemføres. Det er et stort øjeblik, særligt når man ha
 
 ### 4. Afslutning
 
-Her [evaluerer](/evaluering/) vi aktiviteten og vi afslutter tingene. Der kan være oprydning og debriefing af deltagere - og der kan være en del [interessenter](/interessentanalyse/), som skal orienteres om, hvordan projektet eller aktiviteten er gået.
+Her [evaluerer](/evaluering/) vi aktiviteten, og vi afslutter tingene. Der kan være oprydning og debriefing af deltagere - og der kan være en del [interessenter](/interessentanalyse/), som skal orienteres om, hvordan projektet eller aktiviteten er gået.
 
 ## Hvordan kommer jeg i gang med aktivitetsudvikling?
 
@@ -144,7 +144,7 @@ SMTTE-modellen er oprindelig udviklet af Hallvard Håstein. Modellen går ud på
 
 SMTTE består af fem indbyrdes forbundne elementer og står for Sammenhæng, Mål, Tiltag, Tegn og Evaluering.
 
-{% include figure image_path="" caption="" alt="SMTTE-modellens fem elementer" %}
+{% include figure image_path="https://www.smitter.dk/images/modelforside.png" caption="Kilde: [www.smitter.dk](https://www.smitter.dk/)" alt="SMTTE-modellens fem elementer" %}
 
 ## 7. Him og Hippe-modellen
 

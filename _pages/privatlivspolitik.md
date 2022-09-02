@@ -9,7 +9,11 @@ sitemap: true
 
 Når du besøger vores website indsamles der oplysninger om dig, som bruges til at tilpasse og forbedre vores indhold og til at øge værdien af de annoncer, der vises på siden. Hvis du ikke ønsker, at der indsamles oplysninger, bør du slette dine cookies og undlade videre brug af websitet. Nedenfor har vi uddybet, hvilke informationer der indsamles, deres formål og hvilke tredjeparter, der har adgang til dem.
 
-teambuilder.dk ejes og drives af Lars Olesen. For at finansiere sitet kan der vises reklamer på sitet, og links til produkter kan være Affiliate-links gennem [Partner Ads](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=17193){: rel='sponsored nofollow noopener' }. Vi bruger [Ezoic](https://ezoic.com/?tap_a=6182-5778c2&tap_s=1018671-38abe8){: rel='sponsored nofollow noopener' } til at styre vores reklamer. Du kan læse mere om [hvordan Ezoic har betydning for privatlivsindstillingerne på teambuilder.dk](https://g.ezoic.net/privacy/teambuilder.dk).
+teambuilder.dk ejes og drives af Lars Olesen. For at finansiere sitet kan der vises reklamer på sitet, og links til produkter kan være Affiliate-links gennem [Partner Ads](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=17193){: rel='sponsored nofollow noopener' }.
+
+{% comment %}
+Vi bruger [Ezoic](https://ezoic.com/?tap_a=6182-5778c2&tap_s=1018671-38abe8){: rel='sponsored nofollow noopener' } til at styre vores reklamer.Du kan læse mere om [hvordan Ezoic har betydning for privatlivsindstillingerne på teambuilder.dk](https://g.ezoic.net/privacy/teambuilder.dk).
+{% endcomment %}
 
 ## Cookies
 
@@ -23,7 +27,6 @@ Websitet indeholder cookies fra tredjeparter, der i varierende omfang kan omfatt
 
 - Google Analytics (trafikmåling)
 - Partner-ads
-- Ezoic
 
 ## Personoplysninger
 

@@ -47,7 +47,7 @@ Idegenerering har altså mange faser, som du skal igennem. Når du [planlægger 
 
 Her kigger vi på en model, som du kan bruge til ideudvikling. Den svarer til en model, som du også kan bruge i forhold til dine [projekter](/projekt-og-projektfaser/).
 
-{% include figure image_path="" caption="Ideo" %}
+{% include figure image_path="https://i.pinimg.com/564x/9d/fc/5d/9dfc5d8cdf9dc0398a8f6e8be061dd6a.jpg" caption="Ideo" %}
 
 Du skal altså igennem forskellige faser for at udvikle en model. Du skal naturligvis først lave en målsætning og et formål med øvelsen. Derefter skal du planlægge øvelserne. Endelig skal du afprøve og evaluere - og derefter skal du justere øvelserne.
 

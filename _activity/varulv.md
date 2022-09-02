@@ -336,7 +336,7 @@ Du kan spille varulv online forskellige steder. Du kan finde et ret gennemført 
 
 ## Køb Ultimate Werewolf - varulv spillet
 
-<a href="https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=29407&htmlurl=https://www.gucca.dk/ultimate-werewolf-braetspil-paa-engelsk-p471715?utm_source=pa&utm_medium=cpc&utm_campaign=pa" target=_blank rel=nofollow> <img src="https://content.gucca.dk/covers/big/u/l/ultimate-werewolf-english_471715.jpg?mod=1602517599" border=0></a>
+<a href="https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=29407&htmlurl=https://www.gucca.dk/ultimate-werewolf-braetspil-paa-engelsk-p471715?utm_source=pa&utm_medium=cpc&utm_campaign=pa" target=_blank rel=nofollow> <img src="https://content.gucca.dk/covers/big/u/l/ultimate-werewolf-english_471715.jpg?mod=1602517599" border=0 alt="varulv fra gucca"></a>
 
 ## Referencer
 
