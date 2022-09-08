@@ -12,8 +12,9 @@ preparation: ""
 preparation_time: ""
 time: "10-30 min afhængig af gruppens størrelse og hvor stor vægt der lægges på den efterfølgende refleksion"
 where: "10-20 m2 afhængig af gruppens størrelse."
-materials: "- Stole
-- Farvede bånd/trøjer eller på anden måde markering af deltagerne."
+materials: |
+  - Stole
+  - Farvede bånd/trøjer eller på anden måde markering af deltagerne.
 source: ""
 solution: ""
 gallery:

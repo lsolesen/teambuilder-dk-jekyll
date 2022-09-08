@@ -21,8 +21,7 @@ Finde passende antal kegler (ca. 3 brikker under hver kegle + nogle kegler uden 
 preparation_time: ""
 time: "10 min."
 where: ""
-materials: "Brikker og kegler
-"
+materials: "Brikker og kegler"
 source: ""
 solution: ""
 gallery:

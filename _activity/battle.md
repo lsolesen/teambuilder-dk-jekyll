@@ -10,9 +10,10 @@ tags:
   - Krig
 aim: "Formålet med denne øvelse er at øve kommunikation og samarbejde i en presset situation. Samt evaluering og planlægning af taktik mellem spillene"
 instruction: ""
-preparation: "Man skal lave en bane med to baser, som er fint beskyttet hvor der er plads til en fane osv.
-Man kan sætte alt op, ofte bruges redskaber, presenning eller lignende fungerer også super op spændt som f.eks. væg eller tag.
-Det er vigtigt at begge baner har lige god beskyttelse, hvis man ønsker en fair kamp, ellers kan man variere mellem åbent landskab eller meget beskyttelse."
+preparation: |
+  "Man skal lave en bane med to baser, som er fint beskyttet hvor der er plads til en fane osv.
+  Man kan sætte alt op, ofte bruges redskaber, presenning eller lignende fungerer også super op spændt som f.eks. væg eller tag.
+  Det er vigtigt at begge baner har lige god beskyttelse, hvis man ønsker en fair kamp, ellers kan man variere mellem åbent landskab eller meget beskyttelse."
 preparation_time: ""
 time: ""
 where: ""

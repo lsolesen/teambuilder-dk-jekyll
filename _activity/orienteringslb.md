@@ -9,17 +9,16 @@ tags:
   - Konkurrence
 aim: "At skabe fysisk aktivitet og samtidig med at der stilles krav til evnen om at kunne orientere sig. "
 instruction: "Det kan være nødvendigt at fortælle at det er en fordel at løbe hvis man vil gennemføre løbet i en ordentlig tid. Man kan kræve at posterne bliver taget i en bestemt rækkefølge for at sikre at der bliver løbet en hvis længde."
-preparation: "Få lagt det valgte antal poster ud på forskellige steder. Have kort over poster og evt. kompas klar til løberne.
+preparation: |
+  "Få lagt det valgte antal poster ud på forskellige steder. Have kort over poster og evt. kompas klar til løberne.
 
-- Det kan forgå i al slags terræn.
+  - Det kan forgå i al slags terræn.
 
-Det kan ligesom ved anden fysisk aktivitet være en godt ide at have styr på isposer og en forbinding i tilfælde af skader.
-"
+  Det kan ligesom ved anden fysisk aktivitet være en godt ide at have styr på isposer og en forbinding i tilfælde af skader."
 preparation_time: ""
 time: "Alt efter løbets længde"
 where: "Kan laves over alt"
-materials: "Kort, poster og evt. kompas. Der kan dog lægges forskellige opgaver ind i O-løbet, dette kan give et større behov for materialer.
-"
+materials: "Kort, poster og evt. kompas. Der kan dog lægges forskellige opgaver ind i O-løbet, dette kan give et større behov for materialer."
 source: ""
 solution: ""
 gallery:

@@ -7,8 +7,7 @@ categories:
   - Fangelege
   - Lege
 tags: 
-aim: "knytte et tæt bånd mellem deltagerne via kropsberøring.
-Fjerne evt. nervøse spændinger"
+aim: "knytte et tæt bånd mellem deltagerne via kropsberøring. Fjerne evt. nervøse spændinger"
 instruction: ""
 preparation: ""
 preparation_time: ""
