@@ -1,11 +1,12 @@
 ---
 title: "Hanois tårn: Flyt det fra A til C"
 redirect_from: /content/tårnet-flyt-det-fra-til-c
-excerpt: "I står over for et tårn og tre positioner. Tårnet starter ved position A, men skal flyttes til position C. I må flytte et lag af tårnet ad gangen. I må på intet tidspunkt lægge et større lag oven på et mindre lag. Det lag der bliver flyttet skal placeres oven på evt. andre lag på den position I flytter laget til.
+excerpt: |
+  "I står over for et tårn og tre positioner. Tårnet starter ved position A, men skal flyttes til position C. I må flytte et lag af tårnet ad gangen. I må på intet tidspunkt lægge et større lag oven på et mindre lag. Det lag der bliver flyttet skal placeres oven på evt. andre lag på den position I flytter laget til.
 
-I må gerne lægge det mindste lag oven på den største. Dette må de med alle de mindre størrelser, så længe den kommer oven på en større. Når de skal flytte et lag fra tårnet på en af stationerne, skal de tage det øverste lag altid.
+  I må gerne lægge det mindste lag oven på den største. Dette må de med alle de mindre størrelser, så længe den kommer oven på en større. Når de skal flytte et lag fra tårnet på en af stationerne, skal de tage det øverste lag altid.
 
-Opgaven er løst, når tåret er flyttet til position C."
+  Opgaven er løst, når tåret er flyttet til position C."
 language: da
 header:
   overlay_image: /assets/images/activity/trnetflytdetfratilc-0.jpg
@@ -16,11 +17,12 @@ categories:
 tags:
   - opgave
 aim: "At lære folk at kommunikere og samarbejde, ved hjælp af logik og planlægning."
-instruction: "I står over for et tårn og tre positioner. Tårnet starter ved position A, men skal flyttes til position C. I må flytte et lag af tårnet ad gangen. I må på intet tidspunkt lægge et større lag oven på et mindre lag. Det lag der bliver flyttet skal placeres oven på evt. andre lag på den position I flytter laget til.
+instruction: |
+  "I står over for et tårn og tre positioner. Tårnet starter ved position A, men skal flyttes til position C. I må flytte et lag af tårnet ad gangen. I må på intet tidspunkt lægge et større lag oven på et mindre lag. Det lag der bliver flyttet skal placeres oven på evt. andre lag på den position I flytter laget til.
 
-I må gerne lægge det mindste lag oven på den største. Dette må de med alle de mindre størrelser, så længe den kommer oven på en større. Når de skal flytte et lag fra tårnet på en af stationerne, skal de tage det øverste lag altid.
+  I må gerne lægge det mindste lag oven på den største. Dette må de med alle de mindre størrelser, så længe den kommer oven på en større. Når de skal flytte et lag fra tårnet på en af stationerne, skal de tage det øverste lag altid.
 
-Opgaven er løst, når tåret er flyttet til position C."
+  Opgaven er løst, når tåret er flyttet til position C."
 preparation: "Ikke rigtig andet end at have tingene med."
 preparation_time: ""
 time: "5-20 min. afhængig af deltagernes logiske evner. Dog oftest 10-20 min"

@@ -12,13 +12,12 @@ preparation: "Udtænkning af løsninger. ca. 5 min."
 preparation_time: ""
 time: ""
 where: "Udenfor, minimum 8 m2"
-materials: "
-2x Cykelslanger
-1x skraldespande
-1x 20m reb
-4x 5m reb
-1x En alm. Fejekost(indendørs)
-"
+materials: |
+  2x Cykelslanger
+  1x skraldespande
+  1x 20m reb
+  4x 5m reb
+  1x En alm. Fejekost(indendørs)
 source: ""
 solution: ""
 gallery:
