@@ -180,7 +180,7 @@ jobs:
           interval: 1000
       - name: Audit URLs using Lighthouse
         id: lighthouse_audit
-        uses: treosh/lighthouse-ci-action@v8
+        uses: treosh/lighthouse-ci-action@v9
         with:
           urls: |
             ${{ steps.static_web_app_preview_url.outputs.PREVIEW_URL }}
