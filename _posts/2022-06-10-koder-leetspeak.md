@@ -19,6 +19,7 @@ Leet Speak er en form for tekstsprog, hvor tal og symboler anvendes i stedet for
 Dette alfabet gør det muligt at skabe mere komplekse ord og sætninger, som ikke er så let at gætte, hvad det skal være. Du kan bruge _leet speak_ til at skrive [hemmelige koder](/koder/).
 
 ## Hvad er leet speak eller 1337 kode?
+
 Leet speak er en form for tekstsprog, hvor tal og symboler bruges i stedet for bogstaver for at skabe et unikt alfabet. Der findes ifølge [Wikipedia](https://da.wikipedia.org/wiki/Leetspeak) forskellige substitutioner.
 
 Dette alfabet gør det muligt at skabe mere komplekse ord og sætninger, som det ikke er så let at gætte, hvad de skal være. Du kan bruge _leet speak_ til at skrive hemmelige koder.
