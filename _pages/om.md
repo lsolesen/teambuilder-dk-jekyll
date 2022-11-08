@@ -4,7 +4,6 @@ title: "Om Teambuilding og Øvelser"
 permalink: /om/
 excerpt: ""
 author_profile: true
-author: lsolesen
 sitemap: false
 ---
 

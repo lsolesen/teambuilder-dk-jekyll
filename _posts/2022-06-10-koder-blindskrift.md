@@ -1,6 +1,6 @@
 ---
 title: "Blindskrift"
-seo_title: "Blindskrift"
+seo_title: "Lav koder med Blindskrift og Braille"
 excerpt: "Blindskrift eller Braille er et system af forhøjede prikker, som kan læses med fingrene af blinde eller svagtseende personer. Braille er ikke et sprog, men snarere en kode, hvormed mange sprog kan skrives og læses."
 permalink: /koder/blindskrift/
 header:
@@ -43,7 +43,7 @@ Den anden måde er at bruge en braille-dekoder, som er en maskine, der kan læse
 
 Her er et eksempel på en kode skrevet i punktskrift:
 
-![](/assets/images/koder/blindskrift/s.png) ![](/assets/images/koder/blindskrift/e.png) ![](/assets/images/koder/blindskrift/j.png) ![](/assets/images/koder/blindskrift/t.png)
+![](/assets/images/koder/blindskrift/blind_s.gif) ![](/assets/images/koder/blindskrift/blind_e.gif) ![](/assets/images/koder/blindskrift/blind_j.gif) ![](/assets/images/koder/blindskrift/blind_t.gif)
 
 Nu skal du have fat i din kodeløser til blindskrift. Du kan kigge på billedet ovenfor, og så kan du forsøge at finde de samme punktmønstre på billedet.
 

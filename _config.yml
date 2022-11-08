@@ -8,7 +8,7 @@
 theme: minimal-mistakes-jekyll
 minimal_mistakes_skin:   "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 
-ads: true
+ads: 'adsense'
 
 # Jekyll specific
 future: false
@@ -18,7 +18,7 @@ locale                   : "da"
 title                    : "Teambuilder"
 title_separator          : "-"
 subtitle                 : "Teambuilding & Projektledelse"
-logo                     : "/android-chrome-192x192.png"
+logo                     : "/assets/images/logo-40x40.png"
 name                     : "Teambuilding"
 description              : "Alt om teambuilding og projektledelse. Skrevet af elever og lærere på Vejle Idrætshøjskole."
 url                      : "https://www.teambuilder.dk" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -28,14 +28,14 @@ teaser                   : # path of fallback teaser image, e.g. "/assets/images
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : # "disqus" # "staticman_v2" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               : false # "custom" # "disqus" # "staticman_v2" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
     shortname            : # "ifire"
-staticman:
-  branch                 : "master"
 atom_feed:
   path                   : # blank (default) uses feed.xml
 
+after_footer_scripts:
+  - /assets/js/bundle.js
 
 # reCaptcha
 # Register your domain at https://www.google.com/recaptcha/ and choose reCAPTCHA V2
@@ -68,9 +68,8 @@ social:
   type                   : "Organization" # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-
-after_footer_scripts:
-  - /assets/js/bundle.js
+    - https://www.facebook.com/teambuilderdk
+    - https://www.pinterest.dk/teambuilderdk
 
 # Site search
 search: true
@@ -83,6 +82,18 @@ analytics:
     tracking_id          : "UA-9167931-1"
 
 
+footer:
+  links:
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://www.facebook.com/teambuilderdk"
+    - label: "Pinterest"
+      icon: "fab fa-fw fa-pinterest-square"
+      url: "https://www.pinterest.dk/teambuilderdk"
+    - label: "Støt sitet"
+      icon: "fas fa-fw fa-mug-hot"
+      url: "https://www.buymeacoffee.com/lsolesen"
+
 # Site Author
 author:
   name: "Teambuilder"
@@ -92,21 +103,21 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:info@teambuilder.dk"
-#    - label: "Facebook"
-#      icon: "fab fa-fw fa-facebook-square"
-#      url: "http://www.facebook.com/lsolesen"
-    - label: "Støt sitet"
-      icon: "fas fa-fw fa-mug-hot"
-      url: "https://www.buymeacoffee.com/lsolesen"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://www.facebook.com/teambuilderdk"
 #    - label: "Youtube"
 #      icon: "fab fa-fw fa-youtube"
 #      url: "http://www.youtube.com/fodboldenslegestue"
 #    - label: "Twitter"
 #      icon: "fab fa-fw fa-twitter-square"
 #      url: "https://twitter.com/legestue"
-#    - label: "Pinterest"
-#      icon: "fab fa-fw fa-pinterest-square"
-#      url: "http://www.pinterest.com/legestue"
+    - label: "Pinterest"
+      icon: "fab fa-fw fa-pinterest-square"
+      url: "https://www.pinterest.dk/teambuilderdk"
+    - label: "Støt sitet"
+      icon: "fas fa-fw fa-mug-hot"
+      url: "https://www.buymeacoffee.com/lsolesen"
 #    - label: "GitHub"
 #      icon: "fab fa-fw fa-github"
 #      url: "https://github.com/lsolesen/"
@@ -254,6 +265,9 @@ collections:
   activity:
     output: true
     permalink: /aktivitet/:path/
+  giveaway:
+    output: true
+    permalink: /freebie/:path/
 
 # Defaults
 defaults:
@@ -267,7 +281,7 @@ defaults:
       type: posts
     values:
       header:
-        teaser: https://images.unsplash.com/photo-1572177812156-58036aae439c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=400&q=5
+        teaser: https://images.unsplash.com/photo-1572177812156-58036aae439c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&h=300&w=400&q=10
       layout: single
       author_profile: true
       read_time: true
@@ -293,3 +307,17 @@ defaults:
       tag_archive_path: /aktivitetstags/
       category_archive_path: /aktivitetskategorier/
       breadcrumbs: true
+# _giveaway
+  - scope:
+      path: ""
+      type: giveaway
+    values:
+      layout: single
+      author_profile: true
+      read_time: false
+      comments: false
+      share: false
+      related: false
+      disallow: true ## Used for noindex nofollow
+      search: false
+      sitemap: false

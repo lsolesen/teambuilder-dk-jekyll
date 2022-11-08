@@ -1,6 +1,7 @@
 ---
 title: "Metoder til ideudvikling, idegenerering, prioritering og modning"
 seo_title: "Ideudvikling og idegenerering: Prioritering og modning"
+permalink: /ideudvikling/
 header:
   teaser: https://images.unsplash.com/photo-1620325867502-221cfb5faa5f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&h=300&w=400&q=10
 language: da
@@ -46,7 +47,7 @@ Idegenerering har altså mange faser, som du skal igennem. Når du [planlægger 
 
 Her kigger vi på en model, som du kan bruge til ideudvikling. Den svarer til en model, som du også kan bruge i forhold til dine [projekter](/projekt-og-projektfaser/).
 
-{% include figure image_path="" caption="Ideo" %}
+{% include figure image_path="https://i.pinimg.com/564x/9d/fc/5d/9dfc5d8cdf9dc0398a8f6e8be061dd6a.jpg" caption="Ideo" %}
 
 Du skal altså igennem forskellige faser for at udvikle en model. Du skal naturligvis først lave en målsætning og et formål med øvelsen. Derefter skal du planlægge øvelserne. Endelig skal du afprøve og evaluere - og derefter skal du justere øvelserne.
 
@@ -225,14 +226,18 @@ Metoden udføres i grupper.
 Der laves en matrix med de valgte parametre på hver akse samt grader af sværhed og lethed
 I gruppen skal hver idé diskuteres i forhold til parametrene og placeres på matrixen. Når alle ideer er placeret, kan prioriteringen begynde. + EKSEMPLER
 Nu har I identificeret ideernes potentialer i forhold til jeres kriterier og I kan dermed træffe en kvalificeret udvælgelse af jeres ideer.
+
 Prioriteringen kan foregå således:
 
 Ideer placeret i nederste venstre hjørne (svært realiserbart med mindst værdi for brugeren) kan umiddelbart tages fra.
+
 Ideerne i nederste højre hjørne (let realiserbart, men lav værdi for brugeren) skal enten forkastes eller modificeres.
+
 Ved ideerne i øverste venstre hjørne (svært realiserbart, men høj værdi for brugeren) kan der ”plantes et frø”.
+
 Ideer, der sidder i det øverste højre hjørne (let realiserbart med høj værdi for brugeren) vil være de ideer, der er bedst at arbejde videre med.
 
-Læs mere om [Prioriteringsmatrix](http://web.archive.org/web/20150219033435/http://innovationsguiden.dk/brugere/ide-og-konceptudvikling/prioteringsmatrix) og udskriv en [prioriteringsmatrix](http://web.archive.org/web/20151010130255/http://www.innovationsguiden.dk/assets/59/19_a__Prioriteringsmatrix.pdf).
+Læs mere om [Prioriteringsmatrix](https://web.archive.org/web/20150219033435/http://innovationsguiden.dk/brugere/ide-og-konceptudvikling/prioteringsmatrix) og udskriv en [prioriteringsmatrix](https://web.archive.org/web/20151010130255/http://www.innovationsguiden.dk/assets/59/19_a__Prioriteringsmatrix.pdf).
 
 ## Ideudvikling og modning af ideerne
 
@@ -256,7 +261,7 @@ Herefter skriver du følgende overskrifter på en flip-over: ”Plusser”, ”P
 
 Når du har gennemført processen, så står du med en stærkere idé, som ofte kan se ret anderledes ud, end da du startede med at modne den.
 
-Læs mere i [Innovationsguidens Modning af ideerne](http://web.archive.org/web/20151009205459/http://www.innovationsguiden.dk/brugere/ide-og-konceptudvikling/idemodning), hvor du også kan læse mere om [udviklingsspørgsmål](http://web.archive.org/web/20151011055410/http://www.innovationsguiden.dk/brugere/analyse/udviklingsspoergsmaal).
+Læs mere i [Innovationsguidens Modning af ideerne](https://web.archive.org/web/20151009205459/http://www.innovationsguiden.dk/brugere/ide-og-konceptudvikling/idemodning), hvor du også kan læse mere om [udviklingsspørgsmål](https://web.archive.org/web/20151011055410/http://www.innovationsguiden.dk/brugere/analyse/udviklingsspoergsmaal).
 
 ### 2. Cirkelmetoden
 

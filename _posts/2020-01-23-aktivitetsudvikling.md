@@ -2,10 +2,13 @@
 title: "Aktivitetsudvikling: Modeller til at udvikle aktiviteter"
 excerpt: "Skal du i gang med aktivitetsudvikling? Her får du flere værktøjer og modeller til at udvikle aktiviteter og øvelser."
 language: da
+permalink: /aktivitetsudvikling/
 category:
   - Undervisning
 tags:
   - ideer
+header:
+  teaser: /android-chrome-512x512.png
 last_modified_at: 2022-05-23T20:50:27Z
 feature_row:
   - image_path: https://imgcdn.saxo.com/_9788771580051/0x500
@@ -50,11 +53,11 @@ Nu skal aktiviteten gennemføres. Det er et stort øjeblik, særligt når man ha
 
 ### 4. Afslutning
 
-Her [evaluerer](/evaluering/) vi aktiviteten og vi afslutter tingene. Der kan være oprydning og debriefing af deltagere - og der kan være en del [interessenter](/interessentanalyse/), som skal orienteres om, hvordan projektet eller aktiviteten er gået.
+Her [evaluerer](/evaluering/) vi aktiviteten, og vi afslutter tingene. Der kan være oprydning og debriefing af deltagere - og der kan være en del [interessenter](/interessentanalyse/), som skal orienteres om, hvordan projektet eller aktiviteten er gået.
 
 ## Hvordan kommer jeg i gang med aktivitetsudvikling?
 
-Hvis du gerne vil i gang med aktivitesudvikling, så har Trivsel og Bevægelse i Skolen lavet et rigtig godt forløb, som du kan tage udgangspunkt i. Forløbet hedder [aktivitetsludo](http://xn--trivselogbevgelse-2rb.dk/wp-content/uploads/2015/06/Idr%C3%A6tsludo.pdf).
+Hvis du gerne vil i gang med aktivitesudvikling, så har Trivsel og Bevægelse i Skolen lavet et rigtig godt forløb, som du kan tage udgangspunkt i. Forløbet hedder [aktivitetsludo](https://xn--trivselogbevgelse-2rb.dk/wp-content/uploads/2015/06/Idr%C3%A6tsludo.pdf).
 
 Men ellers så dyk ned i alle de forskellige metoder, som du kan bruge i forbindelse med aktivitetsudvikling.
 
@@ -83,7 +86,7 @@ Spilhjulet kan bruges på mindst to måder:
 
 Lav dit **eget aktivitetshjul**, der passer til den type aktiviteter, du skal planlægge. Så får du dit eget aktivitetshjul, du kan bruge i forbindelse med planlægning af dine projekter.
 
-Find en skabelon, hvor du kan skrive dit aktivitetshjul ind i her: [kortlink.dk/gemw](http://kortlink.dk/gemw){: rel="nofollow noopener" }
+Find en skabelon, hvor du kan skrive dit aktivitetshjul ind i her: [kortlink.dk/gemw](https://kortlink.dk/gemw){: rel="nofollow noopener" }
 
 ## 3. Mads Hovgaards aktivitetshjul
 
@@ -103,7 +106,7 @@ Se mere på [sitet](https://sites.google.com/view/tof-fitness/aktivitetsudviklin
 
 ## 4. Aktivitetsgeneratoren
 
-Inspireret af [DBUs Øvelsesgenerator](http://www.borneakademi.dk/nif/_docs/T-licens_manual.pdf) kunne man på samme måde arbejde med en aktivitetsgenerator. Her gennemgår man forskellige faser for at lave en masse forskellige variationer af en aktivitet.
+Inspireret af [DBUs Øvelsesgenerator](https://www.borneakademi.dk/nif/_docs/T-licens_manual.pdf) kunne man på samme måde arbejde med en aktivitetsgenerator. Her gennemgår man forskellige faser for at lave en masse forskellige variationer af en aktivitet.
 
 Det gode ved denne model er, at du allerede på forhånd får nogle forskellige variationer af øvelser, som kan opfylde målsætningen for aktiviteten eller øvelsen.
 
@@ -141,18 +144,18 @@ SMTTE-modellen er oprindelig udviklet af Hallvard Håstein. Modellen går ud på
 
 SMTTE består af fem indbyrdes forbundne elementer og står for Sammenhæng, Mål, Tiltag, Tegn og Evaluering.
 
-{% include figure image_path="" caption="" alt="SMTTE-modellens fem elementer" %}
+{% include figure image_path="https://www.smitter.dk/images/modelforside.png" caption="Kilde: [www.smitter.dk](https://www.smitter.dk/)" alt="SMTTE-modellens fem elementer" %}
 
 ## 7. Him og Hippe-modellen
 
 Him og Hippe-modellen er en systemmodel, der kan bruges til at studere udviklingen af en aktivitet i et system. Modellen består af fire hoveddele:
 
-- **Mål**: Hvad skal gruppen have ud af at lave denne opgave?  
+- **Mål**: Hvad skal gruppen have ud af at lave denne opgave?
 - **Læringsforudsætninger**: Har de personer nogle redskaber i forvejen, som de kan bruge til denne opgave, Så altså en sværhedsgrad ud fra de kompetencer gruppen har. Hvis man ved det? ellers må man jo agere ud fra det.
 - **Indhold**: Hvad går opgaven ud på! Opgaveforklaring
-- **Læringsprocessen**: Den process i vil opnå med gruppen, som i har lavet opgaven til, Hvis i f.eks. vil opnå splid,samarbejde eller at positivitet betaler sig! 
-- **Rammefaktorer**: Alt hvad i kan bruge: Lokaler, omgivelser, materialer vind og vejr, Kort sagt alt hvad der kan have indflydelse på opgaven.   
-- **Vurdering**: Laves oftest efter, men kan også være en god ide at lave inden, når alle parameter er sat op. Så lige vurdere dem en ekstra gang. 
+- **Læringsprocessen**: Den process i vil opnå med gruppen, som i har lavet opgaven til, Hvis i f.eks. vil opnå splid,samarbejde eller at positivitet betaler sig!
+- **Rammefaktorer**: Alt hvad i kan bruge: Lokaler, omgivelser, materialer vind og vejr, Kort sagt alt hvad der kan have indflydelse på opgaven.
+- **Vurdering**: Laves oftest efter, men kan også være en god ide at lave inden, når alle parameter er sat op. Så lige vurdere dem en ekstra gang.
 
 Him og Hippe-modellen kan bruges til at undersøge forskellige aspekter af en aktivitet, fx dens struktur, funktion, og deltagernes adfærd.
 

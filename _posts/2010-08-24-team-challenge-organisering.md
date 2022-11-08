@@ -2,10 +2,13 @@
 title: "Team Challenge - organisering"
 redirect_from: /content/team-challenge-organisering
 language: da
+category:
   - Teambuilding
 tags:
   - organisering
   - teamchallenge
+header:
+  teaser: /android-chrome-512x512.png
 last_modified_at: 2010-08-24T10:54:35Z
 ---
 

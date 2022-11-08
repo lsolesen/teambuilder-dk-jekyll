@@ -11,6 +11,8 @@ tags:
   - Øvelser
   - Teambuildingsøvelser
 last_modified_at: 2022-04-10T17:08:40Z
+header:
+  teaser: /android-chrome-512x512.png
 feature_row:
   - image_path: https://imgcdn.saxo.com/_9788771580051/0x500
     alt: "Teamwork - metoder til effektivt samarbejde af Michael A. West"
@@ -30,7 +32,7 @@ feature_row:
     rel: sponsored nofollow noopener
 ---
 
-Der findes mange forskellige typer af [teambuilding-øvelser](/gratis-teambuilding-oevelser/) og [samarbejdsøvelser](/samarbejdsoevelser/), der kan bruges til at forbedre kommunikationen og samarbejdet i et team. Nogle almindelige eksempler er problemløsningsaktiviteter, tillidsopbyggende øvelser og rollespilsscenarier.
+Der findes mange forskellige typer af [teambuilding-øvelser](/gratis-teambuilding-oevelser/) og [samarbejdsøvelser](/samarbejdsovelser/), der kan bruges til at forbedre kommunikationen og samarbejdet i et team. Nogle almindelige eksempler er problemløsningsaktiviteter, tillidsopbyggende øvelser og rollespilsscenarier.
 
 Teambuilding-øvelser kan være en sjov og effektiv måde at forbedre teamdynamikken på, men det er vigtigt at vælge den rigtige aktivitet for dit team. Hvis du ikke er sikker på, hvor du skal starte, får du her et par idéer til at komme i gang.
 

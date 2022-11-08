@@ -32,6 +32,13 @@ Vi ønsker alle at være mere kreative. Vi misunder dem, der tilsyneladende ubes
 
 I denne artikel får du viden om, hvordan du kan arbejde i kreative processer, når vi skal arbejde med ideudvikling og generere ideer.
 
+{% comment %}
+Jeg møder større og større skepsis overfor brainstorms, når jeg taler med mine kunder. Og med rette. 
+Alt for mange har oplevet brainstormsessioner, hvor en facilitator eller mødeleder forventer spontan idégenerering ud i det uendelige uden at have sat rammer, kontekst, form og forventinger klart. Og helt uden at give mulighed for forberedelse. Modsat hvad mange tror, er der faktisk brug for en virkelig tydelig struktur, stram styring og masser af rammer, når man gerne vil have mødedeltagere til at "tænke ud af boksen". 
+Artiklen her angirber problematikken fra en kulturel - og måske lidt for stereotyp - vinkel. Men den kommer rundt om de vigtigste overvejelser og kan være god inspiration for enhver, der gerne vil skabe bedre brainstorms på deres team.
+https://hbr.org/2016/05/leading-a-brainstorming-session-with-a-cross-cultural-team?fbclid=IwAR2qVV-HCW2Y5XbPshqNceUbGWUdw1EcVsWkulrfBRBKsJIVaH_opZXaAUQ
+{% endcomment %}
+
 ## Hvad er kreativitet?
 
 Kreativitet er evnen til at finde på nye og originale idéer. Dette omfatter både evnen til at finde på nye idéer og evnen til at gennemføre disse idéer.
@@ -90,13 +97,13 @@ Det er svært at definere den perfekte “måde”, hvorpå man kan få nye idee
 
 Brainstorm fungerer rigtig godt på post-its. Brainstorm bruges til at skabe mange ideer til et emne. I en brainstorm er alle ideer gode og alle forslag skrives ned.
 
-Der vælges en facilitator. Brainstormen starter med at alle får at vide hvad emnet er - og hvor lang tid man har til at skabe ideer.
+Der vælges en facilitator. Brhttps://web.archive.org/at alle får at vide hvad emnet er - og hvor lang tid man har til at skabe ideer.
 
 Deltagerne skriver hver især deres ideer ned på en post-it. En ide pr. post-it.
 
 Når tiden er gået præsenterer alle deltagerne deres ideer - og facilitatoren hænger ideerne op så alle kan se ideerne.
 
-Læs mere om brainstorm [her](http://web.archive.org/web/20151009195720/http://innovationsguiden.dk/brugere/ide-og-konceptudvikling/brainstorm).
+Læs mere om brainstorm [her](https://web.archive.org/web/20151009195720/http://innovationsguiden.dk/brugere/ide-og-konceptudvikling/brainstorm).
 
 ## 2. Papir på rundvisning - cirkelmetoden
 
@@ -122,13 +129,13 @@ Det gælder så om at få de tomme felter omkring emnerne udfyldt med ideer pass
 
 ![](/assets/images/postit.jpg)
 
-## 4. Brainstorm Matrix
+## 4. Brainstorm Mathttps://web.archive.org/
 
 ![_Brainstorm Matrix_]](/assets/images/brainstorm-matrix.jpg)
 
 En brainstorm-matrix kan laves på et stort ark papir eller et whiteboard. Skriv først et emne ned i midten af siden, og begynd derefter at udfylde resten af siden med idéer, der er relateret til dette emne -
 
-[Brainstorm Matrix](http://web.archive.org/web/20151209065706/http://www.innovationsguiden.dk/brugere/ide-og-konceptudvikling/brainstormingmatrix){: .btn .btn--large .btn--info rel="nofollow noopener" }
+[Brainstorm Matrix](https://web.archive.org/web/20151209065706/http://www.innovationsguiden.dk/brugere/ide-og-konceptudvikling/brainstormingmatrix){: .btn .btn--large .btn--info rel="nofollow noopener" }
 
 ## 5. Ideku - brainstorm matrix
 
@@ -142,7 +149,7 @@ Du kan se Finn Kollerup [forklare mere](https://lederindsigt.dk/en/videos/innova
 
 Metoden er udviklet af _Alt for kreativ_. Du skal bruge et stort bræt med 9 x 9 felter og en masse Post-its.
 
-[Regler](http://www.alt4kreativ.dk/UserFiles/file/PDF/IDEKU-instruktion_2sidet-Version01.pdf){: .btn .btn--large .btn--info } [Minimanual](http://www.alt4kreativ.dk/UserFiles/file/PDF/Arbejdsbog_-_Ideku_proces.pdf){: .btn .btn--large .btn--success }
+[Regler](https://www.alt4kreativ.dk/UserFiles/file/PDF/IDEKU-instruktion_2sidet-Version01.pdf){: .btn .btn--large .btn--info } [Minimanual](https://www.alt4kreativ.dk/UserFiles/file/PDF/Arbejdsbog_-_Ideku_proces.pdf){: .btn .btn--large .btn--success }
 
 ### 6. Flowskrivning
 

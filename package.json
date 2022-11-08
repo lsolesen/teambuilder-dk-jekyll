@@ -16,19 +16,21 @@
   "bugs": {
     "url": "git://github.com/lsolesen/teambuilder-dk-jekyll/issues"
   },
-  "dependencies": {
-    "glob": "^7.0.6",
-    "gulp": "^4.0.0",
-    "gulp-concat": "^2.6.0",
-    "gulp-empty": "^0.1.1",
-    "gulp-filter": "^5.1.0",
-    "gulp-if": "^2.0.1",
-    "gulp-imagemin": "^5.0.3",
-    "gulp-newer": "^1.4.0",
-    "gulp-notify": "^3.2.0",
-    "gulp-responsive": "2.12.0",
-    "gulp-size": "^3.0.0",
-    "gulp-util": "^3.0.7"
+  "dependencies": {},
+  "devDependencies": {
+    "gray-matter": "^4.0",
+    "js-yaml": "^4.1",
+    "unicode-encode": "^1.4",
+    "browserify": "^16.5",
+    "mocha": "^9.1",
+    "puppeteer": "^8.0",
+    "queue": "^6.0",
+    "tinify": "^1.6",
+    "uglifyify": "^5.0",
+    "watchify": "^4.0",
+    "minipass": "2.7.0",
+    "sharp": "^0.23.0",
+    "uglify-js": "^3.13"
   },
   "devDependencies": {
     "browserify": "^16.5",
@@ -43,8 +45,15 @@
     "uglify-js": "^3.13"
   },
   "scripts": {
-    "test": "bundle exec mocha src/test/*.*",
     "start": "bundle exec jekyll server --port 8080 --incremental",
+    "generate-image": "node _scripts/generate-image.js",
+    "og-image": "npm run generate-image -- type:og",
+    "og-images": "npm run generate-image -- type:og path:./_posts/",
+    "pinterest-image": "npm run generate-image -- type:pinterest",
+    "pinterest-images": "npm run generate-image -- type:pinterest path:./_posts/",
+    "instagram-image": "npm run generate-image -- type:instagram",
+    "instagram-images": "npm run generate-image -- type:instagram path:./_posts/",
+    "test": "bundle exec mocha src/test/*.*",
     "watch:js": "onchange \"assets/js/**/*.js\" -e \"assets/js/main.min.js\" -- npm run build:js",
     "build:js": "npm run uglify",
     "watch": "watchify src/js/app.bundle.js -o assets/js/bundle.js",

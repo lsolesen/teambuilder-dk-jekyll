@@ -11,14 +11,7 @@ preparation: ""
 preparation_time: ""
 time: "1,5 time"
 where: "et bord at sidde rundt om"
-materials: "tændstiksæske med tændstikker, 
-en tallerken, 
-papirsclips, 
-sølvpapir, 
-elastikker, 
-en computer, 
-noget der symboliserer penge og 
-nogle opgaver på papir"
+materials: "tændstiksæske med tændstikker, en tallerken, papirsclips, sølvpapir, elastikker, en computer, noget der symboliserer penge og nogle opgaver på papir"
 source: ""
 solution: ""
 gallery:

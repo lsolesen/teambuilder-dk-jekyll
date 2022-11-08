@@ -7,6 +7,8 @@ const ak = require('./ak');
 const alfa = require('./alfa');
 const backwards = require('./backwards');
 const passcode = require('./passcode');
+const semafore = require('./semafore');
+const frimurer = require('./frimurer');
 
 $(function() {
 
@@ -65,7 +67,13 @@ $(function() {
             console.log(remove_spaces + random_spaces);
             translator = backwards.Backwards(textbox, reverse, remove_spaces, random_spaces);
         }
-        $("#code").text(translator.encrypt());
+        if (language == 'semafore') {
+            translator = semafore.Semafore(textbox);
+        }
+        if (language == 'frimurer') {
+            translator = frimurer.Frimurer(textbox);
+        }
+        $("#code").html(translator.encrypt());
     });
 
 });

@@ -1,11 +1,14 @@
 ---
 title: "Evaluering og evalueringsmodeller (med evalueringsskema)"
 excerpt: "Skal du i gang med at lave en evaluering? Her får du forslag til evalueringsmodeller og du kan se eksempler på evalueringsskemaer."
+permalink: /evaluering/
 language: da
 category:
   - Projektledelse
 tags:
   - projektplanlægning
+header:
+  teaser: /android-chrome-512x512.png
 last_modified_at: 2022-05-23T20:50:27Z
 feature_row:
   - image_path: https://imgcdn.saxo.com/_9788771580051/0x500
@@ -83,9 +86,9 @@ Det er meget typisk at bruge et evalueringsskema. Spørgsmålene og oplægget in
 
 Jeg kan godt lide at tilføje en sektion om 'egen indsats' og måske 'forventninger', da det skaber lidt refleksion over, hvordan man selv er gået ind i aktiviteteterne, inden man frit kan få lov til at skrive hvad man vil.
 
-[Skabelon til evalueringsskema](http://kortlink.dk/gkza){: .btn .btn--large .btn--info rel="nofollow noopener" }
+[Skabelon til evalueringsskema](https://kortlink.dk/gkza){: .btn .btn--large .btn--info rel="nofollow noopener" }
 
-## 2. Fælles evaluering i plenum
+### 2. Fælles evaluering i plenum
 
 Når man spørger ud i plenum, skal man have tænkt grundigt over, hvordan man stiller spørgsmålene, og hvordan man følger op på diskussionerne. Du skal særligt være opmærksom på, at den første kommentar fra kursisterne kan styre en del af den efterfølgende evaluering.
 
@@ -112,7 +115,7 @@ Kan bruges som en lidt sjov starter til evaluering. Alle får udleveret et antal
 
 Skriveøvelse hvor man skriver alt det ned, man kan huske. Hver sætning starter med jeg husker i forhold til kurset. Formålet er at man konstant skriver. Det bliver næsten en poetisk tilgang. Man kan evt. afslutte i plenum med at nogen læser deres ‘jeg husker’ op.
 
-[Download skabelon](http://kortlink.dk/gcm6){: .btn .btn--large .btn--info rel="nofollow noopener" }
+[Download skabelon](https://kortlink.dk/gcm6){: .btn .btn--large .btn--info rel="nofollow noopener" }
 
 ### 6. Delphi (evalueringsskabelon)
 
@@ -120,7 +123,7 @@ Delphi-metoden er et evalueringsværktøj, der både indeholder en skriftlig og 
 
 Den mundtlige del består af en struktureret samtale, hvor læreren sørger for, at alle kursister kommer til orde. I gennemgangen kan man fx bede kursisterne nævne de punkter, hvor de havde fuldt hus (at alle var enige). På et tidspunkt kan man også gennemgå de punkter, hvor der ikke er nogen, der er enige eller meget få, der er enige.
 
-[Download evalueringsskabelon](http://kortlink.dk/gcm7){: .btn .btn--large .btn--info rel="nofollow noopener" }
+[Download evalueringsskabelon](https://kortlink.dk/gcm7){: .btn .btn--large .btn--info rel="nofollow noopener" }
 
 ## Forslag til evalueringsspørgsmål
 
@@ -137,7 +140,7 @@ Husk, at dine evalueringsspørgsmål skal være specifikke, målbare, opnåelige
 
 Nu har du samlet en masse viden sammen, som du kan bruge til at forbedre og tilpasse din undervisning eller projekter.
 
-Nu kan du fx gå i gang med at bruge nogle af de [kreative metoder](/kreativitet/) og [ideudvikling](/ideudvikling/) for at fidne nogle gode ideer. Du kan evt. inddrage dine deltagere i denne proces også.
+Nu kan du fx gå i gang med at bruge nogle af de [kreative metoder](/kreativitet/) og [ideudvikling](/ideudvikling/) for at finde nogle gode ideer. Du kan evt. inddrage dine deltagere i denne proces også.
 
 ## Konklusion
 

@@ -3,6 +3,8 @@ title: "TOWS-analyse: Skabelon og eksempel"
 excerpt: "TOWS-analysen er et strategisk værktøj, der kan bruges til at hjælpe organisationer med at identificere og vurdere deres styrker, svagheder, muligheder og trusler."
 permalink: "/tows-analyse/"
 language: da
+header:
+  teaser: /android-chrome-512x512.png
 category:
   - Projektledelse
 tags:

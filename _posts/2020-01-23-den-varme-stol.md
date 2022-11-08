@@ -10,6 +10,8 @@ category:
 tags:
   - ideeer
 last_modified_at: 2020-01-23T20:50:27Z
+header:
+  teaser: /android-chrome-512x512.png
 ---
 
 I en teambuildergruppe er det vigtig med både anerkendelse og konstruktiv kritik. Allerede i starten af teambuilder forløbet fik vi den såkaldte “varme stol,” som skulle bruges til at iscenesætte hver teambuilders styrker og svagheder. Vi startede først med en positiv runde, da vi endnu ikke havde været igennem så intense arbejdsprocesser sammen og ikke kendte hinanden så godt. Hver teambuilder fik en runde i den “varme stol” hvor de fik nævnt en styrke fra hver af deres “med-teambuilder.”

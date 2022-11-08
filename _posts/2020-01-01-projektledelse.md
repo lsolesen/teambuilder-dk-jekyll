@@ -7,6 +7,8 @@ category:
   - Projektledelse
 tags:
   - projektplanlægning
+header:
+  teaser: /android-chrome-512x512.png
 last_modified_at: 2022-05-23T20:50:27Z
 feature_row:
   - image_path: https://imgcdn.saxo.com/_9788750058328/0x500
@@ -120,7 +122,7 @@ Der er flere måder at holde styr på dit projekt på. Du kan bruge projektstyri
 
 Du kan også bruge et Gantt-diagram til visuelt at repræsentere tidslinjen for dit projekt. Dette kan være nyttigt til at kommunikere med interessenter og holde styr på opgaverne.
 
-Vi dykker går lidt mere i dybden med dine muligheder inden for [gratsi projektstyringsværktøjer](/projektstyringsvaerktoejer/).
+Vi dykker går lidt mere i dybden med dine muligheder inden for [gratis projektstyringsværktøjer](/projektstyringsvaerktoejer/).
 
 ## Projektlederens værktøjskasse
 

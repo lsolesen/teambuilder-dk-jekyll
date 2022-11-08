@@ -2,6 +2,8 @@
 title: "8 inspirerende blogs om teambuilding"
 excerpt: "Hvis du leder efter inspiration til, hvordan du kan opbygge et stærkt og sammenhængende team, så tjek disse blogs om teambuilding ud."
 permalink: /blogs-om-teambuilding/
+header:
+  teaser: /android-chrome-512x512.png
 redirect_from:
   - /content/websites-vi-lader-os-inspirere-af
   - /websites-vi-lader-os-inspirere-af/
@@ -21,7 +23,7 @@ Vi bruger naturligvis også nettet, når vi leder efter nye måder at gøre ting
 
 ## 1. Teachmeteamwork.com
 
-[Teachmeteamwork.com](http://www.teachmeteamwork.com/) er lavet af Tom Heck. På sitet få nogle gratis bøger med nogle teambuildingsøvelser i, hvis du skriver dig op til hans forum.
+[Teachmeteamwork.com](https://www.teachmeteamwork.com/) er lavet af Tom Heck. På sitet få nogle gratis bøger med nogle teambuildingsøvelser i, hvis du skriver dig op til hans forum.
 
 ## 2. Goteam.dk
 

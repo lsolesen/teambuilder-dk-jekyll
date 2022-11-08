@@ -7,6 +7,8 @@ category:
   - Møder
 tags:
   - Mødeledelse
+header:
+  teaser: /android-chrome-512x512.png
 last_modified_at: 2020-01-23T20:50:27Z
 feature_row:
   - image_path: https://imgcdn.saxo.com/_9788799227129/0x500
@@ -121,7 +123,7 @@ Mødehuset er en model, som du kan bruge til at forberede og styre det gode mød
 
 Grundlæggende i konceptet er, at møder typisk har forskellige formål. Derfor kan møderne rammesættes som forskellige møderum, der egner sig til forskellige typer snakke og samtaler.
 
-{% include figure image_path="/assets/images/blog/moederum.jpg" caption="De fire møderum, som egner sig til forskellige typer snakke og processer. Kilde: [Mødehuset.dk](https://www.moedehuset.dk/wp-content/uploads/2020/03/M%C3%B8dehuset-download.pdf)" alt="fire møderum fra mødehuset" %}
+{% include figure image_path="/assets/images/blog/moederum.png" caption="De fire møderum, som egner sig til forskellige typer snakke og processer. Kilde: [Mødehuset.dk](https://www.moedehuset.dk/wp-content/uploads/2020/03/M%C3%B8dehuset-download.pdf)" alt="fire møderum fra mødehuset" %}
 
 Mødehuset er en læringsmodel, hvor de fire møderum er overført til metafore om et hus. Hensigten er at få hvert rum til at repræsentere et bestemt mindset og stemning, som kan bruges under møderne.
 
