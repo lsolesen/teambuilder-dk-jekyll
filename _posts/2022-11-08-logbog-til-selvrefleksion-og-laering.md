@@ -1,5 +1,5 @@
 ---
-title: "# **Logbog til selvrefleksion og læring**"
+title: Logbog til selvrefleksion og læring
 header:
   overlay_image: x
   teaser: x
