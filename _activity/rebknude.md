@@ -1,17 +1,19 @@
 ---
 title: "Rebknude"
 redirect_from: /content/rebknude
-excerpt: "Først skal I planlægge, hvordan I kan lave en knude midt på rebet. Alle skal have fat i rebet med begge hænder, mens I binder knuden. Så snart man har rørt rebet, må man ikke give slip igen, og man må ikke længere flytte hænderne.
+excerpt: |
+  "Først skal I planlægge, hvordan I kan lave en knude midt på rebet. Alle skal have fat i rebet med begge hænder, mens I binder knuden. Så snart man har rørt rebet, må man ikke give slip igen, og man må ikke længere flytte hænderne.
 
-Lav derefter en knude på rebet."
+  Lav derefter en knude på rebet."
 language: da
 categories:
   - Samarbejdsøvelser
 tags: 
 aim: "At skabe en god kommunikation og indbyrdes forståelse i gruppen."
-instruction: "Først skal I planlægge, hvordan I kan lave en knude midt på rebet. Alle skal have fat i rebet med begge hænder, mens I binder knuden. Så snart man har rørt rebet, må man ikke give slip igen, og man må ikke længere flytte hænderne.
+instruction: |
+  "Først skal I planlægge, hvordan I kan lave en knude midt på rebet. Alle skal have fat i rebet med begge hænder, mens I binder knuden. Så snart man har rørt rebet, må man ikke give slip igen, og man må ikke længere flytte hænderne.
 
-Lav derefter en knude på rebet."
+  Lav derefter en knude på rebet."
 preparation: ""
 preparation_time: ""
 time: "20 min"

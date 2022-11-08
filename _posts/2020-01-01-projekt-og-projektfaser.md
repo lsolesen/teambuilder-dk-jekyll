@@ -85,8 +85,8 @@ Der er naturligvis stor forskel på karakteren af diverse projekter og dermed de
 
 | Fase        | Redskaber |
 |-|-|
-| Afklaring   | SWOT-analyse → [kortlink.dk/fmpt](http://kortlink.dk/fmpt){: rel="nofollow noopener" } |
-| Planlægning | SMTTE → [kortlink.dk/fmq4](http://kortlink.dk/fmq4){: rel="nofollow noopener" } |
+| Afklaring   | SWOT-analyse → [kortlink.dk/fmpt](https://kortlink.dk/fmpt){: rel="nofollow noopener" } |
+| Planlægning | SMTTE → [kortlink.dk/fmq4](https://kortlink.dk/fmq4){: rel="nofollow noopener" } |
 |             | Interessent-analyse → [kortlink.dk/fmpw](https://kortlink.dk/fmpw){: rel="nofollow noopener" } |
 |             | Kommunikationsanalyse → [kortlink.dk/fmps](https://kortlink.dk/fmps){: rel="nofollow noopener" } |
 |             | Budget → [kortlink.dk/fmpx](https://kortlink.dk/fmpx){: rel="nofollow noopener" } |
@@ -154,7 +154,7 @@ I gennemførelsesfasen afslutter projekdeltagere med udarbejdelse af en evalueri
 
 Projektgruppen ophører.
 
-{% include figure image_path="http://www.smitter.dk/images/modelforside.png" caption="SMTTE-modellen - via [www.smitter.dk](http://www.smitter.dk/)" %}
+{% include figure image_path="https://www.smitter.dk/images/modelforside.png" caption="SMTTE-modellen - via [www.smitter.dk](https://www.smitter.dk/)" %}
 
 ## Hvad skal der til i et succesfuldt projekt?
 

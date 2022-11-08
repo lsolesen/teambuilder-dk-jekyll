@@ -18,7 +18,7 @@ locale                   : "da"
 title                    : "Teambuilder"
 title_separator          : "-"
 subtitle                 : "Teambuilding & Projektledelse"
-logo                     : "/android-chrome-192x192.png"
+logo                     : "/assets/images/logo-40x40.png"
 name                     : "Teambuilding"
 description              : "Alt om teambuilding og projektledelse. Skrevet af elever og lærere på Vejle Idrætshøjskole."
 url                      : "https://www.teambuilder.dk" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -279,7 +279,7 @@ defaults:
       type: posts
     values:
       header:
-        teaser: https://images.unsplash.com/photo-1572177812156-58036aae439c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=400&q=5
+        teaser: https://images.unsplash.com/photo-1572177812156-58036aae439c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&h=300&w=400&q=10
       layout: single
       author_profile: true
       read_time: true

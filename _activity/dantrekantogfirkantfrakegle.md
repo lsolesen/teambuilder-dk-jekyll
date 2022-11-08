@@ -13,8 +13,7 @@ preparation: ""
 preparation_time: ""
 time: ""
 where: ""
-materials: "- 2 x 20meter reb. - 12 x bind for øjene - 4 gange korte reb. - 2 kegler.
-"
+materials: "- 2 x 20meter reb. - 12 x bind for øjene - 4 gange korte reb. - 2 kegler."
 source: ""
 solution: ""
 gallery:

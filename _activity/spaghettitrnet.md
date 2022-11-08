@@ -20,17 +20,18 @@ preparation: "Købe materialerne og opstille et bord pr. gruppe."
 preparation_time: ""
 time: "30 min"
 where: ""
-materials: "Et bord
-20 stykker spaghetti
-90 cm tape
-90 cm snor
-1 skumfidus
-Papirpose
-"
+materials: |
+  - Et bord
+  - 20 stykker spaghetti
+  - 90 cm tape
+  - 90 cm snor
+  - 1 skumfidus
+  - Papirpose
 source: "http://marshmallowchallenge.com/Instructions.html"
-solution: "Børn klarer sig sædvanligvis bedre end voksne på denne udfordring. De bruger nemlig prototyping undervejs og starter med at sætte skumfidusen på spaghettien, mens de voksne går i gang med at planlægge og bygge strukturen - og når skumfidusen skal på toppen, har de næsten ingen tid til at fikse strukturen.
+solution: |
+  "Børn klarer sig sædvanligvis bedre end voksne på denne udfordring. De bruger nemlig prototyping undervejs og starter med at sætte skumfidusen på spaghettien, mens de voksne går i gang med at planlægge og bygge strukturen - og når skumfidusen skal på toppen, har de næsten ingen tid til at fikse strukturen.
 
-Skumfidusen er en metafor for projektets skjulte forudsætninger. Udgangspunktet er at skufidusen er så let, at den sagtens lige kan smides på toppen til sidst. Men når man skal til det, så er den faktisk slet ikke så let alligevel. Lektien er altså at man skal teste tidligt og ofte alle de forudsætninger, der er i et projekt."
+  Skumfidusen er en metafor for projektets skjulte forudsætninger. Udgangspunktet er at skufidusen er så let, at den sagtens lige kan smides på toppen til sidst. Men når man skal til det, så er den faktisk slet ikke så let alligevel. Lektien er altså at man skal teste tidligt og ofte alle de forudsætninger, der er i et projekt."
 gallery:
   - url: /assets/images/activity/spaghettitrnet-0.jpg
     image_path: /assets/images/activity/spaghettitrnet-0-320.jpg
@@ -42,4 +43,4 @@ Grupper konkurrerer om at bygge et tårn af spaghetti. Det højeste vinder tårn
 
 En klassisk teambuildingsøvelse som fortæller om vigtigheden af at lave prototyper undervejs.
 
-Se [marshmellow challenge](http://marshmallowchallenge.com/Welcome.html) websitet.
+Se [marshmellow challenge](https://www.marshmallowchallenge.com/) websitet.

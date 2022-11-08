@@ -1,106 +1,108 @@
 ---
 title: "Ø-leg"
 redirect_from: /content/ø-leg
-excerpt: "INSTRUKTION GRUPPE 1 - KAN ALTOpgave:
+excerpt: |
+  "INSTRUKTION GRUPPE 1 - KAN ALTOpgave:
 
-- at nå hele gruppens mål, at få alle deltagere over på jeres ø.
-- at slå boldene af spanden
-- at opnå så fri bevægelighed som muligt
+  - at nå hele gruppens mål, at få alle deltagere over på jeres ø.
+  - at slå boldene af spanden
+  - at opnå så fri bevægelighed som muligt
 
-Ressourcer:
+  Ressourcer:
 
-- alt hvad I har på jer
-- I må bruge snorene, hvis I på tilfredsstillende vis kan demonstrere løsningen på den uendelige cirkel for instruktøren
+  - alt hvad I har på jer
+  - I må bruge snorene, hvis I på tilfredsstillende vis kan demonstrere løsningen på den uendelige cirkel for instruktøren
 
-Regler:
+  Regler:
 
-- Øerne må ikke flyttes
-- Resourcer og personer må ikke røre jorden udenfor øerne
-- Hvis de gør, vil de øjeblikkelig blive føært til øen med de blinde.
+  - Øerne må ikke flyttes
+  - Resourcer og personer må ikke røre jorden udenfor øerne
+  - Hvis de gør, vil de øjeblikkelig blive føært til øen med de blinde.
 
-INSTRUKTION GRUPPE 2 - DE STUMME (TAPE FOR MUNDEN)Opgave:
+  INSTRUKTION GRUPPE 2 - DE STUMME (TAPE FOR MUNDEN)Opgave:
 
-- at hjælpe de blinde
-- at nå hele gruppens mål, at få alle deltagere til samme sted.
+  - at hjælpe de blinde
+  - at nå hele gruppens mål, at få alle deltagere til samme sted.
 
-Ressourcer på jeres ø:
+  Ressourcer på jeres ø:
 
-- 2 brædder
+  - 2 brædder
 
-Regler:
+  Regler:
 
-- Resourcer og personer må ikke røre jorden udenfor øerne. Hvis de gør, vil de øjeblikkelig blive ført til øen med de blinde.
-- Ingen resourcer må bruges, før de blinde har udført deres opgave.
-- I må ikke lave nogen lyde med munden.
-- Kun de blinde må røre ved boldene
-- Kun de stumme må håndtere brædderne
+  - Resourcer og personer må ikke røre jorden udenfor øerne. Hvis de gør, vil de øjeblikkelig blive ført til øen med de blinde.
+  - Ingen resourcer må bruges, før de blinde har udført deres opgave.
+  - I må ikke lave nogen lyde med munden.
+  - Kun de blinde må røre ved boldene
+  - Kun de stumme må håndtere brædderne
 
-INSTRUKTION GRUPPE 3 – DE BLINDE MED BIND FOR ØJNENEOpgave:
+  INSTRUKTION GRUPPE 3 – DE BLINDE MED BIND FOR ØJNENEOpgave:
 
-- at få en bold i spanden
-- at nå hele gruppens mål, at få alle deltagere til samme sted.
+  - at få en bold i spanden
+  - at nå hele gruppens mål, at få alle deltagere til samme sted.
 
-Ressourcer på jeres ø:
+  Ressourcer på jeres ø:
 
-- 3 bolde
+  - 3 bolde
 
-Regler:
+  Regler:
 
-- I må ikke røre jorden udenfor øerne
-- I må ikke taget bindet af øjnene før hele aktiviteten er slut"
+  - I må ikke røre jorden udenfor øerne
+  - I må ikke taget bindet af øjnene før hele aktiviteten er slut"
 language: da
 categories:
   - Samarbejdsøvelser
 tags:
   - Samarbejdsøvelse
 aim: "Samarbejdsøvelse, som også er god til at skabe en debat om kommunikation og helhedstænkning. "
-instruction: "INSTRUKTION GRUPPE 1 - KAN ALTOpgave:
+instruction: |
+  "INSTRUKTION GRUPPE 1 - KAN ALTOpgave:
 
-- at nå hele gruppens mål, at få alle deltagere over på jeres ø.
-- at slå boldene af spanden
-- at opnå så fri bevægelighed som muligt
+  - at nå hele gruppens mål, at få alle deltagere over på jeres ø.
+  - at slå boldene af spanden
+  - at opnå så fri bevægelighed som muligt
 
-Ressourcer:
+  Ressourcer:
 
-- alt hvad I har på jer
-- I må bruge snorene, hvis I på tilfredsstillende vis kan demonstrere løsningen på den uendelige cirkel for instruktøren
+  - alt hvad I har på jer
+  - I må bruge snorene, hvis I på tilfredsstillende vis kan demonstrere løsningen på den uendelige cirkel for instruktøren
 
-Regler:
+  Regler:
 
-- Øerne må ikke flyttes
-- Resourcer og personer må ikke røre jorden udenfor øerne
-- Hvis de gør, vil de øjeblikkelig blive føært til øen med de blinde.
+  - Øerne må ikke flyttes
+  - Resourcer og personer må ikke røre jorden udenfor øerne
+  - Hvis de gør, vil de øjeblikkelig blive føært til øen med de blinde.
 
-INSTRUKTION GRUPPE 2 - DE STUMME (TAPE FOR MUNDEN)Opgave:
+  INSTRUKTION GRUPPE 2 - DE STUMME (TAPE FOR MUNDEN)Opgave:
 
-- at hjælpe de blinde
-- at nå hele gruppens mål, at få alle deltagere til samme sted.
+  - at hjælpe de blinde
+  - at nå hele gruppens mål, at få alle deltagere til samme sted.
 
-Ressourcer på jeres ø:
+  Ressourcer på jeres ø:
 
-- 2 brædder
+  - 2 brædder
 
-Regler:
+  Regler:
 
-- Resourcer og personer må ikke røre jorden udenfor øerne. Hvis de gør, vil de øjeblikkelig blive ført til øen med de blinde.
-- Ingen resourcer må bruges, før de blinde har udført deres opgave.
-- I må ikke lave nogen lyde med munden.
-- Kun de blinde må røre ved boldene
-- Kun de stumme må håndtere brædderne
+  - Resourcer og personer må ikke røre jorden udenfor øerne. Hvis de gør, vil de øjeblikkelig blive ført til øen med de blinde.
+  - Ingen resourcer må bruges, før de blinde har udført deres opgave.
+  - I må ikke lave nogen lyde med munden.
+  - Kun de blinde må røre ved boldene
+  - Kun de stumme må håndtere brædderne
 
-INSTRUKTION GRUPPE 3 – DE BLINDE MED BIND FOR ØJNENEOpgave:
+  INSTRUKTION GRUPPE 3 – DE BLINDE MED BIND FOR ØJNENEOpgave:
 
-- at få en bold i spanden
-- at nå hele gruppens mål, at få alle deltagere til samme sted.
+  - at få en bold i spanden
+  - at nå hele gruppens mål, at få alle deltagere til samme sted.
 
-Ressourcer på jeres ø:
+  Ressourcer på jeres ø:
+  
+  - 3 bolde
 
-- 3 bolde
+  Regler:
 
-Regler:
-
-- I må ikke røre jorden udenfor øerne
-- I må ikke taget bindet af øjnene før hele aktiviteten er slut"
+  - I må ikke røre jorden udenfor øerne
+  - I må ikke taget bindet af øjnene før hele aktiviteten er slut"
 preparation: "Øerne skal laves og materialerne fordeles."
 preparation_time: "15 minutter"
 time: "30 minutter"

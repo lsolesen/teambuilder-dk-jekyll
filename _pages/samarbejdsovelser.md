@@ -1,6 +1,8 @@
 ---
 layout: single
 permalink: /samarbejdsovelser/
+redirect_from:
+  - /samarbejdsoevelser/
 excerpt: Samarbejdsøvelser både til børn og voksne.
 title: "Samarbejdsøvelser til børn og voksne"
 author_profile: true

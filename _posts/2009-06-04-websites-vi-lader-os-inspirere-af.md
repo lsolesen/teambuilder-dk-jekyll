@@ -23,7 +23,7 @@ Vi bruger naturligvis også nettet, når vi leder efter nye måder at gøre ting
 
 ## 1. Teachmeteamwork.com
 
-[Teachmeteamwork.com](http://www.teachmeteamwork.com/) er lavet af Tom Heck. På sitet få nogle gratis bøger med nogle teambuildingsøvelser i, hvis du skriver dig op til hans forum.
+[Teachmeteamwork.com](https://www.teachmeteamwork.com/) er lavet af Tom Heck. På sitet få nogle gratis bøger med nogle teambuildingsøvelser i, hvis du skriver dig op til hans forum.
 
 ## 2. Goteam.dk
 

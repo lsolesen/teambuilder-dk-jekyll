@@ -70,11 +70,11 @@ Du kan også vælge en mere formel tilgang ved at tage personlighedstests eller 
 
 Når du har fået en bedre forståelse af dine styrker og dit udviklingspotentiale, kan du begynde at sætte dig mål, der svarer til disse. Dette vil hjælpe dig med at sikre, at du sætter mål, der er opnåelige og relevante for dig.
 
-[Skabelon til styrker og udviklingspotentiale](http://kortlink.dk/fmq9){: .btn .btn--large .btn--info rel="nofollow noopener" }
+[Skabelon til styrker og udviklingspotentiale](https://kortlink.dk/fmq9){: .btn .btn--large .btn--info rel="nofollow noopener" }
 
 ## Skabelon til målsætning
 
-[Skabelon til målsætning](http://kortlink.dk/fmq8){: .btn .btn--large .btn--success rel="nofollow noopener" }
+[Skabelon til målsætning](https://kortlink.dk/fmq8){: .btn .btn--large .btn--success rel="nofollow noopener" }
 
 ## Konklusion
 

@@ -106,7 +106,7 @@ Men hvorfor skal du vælge at gå systematisk til værk med din undervisningseva
 
 > På sigt bør man integrere evaluering i sin praksisudvikling som et naturligt element. Hvis ikke risikerer man efter 30 år at have 30 x 1 års erfaring. Og det er noget ganske andet end 30 års kontinuerlig erfaring!
 
---- <cite>[Nicolas Marinos](http://www.marinos.dk/eva/), gymnasielærer</cite>
+--- <cite>[Nicolas Marinos](https://www.marinos.dk/eva/), gymnasielærer</cite>
 
 Lad os springe ud i nogle af de forskellige evalueringsformer. Måske kan du finde inspiration til, hvordan du kan få gode tilbagemeldinger på din undervisningspraksis.
 
