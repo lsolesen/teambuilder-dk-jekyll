@@ -15,7 +15,7 @@ last_modified_at: 2022-05-23T20:50:27Z
 faq:
   - question: Hvorfor bruger man morse?
     answer: |
-      Morsekode har flere fordele i forhold til andre kommunikationsformer. For det første kan den kan transmitteres ved hjælp af blot to symboler (et punkt og en streg), hvilket gør det let at transmittere med simpelt udstyr. 
+      Morsekode har flere fordele i forhold til andre kommunikationsformer. For det første kan den kan transmitteres ved hjælp af blot to symboler (et punkt og en streg), hvilket gør det let at transmittere med simpelt udstyr.
 
       For det andet påvirkes morsekoden ikke af elektrisk interferens, hvilket gør den ideel til brug i vanskelige miljøer.
 
