@@ -6,6 +6,8 @@ main:
     url: /teambuilding/
   - title: "Samarbejdsøvelser"
     url: /samarbejdsovelser/
+  - title: "Koder"
+    url: /koder/
   - title: "Aktiviteter"
     url: /aktiviteter/
   - title: "Perfekte minut"

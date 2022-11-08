@@ -1,0 +1,166 @@
+{% assign open_form = include.open | default: "morse" %}
+
+<form id="kodemaskine" class="calculator">
+    <fieldset>
+        <label>Kodesprog
+        <select name="language" id="language">
+            <option value="morse"{% if open_form == 'morse' %} selected="selected"{% endif%}>Morse</option>
+            <option value="ak"{% if open_form == 'ak' %} selected="selected"{% endif%}>A-K & K-A (Cæsarkoden)</option>
+            <option value="backwards"{% if open_form == 'backwards' %} selected="selected"{% endif%}>Baglæns</option>
+            <option value="passcode"{% if open_form == 'passcode' %} selected="selected"{% endif%}>Kodeordskode (SPEJD-koden)</option>
+            <option value="alfa"{% if open_form == 'alfa' %} selected="selected"{% endif%}>Talkode (ALFA-koden)</option>
+            <option value="semafore"{% if open_form == 'semafor' %} selected="selected"{% endif%}>Semafor</option>
+            <option value="frimurer">Frimurerkoden (Juniorkoden)</option>
+            {% comment %}
+            <option value="binary">Binær kode</option>
+            <option value="runes">Runer</option>
+            <option value="blindwriting">Blindeskrift (Braille-alfabetet)</option>
+            <option value="leetspeak">Leet Speak</option>
+            {% endcomment %}
+        </select>
+        </label>
+
+
+        <fieldset id="morse" style="display: none;">
+            <div class="form-group inline">
+                <label for="translate_text_to_morse" class="radio">
+                    <input type="radio" name="morse_translating_way" id="translate_text_to_morse" value="text_to_morse" checked>
+                    Tekst til Morse
+                </label>
+                {% comment %}
+                <label for="translate_special_char" class="checkbox">
+                    <input type="checkbox" name="translate_special_char" id="translate_special_char" value="true">
+                    Oversæt specialtegn?
+                </label>
+                <input type="radio" name="morse_translating_way" id="translate_morse_to_text" value="morse_to_text">
+                <label for="translate_morse_to_text">Morse til Tekst</label>
+                {% endcomment %}
+            </div>
+        </fieldset>
+
+        <fieldset id="backwards" style="display: none;">
+            <div class="form-group inline">
+                <label for="remove_spaces" class="checkbox">
+                    <input type="checkbox" name="remove_spaces" id="remove_spaces" value="true">
+                    Fjern mellemrum?
+                </label>
+                <label for="random_spaces" class="checkbox">
+                    <input type="checkbox" name="random_spaces" id="random_spaces" value="true">
+                    Indsæt tilfældige mellemrum?
+                </label>
+            </div>
+        </fieldset>
+
+        <fieldset id="alfa" style="display: none;">
+            <div class="form-row inline">
+                <label for="number_raise" class="radio">
+                    <input type="radio" name="number_raise_fall" id="number_raise" value="number_raise" checked>
+                    Stigende (A = 1)
+                </label>
+                <label for="number_fall" class="radio">
+                    <input type="radio" name="number_raise_fall" id="number_fall" value="number_fall">
+                    Faldende (&Aring; = 1)
+                </label>
+                <label for="no_w_number_selected" class="checkbox">
+                    <input type="checkbox" name="no_w_number_selected" id="no_w_number_selected" value="false">
+                    Uden W?
+                </label>
+                {% comment %}
+                <label for="number_to_text" class="checkbox">
+                    <input type="checkbox" name="number_to_text" id="number_to_text" value="true">
+                    Tal til tekst?
+                </label>
+                {% endcomment %}
+            </div>
+        </fieldset>
+
+        {% comment %}
+
+        <div id="binary" style="display: none;">
+            <input type="radio" name="binary_translating_way" id="translate_text_to_binary" value="text_to_binary" onchange="binary_options_change(this.value)" checked>
+            <label for="translate_text_to_binary" style="padding-right:40px;"><span></span>Tekst &#8594; Binær</label>
+            <input type="radio" name="binary_translating_way" id="translate_binary_to_text" value="binary_to_text" onchange="binary_options_change(this.value)"  style="margin-left:25px;">
+            <label for="translate_binary_to_text"><span></span>Binær &#8594; Tekst</label>
+            <br>
+
+            <div id="text_to_binary" style="display: none;">
+                <input type="radio" name="binary_language" id="binary_to_number" value="binary_to_number" checked>
+                <label for="binary_to_number" style="padding-right:40px;"><span></span>Som talkode</label>
+                <input type="radio" name="binary_language" id="binary_to_ascii" value="binary_to_ascii" >
+                <label for="binary_to_ascii"><span></span>Som ASCII (Computersprog)</label>
+                <br>
+                <input type="checkbox" name="binary_delete_space" id="binary_delete_space" value="yes"  />
+                <label for="binary_delete_space" style="padding-right:40px;"><span></span>Slet mellemrum?</label>
+                <input type="checkbox" name="no_w_binary_selected" id="no_w_binary_selected" value="yes"  />
+                <label for="no_w_binary_selected"><span></span>Uden W? - (Gælder kun talkode)</label>
+            </div>
+
+            <div id="binary_to_text" style="display: none;">
+                <input type="radio" name="text_to_binary_language" id="text_to_binary_language_number" value="text_to_binary_language_number" checked>
+                <label for="text_to_binary_language_number"><span></span>Oversæt til tekst fra binær (talkode) | </label> <input type="checkbox" name="no_w_binary_to_text_selected" id="no_w_binary_to_text_selected" value="yes"  /><label for="no_w_binary_to_text_selected">Uden W?</label>
+                <br>
+                <input type="radio" name="text_to_binary_language" id="text_to_binary_language_ascii" value="text_to_binary_language_ascii" >
+                <label for="text_to_binary_language_ascii"><span></span>Oversæt til tekst fra binær (ASCII - Computersprog)</label>
+            </div>
+        </div>
+
+        {% endcomment %}
+
+        <fieldset id="ak" class="form-group inline" style="display: none;">
+            <label for="translate_text_to_ak" class="radio">
+                <input type="radio" name="ak_translating_way" id="translate_text_to_ak" value="text_to_ak" checked>
+                A-K
+            </label>
+            {% comment %}
+            <input type="radio" name="ak_translating_way" id="translate_ak_to_text" value="ak_to_text">
+            <label for="translate_ak_to_text">K-A</label>
+            <input type="checkbox" name="no_w_ak_selected" id="no_w_ak_selected" value="yes"  />
+            <label for="no_w_ak_selected">Uden W?</label>
+            {% endcomment %}
+        </fieldset>
+
+        <fieldset id="passcode" style="display: none;">
+            <input type="text" id="passcode" name="passcode" placeholder="Indsæt kodeord" value="SPEJD">
+        </fieldset>
+
+        <fieldset id="passcode" style="display: none;">
+            <input type="text" id="passcode" name="passcode" placeholder="Indsæt kodeord" value="SPEJD">
+        </fieldset>
+
+        <fieldset id="frimurer" class="form-group inline" style="display: none;">
+            <label for="frimurer_danish" class="radio">
+                <input type="radio" name="frimurer_translation_option" id="frimurer_danish" value="danish" checked>
+                Dansk udgave
+            </label>
+            <label for="frimurer_english" class="radio">
+                <input type="radio" name="frimurer_translation_option" id="frimurer_english" value="english">
+                Engelsk udgave
+            </label>
+            <label for="frimurer_with_q" class="radio">
+                <input type="checkbox" name="frimurer_with_q" id="frimurer_with_q" value="yes">
+                Med Q? (Kun Dansk)
+            </label>
+        </fieldset>
+
+        {% comment %}
+
+        <div id="runes" style="display: none;">
+            <input type="radio" name="runes_translation_option" id="runes_elder" value="elder" checked>
+            <label for="runes_elder" style="padding-right:40px;"><span></span>ældre runer</label>
+            <input type="radio" name="runes_translation_option" id="runes_middleage" value="middleage"  style="margin-left:25px;">
+            <label for="runes_middleage"><span></span>Middelalderruner</label>
+        </div>
+
+        {% endcomment %}
+
+
+        <textarea placeholder="Indsæt din kode her" id="textbox" name="text"></textarea>
+
+        <input type="submit" name="translate" value="Oversæt">
+
+    </fieldset>
+
+    <fieldset class="results">
+        <div id="code"></div>
+    </fieldset>
+</form>
