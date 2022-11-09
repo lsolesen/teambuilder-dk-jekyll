@@ -1,17 +1,21 @@
 ---
-title: "Gruppevejledning: Vejledning i fællesskaber (FFAST-modellen)"
-seo_title: "Gruppevejledning i fællesskaber (vejledning efter FFAST-modellen)"
-excerpt: "Søger du inspiration til at lave vejledning i fællesskaber? Jeg er optaget af gruppevejledning, og jeg brugte FFAST-modellen til at lave et vejledningsforløb i grupper."
+last_modified_at: 2022-06-20T20:50:27.000Z
+excerpt: Søger du inspiration til at lave vejledning i fællesskaber? Jeg er
+  optaget af gruppevejledning, og jeg brugte FFAST-modellen til at lave et
+  vejledningsforløb i grupper.
 permalink: /gruppevejledning-og-vejledning-faellesskaber/
 header:
   teaser: https://images.unsplash.com/photo-1460518451285-97b6aa326961?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&h=300&w=400&q=10
+  overlay_image: x
+  caption: x
+seo_title: Gruppevejledning i fællesskaber (vejledning efter FFAST-modellen)
+title: "Gruppevejledning: Vejledning i fællesskaber (FFAST-modellen)"
 language: da
 category:
   - Vejledning
 tags:
   - vejledning
   - featured
-last_modified_at: 2022-06-20T20:50:27Z
 ---
 
 Søger du inspiration til at lave vejledning i fællesskaber? Jeg er optaget af gruppevejledning, og jeg brugte FFAST-modellen til at lave et vejledningsforløb i grupper.
@@ -225,7 +229,9 @@ Jeg baserede evalueringen på mine egne erfaringer og elevernes mundtlige tilbag
 I den ramme, jeg tænker at gruppevejledningen skal fungere i fremtiden, er det nødvendigt at finde nogle flere gode emner. Det vil fx ikke være muligt at bruge WATCH-metoden (Jónsdóttir, Birgisdóttir, Sigurðardóttir 2012) direkte, men man kunne sagtens lade sig inspirere af emnerne og aktiviteterne i metoden, så det kommer til at passe med sammenhængen og forskelligheden i min gruppe.
 
 Da vejledningsaktiviteterne på Vejle Idrætshøjskole er struktureret omkring teams i øjeblikket, så har det været interessant at afdække om gruppevejledningen baseret kunne være en god fremgangsmåde. Det er lykkedes at lave et brugbart forløb ift. “at træffe valg”, men jeg ser også gode potentialer med andre emner, som fx selvværd, styrker og potentialer, venner, stress, bekymringer og andet, som er nogle af de emner, der bliver præsenteret i WATCH-metoden.
-Konklusion
+
+## Konklusion
+
 Jeg har gennemgået en model for et gruppevejledningsforløb (FFAST) og lavet et forløb på baggrund af den. Forløbet har vist, at forløbet kan være et udgangspunkt for eleverne om at blive bedre rustet til at tage valg og være mere rolige i de valgsituationer livet bringer.
 
 Forløbet viser, at det kan være hensigtsmæssigt at bruge gruppevejledning for at gøre endnu flere erfaringer tilgængelige og have adgang til den fælles undren en gruppe kan skabe. Gruppevejledningen eksternaliserer og almengør udfordringerne og valgene - og viser den enkelte at mennesker omkring dem også kan være en god sparringspartner i valgsituationer.
@@ -237,6 +243,6 @@ Det er lykkedes at få gruppevejledning til at fungere i en allerede eksisterend
 - Westergaard, Jane (2012): Effektiv gruppevejledning af unge, Schultz.
 - Thomsen, Rie; Boelskifte Skovhus, Randi; Buhl, Rita (2013): At vejlede i fællesskaber og grupper, Schultz.
 - Jónsdóttir, Sigríður Hulda; Birgisdóttir, Björg J.; Sigurðardóttir, Anna (2012): WATCH. En brugsbog i gruppevejledning, Schultz
-- Terkelsen, Helle: Projekt Pitstop, Ry Højskole, efteråret 2012, FFD Udviklingsprojekt, http://ffd.dk/media/769779/projekt_pitstop_y_hoejskole.pdf
-- Hellegaard, Dennis (2015): Hvad er moderne dannelse? http://dcum.dk/dcum/hvad-er-moderne-dannelse
-- Undervisningsministeriet: SMTTE, http://uvm.dk/Uddannelser/Folkeskolen/De-nationale-test-og-evaluering/Evaluering/Vaerktoejer/SMTTE
+- Terkelsen, Helle: [Projekt Pitstop](http://ffd.dk/media/769779/projekt_pitstop_y_hoejskole.pdf), Ry Højskole, efteråret 2012, FFD Udviklingsprojekt
+- Hellegaard, Dennis (2015): [Hvad er moderne dannelse?](http://dcum.dk/dcum/hvad-er-moderne-dannelse)
+- Undervisningsministeriet: [SMTTE](http://uvm.dk/Uddannelser/Folkeskolen/De-nationale-test-og-evaluering/Evaluering/Vaerktoejer/SMTTE)
