@@ -6,8 +6,8 @@ excerpt: Søger du inspiration til at lave vejledning i fællesskaber? Jeg er
 permalink: /gruppevejledning-og-vejledning-faellesskaber/
 header:
   teaser: https://images.unsplash.com/photo-1460518451285-97b6aa326961?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&h=300&w=400&q=10
-  overlay_image: x
-  caption: x
+  overlay_image: ""
+  caption: ""
 seo_title: Gruppevejledning i fællesskaber (vejledning efter FFAST-modellen)
 title: "Gruppevejledning: Vejledning i fællesskaber (FFAST-modellen)"
 language: da
