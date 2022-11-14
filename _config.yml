@@ -38,6 +38,12 @@ comments:
 atom_feed:
   path                   : # blank (default) uses feed.xml
 
+signup:
+  enabled: true
+  provider: mailchimp # false
+  url: https://teambuilder.us12.list-manage.com/subscribe/post?u=84f770bb340ab332e3c7412b0&amp;id=c1d605d94e&amp;f_id=00e6b4e0f0
+  recaptcha: b_84f770bb340ab332e3c7412b0_c1d605d94e
+
 after_footer_scripts:
   - /assets/js/bundle.js
 
