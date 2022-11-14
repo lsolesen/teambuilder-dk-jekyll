@@ -34,7 +34,7 @@ comments:
   commentbox             :
     id                   : 5750413777174528-proj
   graphcomment:
-    id:                  : "teambuilder"
+    id                   : "teambuilder"
 atom_feed:
   path                   : # blank (default) uses feed.xml
 
