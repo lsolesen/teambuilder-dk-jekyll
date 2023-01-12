@@ -1,6 +1,6 @@
 ---
-title: "De 3 bedste gratis projektstyringsværktøjer (opdateret 2022)"
-seo_title: "De 3 bedste gratis projektstyringsværktøjer (opdateret 2022)"
+title: "De 3 bedste gratis projektstyringsværktøjer (opdateret 2023)"
+seo_title: "De 3 bedste gratis projektstyringsværktøjer (opdateret 2023)"
 excerpt: "Er du på udkig efter et projektstyringsværktøj? Her er en list med det bedste gratis værktøjer til projektstyring."
 permalink: /projektstyringsvaerktoejer/
 header:
