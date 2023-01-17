@@ -32,7 +32,7 @@ jobs:
       # all the necessary files from our repo, including our custom actions
       # This action here is actually from a remote repo available from Githup itself
       - name: 🛎 Checkout master
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
         with:
           fetch-depth: 1
       - name: ⚡️ Install dependencies
@@ -73,7 +73,7 @@ jobs:
           key: ${{ runner.os }}-${{ github.sha }}
       - name: 🎉 Deploy to GitHub Pages 🎊
         if: success()
-        uses: crazy-max/ghaction-github-pages@v2
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: gh-pages
           build_dir: _site
@@ -147,7 +147,7 @@ jobs:
   lighthouse:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@master
+    - uses: actions/checkout@v3
     - name: Lighthouse
       uses: foo-software/lighthouse-check-action@master
       with:
@@ -158,7 +158,7 @@ jobs:
     if: github.event_name == 'pull_request' && github.event.action != 'closed'
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
       - name: Static Web App - get preview URL
         id: static_web_app_preview_url
         uses: azure/CLI@v1
