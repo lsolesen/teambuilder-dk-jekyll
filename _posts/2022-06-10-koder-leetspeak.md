@@ -36,7 +36,7 @@ Du kan også bruge **Avanceret Leet Speak**, som gør det hele lidt mere indvikl
 
 Hvis du gerne vil lave koder med leet speak, så har jeg fundet en kodegenerator, som giver dig mulighed for at bruge forskellige typer leet.
 
-{% include figure image_path="/assets/images/koder/leetspeak-kodebryder.png" caption="Kilde: [robertecker.com](http://www.robertecker.com/hp/research/leet-converter.php)" alt="avanceret leet speak" %}
+{% include figure image_path="/assets/images/koder/leetspeak-kodebryder.png" caption="Kilde: [robertecker.com](https://www.robertecker.com/hp/research/leet-converter.php)" alt="avanceret leet speak" %}
 
 Så nu er det bare at gå i gang med at skrive dine egne versioner af Leet Speak. Du kan også bruge [kodemaskinen.dk](https://kodemaskinen.dk), hvis du kun har brug for den simple version af Leet Speak.
 

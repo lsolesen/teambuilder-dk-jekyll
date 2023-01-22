@@ -237,6 +237,6 @@ Det er lykkedes at få gruppevejledning til at fungere i en allerede eksisterend
 - Westergaard, Jane (2012): Effektiv gruppevejledning af unge, Schultz.
 - Thomsen, Rie; Boelskifte Skovhus, Randi; Buhl, Rita (2013): At vejlede i fællesskaber og grupper, Schultz.
 - Jónsdóttir, Sigríður Hulda; Birgisdóttir, Björg J.; Sigurðardóttir, Anna (2012): WATCH. En brugsbog i gruppevejledning, Schultz
-- Terkelsen, Helle: Projekt Pitstop, Ry Højskole, efteråret 2012, FFD Udviklingsprojekt, http://ffd.dk/media/769779/projekt_pitstop_y_hoejskole.pdf
-- Hellegaard, Dennis (2015): Hvad er moderne dannelse? http://dcum.dk/dcum/hvad-er-moderne-dannelse
-- Undervisningsministeriet: SMTTE, http://uvm.dk/Uddannelser/Folkeskolen/De-nationale-test-og-evaluering/Evaluering/Vaerktoejer/SMTTE
+- Terkelsen, Helle: Projekt Pitstop, Ry Højskole, efteråret 2012, FFD Udviklingsprojekt, https://ffd.dk/media/769779/projekt_pitstop_y_hoejskole.pdf
+- Hellegaard, Dennis (2015): Hvad er moderne dannelse? https://dcum.dk/dcum/hvad-er-moderne-dannelse
+- Undervisningsministeriet: SMTTE, https://uvm.dk/Uddannelser/Folkeskolen/De-nationale-test-og-evaluering/Evaluering/Vaerktoejer/SMTTE

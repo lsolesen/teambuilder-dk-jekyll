@@ -108,7 +108,7 @@ preparation_time: "15 minutter"
 time: "30 minutter"
 where: "Svarende til en halv gymnastiksal "
 materials: "Reb, 2 Europaller, 2 brædder, 2 spande, 6 tennisbolde, Rulle med snor til sammenbinding af hænder, Tape til at sætte for munden af de stumme, bind for øjnene til de blinde"
-source: "Se den fulde beskrivelse på link: http://www.seniorsite.dk/projektkursus/cd/Moduler_files/flere_%C3%B8velser.pdf"
+source: "Se den fulde beskrivelse på link: https://www.seniorsite.dk/projektkursus/cd/Moduler_files/flere_%C3%B8velser.pdf"
 solution: "For at løse opgaven er det nødvendigt med helhedstænkning. Det allervigtigste er faktisk at man i starten får klargjort nøjagtigt hvad de enkelte gruppers opgaver er."
 gallery:
 last_modified_at: 2014-04-09T22:03:33Z

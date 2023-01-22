@@ -27,7 +27,7 @@ materials: |
   - 90 cm snor
   - 1 skumfidus
   - Papirpose
-source: "http://marshmallowchallenge.com/Instructions.html"
+source: "https://marshmallowchallenge.com/Instructions.html"
 solution: |
   "Børn klarer sig sædvanligvis bedre end voksne på denne udfordring. De bruger nemlig prototyping undervejs og starter med at sætte skumfidusen på spaghettien, mens de voksne går i gang med at planlægge og bygge strukturen - og når skumfidusen skal på toppen, har de næsten ingen tid til at fikse strukturen.
 

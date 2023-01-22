@@ -103,7 +103,7 @@ Deltagerne skriver hver især deres ideer ned på en post-it. En ide pr. post-it
 
 Når tiden er gået præsenterer alle deltagerne deres ideer - og facilitatoren hænger ideerne op så alle kan se ideerne.
 
-Læs mere om brainstorm [her](https://web.archive.org/web/20151009195720/http://innovationsguiden.dk/brugere/ide-og-konceptudvikling/brainstorm).
+Læs mere om brainstorm [her](https://web.archive.org/web/20151009195720/https://innovationsguiden.dk/brugere/ide-og-konceptudvikling/brainstorm).
 
 ## 2. Papir på rundvisning - cirkelmetoden
 
@@ -135,7 +135,7 @@ Det gælder så om at få de tomme felter omkring emnerne udfyldt med ideer pass
 
 En brainstorm-matrix kan laves på et stort ark papir eller et whiteboard. Skriv først et emne ned i midten af siden, og begynd derefter at udfylde resten af siden med idéer, der er relateret til dette emne -
 
-[Brainstorm Matrix](https://web.archive.org/web/20151209065706/http://www.innovationsguiden.dk/brugere/ide-og-konceptudvikling/brainstormingmatrix){: .btn .btn--large .btn--info rel="nofollow noopener" }
+[Brainstorm Matrix](https://web.archive.org/web/20151209065706/https://www.innovationsguiden.dk/brugere/ide-og-konceptudvikling/brainstormingmatrix){: .btn .btn--large .btn--info rel="nofollow noopener" }
 
 ## 5. Ideku - brainstorm matrix
 
@@ -182,4 +182,4 @@ Hvilken metode lyder mest tiltalende for dig? Har du en favorit, som vi ikke har
 - Due, Brian (2011): [Kreativitetens DNA](https://www.kommunikationsforum.dk/artikler/kreativitet-ideudvikling-innovation)
 - Due, Brian (2010): [Bedre brainstorming](https://www.kommunikationsforum.dk/artikler/bedre-brainstorming)
 - Nielsen, Jan Hein (2009): [Ideudvikling](https://www.startupsvar.dk/download-files/Ideudvikling-Jan-Hein.pdf), Væksthus Midtjylland
-- [Midtlab.dk værktøjskasse](http://preview.www.midtlab.dk/varktojskassen/)
+- [Midtlab.dk værktøjskasse](https://preview.www.midtlab.dk/varktojskassen/)
