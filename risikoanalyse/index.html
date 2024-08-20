@@ -1,0 +1,1103 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.19.2 by Michael Rose
+  Copyright 2013-2019 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+<html lang="da" class="no-js">
+  <head>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N5HK73D');</script>
+<!-- End Google Tag Manager -->
+
+    <meta charset="utf-8">
+
+
+
+
+<meta name="category" content="Projektledelse">
+<title>Hvordan laver du en risikoanalyse (med skabelon og eksempel) - Teambuilder</title>
+<meta name="description" content="Skal du i gang med en risikoanalyse? Her har du håndgribelige tips til, hvordan du griber den an med en tjekliste, skabelon og et eksempel.">
+
+
+  <meta name="author" content="Lars Olesen">
+
+
+<meta property="og:type" content="article">
+<meta property="og:locale" content="da">
+<meta property="og:site_name" content="Teambuilder">
+<meta property="og:title" content="Hvordan laver du en risikoanalyse (med skabelon og eksempel) - Teambuilder">
+<meta property="og:url" content="https://www.teambuilder.dk/risikoanalyse/">
+
+
+  <meta property="og:description" content="Skal du i gang med en risikoanalyse? Her har du håndgribelige tips til, hvordan du griber den an med en tjekliste, skabelon og et eksempel.">
+
+
+
+  <meta property="og:image" content="https://www.teambuilder.dk/android-chrome-512x512.png">
+
+
+
+  <meta name="twitter:site" content="@lsolesen">
+  <meta name="twitter:title" content="Hvordan laver du en risikoanalyse (med skabelon og eksempel) - Teambuilder">
+  <meta name="twitter:description" content="Skal du i gang med en risikoanalyse? Her har du håndgribelige tips til, hvordan du griber den an med en tjekliste, skabelon og et eksempel.">
+  <meta name="twitter:url" content="https://www.teambuilder.dk/risikoanalyse/">
+
+  
+    <meta name="twitter:card" content="summary">
+    
+      <meta name="twitter:image" content="https://www.teambuilder.dk/android-chrome-512x512.png">
+    
+  
+
+  
+
+
+
+  <meta property="article:published_time" content="2022-01-09T00:00:00+00:00">
+
+
+
+  <meta property="article:modified_time" content="2022-05-23T20:50:27+00:00">
+
+
+
+  
+
+  
+
+
+<link rel="canonical" href="https://www.teambuilder.dk/risikoanalyse/">
+
+
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
+      "@type": "Organization",
+      "url": "https://www.teambuilder.dk/"
+    
+  }
+</script>
+
+
+
+
+
+  <meta name="yandex-verification" content="f598ad7fca2ab8f1">
+
+
+
+
+
+
+  <link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Teambuilder Feed">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script type="text/javascript">
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+  
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.css">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@latest/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@latest/css/all.min.css"></noscript>
+
+
+
+    
+<script>
+function getCookie(cname) {
+  var name = cname + "=";
+  var decodedCookie = decodeURIComponent(document.cookie);
+  var ca = decodedCookie.split(';');
+  for(var i = 0; i <ca.length; i++) {
+    var c = ca[i];
+    while (c.charAt(0) == ' ') {
+      c = c.substring(1);
+    }
+    if (c.indexOf(name) == 0) {
+      return c.substring(name.length, c.length);
+    }
+  }
+  return "";
+}
+
+let ads = getCookie('Ads');
+if (ads == "" || ads != 0) {
+  console.log('adding adsense');
+  let s = document.createElement('script');
+  s.setAttribute('src', 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9993815627805299');
+  s.setAttribute('async', 'async');
+  s.setAttribute('crossorigin', 'anonymous');
+  document.head.appendChild(s);
+}
+</script>
+
+
+
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
+
+
+
+
+<link rel="manifest" type="application/manifest+json" href="/manifest.json">
+
+<script>
+// Check compatibility for the browser we're running this in
+if ("serviceWorker" in navigator) {
+  if (navigator.serviceWorker.controller) {
+    console.log("[Teambuilder] active service worker found, no need to register");
+  } else {
+    // Register the service worker
+    navigator.serviceWorker
+      .register("/pwabuilder-sw.js", {
+        scope: "./"
+      })
+      .then(function (reg) {
+        console.log("[Teambuilder] Service worker has been registered for scope: " + reg.scope);
+      });
+  }
+}
+</script>
+
+<script>
+  (function (s, e, n, d, er) {
+    s['Sender'] = er;
+    s[er] = s[er] || function () {
+      (s[er].q = s[er].q || []).push(arguments)
+    }, s[er].l = 1 * new Date();
+    var a = e.createElement(n),
+        m = e.getElementsByTagName(n)[0];
+    a.async = 1;
+    a.src = d;
+    m.parentNode.insertBefore(a, m)
+  })(window, document, 'script', 'https://cdn.sender.net/accounts_resources/universal.js', 'sender');
+  sender('8aa14b3c4c9276')
+</script>
+
+  </head>
+
+  <body class="layout--single">
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N5HK73D"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+    <nav class="skip-links">
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Gå til hovedmenuen</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Gå til indholdet</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Gå til sidefoden</a></li>
+  </ul>
+</nav>
+
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+          <a class="site-logo" href="/"><img src="/assets/images/logo-40x40.png" alt="Teambuilder"></a>
+        
+        <a class="site-title" href="/">
+          Teambuilder
+          <span class="site-subtitle">Teambuilding & Projektledelse</span>
+        </a>
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a
+                href="/projektledelse/"
+                
+                
+              >Projektledelse</a>
+            </li><li class="masthead__menu-item">
+              <a
+                href="/teambuilding/"
+                
+                
+              >Teambuilding</a>
+            </li><li class="masthead__menu-item">
+              <a
+                href="/samarbejdsovelser/"
+                
+                
+              >Samarbejdsøvelser</a>
+            </li><li class="masthead__menu-item">
+              <a
+                href="/koder/"
+                
+                
+              >Koder</a>
+            </li><li class="masthead__menu-item">
+              <a
+                href="/aktiviteter/"
+                
+                
+              >Aktiviteter</a>
+            </li><li class="masthead__menu-item">
+              <a
+                href="/perfekte-minut/"
+                
+                
+              >Perfekte minut</a>
+            </li><li class="masthead__menu-item">
+              <a
+                href="/blog/"
+                
+                
+              >Blog</a>
+            </li><li class="masthead__menu-item">
+              <a
+                href="/om/"
+                
+                
+              >Om</a>
+            </li></ul>
+        
+        <button class="search__toggle" type="button">
+          <span class="visually-hidden">Søgning til/fra</span>
+          <i class="fas fa-search"></i>
+        </button>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Vis/skjul menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content">
+      
+
+
+  
+    <nav class="breadcrumbs">
+  <ol itemscope itemtype="https://schema.org/BreadcrumbList">
+    
+    <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+        <a href="/" itemprop="item"><span itemprop="name"><i class='fas fa-home'></i></span></a>
+        <meta itemprop="position" content="1" />
+    </li>
+    <span class="sep">></span><li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+          <a href="/projektledelse/" itemprop="item"><span itemprop="name">Projektledelse</span></a>
+          <meta itemprop="position" content="2" />
+        </li>
+        <span class="sep">></span>
+      
+    
+    <li class="current">Hvordan laver du en risikoanalyse (med skabelon og eksempel)</li>
+  </ol>
+</nav>
+
+  
+
+
+<div id="main" role="main">
+  
+  <div class="sidebar sticky">
+  
+
+
+<div itemscope itemtype="https://schema.org/Person" class="h-card">
+
+  
+    <div class="author__avatar">
+      <a href="https://www.teambuilder.dk/">
+        <img src="/assets/images/authors/larsolesen.jpg" alt="Lars Olesen" itemprop="image" class="u-photo">
+      </a>
+    </div>
+  
+
+  <div class="author__content">
+    <h3 class="author__name p-name" itemprop="name">
+      <a class="u-url" rel="me" href="https://www.teambuilder.dk/" itemprop="url">Lars Olesen</a>
+    </h3>
+    
+      <div class="author__bio p-note" itemprop="description">
+        <p>Lars Olesen er viceforstander på Vejle Idrætshøjskole og har været højskolelærer i mange år. Han var bl.a. med til at starte teambuilderlinjen.</p>
+
+      </div>
+    
+  </div>
+
+  <div class="author__urls-wrapper">
+    <button class="btn btn--inverse">Følg</button>
+    <ul class="author__urls social-icons">
+      
+
+      
+        
+          
+            <li><a href="mailto:lars@vih.dk" rel="nofollow noopener noreferrer me"><i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i><span class="label">Email</span></a></li>
+          
+        
+          
+            <li><a href="https://www.linkedin.com/in/lsolesen/" rel="nofollow noopener noreferrer me" itemprop="sameAs"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span class="label">Linkedin</span></a></li>
+          
+        
+          
+            <li><a href="https://www.buymeacoffee.com/lsolesen" rel="nofollow noopener noreferrer me" itemprop="sameAs"><i class="fas fa-fw fa-mug-hot" aria-hidden="true"></i><span class="label">Køb mig en kaffe</span></a></li>
+          
+        
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      <!--
+  <li>
+    <a href="http://link-to-whatever-social-network.com/user/" itemprop="sameAs" rel="nofollow noopener noreferrer me">
+      <i class="fas fa-fw" aria-hidden="true"></i> Custom Social Profile Link
+    </a>
+  </li>
+-->
+    </ul>
+  </div>
+</div>
+
+  
+  </div>
+
+
+
+  <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="Hvordan laver du en risikoanalyse (med skabelon og eksempel)">
+    <meta itemprop="description" content="Skal du i gang med en risikoanalyse? Her har du håndgribelige tips til, hvordan du griber den an med en tjekliste, skabelon og et eksempel.">
+    <meta itemprop="datePublished" content="2022-01-09T00:00:00+00:00">
+    <meta itemprop="dateModified" content="2022-05-23T20:50:27+00:00">
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          <h1 id="page-title" class="page__title" itemprop="headline">Hvordan laver du en risikoanalyse (med skabelon og eksempel)
+</h1>
+          
+
+  <p class="page__meta">
+    
+
+    
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          5 minutters læsning
+        
+      </span>
+    
+  </p>
+
+
+        </header>
+      
+
+      <section class="page__content" itemprop="text">
+        
+          <aside class="sidebar__right ">
+            <nav class="toc">
+              <header><h4 class="nav__title"><i class="fas fa-file-alt"></i> På denne side</h4></header>
+              <ul class="toc__menu"><li><a href="#hvad-er-en-risikoanalyse">Hvad er en risikoanalyse?</a></li><li><a href="#metoder-til-risikoanalyse">Metoder til risikoanalyse</a></li><li><a href="#formål-med-en-risikoanalyse">Formål med en risikoanalyse</a></li><li><a href="#hvordan-laver-man-risikoanalysen">Hvordan laver man risikoanalysen?</a></li><li><a href="#vurder-risikoen-med-disse-6-trin">Vurder risikoen med disse 6 trin</a><ul><li><a href="#trin-1">Trin 1</a></li><li><a href="#trin-2">Trin 2</a></li><li><a href="#trin-3">Trin 3</a></li><li><a href="#trin-4">Trin 4</a></li><li><a href="#trin-5">Trin 5</a></li><li><a href="#trin-6">Trin 6</a></li></ul></li><li><a href="#faldgruber-og-begrænsninger">Faldgruber og begrænsninger</a></li><li><a href="#tjekliste-til-risikoanalysen">Tjekliste til risikoanalysen</a><ul><li><a href="#struktur-og-funktion">Struktur og funktion</a></li><li><a href="#omgivelser">Omgivelser</a></li><li><a href="#projektforløbet">Projektforløbet</a></li><li><a href="#samspil">Samspil</a></li></ul></li><li><a href="#konklusion">Konklusion</a></li></ul>
+            </nav>
+          </aside>
+        
+        <p>Risikoanalyse er en proces, hvor man vurderer risikoen for, at en begivenhed indtræffer, og de potentielle konsekvenser af denne begivenhed.</p>
+
+<p>Det indebærer, at man identificerer mulige risici, analyserer dem for at bestemme deres sandsynlighed og konsekvenser og derefter tager skridt til at mindske disse risici.</p>
+
+<p>Risikoanalyse er et vigtigt værktøj for både virksomheder, organisationer og enkeltpersoner. Ved at forstå de risici, der er forbundet med en bestemt aktivitet, kan virksomhederne tage skridt til at minimere disse risici og beskytte sig mod potentielle tab.</p>
+
+<p>Enkeltpersoner kan anvende risikoanalyser til at træffe informerede beslutninger om deres aktiviteter og planlægge for uforudsete situationer.</p>
+
+<div class="responsive-video-container">
+
+  <div class="youtube-container">
+    <div class="youtube-player" data-id="5FdNZj8KpIQ">
+      <a href="https://www.youtube.com/watch?v=5FdNZj8KpIQ" rel="nofollow noopener">
+        <img class="youtube-thumb" src="https://i.ytimg.com/vi/5FdNZj8KpIQ/hqdefault.jpg" loading="lazy" alt="video til Hvordan laver du en risikoanalyse (med skabelon og eksempel)" />
+        <span class="play-button"></span>
+      </a>
+    </div>
+  </div>
+  
+
+</div>
+
+<h2 id="hvad-er-en-risikoanalyse">Hvad er en risikoanalyse?</h2>
+
+<p>I erhvervslivet er risikoanalyse en proces, hvor man vurderer potentialet for tab i forbindelse med en investering eller et venture. Målet med risikoanalysen er at identificere risici og bestemme, hvordan de skal håndteres.</p>
+
+<p>Der findes mange forskellige tilgange til risikoanalyse, men alle involverer en eller anden kombination af identifikation og evaluering af risici, vurdering af sandsynligheden for, at hver type risiko opstår.</p>
+
+<h2 id="metoder-til-risikoanalyse">Metoder til risikoanalyse</h2>
+
+<p>Der findes mange forskellige metoder til at foretage en risikoanalyse. Den mest almindelige metode er at bruge en <strong>matrix</strong>, som gør det muligt at kortlægge de brugeren til at identificere og vurdere risici på en struktureret måde.</p>
+
+<p>En anden almindelig metode er at udarbejde en <strong>liste</strong> over mulige risici og derefter vurdere dem i forhold til deres sandsynlighed og potentielle konsekvenser. Dette kan gøres ved hjælp af en simpel tabel eller et regneark.</p>
+
+<h2 id="formål-med-en-risikoanalyse">Formål med en risikoanalyse</h2>
+
+<p>Formålet med risikoanalysen er dels at vurdere, hvilke risici der er de alvorligste i forhold til projektets gennemførelse, dels at finde strategier for at overkomme og reducere disse risici.</p>
+
+<p>En risiko består altid af sandsynligheden for, at et eller andet hænder samt konsekvensen af den pågældende hændelse.</p>
+
+<p>Reduktion af risikoen kan derfor foretages på to områder.</p>
+
+<p>Dels reduktion af sandsynligheden for at det pågældende problem skal opstå (<strong>forebyggelse</strong>), dels reduktion af konsekvenserne af den forventede hændelse (<strong>afbødning</strong>).</p>
+
+<p>Risikoanalysen har til formål at afdække mulige risici, prioritere dem og finde mulige løsninger på de pågældende problemer.</p>
+
+<h2 id="hvordan-laver-man-risikoanalysen">Hvordan laver man risikoanalysen?</h2>
+
+<p>Risikoanalysen udføres ofte første gang på planlægningsworkshoppen, men skal udføres mange gange gennem projektet, da risici ændrer sig gennem projektforløbet.</p>
+
+<p>Desuden opnår projektgruppen større indsigt og viden, som projektet skrider frem, hvilket gør, at man bliver opmærksom på nye eller andre risici. Risikoanalysen skal bruges til at reagere på, hvis ikke der øjeblikkelig tages aktion, så snart ting udvikler sig i den retning, som risikoanalysen forudser.</p>
+
+<h2 id="vurder-risikoen-med-disse-6-trin">Vurder risikoen med disse 6 trin</h2>
+
+<p>Risikoanalyser kan udføres via et væld af forskellige metoder. Vi har udvalgt en enkel, men effektiv metode, som forklares herunder.</p>
+
+<figure class=""><img src="/assets/images/blog/risikoanalyse-projekt.png" alt="skema og skabelon til risikoanalyse" /></figure>
+
+<h3 id="trin-1">Trin 1</h3>
+
+<p>Risikoanalysen starter med en brainstorm omkring, hvilke problemområder der kan forekomme i det pågældende projekt. Du kan læse mere om <a href="/kreativitet/">kreative processer</a> for at få ideer til, hvordan du kan arbejde med brainstorm..</p>
+
+<p>Brainstormingen gennemføres ved at spørge: ”Hvad kan gå galt?”. Se også tjeklisten i dette værktøj. Ofte vil det være en god idé at sende papkort rundt eller sætte dem op på væggen, så de øvrige deltagere i workshoppen bliver inspireret af de problemstillinger, som skrives op.</p>
+
+<h3 id="trin-2">Trin 2</h3>
+
+<p>Næste trin i risikoanalysen er at vurdere konsekvenserne af de enkelte hændelser. Ofte vil det være en god idé at vurdere hændelserne en skala fra 0-5. Er der tale om en mindre rystelse i projektet, der skaber irritation, er det 1.</p>
+
+<p>Er der tale om væsentlige problemer og forsinkelser, der nødvendiggør en revision af plan og budget, er det 3. Endelig kan hændelsen være så alvorlig, at den hindrer projektgennemførelsen, og konsekvensen er lukning af projektet. Her er værdien 5.</p>
+
+<h3 id="trin-3">Trin 3</h3>
+
+<p>Tilsvarende vurderes sandsynligheden for, at de enkelte hændelser forekommer. Dette kan også gøres på en skala fra 1 til 5, hvor 1 er lille sandsynlighed, og 5 er stor sandsynlighed.</p>
+
+<h3 id="trin-4">Trin 4</h3>
+
+<p>Dernæst skal vi udregne risikotallet, R. R er lig K x S, dvs. konsekvensen gange sandsynligheden.</p>
+
+<p>Den højre kolonne vil give et billede af, hvor de store risici er. Ofte vil man blive overrasket, da mange mennesker har tendens til at fokusere på de hændelser, der har store konsekvenser uden at tage hensyn til, at sandsynligheden kan være meget lille.</p>
+
+<h3 id="trin-5">Trin 5</h3>
+
+<p>Når de forskellige hændelser er prioriteret, arbejdes der videre med de hændelser, der har den største risiko. Der udarbejdes tiltag, som kan reducere sandsynligheden for, at den pågældende hændelse sker (forebyggende tiltag). På samme måde udarbejdes der tiltag, der kan reducere konsekvenserne, hvis eller når den pågældende hændelse forekommer (afbødende tiltag).</p>
+
+<p>Risikoanalysen giver projektlederen og projektgruppen et ganske godt billede af, hvor farerne lurer i projektet, og hvilke muligheder der reelt er for at reagere.</p>
+
+<h3 id="trin-6">Trin 6</h3>
+
+<p>Indarbejd tiltagene i milepælsplanen, så risici reelt reduceres.</p>
+
+<p>Drøft risikoanalysen med styregruppen og ledelsen. Styregruppen skal altid kende projektets 10 største risici.</p>
+
+<h2 id="faldgruber-og-begrænsninger">Faldgruber og begrænsninger</h2>
+
+<p>Risikoanalysen skal udføres af projektarbejdere, der har indblik i det pågældende faglige område, ellers er det ikke muligt at foretage en reel vurdering af den pågældende risiko.</p>
+
+<p>At have nedskrevet risici er ikke det samme som at have reduceret eller forhindret dem! Sørg for at de forebyggende handlinger indgår som en del af projektplanen, og der udpeges ansvarspersoner for de enkelte tiltag.</p>
+
+<p>Konsekvenserne reduceres ofte vha. en plan B. For at dette skal lykkes er det nødvendigt, at plan B iværksættes på det rette tidspunkt. Det er derfor vigtigt at have besluttet ”Hvornår går vi over til plan B”. Datoen for denne beslutning skal ligge fast og være så tidlig, at plan B kan gennemføres.</p>
+
+<p>Risikoanalysen foretages altid på baggrund af en aktuel projektmålsætning, milepælsplan og projektorganisation. Er planen uklar, bliver risikoanalysen også uklar, og tiltagene bliver almindeligheder, som burde være i en fornuftig plan.</p>
+
+<h2 id="tjekliste-til-risikoanalysen">Tjekliste til risikoanalysen</h2>
+
+<h3 id="struktur-og-funktion">Struktur og funktion</h3>
+
+<ul>
+  <li>Definition af projektets leverancer og omfang</li>
+  <li>Teknologi, særpræg, løsningsvalg</li>
+  <li>Kvalitet</li>
+</ul>
+
+<h3 id="omgivelser">Omgivelser</h3>
+
+<ul>
+  <li>Interessenternes holdning</li>
+  <li>Politiske forhold</li>
+  <li>Myndighedernes medvirken</li>
+  <li>Konkurrenceforhold</li>
+  <li>Fysiske omgivelser</li>
+  <li>Adgangs- og transportforhold</li>
+  <li>Vejrlig og andre naturforhold</li>
+  <li>Gener ved udførelsen (f.eks. hensyn til naboer, trafik, pladsforhold m.v.)</li>
+  <li>Prisudvikling (specielt på årsager, f.eks. generel udvikling, lokalt niveau, valutaforhold)</li>
+</ul>
+
+<h3 id="projektforløbet">Projektforløbet</h3>
+
+<ul>
+  <li>Tidspres</li>
+  <li>Planlægningens kvalitet, pessimisme eller optimisme</li>
+  <li>Projektorganisationens kunnen</li>
+  <li>De udførendes kunnen</li>
+  <li>Gentagelseseffekt</li>
+  <li>Ændringer undervejs</li>
+  <li>Kvalitetskontrolpolitik</li>
+  <li>Arbejdsmiljøforhold</li>
+  <li>Uheld, tyveri, hærværk, forglemmelser</li>
+  <li>Leverance- og varekøbsforhold</li>
+  <li>Ressourcetilgængelighed/-kapacitet</li>
+  <li>Materiellets tilstand</li>
+</ul>
+
+<h3 id="samspil">Samspil</h3>
+
+<ul>
+  <li>Organisatoriske forhold (effektivitet, samarbejde, ansvarsplacering)</li>
+  <li>Misforståelser i kommunikation</li>
+  <li>Overholdelse af indbyrdes aftaler (planer)</li>
+  <li>Kontrakternes kvalitet, definition af ydelser</li>
+  <li>Specifikationers/beskrivelsers kvalitet og forståelighed</li>
+</ul>
+
+<h2 id="konklusion">Konklusion</h2>
+
+<p>Risikoanalyse er en vigtig proces, der hjælper med at identificere potentielle risici i et projekt og udvikle foranstaltninger til at forebygge eller mindske dem. Ved at forstå, hvor de største risici ligger, kan projektledere bedre planlægge og håndtere disse farer for projektet.</p>
+
+<p>Selv om ingen risikoanalyse er perfekt, kan du ved at følge denne tjekliste sikre, at dit team har en realistisk forståelse af de risici, der er forbundet med projektet.</p>
+
+        
+        
+        
+        
+
+
+
+
+
+
+
+
+<!-- Begin Mailchimp Signup Form -->
+<aside class="page__signup">
+    <form
+        action="https://teambuilder.us12.list-manage.com/subscribe/post?u=84f770bb340ab332e3c7412b0&amp;id=c1d605d94e&amp;f_id=00e6b4e0f0"
+        method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank">
+        <fieldset>
+            <p class="signup-logo">
+                <a href="https://eepurl.com/h2NjYX" title="Mailchimp - email marketing made easy and fun" rel="external nofollow noopener">
+                    <img width="100px" src="/assets/images/mc-logo.png" alt="Mailchimp logo">
+                </a>
+            </p>
+        <div>
+        <p class="signup__title">Få opdateringer</p>
+        <p>Vær den første der får besked, når der er nyt.</p>
+        <div class="form-inline">
+            <label for="mce-EMAIL" style="position: absolute; left: -5000px;" aria-hidden="true">Email Address <span class="asterisk">*</span></label>
+            <input type="email" placeholder="Indtast din e-mail" name="EMAIL" class="input-medium email" id="mce-EMAIL" required>
+            <input type="submit" value="Tilmeld" name="subscribe" id="mc-embedded-subscribe" class="btn btn--danger btn--medium">
+        </div>
+        </div>
+        
+            
+        <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+        <div style="position: absolute; left: -5000px;" aria-hidden="true">
+            <input type="text" name="b_84f770bb340ab332e3c7412b0_c1d605d94e" tabindex="-1" value="">
+        </div>
+        </fieldset>
+    </form>
+</aside>
+
+        <!-- Pinterest -->
+        
+        
+        
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+        
+  
+
+
+
+
+  
+  
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-tags" aria-hidden="true"></i> Nøgleord: </strong>
+    <span itemprop="keywords">
+    
+      
+      
+      <a href="/tags/#projektplanl%C3%A6gning" class="page__taxonomy-item" rel="tag">projektplanlægning</a>
+    
+    </span>
+  </p>
+
+
+
+
+
+  
+
+
+
+
+  
+  
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-folder-open" aria-hidden="true"></i> Kategorier: </strong>
+    <span itemprop="keywords">
+    
+      
+      
+      <a href="/categories/#projektledelse" class="page__taxonomy-item" rel="tag">Projektledelse</a>
+    
+    </span>
+  </p>
+
+
+
+        
+
+
+
+
+      </footer>
+
+      <section class="page__share">
+  
+    <p class="page__share-title">Del på</p>
+  
+
+  <a href="https://twitter.com/intent/tweet?via=lsolesen&text=Hvordan+laver+du+en+risikoanalyse+%28med+skabelon+og+eksempel%29%20https%3A%2F%2Fwww.teambuilder.dk%2Frisikoanalyse%2F" class="btn btn--twitter" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Del på Twitter"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.teambuilder.dk%2Frisikoanalyse%2F" class="btn btn--facebook" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Del på Facebook"><i class="fab fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.teambuilder.dk%2Frisikoanalyse%2F" class="btn btn--linkedin" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Del på LinkedIn"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+
+  <a data-pin-do="buttonBookmark" data-pin-custom="true" href="https://www.pinterest.com/pin/create/button/" class="btn btn--pinterest btn--danger"><i class="fab fa-fw fa-pinterest" aria-hidden="true"></i><span> Pinterest</span></a>
+  <script async defer src="https://assets.pinterest.com/js/pinit.js"></script>
+</section>
+
+
+      
+  <nav class="pagination">
+    
+      <a href="/tows-analyse/" class="pagination--pager" title="TOWS-analyse: Skabelon og eksempel
+">Forrige</a>
+    
+    
+      <a href="/kommunikation/" class="pagination--pager" title="Kommunikation
+">Næste</a>
+    
+  </nav>
+
+    </div>
+
+    
+      <div class="page__comments">
+  
+  
+      <h4 class="page__comments-title">Kommentarer</h4>
+<div id="graphcomment"></div>
+<script type="text/javascript">
+
+  /* - - - CONFIGURATION VARIABLES - - - */
+
+  var __semio__params = {
+    graphcommentId: "teambuilder", // make sure the id is yours
+
+    behaviour: {
+      // HIGHLY RECOMMENDED
+      //  uid: "...", // uniq identifer for the comments thread on your page (ex: your page id)
+    },
+
+    // configure your variables here
+
+  }
+
+  /* - - - DON'T EDIT BELOW THIS LINE - - - */
+
+  function __semio__onload() {
+    __semio__gc_graphlogin(__semio__params)
+  }
+
+
+  (function() {
+    var gc = document.createElement('script'); gc.type = 'text/javascript'; gc.async = true;
+    gc.onload = __semio__onload; gc.defer = true; gc.src = 'https://integration.graphcomment.com/gc_graphlogin.js?' + Date.now();
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(gc);
+  })();
+
+
+</script>
+
+  
+</div>
+
+    
+  </article>
+
+  
+  
+    <div class="page__related">
+      <h4 class="page__related-title">Måske kan du også lide</h4>
+      <div class="grid__wrapper">
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="https://images.unsplash.com/photo-1460518451285-97b6aa326961?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&h=300&w=400&q=10" alt="">
+      </div>
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/gruppevejledning-og-vejledning-faellesskaber/" rel="permalink">Gruppevejledning: Vejledning i fællesskaber (FFAST-modellen)
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+
+    
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          20 minutters læsning
+        
+      </span>
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description">Søger du inspiration til at lave vejledning i fællesskaber? Jeg er optaget af gruppevejledning, og jeg brugte FFAST-modellen til at lave et vejledningsforløb...</p>
+  </article>
+</div>
+
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/android-chrome-512x512.png" alt="">
+      </div>
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/interessentanalyse/" rel="permalink">Interessentanalyse: Skabelon og eksempel
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+
+    
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          8 minutters læsning
+        
+      </span>
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description">Ved du, hvem der er berørt af dit projekt? Så skal du i gang med at lave en interessentanalyse. Her ser du hvordan!
+</p>
+  </article>
+</div>
+
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&&h=300&w=400&q=10" alt="">
+      </div>
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/evaluering-af-undervisning/" rel="permalink">Evaluering af undervisning: 10 ideer du kan bruge i dag
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+
+    
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          15 minutters læsning
+        
+      </span>
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description">Søger du inspiration til at lave evaluering af din undervisning? Her finder du forslag til både skriftlige og mundtlige evalueringsformer til undervisningen.
+</p>
+  </article>
+</div>
+
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="https://images.unsplash.com/photo-1637073848100-a70e5094afff?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y29sbGVndWV8ZW58MHx8MHx8&auto=format&fit=crop&h=300&w=400&q=10" alt="">
+      </div>
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/kollegial-supervision/" rel="permalink">Kollegial Supervision - bliv bedre sammen
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+
+    
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          16 minutters læsning
+        
+      </span>
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description">Er du interesseret i at blive klogere på din egen praksis? Kollegial supervision eller intervision er en måde for ligestillede kollegaer at bearbejde deres e...</p>
+  </article>
+</div>
+
+        
+      </div>
+    </div>
+  
+  
+</div>
+
+
+      <!-- Pinterest -->
+      
+      
+      
+      
+         
+
+
+
+
+
+
+
+
+
+
+<figure class=" hidden">
+  <img src="/assets/images/pinterest-hide-mini-image.png"
+       alt="Hvordan laver du en risikoanalyse (med skabelon og eksempel)"
+       data-pin-media="https://www.teambuilder.dk/assets/images/pinterest/generated/risikoanalyse.jpg"
+       data-pin-description="Skal du i gang med en risikoanalyse? Her har du håndgribelige tips til, hvordan du griber den an med en tjekliste, skabelon og et eksempel. #projektplanlægning"
+       >
+  
+</figure>
+
+      
+    </div>
+
+    
+      <div class="search-content">
+        <div class="search-content__inner-wrap"><form class="search-content__form" onkeydown="return event.key != 'Enter';" role="search">
+    <label class="sr-only" for="search">
+      Hvad leder du efter...
+    </label>
+    <input type="search" id="search" class="search-input" tabindex="-1" placeholder="Hvad leder du efter..." />
+  </form>
+  <div id="results" class="results"></div></div>
+
+      </div>
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+      <li><strong>Følg:</strong></li>
+    
+
+    
+      
+        
+          <li><a href="https://www.facebook.com/teambuilderdk" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-facebook-square" aria-hidden="true"></i> Facebook</a></li>
+        
+      
+        
+          <li><a href="https://www.pinterest.dk/teambuilderdk" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-pinterest-square" aria-hidden="true"></i> Pinterest</a></li>
+        
+      
+        
+          <li><a href="https://www.buymeacoffee.com/lsolesen" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-mug-hot" aria-hidden="true"></i> Støt sitet</a></li>
+        
+      
+    
+
+    
+      <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    
+  </ul>
+</div>
+
+<div class="page__footer-copyright">&copy; 2024 <a href="https://www.teambuilder.dk">Teambuilder</a>. Drives af <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+
+      </footer>
+    </div>
+
+    
+  <script src="/assets/js/main.min.js"></script>
+
+
+
+
+<script src="/assets/js/lunr/lunr.min.js"></script>
+<script src="/assets/js/lunr/lunr-store.js"></script>
+<script src="/assets/js/lunr/lunr-en.js"></script>
+
+
+
+
+    <!-- start custom comments scripts -->
+
+<!-- end custom comments scripts -->
+
+
+
+
+  
+    <script src="/assets/js/bundle.js"></script>
+  
+
+
+
+  </body>
+</html>

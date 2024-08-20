@@ -1,0 +1,1129 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.19.2 by Michael Rose
+  Copyright 2013-2019 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+<html lang="da" class="no-js">
+  <head>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N5HK73D');</script>
+<!-- End Google Tag Manager -->
+
+    <meta charset="utf-8">
+
+
+
+
+<meta name="category" content="Projektledelse">
+<title>Interessentanalyse: Skabelon og eksempel - Teambuilder</title>
+<meta name="description" content="Ved du, hvem der er berørt af dit projekt? Så skal du i gang med at lave en interessentanalyse. Her ser du hvordan!">
+
+
+  <meta name="author" content="Lars Olesen">
+
+
+<meta property="og:type" content="article">
+<meta property="og:locale" content="da">
+<meta property="og:site_name" content="Teambuilder">
+<meta property="og:title" content="Interessentanalyse: Skabelon og eksempel - Teambuilder">
+<meta property="og:url" content="https://www.teambuilder.dk/interessentanalyse/">
+
+
+  <meta property="og:description" content="Ved du, hvem der er berørt af dit projekt? Så skal du i gang med at lave en interessentanalyse. Her ser du hvordan!">
+
+
+
+  <meta property="og:image" content="https://www.teambuilder.dk/android-chrome-512x512.png">
+
+
+
+  <meta name="twitter:site" content="@lsolesen">
+  <meta name="twitter:title" content="Interessentanalyse: Skabelon og eksempel - Teambuilder">
+  <meta name="twitter:description" content="Ved du, hvem der er berørt af dit projekt? Så skal du i gang med at lave en interessentanalyse. Her ser du hvordan!">
+  <meta name="twitter:url" content="https://www.teambuilder.dk/interessentanalyse/">
+
+  
+    <meta name="twitter:card" content="summary">
+    
+      <meta name="twitter:image" content="https://www.teambuilder.dk/android-chrome-512x512.png">
+    
+  
+
+  
+
+
+
+  <meta property="article:published_time" content="2022-01-05T00:00:00+00:00">
+
+
+
+  <meta property="article:modified_time" content="2022-06-02T20:50:27+00:00">
+
+
+
+  
+
+  
+
+
+<link rel="canonical" href="https://www.teambuilder.dk/interessentanalyse/">
+
+
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
+      "@type": "Organization",
+      "url": "https://www.teambuilder.dk/"
+    
+  }
+</script>
+
+
+
+
+
+  <meta name="yandex-verification" content="f598ad7fca2ab8f1">
+
+
+
+
+
+
+  <link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Teambuilder Feed">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script type="text/javascript">
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+  
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.css">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@latest/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@latest/css/all.min.css"></noscript>
+
+
+
+    
+<script>
+function getCookie(cname) {
+  var name = cname + "=";
+  var decodedCookie = decodeURIComponent(document.cookie);
+  var ca = decodedCookie.split(';');
+  for(var i = 0; i <ca.length; i++) {
+    var c = ca[i];
+    while (c.charAt(0) == ' ') {
+      c = c.substring(1);
+    }
+    if (c.indexOf(name) == 0) {
+      return c.substring(name.length, c.length);
+    }
+  }
+  return "";
+}
+
+let ads = getCookie('Ads');
+if (ads == "" || ads != 0) {
+  console.log('adding adsense');
+  let s = document.createElement('script');
+  s.setAttribute('src', 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9993815627805299');
+  s.setAttribute('async', 'async');
+  s.setAttribute('crossorigin', 'anonymous');
+  document.head.appendChild(s);
+}
+</script>
+
+
+
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
+
+
+
+
+<link rel="manifest" type="application/manifest+json" href="/manifest.json">
+
+<script>
+// Check compatibility for the browser we're running this in
+if ("serviceWorker" in navigator) {
+  if (navigator.serviceWorker.controller) {
+    console.log("[Teambuilder] active service worker found, no need to register");
+  } else {
+    // Register the service worker
+    navigator.serviceWorker
+      .register("/pwabuilder-sw.js", {
+        scope: "./"
+      })
+      .then(function (reg) {
+        console.log("[Teambuilder] Service worker has been registered for scope: " + reg.scope);
+      });
+  }
+}
+</script>
+
+<script>
+  (function (s, e, n, d, er) {
+    s['Sender'] = er;
+    s[er] = s[er] || function () {
+      (s[er].q = s[er].q || []).push(arguments)
+    }, s[er].l = 1 * new Date();
+    var a = e.createElement(n),
+        m = e.getElementsByTagName(n)[0];
+    a.async = 1;
+    a.src = d;
+    m.parentNode.insertBefore(a, m)
+  })(window, document, 'script', 'https://cdn.sender.net/accounts_resources/universal.js', 'sender');
+  sender('8aa14b3c4c9276')
+</script>
+
+  </head>
+
+  <body class="layout--single">
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N5HK73D"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+    <nav class="skip-links">
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Gå til hovedmenuen</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Gå til indholdet</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Gå til sidefoden</a></li>
+  </ul>
+</nav>
+
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+          <a class="site-logo" href="/"><img src="/assets/images/logo-40x40.png" alt="Teambuilder"></a>
+        
+        <a class="site-title" href="/">
+          Teambuilder
+          <span class="site-subtitle">Teambuilding & Projektledelse</span>
+        </a>
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a
+                href="/projektledelse/"
+                
+                
+              >Projektledelse</a>
+            </li><li class="masthead__menu-item">
+              <a
+                href="/teambuilding/"
+                
+                
+              >Teambuilding</a>
+            </li><li class="masthead__menu-item">
+              <a
+                href="/samarbejdsovelser/"
+                
+                
+              >Samarbejdsøvelser</a>
+            </li><li class="masthead__menu-item">
+              <a
+                href="/koder/"
+                
+                
+              >Koder</a>
+            </li><li class="masthead__menu-item">
+              <a
+                href="/aktiviteter/"
+                
+                
+              >Aktiviteter</a>
+            </li><li class="masthead__menu-item">
+              <a
+                href="/perfekte-minut/"
+                
+                
+              >Perfekte minut</a>
+            </li><li class="masthead__menu-item">
+              <a
+                href="/blog/"
+                
+                
+              >Blog</a>
+            </li><li class="masthead__menu-item">
+              <a
+                href="/om/"
+                
+                
+              >Om</a>
+            </li></ul>
+        
+        <button class="search__toggle" type="button">
+          <span class="visually-hidden">Søgning til/fra</span>
+          <i class="fas fa-search"></i>
+        </button>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Vis/skjul menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content">
+      
+
+
+  
+    <nav class="breadcrumbs">
+  <ol itemscope itemtype="https://schema.org/BreadcrumbList">
+    
+    <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+        <a href="/" itemprop="item"><span itemprop="name"><i class='fas fa-home'></i></span></a>
+        <meta itemprop="position" content="1" />
+    </li>
+    <span class="sep">></span><li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+          <a href="/projektledelse/" itemprop="item"><span itemprop="name">Projektledelse</span></a>
+          <meta itemprop="position" content="2" />
+        </li>
+        <span class="sep">></span>
+      
+    
+    <li class="current">Interessentanalyse: Skabelon og eksempel</li>
+  </ol>
+</nav>
+
+  
+
+
+<div id="main" role="main">
+  
+  <div class="sidebar sticky">
+  
+
+
+<div itemscope itemtype="https://schema.org/Person" class="h-card">
+
+  
+    <div class="author__avatar">
+      <a href="https://www.teambuilder.dk/">
+        <img src="/assets/images/authors/larsolesen.jpg" alt="Lars Olesen" itemprop="image" class="u-photo">
+      </a>
+    </div>
+  
+
+  <div class="author__content">
+    <h3 class="author__name p-name" itemprop="name">
+      <a class="u-url" rel="me" href="https://www.teambuilder.dk/" itemprop="url">Lars Olesen</a>
+    </h3>
+    
+      <div class="author__bio p-note" itemprop="description">
+        <p>Lars Olesen er viceforstander på Vejle Idrætshøjskole og har været højskolelærer i mange år. Han var bl.a. med til at starte teambuilderlinjen.</p>
+
+      </div>
+    
+  </div>
+
+  <div class="author__urls-wrapper">
+    <button class="btn btn--inverse">Følg</button>
+    <ul class="author__urls social-icons">
+      
+
+      
+        
+          
+            <li><a href="mailto:lars@vih.dk" rel="nofollow noopener noreferrer me"><i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i><span class="label">Email</span></a></li>
+          
+        
+          
+            <li><a href="https://www.linkedin.com/in/lsolesen/" rel="nofollow noopener noreferrer me" itemprop="sameAs"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span class="label">Linkedin</span></a></li>
+          
+        
+          
+            <li><a href="https://www.buymeacoffee.com/lsolesen" rel="nofollow noopener noreferrer me" itemprop="sameAs"><i class="fas fa-fw fa-mug-hot" aria-hidden="true"></i><span class="label">Køb mig en kaffe</span></a></li>
+          
+        
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      <!--
+  <li>
+    <a href="http://link-to-whatever-social-network.com/user/" itemprop="sameAs" rel="nofollow noopener noreferrer me">
+      <i class="fas fa-fw" aria-hidden="true"></i> Custom Social Profile Link
+    </a>
+  </li>
+-->
+    </ul>
+  </div>
+</div>
+
+  
+  </div>
+
+
+
+  <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="Interessentanalyse: Skabelon og eksempel">
+    <meta itemprop="description" content="Ved du, hvem der er berørt af dit projekt? Så skal du i gang med at lave en interessentanalyse. Her ser du hvordan!">
+    <meta itemprop="datePublished" content="2022-01-05T00:00:00+00:00">
+    <meta itemprop="dateModified" content="2022-06-02T20:50:27+00:00">
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          <h1 id="page-title" class="page__title" itemprop="headline">Interessentanalyse: Skabelon og eksempel
+</h1>
+          
+
+  <p class="page__meta">
+    
+
+    
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          8 minutters læsning
+        
+      </span>
+    
+  </p>
+
+
+        </header>
+      
+
+      <section class="page__content" itemprop="text">
+        
+          <aside class="sidebar__right ">
+            <nav class="toc">
+              <header><h4 class="nav__title"><i class="fas fa-file-alt"></i> På denne side</h4></header>
+              <ul class="toc__menu"><li><a href="#hvad-er-en-interessentanalyse">Hvad er en interessentanalyse?</a></li><li><a href="#hvorfor-er-en-interessentanalyse-værd-at-lave">Hvorfor er en interessentanalyse værd at lave?</a></li><li><a href="#hvordan-bruges-en-analyse-af-interessenterne-i-projektet">Hvordan bruges en analyse af interessenterne i projektet?</a></li><li><a href="#hvordan-laver-man-en-interessentanalyse">Hvordan laver man en interessentanalyse?</a><ul><li><a href="#trin-1-identificering-af-interessenter">Trin 1: Identificering af interessenter</a></li><li><a href="#trin-2-sortering-af-interessenter">Trin 2: Sortering af interessenter</a></li><li><a href="#trin-3-oplevede-fordele-og-ulemper-for-interessenterne">Trin 3: Oplevede fordele og ulemper for interessenterne</a></li><li><a href="#trin-4-strategi-for-håndtering-af-interessenten">Trin 4: Strategi for håndtering af interessenten</a></li></ul></li><li><a href="#faldgruber-og-begræninger-ved-analyse-af-interessenter">Faldgruber og begræninger ved analyse af interessenter</a></li><li><a href="#interessentmatrix">Interessentmatrix</a><ul><li><a href="#gidsler">Gidsler</a></li><li><a href="#ressourcepersoner">Ressourcepersoner</a></li><li><a href="#grå-eminence">Grå eminence</a></li><li><a href="#eksterne-interessenter">Eksterne interessenter</a></li><li><a href="#interessenter-skal-behandles-forskelligt">Interessenter skal behandles forskelligt</a></li></ul></li><li><a href="#eksempel-på-sortering-af-interessenter-under-en-workshop">Eksempel på sortering af interessenter under en workshop</a></li><li><a href="#skabelon-til-interessentanalyse">Skabelon til interessentanalyse</a></li><li><a href="#konklusion">Konklusion</a></li><li><a href="#ofte-stillede-spørgsmål">Ofte stillede spørgsmål</a></li></ul>
+            </nav>
+          </aside>
+        
+        
+<p>Ved du, hvem der er berørt af dit projekt? Der er sandsynligvis mange mennesker, der har en interesse i det, du laver - lige fra de mennesker, der vil blive direkte berørt af resultatet, til dem, der bare gerne vil sikre, at alt går glat.</p>
+
+<p>Interessentanalysen er en del af <a href="/projektanalyse/">5x5-modellen</a> til projektanalyse.</p>
+
+<p>En interessentanalyse er en proces, hvor du identificerer og vurderer de berørte personer, så du kan håndtere dem effektivt. I dette blogindlæg giver vi dig en skabelon og et eksempel på, hvordan du kan foretage en interessentanalyse til dit næste projekt.</p>
+
+<div class="responsive-video-container">
+
+  <div class="youtube-container">
+    <div class="youtube-player" data-id="8PDwTuuvhBw">
+      <a href="https://www.youtube.com/watch?v=8PDwTuuvhBw" rel="nofollow noopener">
+        <img class="youtube-thumb" src="https://i.ytimg.com/vi/8PDwTuuvhBw/hqdefault.jpg" loading="lazy" alt="video til Interessentanalyse: Skabelon og eksempel" />
+        <span class="play-button"></span>
+      </a>
+    </div>
+  </div>
+  
+
+</div>
+
+<h2 id="hvad-er-en-interessentanalyse">Hvad er en interessentanalyse?</h2>
+
+<p>En interessentanalyse er en proces, der hjælper dig med at forstå de personer, der har en interesse i dit projekt, og hvordan du kan håndtere dem effektivt.</p>
+
+<p>Processen omfatter identifikation af interessenter, kategorisering af dem efter deres interesse og indflydelse og derefter udvikling af strategier til håndtering af hver enkelt gruppe.</p>
+
+<p>Interessentanalysens formål er at give projektlederen og projektgruppen et overblik over personer, der har interesse i projektet, samt at gøre det muligt at igangsætte tiltag til en hensigtsmæssig håndtering af disse interessenter.</p>
+
+<h2 id="hvorfor-er-en-interessentanalyse-værd-at-lave">Hvorfor er en interessentanalyse værd at lave?</h2>
+
+<p>Interessentanalysen bruges til at:</p>
+
+<ul>
+  <li>Sikre, at projektets formål, leverancer, succeskriterier og fremgangsmåde er attraktive for de væsentligste interessenter</li>
+  <li>Identificere ressourcepersoner, der kan hjælpe med projektets gennemførelse</li>
+  <li>Identificere og håndtere eventuelle modstandere og konflikter effektivt og proaktivt</li>
+  <li>Planlægge den rette beslutningsproces og rækkefølge for inddragelse af de interesserede i projektet</li>
+  <li>Planlægge en hensigtsmæssig kommunikation og involvering af alle interessenterne på det rette tidspunkt.</li>
+</ul>
+
+<h2 id="hvordan-bruges-en-analyse-af-interessenterne-i-projektet">Hvordan bruges en analyse af interessenterne i projektet?</h2>
+
+<p>Projektteamet foretager en interessentanalyse. Det bør gøres adskillige gange i løbet af projektet. Den udføres f.eks. som en del af planlægningsmødet i starten af projektet. Interessenterne kan dog ændre deres holdninger, og nye kan dukke op, efterhånden som projektet udvikler sig.</p>
+
+<h2 id="hvordan-laver-man-en-interessentanalyse">Hvordan laver man en interessentanalyse?</h2>
+
+<p>Interessentanalysen gennemføres i følgende trin:</p>
+
+<h3 id="trin-1-identificering-af-interessenter">Trin 1: Identificering af interessenter</h3>
+
+<p>Brainstorming, hvor projektgruppen genererer idéer om, hvem der vil blive påvirket af projektet, og hvem der vil blive påvirket af resultatet. Papirkort er ideelle til brainstorming, da de giver mulighed for mere kreativitet. Hvert medlem af projektteamet registrerer interessenter på papirkort, som derefter hænges op på væggen.</p>
+
+<p>Papirkort eller papkort har flere fordele. En af dem er at sortere interessenter i forskellige kategorier på væggen. Det er afgørende at vælge en idégenereringsstrategi, der udnytter gruppedynamikken i projektgruppen.</p>
+
+<h3 id="trin-2-sortering-af-interessenter">Trin 2: Sortering af interessenter</h3>
+
+<p>Interessenterne sorteres i kategorier. Dette kan delvist bestemmes af, hvem du mener, der er mest afgørende for projektets succes. Klassificering af interessenter kan også bruges til at undersøge:</p>
+
+<ul>
+  <li>Indflydelse, fx hvem der kan træffe beslutninger om projektet.</li>
+  <li>Medvirken, fx hvem er nødvendige at have som aktive medspillere for at få projektet gennemført?</li>
+</ul>
+
+<p>Se eksemplet herunder for at få illustreret disse to metoder.</p>
+
+<h3 id="trin-3-oplevede-fordele-og-ulemper-for-interessenterne">Trin 3: Oplevede fordele og ulemper for interessenterne</h3>
+
+<p>Efter opdelingen udvælges de vigtigste interessenter, da det ikke er muligt at tage hensyn til alle interessenter i et projekt. Projektets fordele og ulemper for hver interessentgruppe vurderes for de primære interessenter.</p>
+
+<p>Det er vigtigt at beskrive, hvad interessenterne reelt har af bekymringer og forventninger, hvis de blev spurgt. I denne proces er det også udbytterigt at spørge interessenterne selv, fx gennem interviews eller fokusgrupper.</p>
+
+<h3 id="trin-4-strategi-for-håndtering-af-interessenten">Trin 4: Strategi for håndtering af interessenten</h3>
+
+<p>Det sidste trin i interessentanalysen består i at vurdere det samlede billede. Nu udarbejdes en tidsplan for at imødekomme hver enkelt interessents bekymringer og forventninger. Det er afgørende at disse tiltag bliver meget konkrete.</p>
+
+<p>Tidsplanen skal være grundig og indeholde alt, hvad der skal gøre i forhold til interessenten.</p>
+
+<p>Det er ikke nok at skrive: Husk at kommunikere til interessent A og husk at involvere interessent B.</p>
+
+<p>Projektgruppen bør grundigt og detaljeret i denne fase. De skal fastlægge milepæle, ansvarspersoner og opfølgningsrutiner for håndteringen af interessenterne.</p>
+
+<p>Interessentanalysen er også vigtig at overveje med hensyn til projektets succes. Hvad fortæller disse oplysninger os om det overordnede billede af interessenterne? Er der nogen ændringer i projektets mål, leverancer, succeskriterier eller tilgang som følge af denne viden? Hvordan skal vi gå til at træffe beslutninger? Hvad med projektets struktur og roller?</p>
+
+<p>Interessentanalysen er en vigtig del af projektledelsen. Den bør anvendes under hele projektet for at sikre, at der tages hensyn til alle interessenter, og at deres krav opfyldes rettidigt.</p>
+
+<p>Den endelige beskrivelse af interessentanalysen kan foretages ved hjælp af skema, hvor interessenterne er listet.</p>
+
+<h2 id="faldgruber-og-begræninger-ved-analyse-af-interessenter">Faldgruber og begræninger ved analyse af interessenter</h2>
+
+<p>Effektiviteten af en interessentanalyse afhænger helt og holdent af, at de vigtigste interessenter er med. Derfor er det afgørende, at interessentanalysen udføres af en projektgruppe med et indgående kendskab til organisationen.</p>
+
+<p>Analysen af interessenterne har mange variabler. I løbet af projektet kan interessenternes interesser og indflydelse på projektet variere. Derfor er det afgørende, at interessentanalysen opdateres løbende i løbet af projektet. Det er usandsynligt, at en interessentvurdering, der foretages tidligt i et projekt, stadig er nøjagtig, når projektet afsluttes.</p>
+
+<h2 id="interessentmatrix">Interessentmatrix</h2>
+
+<p>En metode er interessentmatrixen. Her bruges to kriterier til at sortere interessenterne efter: hvor stor indflydelse har interessenten, og hvor nødvendig er interessenten for projektets gennemførsel.</p>
+
+<figure class=""><img src="/assets/images/blog/interessentmatrix.png" alt="" /></figure>
+
+<p>Man får derefter fire hovedkategorier af interessenter, som kan kaldes:</p>
+
+<ul>
+  <li>gidsler</li>
+  <li>ressourcepersoner</li>
+  <li>eksterne interessenter</li>
+  <li>grå eminencer</li>
+</ul>
+
+<p>Her går vi lidt i dybden med de fire kategorier.</p>
+
+<h3 id="gidsler">Gidsler</h3>
+
+<p>Interessenter, der har ringe eller ingen kontrol over projektets resultat, men hvis deltagelse er nødvendig for at sikre dets succes. Et eksempel på en interessent med begrænset magt til at træffe beslutninger om et it-system er medarbejderne i en virksomhed, der har implementeret det. Patienterne på et hospital, hvor der er indført en mad- eller rygepolitik, er et andet eksempel.</p>
+
+<p>Selv om denne kategori kaldes gidsler, bør det ikke behandles sådan. De bør snarere informeres og inddrages (ofte gennem repræsentanter) så meget som muligt. Dette kan opnås gennem massekommunikation, linjekommunikation, uddannelse og workshops.</p>
+
+<h3 id="ressourcepersoner">Ressourcepersoner</h3>
+
+<p>Interessenter, der har en betydelig indflydelse på projektet, og hvis aktive engagement er nødvendigt for at gennemføre det. Det kan f.eks. være personer, der skal arbejde på projektet som en del af projektgruppen eller som teknisk ekspertise, der f.eks. skal bruges i nødstilfælde. Det kan også være repræsentanter for interessegrupper eller lignende organisationer. Disse interessenter bør inddrages i projektet på et tidligt tidspunkt.</p>
+
+<h3 id="grå-eminence">Grå eminence</h3>
+
+<p>Interessenter, som har et betydeligt potentiale til at påvirke kritiske projektbeslutninger, men som ikke behøver at yde et væsentligt bidrag. Grå eminencer udøver åbent eller skjult deres magt. Der venter en ubehagelig overraskelse, hvis disse interessenter bliver forsømt.</p>
+
+<p>Det kan f.eks. være personer, der har en stor uformel magt i virksomheden, som ikke er blevet taget i ed. Det kan også være personer, der arbejder i administrationen, i en afdeling eller en vigtig interessegruppe på virksomhedsniveau.</p>
+
+<p>Under gennemførelsen af et projekt er det afgørende at kommunikere med dem - både i begyndelsen og undervejs. De bør f.eks. inddrages som en del af en styregruppe, en referencegruppe eller i mere uformelle møder. Det er også acceptabelt at tale med dem om deres erfaringer i dybden.</p>
+
+<h3 id="eksterne-interessenter">Eksterne interessenter</h3>
+
+<p>Interessenterne i denne gruppe har ingen indflydelse på projektets kritiske beslutninger, og deres aktive deltagelse er ikke nødvendig. Disse personer er ikke dem, der skal fokuseres mest på, da de har ringe mulighed for at påvirke afgørende beslutninger. Det er normalt tilstrækkeligt at informere dem via massekommunikation. Du skal dog holde øje med, hvordan de interagerer med projektet, da det kan det være nødvendigt at inddrage dem på et tidspunkt.</p>
+
+<p>Et eksempel på en ekstern interessent er en person, som ikke er ansat i virksomheden, men som kan have en interesse i projektet. Det kan f.eks. være kunder, leverandører eller lokale beboere.</p>
+
+<p>Pressen kan f.eks. være en ekstern interessent i et projekt i begyndelsen, men hvis der opstår en mediehistorie om projektet, vil de have en betydelig indflydelse, fordi de indirekte påvirker andre interessentgrupper.</p>
+
+<h3 id="interessenter-skal-behandles-forskelligt">Interessenter skal behandles forskelligt</h3>
+
+<p>Som du kan se, er der forskellige måder at håndtere interessenter på, afhængigt af deres indflydelsesniveau og betydning. Interessentmatrixen er et nyttigt værktøj til dette formål. Den kan hjælpe dig med at fokusere din opmærksomhed på de vigtigste interessenter og med at træffe de relevante foranstaltninger.</p>
+
+<h2 id="eksempel-på-sortering-af-interessenter-under-en-workshop">Eksempel på sortering af interessenter under en workshop</h2>
+
+<p>Når interessenterne er blevet identificeret og lagt ud på papirkort, skal de inddeles i grupper. Dette kan gøres på forskellige måder.</p>
+
+<p>Diskuter, hvem de mener, er den eller de vigtigste personer i projektet. For at gøre dette skal væggen deles op i tre kolonner: en første, anden og tredje prioritet. Gruppen bør begynde med at lægge kortene ned uden at kommentere dem, og derefter bruge tid på kun at diskutere de interessenter, som de er uenige i placeringen af dem.</p>
+
+<h2 id="skabelon-til-interessentanalyse">Skabelon til interessentanalyse</h2>
+
+<figure class=""><img src="/assets/images/blog/interessentanalyse.png" alt="" /></figure>
+
+<h2 id="konklusion">Konklusion</h2>
+
+<p>Interessentanalyse er et vigtigt værktøj for projektledere til at forstå, hvem deres interessenter er, og hvad deres behov og bekymringer er. Ved at tage hensyn til alle interessenters synspunkter kan projektledere sikre, at projektet gennemføres med succes og opfylder alle involverede parters forventninger.</p>
+
+<h2 id="ofte-stillede-spørgsmål">Ofte stillede spørgsmål</h2>
+
+<h3>Hvad er formålet med en interessentanalyse?</h3>
+<p>Formålet med en interessentanalyse er at give projektlederen og projektteamet et overblik over de personer, der har en interesse i projektet, og at gøre det muligt at træffe foranstaltninger til en passende håndtering af disse interessenter.</p>
+
+<h3>Hvordan kan jeg foretage en interessentanalyse?</h3>
+<p>Der er mange forskellige måder at foretage en interessentanalyse på. En måde er at bruge skabelonen i denne artikel. En anden måde er at interviewe interessenterne eller gennemføre fokusgrupper med dem.</p>
+
+<h3>Hvad er fordelene ved en interessentanalyse?</h3>
+<p>Fordelene ved en interessentanalyse er, at den giver projektlederen et overblik over alle de personer, der har en interesse i projektet, og sætter ham eller hende i stand til at træffe passende foranstaltninger til at håndtere disse interessenter.</p>
+
+<h3>Hvem bør indgå i en interessentanalyse?</h3>
+<p>Alle personer, der har en interesse i projektet, bør indgå i interessentanalysen. Dette omfatter interessenter fra både inden for og uden for organisationen.</p>
+
+<h3>Hvor ofte bør der foretages en interessentanalyse?</h3>
+<p>En interessentanalyse bør gennemføres med jævne mellemrum i løbet af projektet for at sikre, at alle interessenter tages i betragtning, og at deres krav opfyldes på enrettidig måde.</p>
+
+<h3>Hvordan bør projektledere håndtere interessenter?</h3>
+<p>Projektledere bør behandle interessenter på en respektfuld, åben og ærlig måde. De bør tage hensyn til alle interessenters synspunkter og træffe beslutninger, der er i projektets bedste interesse.</p>
+
+<h3>Hvad er en interessentliste?</h3>
+<p>En interessentliste er en liste over alle personer, der har en interesse i projektet. Den omfatter deres navn, kontaktoplysninger og rolle i projektet.</p>
+
+<h3>Hvad er forskellen mellem en interessent og en sponsor?</h3>
+<p>En interessent er enhver person, der har en interesse i projektet. En sponsor er en person eller organisation, der yder finansiel eller anden støtte til projektet. Sponsorer er normalt interessenter, men det er ikke alle interessenter, der er sponsorer</p>
+
+
+        
+        
+        
+        
+
+
+
+
+
+
+
+
+<!-- Begin Mailchimp Signup Form -->
+<aside class="page__signup">
+    <form
+        action="https://teambuilder.us12.list-manage.com/subscribe/post?u=84f770bb340ab332e3c7412b0&amp;id=c1d605d94e&amp;f_id=00e6b4e0f0"
+        method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank">
+        <fieldset>
+            <p class="signup-logo">
+                <a href="https://eepurl.com/h2NjYX" title="Mailchimp - email marketing made easy and fun" rel="external nofollow noopener">
+                    <img width="100px" src="/assets/images/mc-logo.png" alt="Mailchimp logo">
+                </a>
+            </p>
+        <div>
+        <p class="signup__title">Få opdateringer</p>
+        <p>Vær den første der får besked, når der er nyt.</p>
+        <div class="form-inline">
+            <label for="mce-EMAIL" style="position: absolute; left: -5000px;" aria-hidden="true">Email Address <span class="asterisk">*</span></label>
+            <input type="email" placeholder="Indtast din e-mail" name="EMAIL" class="input-medium email" id="mce-EMAIL" required>
+            <input type="submit" value="Tilmeld" name="subscribe" id="mc-embedded-subscribe" class="btn btn--danger btn--medium">
+        </div>
+        </div>
+        
+            
+        <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+        <div style="position: absolute; left: -5000px;" aria-hidden="true">
+            <input type="text" name="b_84f770bb340ab332e3c7412b0_c1d605d94e" tabindex="-1" value="">
+        </div>
+        </fieldset>
+    </form>
+</aside>
+
+        <!-- Pinterest -->
+        
+        
+        
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+        
+  
+
+
+
+
+  
+  
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-tags" aria-hidden="true"></i> Nøgleord: </strong>
+    <span itemprop="keywords">
+    
+      
+      
+      <a href="/tags/#featured" class="page__taxonomy-item" rel="tag">featured</a><span class="sep">, </span>
+    
+      
+      
+      <a href="/tags/#projektplanl%C3%A6gning" class="page__taxonomy-item" rel="tag">projektplanlægning</a>
+    
+    </span>
+  </p>
+
+
+
+
+
+  
+
+
+
+
+  
+  
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-folder-open" aria-hidden="true"></i> Kategorier: </strong>
+    <span itemprop="keywords">
+    
+      
+      
+      <a href="/categories/#projektledelse" class="page__taxonomy-item" rel="tag">Projektledelse</a>
+    
+    </span>
+  </p>
+
+
+
+        
+
+
+
+
+      </footer>
+
+      <section class="page__share">
+  
+    <p class="page__share-title">Del på</p>
+  
+
+  <a href="https://twitter.com/intent/tweet?via=lsolesen&text=Interessentanalyse%3A+Skabelon+og+eksempel%20https%3A%2F%2Fwww.teambuilder.dk%2Finteressentanalyse%2F" class="btn btn--twitter" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Del på Twitter"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.teambuilder.dk%2Finteressentanalyse%2F" class="btn btn--facebook" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Del på Facebook"><i class="fab fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.teambuilder.dk%2Finteressentanalyse%2F" class="btn btn--linkedin" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Del på LinkedIn"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+
+  <a data-pin-do="buttonBookmark" data-pin-custom="true" href="https://www.pinterest.com/pin/create/button/" class="btn btn--pinterest btn--danger"><i class="fab fa-fw fa-pinterest" aria-hidden="true"></i><span> Pinterest</span></a>
+  <script async defer src="https://assets.pinterest.com/js/pinit.js"></script>
+</section>
+
+
+      
+  <nav class="pagination">
+    
+      <a href="/maalhierarki-maalsaetning/" class="pagination--pager" title="Målhierarki: Sådan laver du det (faldgruber og begrænsninger)
+">Forrige</a>
+    
+    
+      <a href="/swot-analyse/" class="pagination--pager" title="SWOT-analyse: Skabelon og eksempel
+">Næste</a>
+    
+  </nav>
+
+    </div>
+
+    
+      <div class="page__comments">
+  
+  
+      <h4 class="page__comments-title">Kommentarer</h4>
+<div id="graphcomment"></div>
+<script type="text/javascript">
+
+  /* - - - CONFIGURATION VARIABLES - - - */
+
+  var __semio__params = {
+    graphcommentId: "teambuilder", // make sure the id is yours
+
+    behaviour: {
+      // HIGHLY RECOMMENDED
+      //  uid: "...", // uniq identifer for the comments thread on your page (ex: your page id)
+    },
+
+    // configure your variables here
+
+  }
+
+  /* - - - DON'T EDIT BELOW THIS LINE - - - */
+
+  function __semio__onload() {
+    __semio__gc_graphlogin(__semio__params)
+  }
+
+
+  (function() {
+    var gc = document.createElement('script'); gc.type = 'text/javascript'; gc.async = true;
+    gc.onload = __semio__onload; gc.defer = true; gc.src = 'https://integration.graphcomment.com/gc_graphlogin.js?' + Date.now();
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(gc);
+  })();
+
+
+</script>
+
+  
+</div>
+
+    
+  </article>
+
+  
+  
+    <div class="page__related">
+      <h4 class="page__related-title">Måske kan du også lide</h4>
+      <div class="grid__wrapper">
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="https://images.unsplash.com/photo-1460518451285-97b6aa326961?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&h=300&w=400&q=10" alt="">
+      </div>
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/gruppevejledning-og-vejledning-faellesskaber/" rel="permalink">Gruppevejledning: Vejledning i fællesskaber (FFAST-modellen)
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+
+    
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          20 minutters læsning
+        
+      </span>
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description">Søger du inspiration til at lave vejledning i fællesskaber? Jeg er optaget af gruppevejledning, og jeg brugte FFAST-modellen til at lave et vejledningsforløb...</p>
+  </article>
+</div>
+
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&&h=300&w=400&q=10" alt="">
+      </div>
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/evaluering-af-undervisning/" rel="permalink">Evaluering af undervisning: 10 ideer du kan bruge i dag
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+
+    
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          15 minutters læsning
+        
+      </span>
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description">Søger du inspiration til at lave evaluering af din undervisning? Her finder du forslag til både skriftlige og mundtlige evalueringsformer til undervisningen.
+</p>
+  </article>
+</div>
+
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/android-chrome-512x512.png" alt="">
+      </div>
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/projektledelse/" rel="permalink">Projektledelse: Komplet guide til projektlederen
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+
+    
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          9 minutters læsning
+        
+      </span>
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description">Skal du i gang med projektledelse? En projektleder har brug for at kunne holde mange bolde i luften. Her får du et komplet overblik om projektledelse i teori...</p>
+  </article>
+</div>
+
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="https://images.unsplash.com/photo-1637073848100-a70e5094afff?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y29sbGVndWV8ZW58MHx8MHx8&auto=format&fit=crop&h=300&w=400&q=10" alt="">
+      </div>
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/kollegial-supervision/" rel="permalink">Kollegial Supervision - bliv bedre sammen
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+
+    
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          16 minutters læsning
+        
+      </span>
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description">Er du interesseret i at blive klogere på din egen praksis? Kollegial supervision eller intervision er en måde for ligestillede kollegaer at bearbejde deres e...</p>
+  </article>
+</div>
+
+        
+      </div>
+    </div>
+  
+  
+</div>
+
+
+      <!-- Pinterest -->
+      
+      
+      
+      
+         
+
+
+
+
+
+
+
+
+
+
+<figure class=" hidden">
+  <img src="/assets/images/pinterest-hide-mini-image.png"
+       alt="Interessentanalyse: Skabelon og eksempel"
+       data-pin-media="https://www.teambuilder.dk/assets/images/pinterest/generated/interessentanalyse.jpg"
+       data-pin-description="Ved du, hvem der er berørt af dit projekt? Så skal du i gang med at lave en interessentanalyse. Her ser du hvordan! #projektplanlægning #featured"
+       >
+  
+</figure>
+
+      
+    </div>
+
+    
+      <div class="search-content">
+        <div class="search-content__inner-wrap"><form class="search-content__form" onkeydown="return event.key != 'Enter';" role="search">
+    <label class="sr-only" for="search">
+      Hvad leder du efter...
+    </label>
+    <input type="search" id="search" class="search-input" tabindex="-1" placeholder="Hvad leder du efter..." />
+  </form>
+  <div id="results" class="results"></div></div>
+
+      </div>
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+      <li><strong>Følg:</strong></li>
+    
+
+    
+      
+        
+          <li><a href="https://www.facebook.com/teambuilderdk" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-facebook-square" aria-hidden="true"></i> Facebook</a></li>
+        
+      
+        
+          <li><a href="https://www.pinterest.dk/teambuilderdk" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-pinterest-square" aria-hidden="true"></i> Pinterest</a></li>
+        
+      
+        
+          <li><a href="https://www.buymeacoffee.com/lsolesen" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-mug-hot" aria-hidden="true"></i> Støt sitet</a></li>
+        
+      
+    
+
+    
+      <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    
+  </ul>
+</div>
+
+<div class="page__footer-copyright">&copy; 2024 <a href="https://www.teambuilder.dk">Teambuilder</a>. Drives af <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+
+      </footer>
+    </div>
+
+    
+  <script src="/assets/js/main.min.js"></script>
+
+
+
+
+<script src="/assets/js/lunr/lunr.min.js"></script>
+<script src="/assets/js/lunr/lunr-store.js"></script>
+<script src="/assets/js/lunr/lunr-en.js"></script>
+
+
+
+
+    <!-- start custom comments scripts -->
+
+<!-- end custom comments scripts -->
+
+
+
+
+  
+    <script src="/assets/js/bundle.js"></script>
+  
+
+
+
+  </body>
+</html>

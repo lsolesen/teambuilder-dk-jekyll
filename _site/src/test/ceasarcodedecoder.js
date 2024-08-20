@@ -1,0 +1,1 @@
+const teambuilder=require('../js/ceasarcodedecoder.js');let assert=require('assert');describe('CeasarCodeDecoder',function(){describe('decrypt',function(){it('should return the correct number',function(){let a='GUVF VF FBZR FNZCYR GRKG URER.',b=teambuilder.CeasarCodeDecoder(a);assert.equal(b.decrypt(a,b.getShift()),'THIS IS SOME SAMPLE TEXT HERE.')})})})
