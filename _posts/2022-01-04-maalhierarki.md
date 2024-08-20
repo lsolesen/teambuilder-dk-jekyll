@@ -47,6 +47,8 @@ målhierarki markedsføring
 
 {% endcomment %}
 
+Du kan se mere om målhierarkier i denne video af Torben Kastrup.
+
 {% include video provider="youtube" id="KIXJVZ3srWc" %}
 
 ## Hvad er et målhierarki?
