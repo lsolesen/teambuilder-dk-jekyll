@@ -1,18 +1,20 @@
 source "https://rubygems.org"
 
-gem "jekyll", "~> 4.3"
+gem "jekyll", "~> 4.4"
+gem "minimal-mistakes-jekyll", "~> 4.28"
+gem "liquid-c"
+gem 'faraday-retry'
+
 group :jekyll_plugins do
-    gem 'jekyll-paginate'
-    gem 'jekyll-feed'
-    gem 'jemoji'
-    gem 'jekyll-redirect-from'
-    gem 'jekyll-gist'
-    gem 'jekyll-include-cache'
-    gem 'jekyll-sitemap'
-    gem 'jekyll-gzip'
-    gem 'jekyll-brotli'
+  gem "jekyll-paginate"
+  gem "jekyll-feed"
+  gem "jekyll-redirect-from"
+  gem "jekyll-gist"
+  gem "jekyll-include-cache"
+  gem "jemoji"
+  gem 'jekyll-brotli'
 end
-gem 'classifier-reborn'
-gem 'gsl', git: 'https://github.com/SciRuby/rb-gsl.git', ref: '103a3e1'
-gem 'html-proofer'
-gem "minimal-mistakes-jekyll", "~> 4.26"
+
+group :development, :test do
+  gem "html-proofer"
+end
