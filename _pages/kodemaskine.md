@@ -12,7 +12,7 @@ classes: wide
 
 Kodemaskinen kan bryde de mest almindelige koder, og den kan lave koderne til dig. Hvis du gerne vil spare tid, så tjek vores kodeoversætter.
 
-{% include kodemaskine.html %}
+{% include teambuilder/kodemaskine.html %}
 
 ## Læs mere om koder
 

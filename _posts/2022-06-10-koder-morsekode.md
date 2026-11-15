@@ -86,4 +86,4 @@ Morsekode er et værktøj, der kan bruges til at afkode morsekode. Den består a
 
 ## Ofte stillede spørgsmål
 
-{% include faq.html %}
+{% include teambuilder/faq.html %}

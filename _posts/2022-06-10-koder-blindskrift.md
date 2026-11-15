@@ -57,4 +57,4 @@ Punktskrift er et system af forhøjede prikker, som blinde og svagtseende mennes
 
 ## Ofte stillede spørgsmål
 
-{% include faq.html %}
+{% include teambuilder/faq.html %}

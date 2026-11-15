@@ -18,7 +18,7 @@ Er du interesseret i at blive klogere på din egen praksis? Kollegial supervisio
 
 Her beskriver jeg kort, hvad kollegial supervision kan bruges med udgangspunkt i vores erfaringer fra Vejle Idrætshøjskole.
 
-{% include lead-magnet-button.html title="Download rapporten" class="kollegial-supervision-rapport" %}
+{% include teambuilder/lead-magnet-button.html title="Download rapporten" class="kollegial-supervision-rapport" %}
 
 ## Hvorfor arbejde med kollegial supervision?
 
@@ -301,7 +301,7 @@ Alle kan bede om time-out undervejs i samtalen!
 
 Alle lærerne har været enige om, at det har været givtigt at være igennem et forløb med kollegial intervision.
 
-{% include lead-magnet-button.html title="Download rapporten" class="kollegial-supervision-rapport" %}
+{% include teambuilder/lead-magnet-button.html title="Download rapporten" class="kollegial-supervision-rapport" %}
 
 ### Udbytte i hovedtræk
 

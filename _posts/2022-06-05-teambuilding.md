@@ -105,7 +105,7 @@ Teambuilding er en proces, der kan hjælpe teams med at nå deres mål ved at fo
 
 ## Ofte stillede spørgsmål
 
-{% include faq.html %}
+{% include teambuilder/faq.html %}
 
 ## Bøger om teambuilding
 

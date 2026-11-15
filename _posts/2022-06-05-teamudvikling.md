@@ -151,7 +151,7 @@ Teamudvikling er en proces, der hjælper teams med at udvikle og forbedre deres 
 
 ## Ofte stillede spørgsmål
 
-{% include faq.html %}
+{% include teambuilder/faq.html %}
 
 ## Bøger om teamudvikling
 

@@ -21,4 +21,4 @@ Tak for din interesse for {{ page.title }}.
 
 Hvis du kan lide indholdet, så kan ud overveje at dele en kop kaffe med mig :)
 
-{% include buymeacoffee.html %}
+{% include teambuilder/buymeacoffee.html %}

@@ -202,4 +202,4 @@ Interessentanalyse er et vigtigt værktøj for projektledere til at forstå, hve
 
 ## Ofte stillede spørgsmål
 
-{% include faq.html %}
+{% include teambuilder/faq.html %}

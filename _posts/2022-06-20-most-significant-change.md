@@ -22,7 +22,7 @@ Som monitoreringstilgang eller form er MSC kendetegnet ved, at der ikke bruges k
 
 Som metode er MSC baseret på dialog og historiefortælling. Formålet er at facilitere forbedringer af et projekt eller en kapacitetsudviklingsproces ved at dreje arbejdet i en eksplicit værdibaseret retning (subjektiv, kvalitativ) i stedet for en log-frame-baseret retning, hvor vægten lægges på det objektive og kvantitative. Fortællingen er altså central og søger at indkredse svar på centrale spørgsmål om forandring: hvem gjorde hvad, hvornår og hvorfor – inkl. hvorfor det hændte opleves som betydningsfuldt?
 
-{% include lead-magnet-button.html title="Download rapporten" class="msc-rapport" %}
+{% include teambuilder/lead-magnet-button.html title="Download rapporten" class="msc-rapport" %}
 
 ## Hvad er Most Significant Change-metoden?
 
@@ -110,7 +110,7 @@ En light-version af MSC vil typisk bestå af følgende trin:
 
 Vi har valgt at bruge evalueringsmetoden på Vejle Idrætshøjskole, hvor det er en god måde at få eleverne til at dele de ting, som de har lagt særligt mærke til. Hvis du er interesseret i at læse mere om Most Significant Change, så kan du se hvordan vi har brugt metoden på højskolen i denne rapport.
 
-{% include lead-magnet-button.html title="Download rapporten" class="msc-rapport" %}
+{% include teambuilder/lead-magnet-button.html title="Download rapporten" class="msc-rapport" %}
 
 ## Konklusion
 

@@ -102,7 +102,7 @@ layout: default
       </section>
 
       {% assign signup = page.signup | default: site.signup.enabled %}
-      {% if signup %}{% include signup.html %}{% endif %}
+      {% if signup %}{% include teambuilder/signup.html %}{% endif %}
 
       <footer class="page__meta">
         {% if site.data.ui-text[site.locale].meta_label %}

@@ -104,7 +104,7 @@ Forbedring af teamets effektivitet kan føre til bedre teampræstationer og et m
 
 ## Ofte stillede spørgsmål
 
-{% include faq.html %}
+{% include teambuilder/faq.html %}
 
 ## Bøger om teameffiktivitet
 
